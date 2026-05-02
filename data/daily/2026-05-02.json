@@ -1,0 +1,75 @@
+{
+  "date": "2026-05-02",
+  "dateLabel": "Saturday, May 2, 2026",
+  "generatedAt": "2026-05-02T18:10:47.020Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "headline": "The Hot 'Anti-Aging Drug' Thousands Are Taking Might Actually Be Killing Your Workout Gains",
+      "body": "Rapamycin is the longevity drug that Silicon Valley can't stop talking about. It extends lifespan in animals, and biohackers everywhere have been taking it hoping to slow down aging. Sounds great, right? But a brand new clinical trial just threw some cold water on that plan. Researchers ran a 13-week randomized controlled trial published in the Journal of Cachexia, Sarcopenia and Muscle, giving older adults either rapamycin or a placebo while they followed the same exercise program. Both groups got stronger, but the rapamycin group consistently came out behind. They did fewer chair stand repetitions, walked shorter distances, and showed weaker grip strength compared to the placebo group. The drug appears to interfere with the same biological pathway your muscles need to adapt and grow from training. The researchers also flagged more side effects, including one case of pneumonia, in the rapamycin group. The bottom line? Exercise is still the most validated longevity tool we have, and this study suggests that pricey drug shortcuts might actually work against it.",
+      "takeaway": "Before adding any longevity supplement or drug to your routine, talk to your doctor, and remember that consistent exercise is still the most proven investment in a longer, stronger life.",
+      "pexelsQuery": "medicine pills bottle closeup",
+      "source": "Journal of Cachexia, Sarcopenia and Muscle (via The Washington Post)",
+      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/04/29/rapamycin-exercise-study/",
+      "photo": {
+        "url": "https://images.pexels.com/photos/16051948/pexels-photo-16051948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/16051948/pexels-photo-16051948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Etatics Inc.",
+        "photographerUrl": "https://www.pexels.com/@etatics-inc-252430999",
+        "photoPageUrl": "https://www.pexels.com/photo/pills-in-vial-16051948/",
+        "avgColor": "#BEB7A4"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "headline": "Sleep Beats Diet AND Exercise for How Long You Live, New Study Confirms",
+      "body": "If you had to pick one thing to fix first, diet, exercise, or sleep, a new study from Oregon Health and Science University says the answer is sleep. Researchers analyzed a massive national database, comparing life expectancy across hundreds of U.S. counties with CDC survey data collected from 2019 through 2025. When they ranked the lifestyle behaviors most tied to how long people live, sleep came out on top of the list, beating diet, physical activity, and social isolation. Only smoking ranked higher as a risk factor. The lead researcher admitted he was surprised by just how strongly sleep duration tracked with lifespan. The sweet spot, according to the findings published in SLEEP Advances, is seven to nine hours a night. Consistently sleeping less than seven hours was clearly linked to a shorter life. For busy parents running on five or six hours, this is a real wake-up call. You can eat clean and train hard, but if sleep is the last thing on your priority list, you may be leaving your biggest longevity lever on the table.",
+      "takeaway": "Aim for at least seven hours tonight, because no workout or salad can fully compensate for chronic short sleep.",
+      "pexelsQuery": "person sleeping bed",
+      "source": "SLEEP Advances, Oregon Health and Science University (via SciTechDaily)",
+      "sourceUrl": "https://scitechdaily.com/sleep-may-matter-more-than-diet-or-exercise-for-how-long-you-live/",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6443374/pexels-photo-6443374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6443374/pexels-photo-6443374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-a-bed-6443374/",
+        "avgColor": "#CEC7C5"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "headline": "The Exact Olive Oil You Buy at the Store Could Be Slowly Protecting (or Hurting) Your Brain",
+      "body": "Not all olive oil is the same, and a new two-year study published in the journal Microbiome just made that distinction matter a whole lot more. Researchers from Universitat Rovira i Virgili in Spain tracked 656 adults between ages 55 and 75, testing their memory, attention, and problem-solving over time while monitoring their diet and gut bacteria. The people who regularly used extra virgin olive oil showed better cognitive performance and a more diverse gut microbiome. The people using refined olive oil, the cheaper, processed kind, saw their gut diversity decline over time. Researchers even identified a specific strain of gut bacteria, called Adlercreutzia, that appears to be the link between the oil and brain protection. The mechanism is your gut-brain axis, basically the communication highway between your digestive system and your mind. Refined olive oil gets stripped of its natural polyphenols and antioxidants during processing, gutting the very compounds your gut bacteria need. This is the first human study to specifically map out how olive oil type shapes both gut health and brain function at the same time.",
+      "takeaway": "Swap any refined or light olive oil in your kitchen for extra virgin olive oil, and make it your default cooking fat starting today.",
+      "pexelsQuery": "olive oil pouring glass",
+      "source": "Microbiome journal, Universitat Rovira i Virgili (via ScienceDaily)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/10054918/pexels-photo-10054918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10054918/pexels-photo-10054918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/olive-oil-pepper-mill-and-tomatoes-10054918/",
+        "avgColor": "#B7B6BB"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "headline": "Moving Every Day Beats the 'Weekend Warrior' Approach for Deep, Restorative Sleep",
+      "body": "A lot of us try to cram all our exercise into Saturday and Sunday. Life is busy, and it feels efficient. But a study from the University of Texas at Austin published in the Journal of Physical Activity and Health suggests that approach has a real downside, at least for your sleep. Researchers had students wear Fitbits for months, tracking both activity and sleep patterns continuously. Unlike older studies that only looked at total exercise time, this one focused on how often people moved. The finding was clear: people who exercised more frequently, ideally every day, got significantly more deep, restorative sleep. That is the slow-wave sleep that happens early in the night, when your body does most of its physical and mental repair. Even better news, you do not need to run a marathon. As little as 10 minutes of moderate activity per day made a measurable difference. Light activity counted too. For a parent or professional juggling a packed schedule, this reframes the question from 'how long should I work out' to 'can I just move a little bit today?'",
+      "takeaway": "Commit to at least 10 minutes of movement every single day, even a brisk walk, because daily frequency does more for your sleep and recovery than one long weekend session.",
+      "pexelsQuery": "person walking outdoor path",
+      "source": "Journal of Physical Activity and Health, University of Texas at Austin",
+      "sourceUrl": "https://news.utexas.edu/2025/07/14/daily-exercise-may-be-key-to-better-sleep-new-study-finds/",
+      "photo": {
+        "url": "https://images.pexels.com/photos/28866766/pexels-photo-28866766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/28866766/pexels-photo-28866766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Dadai Dominguez",
+        "photographerUrl": "https://www.pexels.com/@dadai-dominguez-1903736075",
+        "photoPageUrl": "https://www.pexels.com/photo/black-and-white-urban-park-walkway-scene-28866766/",
+        "avgColor": "#A9A9A9"
+      }
+    }
+  ]
+}
