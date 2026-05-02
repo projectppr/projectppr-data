@@ -1,74 +1,74 @@
 {
   "date": "2026-05-02",
   "dateLabel": "Saturday, May 2, 2026",
-  "generatedAt": "2026-05-02T18:10:47.020Z",
+  "generatedAt": "2026-05-02T18:52:12.945Z",
   "articles": [
     {
       "category": "LONGEVITY",
-      "headline": "The Hot 'Anti-Aging Drug' Thousands Are Taking Might Actually Be Killing Your Workout Gains",
-      "body": "Rapamycin is the longevity drug that Silicon Valley can't stop talking about. It extends lifespan in animals, and biohackers everywhere have been taking it hoping to slow down aging. Sounds great, right? But a brand new clinical trial just threw some cold water on that plan. Researchers ran a 13-week randomized controlled trial published in the Journal of Cachexia, Sarcopenia and Muscle, giving older adults either rapamycin or a placebo while they followed the same exercise program. Both groups got stronger, but the rapamycin group consistently came out behind. They did fewer chair stand repetitions, walked shorter distances, and showed weaker grip strength compared to the placebo group. The drug appears to interfere with the same biological pathway your muscles need to adapt and grow from training. The researchers also flagged more side effects, including one case of pneumonia, in the rapamycin group. The bottom line? Exercise is still the most validated longevity tool we have, and this study suggests that pricey drug shortcuts might actually work against it.",
-      "takeaway": "Before adding any longevity supplement or drug to your routine, talk to your doctor, and remember that consistent exercise is still the most proven investment in a longer, stronger life.",
-      "pexelsQuery": "medicine pills bottle closeup",
-      "source": "Journal of Cachexia, Sarcopenia and Muscle (via The Washington Post)",
-      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/04/29/rapamycin-exercise-study/",
+      "headline": "Science Just Rewrote the Rules on How Long You'll Live",
+      "body": "You've probably heard that only about 20% of your lifespan is written in your genes. Turns out that number was way off. A new study published in the journal Science by researchers at the Weizmann Institute found that genetics actually accounts for about 50% of how long we live. That's double what scientists believed for decades. The old estimate was based on people born in the 1800s, when accidents and infections killed a lot of people young. Strip out those external causes of death, and your DNA matters a whole lot more. The good news: the other half is still yours to shape.",
+      "takeaway": "You can't outrun your genes, but you can stack the odds in your favor with the habits you build right now.",
+      "pexelsQuery": "DNA helix science laboratory",
+      "source": "Science (Weizmann Institute of Science)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260411022047.htm",
       "photo": {
-        "url": "https://images.pexels.com/photos/16051948/pexels-photo-16051948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/16051948/pexels-photo-16051948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Etatics Inc.",
-        "photographerUrl": "https://www.pexels.com/@etatics-inc-252430999",
-        "photoPageUrl": "https://www.pexels.com/photo/pills-in-vial-16051948/",
-        "avgColor": "#BEB7A4"
-      }
-    },
-    {
-      "category": "SLEEP",
-      "headline": "Sleep Beats Diet AND Exercise for How Long You Live, New Study Confirms",
-      "body": "If you had to pick one thing to fix first, diet, exercise, or sleep, a new study from Oregon Health and Science University says the answer is sleep. Researchers analyzed a massive national database, comparing life expectancy across hundreds of U.S. counties with CDC survey data collected from 2019 through 2025. When they ranked the lifestyle behaviors most tied to how long people live, sleep came out on top of the list, beating diet, physical activity, and social isolation. Only smoking ranked higher as a risk factor. The lead researcher admitted he was surprised by just how strongly sleep duration tracked with lifespan. The sweet spot, according to the findings published in SLEEP Advances, is seven to nine hours a night. Consistently sleeping less than seven hours was clearly linked to a shorter life. For busy parents running on five or six hours, this is a real wake-up call. You can eat clean and train hard, but if sleep is the last thing on your priority list, you may be leaving your biggest longevity lever on the table.",
-      "takeaway": "Aim for at least seven hours tonight, because no workout or salad can fully compensate for chronic short sleep.",
-      "pexelsQuery": "person sleeping bed",
-      "source": "SLEEP Advances, Oregon Health and Science University (via SciTechDaily)",
-      "sourceUrl": "https://scitechdaily.com/sleep-may-matter-more-than-diet-or-exercise-for-how-long-you-live/",
-      "photo": {
-        "url": "https://images.pexels.com/photos/6443374/pexels-photo-6443374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6443374/pexels-photo-6443374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Pavel Danilyuk",
-        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-a-bed-6443374/",
-        "avgColor": "#CEC7C5"
-      }
-    },
-    {
-      "category": "NUTRITION",
-      "headline": "The Exact Olive Oil You Buy at the Store Could Be Slowly Protecting (or Hurting) Your Brain",
-      "body": "Not all olive oil is the same, and a new two-year study published in the journal Microbiome just made that distinction matter a whole lot more. Researchers from Universitat Rovira i Virgili in Spain tracked 656 adults between ages 55 and 75, testing their memory, attention, and problem-solving over time while monitoring their diet and gut bacteria. The people who regularly used extra virgin olive oil showed better cognitive performance and a more diverse gut microbiome. The people using refined olive oil, the cheaper, processed kind, saw their gut diversity decline over time. Researchers even identified a specific strain of gut bacteria, called Adlercreutzia, that appears to be the link between the oil and brain protection. The mechanism is your gut-brain axis, basically the communication highway between your digestive system and your mind. Refined olive oil gets stripped of its natural polyphenols and antioxidants during processing, gutting the very compounds your gut bacteria need. This is the first human study to specifically map out how olive oil type shapes both gut health and brain function at the same time.",
-      "takeaway": "Swap any refined or light olive oil in your kitchen for extra virgin olive oil, and make it your default cooking fat starting today.",
-      "pexelsQuery": "olive oil pouring glass",
-      "source": "Microbiome journal, Universitat Rovira i Virgili (via ScienceDaily)",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
-      "photo": {
-        "url": "https://images.pexels.com/photos/10054918/pexels-photo-10054918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/10054918/pexels-photo-10054918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ron Lach",
-        "photographerUrl": "https://www.pexels.com/@ron-lach",
-        "photoPageUrl": "https://www.pexels.com/photo/olive-oil-pepper-mill-and-tomatoes-10054918/",
-        "avgColor": "#B7B6BB"
+        "url": "https://images.pexels.com/photos/35967917/pexels-photo-35967917.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/35967917/pexels-photo-35967917.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nicola Narracci",
+        "photographerUrl": "https://www.pexels.com/@nicola-narracci-157460431",
+        "photoPageUrl": "https://www.pexels.com/photo/abstract-visual-representation-of-dna-helix-35967917/",
+        "avgColor": "#090913"
       }
     },
     {
       "category": "TRAINING",
-      "headline": "Moving Every Day Beats the 'Weekend Warrior' Approach for Deep, Restorative Sleep",
-      "body": "A lot of us try to cram all our exercise into Saturday and Sunday. Life is busy, and it feels efficient. But a study from the University of Texas at Austin published in the Journal of Physical Activity and Health suggests that approach has a real downside, at least for your sleep. Researchers had students wear Fitbits for months, tracking both activity and sleep patterns continuously. Unlike older studies that only looked at total exercise time, this one focused on how often people moved. The finding was clear: people who exercised more frequently, ideally every day, got significantly more deep, restorative sleep. That is the slow-wave sleep that happens early in the night, when your body does most of its physical and mental repair. Even better news, you do not need to run a marathon. As little as 10 minutes of moderate activity per day made a measurable difference. Light activity counted too. For a parent or professional juggling a packed schedule, this reframes the question from 'how long should I work out' to 'can I just move a little bit today?'",
-      "takeaway": "Commit to at least 10 minutes of movement every single day, even a brisk walk, because daily frequency does more for your sleep and recovery than one long weekend session.",
-      "pexelsQuery": "person walking outdoor path",
-      "source": "Journal of Physical Activity and Health, University of Texas at Austin",
-      "sourceUrl": "https://news.utexas.edu/2025/07/14/daily-exercise-may-be-key-to-better-sleep-new-study-finds/",
+      "headline": "The Trendy 'Longevity Drug' That's Quietly Killing Your Workout Gains",
+      "body": "Rapamycin is the hot longevity drug thousands of people are taking off-label to live longer. The problem? A new clinical trial called RAPA-EX-01, published in the Journal of Cachexia, Sarcopenia and Muscle, just found it may be working against your workouts. Older adults taking rapamycin weekly alongside an exercise program gained less functional strength than the group doing the same workouts with a placebo. Both groups improved, but the drug group averaged about two fewer chair-stand reps at 13 weeks. The drug blocks a pathway your muscles need to grow and get stronger. Great if you want to live longer. Not great if you also want to stay capable.",
+      "takeaway": "Before adding any longevity supplement or drug to your routine, ask how it interacts with your training. Exercise is still the best anti-aging tool we have.",
+      "pexelsQuery": "white capsule pills hand closeup",
+      "source": "Journal of Cachexia, Sarcopenia and Muscle",
+      "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/jcsm.70274",
       "photo": {
-        "url": "https://images.pexels.com/photos/28866766/pexels-photo-28866766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/28866766/pexels-photo-28866766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Dadai Dominguez",
-        "photographerUrl": "https://www.pexels.com/@dadai-dominguez-1903736075",
-        "photoPageUrl": "https://www.pexels.com/photo/black-and-white-urban-park-walkway-scene-28866766/",
-        "avgColor": "#A9A9A9"
+        "url": "https://images.pexels.com/photos/11200116/pexels-photo-11200116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11200116/pexels-photo-11200116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/hands-holding-pills-and-box-11200116/",
+        "avgColor": "#81B5C3"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "headline": "Bad Sleep Isn't Just Making You Tired. It Might Be Aging Your Brain.",
+      "body": "If you're brushing off your sleep struggles as just a busy-parent thing, this one's for you. A study published in the journal Neurology followed nearly 2,800 adults for six years and found that people with chronic insomnia were 40% more likely to develop memory problems or early dementia. People who slept less than usual due to insomnia showed cognitive scores equivalent to being four years older right from the start of the study. One in nine adults has chronic insomnia. Sleep isn't a luxury you'll catch up on someday. It's the most underrated performance tool you have.",
+      "takeaway": "If you're struggling to sleep at least three nights a week, treat it like the health priority it is, not just a lifestyle inconvenience.",
+      "pexelsQuery": "person sleeping bed night",
+      "source": "Neurology (reported via Baptist Health)",
+      "sourceUrl": "https://baptisthealth.net/baptist-health-news/chronic-insomnia-may-accelerate-cognitive-decline-and-brain-aging",
+      "photo": {
+        "url": "https://images.pexels.com/photos/10387705/pexels-photo-10387705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10387705/pexels-photo-10387705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/teenage-boy-sleeping-10387705/",
+        "avgColor": "#102B36"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "headline": "Your Fish Oil Supplement Might Not Be as Brain-Safe as You Think",
+      "body": "Fish oil is practically a wellness staple. But a new study out of the Medical University of South Carolina, published in Cell Reports, is pumping the brakes on one of its key ingredients. Researchers found that EPA, one of the main omega-3s in most fish oil supplements, may actually interfere with the brain's ability to repair itself after injury. In their models, higher EPA levels in the brain were linked to weaker repair and worse memory after mild head trauma. The other main omega-3, DHA, showed none of those effects. This doesn't mean toss your fish oil. It means the source and type of omega-3 you take matters more than you thought.",
+      "takeaway": "Look for fish oil supplements higher in DHA than EPA, and if you play contact sports or have had head injuries, talk to your doctor before dosing up on EPA-heavy blends.",
+      "pexelsQuery": "fish oil capsules wooden spoon",
+      "source": "Cell Reports (Medical University of South Carolina)",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-widespread-belief-fish-oil-effects.html",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7615561/pexels-photo-7615561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7615561/pexels-photo-7615561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nataliya Vaitkevich",
+        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
+        "photoPageUrl": "https://www.pexels.com/photo/stainless-steel-teaspoon-beside-brown-powder-and-capsules-7615561/",
+        "avgColor": "#789A79"
       }
     }
   ]
