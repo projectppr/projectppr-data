@@ -1,74 +1,135 @@
 {
   "date": "2026-05-03",
   "dateLabel": "Sunday, May 3, 2026",
-  "generatedAt": "2026-05-03T03:46:39.492Z",
+  "generatedAt": "2026-05-03T20:59:34.154Z",
   "articles": [
     {
-      "category": "LONGEVITY",
-      "headline": "The 'Longevity Drug' Everyone's Talking About Just Failed Its First Real Test",
-      "body": "Rapamycin is the darling of the longevity crowd. People are taking it off-label hoping it extends their lives, just like it does in mice. But a brand-new clinical trial published in the Journal of Cachexia, Sarcopenia and Muscle just threw cold water on the hype. Older adults who took rapamycin weekly while doing an exercise program actually gained LESS strength and function than people taking a placebo. Across every single measure, the placebo group came out ahead. One person in the rapamycin group even developed pneumonia. The bottom line: exercise alone still wins.",
-      "takeaway": "Skip the unproven pills and put that energy into your workout instead.",
-      "pexelsQuery": "prescription pill bottle white background",
-      "source": "The Washington Post",
-      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/04/29/rapamycin-exercise-study/",
+      "category": "SLEEP",
+      "headline": "Your Deep Sleep Is a Hormone Factory. Here's What Happens When You Skip It.",
+      "body": "UC Berkeley scientists just mapped the exact brain circuit that controls growth hormone release during sleep. Published in Cell, the study shows deep, early-night sleep is when your body gets its biggest repair signal. That hormone builds muscle, burns fat, and keeps your brain sharp. Miss that window and output drops fast. In adults, low growth hormone is linked to weight gain, slower recovery, and higher risk of metabolic disease. The biggest pulse happens in the first two to three hours after you fall asleep. Alcohol before bed, a warm room, or a drifting bedtime all disrupt the circuit.",
+      "takeaway": "Lock in a consistent bedtime and keep your room cool so your body can actually do its overnight repair work.",
+      "pexelsQuery": "person sleeping dark bedroom",
+      "source": "ScienceDaily / UC Berkeley",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/11931275/pexels-photo-11931275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/11931275/pexels-photo-11931275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Towfiqu barbhuiya",
-        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
-        "photoPageUrl": "https://www.pexels.com/photo/a-person-reaching-for-a-bottle-of-medicine-11931275/",
-        "avgColor": "#D9BBC3"
+        "url": "https://images.pexels.com/photos/6944002/pexels-photo-6944002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6944002/pexels-photo-6944002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-lying-on-bed-6944002/",
+        "avgColor": "#39260C"
       }
     },
     {
       "category": "MENTAL PERFORMANCE",
-      "headline": "Moving Every Single Day Might Be the Cheapest Brain Insurance You Can Buy",
-      "body": "A massive new meta-analysis from York University, published in PLOS One this April, looked at 69 long-term studies covering millions of adults starting at age 35. The verdict is pretty striking. Regular physical activity was linked to a 25% lower risk of dementia. Sitting more than 8 hours a day bumped risk up by 27%. And sleeping the wrong amount, either under 7 or over 8 hours, raised dementia risk by 18 to 28%. These aren't exotic interventions. They're your daily habits, starting right now.",
-      "takeaway": "Aim for 7 to 8 hours of sleep, break up your sitting, and move your body every day.",
-      "pexelsQuery": "person walking park morning",
-      "source": "PLOS One via EurekAlert",
-      "sourceUrl": "https://www.eurekalert.org/news-releases/1122298",
+      "headline": "Creatine Isn't Just for Your Muscles. New Research Says It Protects Your Brain Too.",
+      "body": "A new study published in Nutrients found that a single dose of creatine improved cognitive performance by 12% during 21 hours of sleep deprivation. Researchers in Germany tested logical reasoning, language processing, and mental vigilance. Creatine won across the board. The thinking is that sleep-deprived brain cells are under stress, and that stress actually helps creatine get absorbed faster into the brain. For anyone running on four hours of sleep while managing work and kids, this is worth knowing. Creatine is already safe, cheap, and well-studied for physical performance.",
+      "takeaway": "If you're not already taking creatine daily, this is one more very good reason to start.",
+      "pexelsQuery": "white powder supplement scoop",
+      "source": "NutraIngredients",
+      "sourceUrl": "https://www.nutraingredients.com/Article/2026/04/21/single-dose-creatine-may-support-cognition-in-sleep-deprivation-study/",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/36579367/pexels-photo-36579367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/36579367/pexels-photo-36579367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "David Kanigan",
-        "photographerUrl": "https://www.pexels.com/@david-kanigan-239927285",
-        "photoPageUrl": "https://www.pexels.com/photo/morning-walk-at-cove-island-park-stamford-36579367/",
-        "avgColor": "#806B58"
+        "url": "https://images.pexels.com/photos/7615618/pexels-photo-7615618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7615618/pexels-photo-7615618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nataliya Vaitkevich",
+        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
+        "photoPageUrl": "https://www.pexels.com/photo/ginkgo-leaves-and-a-strainer-7615618/",
+        "avgColor": "#D4DAD2"
       }
     },
     {
-      "category": "SLEEP",
-      "headline": "Sleep Beats Diet and Exercise for Life Expectancy. Yes, Really.",
-      "body": "Oregon Health and Science University just dropped a study in the journal SLEEP Advances that should stop you mid-scroll. Researchers analyzed CDC survey data across every county in the US and found that sleep duration predicted life expectancy more strongly than diet, physical activity, or social isolation. Not just on par. More. The researchers said they were genuinely surprised by how powerfully sleep tracked with how long people live. If you're optimizing your nutrition and training but cutting sleep to get it all done, you're playing the wrong game.",
-      "takeaway": "Protecting your sleep isn't laziness. It might be the single highest-return health habit you have.",
-      "pexelsQuery": "person sleeping white bed sheets",
-      "source": "ScienceDaily, Oregon Health and Science University",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260108231414.htm",
+      "category": "TRAINING",
+      "headline": "Your Brain Is Running Your Endurance. Science Just Proved It.",
+      "body": "A new UT Southwestern study published in Neuron found that neurons in the brain, not just the heart or muscles, are what drive endurance improvements from exercise. Researchers identified a specific group of cells in the hypothalamus that become more active as training continues, forming a kind of memory of past workouts. When those neurons were blocked in mice, endurance gains stopped completely. When they were activated, gains kept coming even past the normal plateau. Most people credit their lungs and legs for fitness. Turns out the brain is running the show.",
+      "takeaway": "Consistency matters more than intensity. Every session is training your brain to expect more, so showing up regularly is the actual work.",
+      "pexelsQuery": "person running treadmill gym",
+      "source": "UT Southwestern Medical Center",
+      "sourceUrl": "https://www.utsouthwestern.edu/newsroom/articles/year-2026/april-brain-cells-boost-endurance.html",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/7927094/pexels-photo-7927094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7927094/pexels-photo-7927094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Nicola Barts",
-        "photographerUrl": "https://www.pexels.com/@nicola-barts",
-        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-bald-man-sleeping-on-bed-7927094/",
-        "avgColor": "#717D93"
+        "url": "https://images.pexels.com/photos/5327557/pexels-photo-5327557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5327557/pexels-photo-5327557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-black-tank-top-using-a-treadmill-5327557/",
+        "avgColor": "#302B29"
       }
     },
     {
-      "category": "RECOVERY",
-      "headline": "The Cold Plunge Debate Is Settled. Here Is What the Science Actually Says.",
-      "body": "A deep-dive analysis published in April by Medical Xpress reviewed what the recovery science actually supports. The short version: cold water immersion has real, robust evidence behind it for reducing soreness and speeding up muscle recovery after hard training. But the expensive stuff, red light panels, compression boots, hyperbaric chambers, shows limited or modest benefits, often driven more by marketing than physiology. The fundamentals, sleep, food, water, and rest between sessions, remain the most effective and accessible recovery tools on the planet. No membership required.",
-      "takeaway": "A cold shower after a hard workout has more science behind it than most recovery gadgets combined.",
-      "pexelsQuery": "ice bath cold water tub",
-      "source": "Medical Xpress",
-      "sourceUrl": "https://medicalxpress.com/news/2026-04-biohacks-basics-recovery.html",
+      "category": "LONGEVITY",
+      "headline": "Exercise Doesn't Just Make You Fit. It Makes You Biologically Younger.",
+      "body": "A review published April 29 in The Lancet Healthy Longevity found that higher physical activity is significantly linked to lower biological age, measured by epigenetic clocks that track how fast your cells are actually aging. Your calendar age and your biological age are two different numbers. Exercise appears to move the second one backward. The effect showed up consistently across multiple aging markers. Researchers say the data is strong enough that physical activity may actually change how fast you age at the cellular level, not just how you feel.",
+      "takeaway": "You don't need a longevity drug. Regular movement is still the most evidence-backed tool for slowing biological aging.",
+      "pexelsQuery": "older adult walking park outdoor",
+      "source": "The Lancet Healthy Longevity",
+      "sourceUrl": "https://www.thelancet.com/journals/lanhl/home",
       "photo": {
-        "url": "https://images.pexels.com/photos/4672523/pexels-photo-4672523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4672523/pexels-photo-4672523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "KATRIN  BOLOVTSOVA",
-        "photographerUrl": "https://www.pexels.com/@ekaterina-bolovtsova",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-green-bikini-4672523/",
-        "avgColor": "#D4CFC9"
+        "url": "https://images.pexels.com/photos/36478487/pexels-photo-36478487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/36478487/pexels-photo-36478487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "pierre matile",
+        "photographerUrl": "https://www.pexels.com/@open-borders",
+        "photoPageUrl": "https://www.pexels.com/photo/black-and-white-street-scene-in-catania-park-36478487/",
+        "avgColor": "#7B7B7B"
       }
     }
   ]
