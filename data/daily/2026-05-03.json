@@ -1,0 +1,75 @@
+{
+  "date": "2026-05-03",
+  "dateLabel": "Sunday, May 3, 2026",
+  "generatedAt": "2026-05-03T03:46:39.492Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "headline": "The 'Longevity Drug' Everyone's Talking About Just Failed Its First Real Test",
+      "body": "Rapamycin is the darling of the longevity crowd. People are taking it off-label hoping it extends their lives, just like it does in mice. But a brand-new clinical trial published in the Journal of Cachexia, Sarcopenia and Muscle just threw cold water on the hype. Older adults who took rapamycin weekly while doing an exercise program actually gained LESS strength and function than people taking a placebo. Across every single measure, the placebo group came out ahead. One person in the rapamycin group even developed pneumonia. The bottom line: exercise alone still wins.",
+      "takeaway": "Skip the unproven pills and put that energy into your workout instead.",
+      "pexelsQuery": "prescription pill bottle white background",
+      "source": "The Washington Post",
+      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/04/29/rapamycin-exercise-study/",
+      "photo": {
+        "url": "https://images.pexels.com/photos/11931275/pexels-photo-11931275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11931275/pexels-photo-11931275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-reaching-for-a-bottle-of-medicine-11931275/",
+        "avgColor": "#D9BBC3"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "headline": "Moving Every Single Day Might Be the Cheapest Brain Insurance You Can Buy",
+      "body": "A massive new meta-analysis from York University, published in PLOS One this April, looked at 69 long-term studies covering millions of adults starting at age 35. The verdict is pretty striking. Regular physical activity was linked to a 25% lower risk of dementia. Sitting more than 8 hours a day bumped risk up by 27%. And sleeping the wrong amount, either under 7 or over 8 hours, raised dementia risk by 18 to 28%. These aren't exotic interventions. They're your daily habits, starting right now.",
+      "takeaway": "Aim for 7 to 8 hours of sleep, break up your sitting, and move your body every day.",
+      "pexelsQuery": "person walking park morning",
+      "source": "PLOS One via EurekAlert",
+      "sourceUrl": "https://www.eurekalert.org/news-releases/1122298",
+      "photo": {
+        "url": "https://images.pexels.com/photos/36579367/pexels-photo-36579367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/36579367/pexels-photo-36579367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "David Kanigan",
+        "photographerUrl": "https://www.pexels.com/@david-kanigan-239927285",
+        "photoPageUrl": "https://www.pexels.com/photo/morning-walk-at-cove-island-park-stamford-36579367/",
+        "avgColor": "#806B58"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "headline": "Sleep Beats Diet and Exercise for Life Expectancy. Yes, Really.",
+      "body": "Oregon Health and Science University just dropped a study in the journal SLEEP Advances that should stop you mid-scroll. Researchers analyzed CDC survey data across every county in the US and found that sleep duration predicted life expectancy more strongly than diet, physical activity, or social isolation. Not just on par. More. The researchers said they were genuinely surprised by how powerfully sleep tracked with how long people live. If you're optimizing your nutrition and training but cutting sleep to get it all done, you're playing the wrong game.",
+      "takeaway": "Protecting your sleep isn't laziness. It might be the single highest-return health habit you have.",
+      "pexelsQuery": "person sleeping white bed sheets",
+      "source": "ScienceDaily, Oregon Health and Science University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260108231414.htm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7927094/pexels-photo-7927094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7927094/pexels-photo-7927094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nicola Barts",
+        "photographerUrl": "https://www.pexels.com/@nicola-barts",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-bald-man-sleeping-on-bed-7927094/",
+        "avgColor": "#717D93"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "headline": "The Cold Plunge Debate Is Settled. Here Is What the Science Actually Says.",
+      "body": "A deep-dive analysis published in April by Medical Xpress reviewed what the recovery science actually supports. The short version: cold water immersion has real, robust evidence behind it for reducing soreness and speeding up muscle recovery after hard training. But the expensive stuff, red light panels, compression boots, hyperbaric chambers, shows limited or modest benefits, often driven more by marketing than physiology. The fundamentals, sleep, food, water, and rest between sessions, remain the most effective and accessible recovery tools on the planet. No membership required.",
+      "takeaway": "A cold shower after a hard workout has more science behind it than most recovery gadgets combined.",
+      "pexelsQuery": "ice bath cold water tub",
+      "source": "Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-biohacks-basics-recovery.html",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4672523/pexels-photo-4672523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4672523/pexels-photo-4672523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "KATRIN  BOLOVTSOVA",
+        "photographerUrl": "https://www.pexels.com/@ekaterina-bolovtsova",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-green-bikini-4672523/",
+        "avgColor": "#D4CFC9"
+      }
+    }
+  ]
+}
