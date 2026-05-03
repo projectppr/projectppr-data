@@ -1,15 +1,16 @@
 {
   "date": "2026-05-03",
   "dateLabel": "Sunday, May 3, 2026",
-  "generatedAt": "2026-05-03T21:29:40.132Z",
+  "generatedAt": "2026-05-03T21:37:09.187Z",
   "articles": [
     {
+      "id": "article-1",
       "category": "LONGEVITY",
-      "headline": "The Organ Nobody Talks About Could Predict How Long You Live",
-      "body": "You probably haven't thought much about your thymus. Doctors haven't either. But a Harvard-led study just changed that. Researchers used AI to scan the thymus glands of over 27,000 adults and found that people with a healthier thymus had roughly 50 percent lower risk of death and a 63 percent lower risk of dying from heart disease. The thymus trains your immune T-cells. It shrinks with age, and so does your defenses. Here's what matters to you right now: chronic inflammation, smoking, and high body weight are all linked to a weaker thymus. The levers you already have are the ones that matter most.",
-      "takeaway": "Reduce inflammation and maintain a healthy weight. Your immune system's control center is counting on it.",
-      "pexelsQuery": "chest x-ray scan hospital",
-      "source": "Harvard Gazette / Nature",
+      "headline": "The Organ Science Just Stopped Ignoring (And It Affects How Long You Live)",
+      "body": "There is a small organ behind your breastbone called the thymus. Doctors wrote it off decades ago. Big mistake. Harvard researchers used AI to analyze CT scans from over 25,000 adults and found that people with a healthier thymus had roughly 50 percent lower risk of death, a 63 percent lower risk of dying from heart disease, and a 36 percent lower risk of developing lung cancer. The thymus trains your immune T-cells, and it turns out it keeps working well into adulthood. Chronic inflammation and high body weight are both linked to poorer thymic health. Two studies. Both published in Nature. Hard to ignore.",
+      "takeaway": "Keep inflammation low and body weight in check. It protects more than you think.",
+      "pexelsQuery": "chest x-ray scan medical",
+      "source": "Harvard Gazette / Mass General Brigham",
       "url": "https://news.harvard.edu/gazette/story/2026/03/thymus-may-be-critical-to-adult-health/",
       "photo": {
         "url": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -21,10 +22,11 @@
       }
     },
     {
+      "id": "article-2",
       "category": "SLEEP",
-      "headline": "Your Deep Sleep Is a Free Muscle-Building, Fat-Burning Machine",
-      "body": "New UC Berkeley research published in the journal Cell mapped out exactly how the brain controls growth hormone during sleep, and the findings should make you take bedtime a lot more seriously. During deep sleep, specialized neurons in your hypothalamus flood your body with growth hormone, which builds muscle, strengthens bone, and burns fat. Skimp on sleep and that hormone surge drops sharply. The same system also affects how alert and focused you feel the next day. This is not a passive rest process. Your body is actively rebuilding itself every single night, but only if you give it enough time to do it.",
-      "takeaway": "Aim for 7 to 9 uninterrupted hours. Quality deep sleep is your cheapest recovery tool.",
+      "headline": "Deep Sleep Is Secretly Your Best Gym Session",
+      "body": "UC Berkeley researchers just cracked something big. They mapped the brain circuits that control growth hormone release during sleep and found that deep, non-REM sleep triggers a powerful hormone surge that builds muscle, burns fat, strengthens bones, and sharpens mental focus. Cut that deep sleep short and growth hormone drops. The researchers also found a feedback loop where growth hormone nudges the brain toward waking, which means the balance is delicate. Skimp on sleep and you are not just tired. You are actively short-changing your recovery, your metabolism, and your brain clarity the next day.",
+      "takeaway": "Prioritize deep sleep like a training session. It is literally where your gains are made.",
       "pexelsQuery": "person sleeping bed night",
       "source": "ScienceDaily / UC Berkeley",
       "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
@@ -57,87 +59,110 @@
       }
     },
     {
-      "category": "NUTRITION",
-      "headline": "Eating Well After 45 Can Buy You Up to 3 Extra Years",
-      "body": "New research in Science Advances tracked over 103,000 adults from the UK Biobank for more than a decade. The finding: people who followed the healthiest eating patterns at age 45 lived up to 3 years longer than those with the worst diets. The five dietary patterns studied all shared common ground, whole foods, fiber, vegetables, lean proteins, and less processed junk. The kicker? Your genetics barely mattered. Whether you have the so-called longevity genes or not, what you eat still has a bigger impact on how long you live. It is never too late to upgrade your plate.",
-      "takeaway": "You don't need to overhaul everything. Swap one ultra-processed meal per day for a whole-food option and start stacking the odds.",
-      "pexelsQuery": "healthy meal vegetables plate",
-      "source": "Science Advances / News-Medical",
-      "url": "https://www.news-medical.net/news/20260216/Healthy-diets-link-to-longer-life-regardless-of-longevity-genes-large-study-finds.aspx",
+      "id": "article-3",
+      "category": "TRAINING",
+      "headline": "Structured Workouts Beat Random Movement for Better Sleep",
+      "body": "A large-scale study of over 700,000 Japanese adults found that starting a structured exercise routine was linked to 37 percent higher odds of better sleep quality. Planned, intentional workouts had a far stronger effect than general daily movement like step counts. Maintaining an existing exercise habit still gave a 23 percent sleep boost even for people who were already active but sleeping poorly. The mechanism is real: regular structured exercise regulates your stress hormones and helps your brain downshift into restorative sleep. The weekend warrior approach does not cut it here. Frequency and intention matter.",
+      "takeaway": "Schedule your workouts like meetings. Consistency is the actual sleep supplement.",
+      "pexelsQuery": "person running outdoors morning",
+      "source": "NaturalNews / Japanese cohort study",
+      "url": "https://www.naturalnews.com/2026-04-24-structured-exercise-routine-linked-to-improved-sleep-quality.html",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/9218779/pexels-photo-9218779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/9218779/pexels-photo-9218779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Loren Castillo",
-        "photographerUrl": "https://www.pexels.com/@lorencastillo",
-        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-dish-on-a-plate-9218779/",
-        "avgColor": "#88958E"
+        "url": "https://images.pexels.com/photos/3764558/pexels-photo-3764558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3764558/pexels-photo-3764558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-woman-listening-to-music-on-earphones-jogging-down-a-paved-street-3764558/",
+        "avgColor": "#9B938C"
       }
     },
     {
-      "category": "MENTAL PERFORMANCE",
-      "headline": "Exercise Works as Well as Therapy for Depression. Science Just Confirmed It Again.",
-      "body": "An updated Cochrane review, the gold standard of medical evidence, analyzed 73 randomized trials with nearly 5,000 adults and confirmed that exercise reduces depression symptoms about as effectively as psychological therapy. The sweet spot? Light to moderate intensity, and somewhere between 13 and 36 total sessions. Mixed training combining cardio and resistance work outperformed cardio alone. This doesn't mean you cancel your therapist. But it does mean that showing up for your workout is a genuine mental health intervention, not just vanity. Every training session is a deposit into your mood bank.",
-      "takeaway": "Don't skip workouts when you feel mentally off. That's often exactly when movement helps most.",
-      "pexelsQuery": "person running outdoor park",
-      "source": "Cochrane / ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "id": "article-4",
+      "category": "NUTRITION",
+      "headline": "The Government Just Raised the Bar on How Much Protein You Should Eat",
+      "body": "The new 2025 to 2030 US Dietary Guidelines officially raised the recommended protein target for adults. The new guidance calls for 1.2 to 1.6 grams of protein per kilogram of body weight per day. For a 150-pound person, that is 82 to 109 grams daily. The previous recommendation was just 0.8 grams per kilogram. The guidelines also now say protein should be prioritized at every single meal, not just dinner. Older adults and anyone trying to manage weight or build muscle have the most to gain. The science has been pointing this direction for years. The official guidance finally caught up.",
+      "takeaway": "Aim for at least 30 grams of protein at breakfast. Most people fall way short early in the day.",
+      "pexelsQuery": "grilled chicken meal plate",
+      "source": "CNN / US Dietary Guidelines 2025-2030",
+      "url": "https://www.cnn.com/2026/01/07/health/dietary-guidelines-rfk-maha",
       "photo": {
-        "url": "https://images.pexels.com/photos/32187960/pexels-photo-32187960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/32187960/pexels-photo-32187960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "David Kanigan",
-        "photographerUrl": "https://www.pexels.com/@david-kanigan-239927285",
-        "photoPageUrl": "https://www.pexels.com/photo/elderly-man-running-in-stamford-park-at-dawn-32187960/",
-        "avgColor": "#7D7B7C"
+        "url": "https://images.pexels.com/photos/10165780/pexels-photo-10165780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10165780/pexels-photo-10165780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vladimír  Sládek",
+        "photographerUrl": "https://www.pexels.com/@vladimir-sladek-127740023",
+        "photoPageUrl": "https://www.pexels.com/photo/pasta-with-vegetables-on-white-ceramic-plate-10165780/",
+        "avgColor": "#D3CAB9"
       }
     }
   ],
   "quote": {
-    "text": "The first wealth is health.",
-    "author": "Ralph Waldo Emerson",
-    "context": "19th-century American essayist and philosopher whose writing on self-reliance shaped modern ideas about personal responsibility."
+    "text": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "context": "American entrepreneur, author, and motivational speaker who influenced a generation of performance coaches."
   },
   "workout": {
     "type": "RECOVERY",
-    "title": "Reset and Recharge",
+    "title": "Reset and Rebuild: Full-Body Sunday Flow",
     "duration": "30 min",
     "equipment": [
       "foam roller",
       "yoga mat"
     ],
-    "warmup": "Start with 2 minutes of slow, deep nasal breathing flat on your back. Let your nervous system downshift. Then do 10 slow cat-cow stretches on all fours, moving at your own breath rhythm. You are not trying to break a sweat. You are getting your body ready to open up.",
+    "warmup": "Start with 2 minutes of slow, deep diaphragmatic breathing lying flat on your back. Then do 60 seconds of gentle neck rolls and shoulder circles to wake up the joints without any loading. Finish with a slow cat-cow sequence on all fours, 8 reps, matching your breath to each movement.",
     "exercises": [
       {
-        "name": "Thoracic Spine Foam Roll",
+        "name": "Foam Roll Thoracic Spine",
         "sets": "1",
-        "reps": "60 seconds per segment",
-        "notes": "Place the roller perpendicular to your spine at mid-back. Support your head with your hands, drop your hips, and slowly roll from mid-back to upper back. Pause on any tight spots for 5 seconds. Do not roll the lower back."
-      },
-      {
-        "name": "Hip Flexor Stretch (Low Lunge)",
-        "sets": "2",
-        "reps": "45 seconds per side",
-        "notes": "Drop into a kneeling lunge with your back knee on the mat. Drive your hips forward gently until you feel a stretch in the front of the rear hip. Keep your chest tall. Hold steady, no bouncing."
+        "reps": "60 seconds",
+        "notes": "Place the roller perpendicular to your spine at mid-back. Support your head with both hands, drop your hips to the floor, and slowly roll from mid-back to upper back. Pause on any tight spots for a breath or two. Keep your core soft."
       },
       {
         "name": "90/90 Hip Stretch",
         "sets": "2",
-        "reps": "60 seconds per side",
-        "notes": "Sit on the floor with both knees bent at 90 degrees, front shin parallel and rear shin pointing behind you. Sit tall and hold. If your hips lift off the floor, place a folded towel under the raised side. This unlocks the hips better than almost anything."
+        "reps": "60 seconds each side",
+        "notes": "Sit with both knees bent at 90 degrees, one in front and one to the side. Keep your chest tall and hinge forward slightly over the front shin. This unlocks tight hips from long hours of sitting. Switch sides and repeat."
       },
       {
-        "name": "Supine Spinal Twist",
+        "name": "World's Greatest Stretch",
         "sets": "2",
-        "reps": "45 seconds per side",
-        "notes": "Lie on your back, pull one knee to your chest, then guide it across your body while keeping both shoulders flat on the floor. Look away from the bent knee. Breathe slowly. This is decompression for your spine."
+        "reps": "6 reps each side",
+        "notes": "From a lunge position, place same-side hand inside your front foot. Rotate your top arm up toward the ceiling, following it with your eyes. Slow and controlled. Hits hip flexors, thoracic rotation, and hamstrings in one move."
       },
       {
-        "name": "Child's Pose with Lat Reach",
+        "name": "Supine Piriformis Stretch (Figure Four)",
         "sets": "2",
-        "reps": "60 seconds per side",
-        "notes": "Start in a standard child's pose, then walk both hands to one side to feel a deep stretch through the lat and side of the back. Hold, breathe, then switch sides. Keep your hips pressed back toward your heels."
+        "reps": "60 seconds each side",
+        "notes": "Lie on your back, cross one ankle over the opposite knee, and gently pull the uncrossed leg toward your chest. Breathe into the stretch. If you sit at a desk, your piriformis is almost certainly tight. Take your time here."
+      },
+      {
+        "name": "Child's Pose to Downward Dog Flow",
+        "sets": "3",
+        "reps": "8 slow cycles",
+        "notes": "From child's pose, press up through your hands into downward dog, pedaling your heels gently. Hold downward dog for 3 breaths, then flow back to child's pose. This restores length to the entire posterior chain."
       }
     ],
-    "cooldown": "Finish flat on your back in a full body relaxation pose for 3 to 5 minutes. Eyes closed. Let your feet fall outward. Focus only on your breath slowing down. This is not optional. This is when your nervous system does the actual recovery work.",
+    "cooldown": "Finish with 3 to 5 minutes in savasana, flat on your back with arms slightly away from your sides. Let your breath return to its natural rhythm. This is not optional. The nervous system needs a clear signal that the session is done.",
     "product": {
       "id": "rec-001",
       "name": "TriggerPoint GRID Foam Roller",
@@ -166,22 +191,23 @@
     "calories": 480,
     "protein": 42,
     "carbs": 38,
-    "fat": 16,
+    "fat": 14,
     "ingredients": [
-      "170g cooked chicken breast, sliced or shredded",
-      "1 cup cooked brown rice or farro",
-      "1/2 cup canned chickpeas, rinsed and drained",
-      "1/2 cup cherry tomatoes, halved",
+      "170g cooked grilled chicken breast, sliced",
+      "100g cooked brown rice or farro",
+      "1/2 cup canned chickpeas, drained and rinsed",
       "1/2 cucumber, diced",
-      "1/4 cup red onion, thinly sliced",
-      "2 tablespoons crumbled feta cheese",
-      "2 tablespoons hummus",
-      "1 tablespoon olive oil",
-      "Juice of half a lemon",
-      "Salt, pepper, and dried oregano to taste"
+      "1/2 cup cherry tomatoes, halved",
+      "1/4 red onion, thinly sliced",
+      "30g crumbled feta cheese",
+      "2 tbsp plain Greek yogurt",
+      "1 tsp olive oil",
+      "1 tsp lemon juice",
+      "1/2 tsp dried oregano",
+      "Salt and pepper to taste"
     ],
-    "instructions": "1. If cooking chicken fresh, season with olive oil, lemon juice, oregano, salt, and pepper and cook in a skillet over medium heat for 6 to 7 minutes per side. Let rest 3 minutes before slicing. 2. Add warm brown rice or farro to a bowl as the base. 3. Arrange the chickpeas, tomatoes, cucumber, and red onion over the grain. Add the sliced chicken on top. 4. Finish with hummus, crumbled feta, a drizzle of olive oil, a squeeze of lemon, and a pinch of oregano.",
-    "tip": "Use a rotisserie chicken from the store to cut total time to under 5 minutes of actual prep. Cook a double portion of grains on Sunday and this bowl comes together in minutes all week.",
+    "instructions": "1. If using leftover or rotisserie chicken, slice or shred and season with oregano, salt, and pepper. 2. Layer brown rice or farro in the base of a bowl, then add chickpeas, cucumber, tomatoes, and red onion. 3. Top with sliced chicken and crumbled feta. 4. Mix Greek yogurt with olive oil, lemon juice, salt, and pepper, then drizzle over the bowl as a dressing.",
+    "tip": "Batch-cook a large portion of chicken and grains on Sunday and you have lunch ready for three days with zero effort. Swap farro for rice or quinoa depending on what you have.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
