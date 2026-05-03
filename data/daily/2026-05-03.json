@@ -1,16 +1,16 @@
 {
   "date": "2026-05-03",
   "dateLabel": "Sunday, May 3, 2026",
-  "generatedAt": "2026-05-03T21:23:28.867Z",
+  "generatedAt": "2026-05-03T21:29:40.132Z",
   "articles": [
     {
       "category": "LONGEVITY",
-      "headline": "The Organ Doctors Ignored For Decades May Hold the Key to How Long You Live",
-      "body": "There is a small organ behind your breastbone called the thymus. Doctors largely wrote it off after puberty. Big mistake. Harvard and Mass General Brigham researchers used AI to analyze CT scans from over 25,000 adults and found that people with a healthier thymus had about a 50% lower risk of death and a 63% lower risk of cardiovascular death. The organ trains T cells, your immune system's front line. What hurts it? Chronic inflammation, smoking, and high body weight. The same stuff that ages everything else.",
-      "takeaway": "Keep inflammation low. Eat well, move daily, stay lean. Your immune system's command center depends on it.",
-      "pexelsQuery": "chest x-ray scan medical",
-      "source": "Mass General Brigham / Nature",
-      "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/thymus-critical-to-longevity-and-cancer-treatment",
+      "headline": "The Organ Nobody Talks About Could Predict How Long You Live",
+      "body": "You probably haven't thought much about your thymus. Doctors haven't either. But a Harvard-led study just changed that. Researchers used AI to scan the thymus glands of over 27,000 adults and found that people with a healthier thymus had roughly 50 percent lower risk of death and a 63 percent lower risk of dying from heart disease. The thymus trains your immune T-cells. It shrinks with age, and so does your defenses. Here's what matters to you right now: chronic inflammation, smoking, and high body weight are all linked to a weaker thymus. The levers you already have are the ones that matter most.",
+      "takeaway": "Reduce inflammation and maintain a healthy weight. Your immune system's control center is counting on it.",
+      "pexelsQuery": "chest x-ray scan hospital",
+      "source": "Harvard Gazette / Nature",
+      "url": "https://news.harvard.edu/gazette/story/2026/03/thymus-may-be-critical-to-adult-health/",
       "photo": {
         "url": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "squareUrl": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -21,165 +21,123 @@
       }
     },
     {
-      "category": "TRAINING",
-      "headline": "Science Just Settled the Gym Debate: Stop Obsessing Over the Perfect Plan",
-      "body": "The American College of Sports Medicine just released its first major resistance training update in 17 years. They reviewed 137 studies covering more than 30,000 people. The verdict? The biggest gains come from simply going from nothing to something. Bands, bodyweight, barbells, it all works. You do not need to train to failure, use fancy equipment, or follow a complex program. What matters is showing up consistently and hitting all your major muscle groups at least twice a week. That is it.",
-      "takeaway": "Pick a routine you will actually stick with. Consistency beats complexity every single time.",
-      "pexelsQuery": "dumbbells weights gym floor",
-      "source": "ACSM / Medicine and Science in Sports and Exercise",
-      "url": "https://acsm.org/resistance-training-guidelines-update-2026/",
+      "category": "SLEEP",
+      "headline": "Your Deep Sleep Is a Free Muscle-Building, Fat-Burning Machine",
+      "body": "New UC Berkeley research published in the journal Cell mapped out exactly how the brain controls growth hormone during sleep, and the findings should make you take bedtime a lot more seriously. During deep sleep, specialized neurons in your hypothalamus flood your body with growth hormone, which builds muscle, strengthens bone, and burns fat. Skimp on sleep and that hormone surge drops sharply. The same system also affects how alert and focused you feel the next day. This is not a passive rest process. Your body is actively rebuilding itself every single night, but only if you give it enough time to do it.",
+      "takeaway": "Aim for 7 to 9 uninterrupted hours. Quality deep sleep is your cheapest recovery tool.",
+      "pexelsQuery": "person sleeping bed night",
+      "source": "ScienceDaily / UC Berkeley",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
       "product": {
-        "id": "str-002",
-        "name": "Bowflex SelectTech 552 Dumbbells",
-        "brand": "Bowflex",
-        "asin": "B0FRNG2N5H",
-        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
-        "category": "strength",
-        "price_range": "$$$",
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
         "keywords": [
-          "strength",
-          "weights",
-          "dumbbells",
-          "home gym",
-          "resistance training",
-          "muscle",
-          "lifting"
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
         ],
-        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/3999606/pexels-photo-3999606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3999606/pexels-photo-3999606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Kristijan Furstner",
-        "photographerUrl": "https://www.pexels.com/@kristijan-furstner-628822",
-        "photoPageUrl": "https://www.pexels.com/photo/steell-gym-equipments-3999606/",
-        "avgColor": "#6A6F83"
+        "url": "https://images.pexels.com/photos/7641482/pexels-photo-7641482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7641482/pexels-photo-7641482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/man-lying-on-white-bed-7641482/",
+        "avgColor": "#8D9298"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "headline": "Eating Well After 45 Can Buy You Up to 3 Extra Years",
+      "body": "New research in Science Advances tracked over 103,000 adults from the UK Biobank for more than a decade. The finding: people who followed the healthiest eating patterns at age 45 lived up to 3 years longer than those with the worst diets. The five dietary patterns studied all shared common ground, whole foods, fiber, vegetables, lean proteins, and less processed junk. The kicker? Your genetics barely mattered. Whether you have the so-called longevity genes or not, what you eat still has a bigger impact on how long you live. It is never too late to upgrade your plate.",
+      "takeaway": "You don't need to overhaul everything. Swap one ultra-processed meal per day for a whole-food option and start stacking the odds.",
+      "pexelsQuery": "healthy meal vegetables plate",
+      "source": "Science Advances / News-Medical",
+      "url": "https://www.news-medical.net/news/20260216/Healthy-diets-link-to-longer-life-regardless-of-longevity-genes-large-study-finds.aspx",
+      "photo": {
+        "url": "https://images.pexels.com/photos/9218779/pexels-photo-9218779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9218779/pexels-photo-9218779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Loren Castillo",
+        "photographerUrl": "https://www.pexels.com/@lorencastillo",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-dish-on-a-plate-9218779/",
+        "avgColor": "#88958E"
       }
     },
     {
       "category": "MENTAL PERFORMANCE",
-      "headline": "Your Creatine Is Doing Something in Your Brain That You Probably Don't Know About",
-      "body": "Creatine is not just for your muscles. About 5% of your body's creatine is stored in the brain, where it helps power mental energy production. New 2026 research shows it may buffer the effects of sleep deprivation on cognitive function, support mood regulation, and protect against stress-related mental fatigue. One study found a high dose partially reversed brain metabolic changes after a sleepless night. Researchers flagged this as especially relevant for shift workers, first responders, and new parents.",
-      "takeaway": "If you are not sleeping enough or running hot on stress, creatine may be one of the smartest supplements on your shelf.",
-      "pexelsQuery": "supplement powder scoop white",
-      "source": "NaturalNews / Annals of Neurology",
-      "url": "https://www.naturalnews.com/2026-04-26-research-creatine-support-cognitive-function-under-stress.html",
-      "product": {
-        "id": "sup-001",
-        "name": "Thorne Creatine Monohydrate",
-        "brand": "Thorne",
-        "asin": "B0013OQGO6",
-        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "creatine",
-          "strength",
-          "muscle",
-          "performance",
-          "supplement",
-          "brain",
-          "cognitive",
-          "aging",
-          "endurance"
-        ],
-        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
-      },
+      "headline": "Exercise Works as Well as Therapy for Depression. Science Just Confirmed It Again.",
+      "body": "An updated Cochrane review, the gold standard of medical evidence, analyzed 73 randomized trials with nearly 5,000 adults and confirmed that exercise reduces depression symptoms about as effectively as psychological therapy. The sweet spot? Light to moderate intensity, and somewhere between 13 and 36 total sessions. Mixed training combining cardio and resistance work outperformed cardio alone. This doesn't mean you cancel your therapist. But it does mean that showing up for your workout is a genuine mental health intervention, not just vanity. Every training session is a deposit into your mood bank.",
+      "takeaway": "Don't skip workouts when you feel mentally off. That's often exactly when movement helps most.",
+      "pexelsQuery": "person running outdoor park",
+      "source": "Cochrane / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
       "photo": {
-        "url": "https://images.pexels.com/photos/7526074/pexels-photo-7526074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7526074/pexels-photo-7526074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Nataliya Vaitkevich",
-        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
-        "photoPageUrl": "https://www.pexels.com/photo/glass-bottles-containing-medicines-7526074/",
-        "avgColor": "#D9B24B"
-      }
-    },
-    {
-      "category": "TRAINING",
-      "headline": "Sitting All Day? A New Study Says Walking Can Undo Most of the Damage",
-      "body": "A massive University of Sydney study tracking over 72,000 people just dropped a finding that will make desk workers feel better about their mornings. No matter how many hours you sit, getting to around 9,000 to 10,000 steps a day cut mortality risk by nearly 40% and cardiovascular disease risk by over 20%. The good news for busy people? Even hitting 7,000 steps cuts your risk of early death significantly. You do not have to run. You just have to move.",
-      "takeaway": "Aim for 7,000 to 10,000 steps daily. A 20-minute walk after lunch gets you most of the way there.",
-      "pexelsQuery": "person walking city sidewalk",
-      "source": "University of Sydney / ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417085409.htm",
-      "product": {
-        "id": "watch-001",
-        "name": "Garmin Forerunner 255",
-        "brand": "Garmin",
-        "asin": "B09WTYT878",
-        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
-        "category": "wearables",
-        "price_range": "$$$",
-        "keywords": [
-          "triathlon",
-          "running",
-          "cycling",
-          "swimming",
-          "gps",
-          "watch",
-          "heart rate",
-          "training load",
-          "garmin"
-        ],
-        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/11213281/pexels-photo-11213281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/11213281/pexels-photo-11213281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Mathias Reding",
-        "photographerUrl": "https://www.pexels.com/@matreding",
-        "photoPageUrl": "https://www.pexels.com/photo/man-in-black-jacket-walking-on-pavement-11213281/",
-        "avgColor": "#5E4362"
+        "url": "https://images.pexels.com/photos/32187960/pexels-photo-32187960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/32187960/pexels-photo-32187960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "David Kanigan",
+        "photographerUrl": "https://www.pexels.com/@david-kanigan-239927285",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-man-running-in-stamford-park-at-dawn-32187960/",
+        "avgColor": "#7D7B7C"
       }
     }
   ],
   "quote": {
-    "text": "Take care of your body. It's the only place you have to live.",
-    "author": "Jim Rohn",
-    "context": "American entrepreneur, author, and motivational speaker who influenced a generation of personal development thinkers."
+    "text": "The first wealth is health.",
+    "author": "Ralph Waldo Emerson",
+    "context": "19th-century American essayist and philosopher whose writing on self-reliance shaped modern ideas about personal responsibility."
   },
   "workout": {
     "type": "RECOVERY",
-    "title": "Sunday Reset: Full-Body Mobility Flow",
+    "title": "Reset and Recharge",
     "duration": "30 min",
     "equipment": [
       "foam roller",
       "yoga mat"
     ],
-    "warmup": "Start with 2 minutes of slow, deep belly breathing lying on your back. Then do 10 slow cat-cow movements on all fours to wake up the spine. Finish with 60 seconds of gentle hip circles standing to get blood moving into the joints.",
+    "warmup": "Start with 2 minutes of slow, deep nasal breathing flat on your back. Let your nervous system downshift. Then do 10 slow cat-cow stretches on all fours, moving at your own breath rhythm. You are not trying to break a sweat. You are getting your body ready to open up.",
     "exercises": [
       {
-        "name": "Foam Roll Thoracic Spine",
+        "name": "Thoracic Spine Foam Roll",
         "sets": "1",
         "reps": "60 seconds per segment",
-        "notes": "Place the roller perpendicular to your spine at mid-back. Support your head with your hands. Slowly roll from mid-back to upper back. Pause on any tight spots. Do not roll the lower back."
+        "notes": "Place the roller perpendicular to your spine at mid-back. Support your head with your hands, drop your hips, and slowly roll from mid-back to upper back. Pause on any tight spots for 5 seconds. Do not roll the lower back."
+      },
+      {
+        "name": "Hip Flexor Stretch (Low Lunge)",
+        "sets": "2",
+        "reps": "45 seconds per side",
+        "notes": "Drop into a kneeling lunge with your back knee on the mat. Drive your hips forward gently until you feel a stretch in the front of the rear hip. Keep your chest tall. Hold steady, no bouncing."
       },
       {
         "name": "90/90 Hip Stretch",
         "sets": "2",
-        "reps": "60 seconds each side",
-        "notes": "Sit with both knees bent at 90 degrees, one leg in front and one behind. Sit tall, hinge slightly forward at the hip. Switch sides. This targets internal and external hip rotation, which most desk workers desperately need."
+        "reps": "60 seconds per side",
+        "notes": "Sit on the floor with both knees bent at 90 degrees, front shin parallel and rear shin pointing behind you. Sit tall and hold. If your hips lift off the floor, place a folded towel under the raised side. This unlocks the hips better than almost anything."
       },
       {
-        "name": "World's Greatest Stretch",
+        "name": "Supine Spinal Twist",
         "sets": "2",
-        "reps": "5 reps each side",
-        "notes": "Step into a deep lunge, place the same-side hand on the ground, then rotate the opposite arm up toward the ceiling. Move slowly and breathe. This hits your hip flexors, thoracic spine, and shoulders all at once."
+        "reps": "45 seconds per side",
+        "notes": "Lie on your back, pull one knee to your chest, then guide it across your body while keeping both shoulders flat on the floor. Look away from the bent knee. Breathe slowly. This is decompression for your spine."
       },
       {
-        "name": "Deep Squat Hold with Prying",
+        "name": "Child's Pose with Lat Reach",
         "sets": "2",
-        "reps": "45 seconds",
-        "notes": "Hold a deep bodyweight squat with feet shoulder-width apart. Use your elbows to gently push your knees out. Hold a door frame or post if needed. This opens the hips and ankles over time."
-      },
-      {
-        "name": "Lying Glute and Piriformis Stretch (Figure Four)",
-        "sets": "2",
-        "reps": "60 seconds each side",
-        "notes": "Lie on your back, cross one ankle over the opposite knee, and pull the bottom leg toward your chest. Breathe into the stretch. This targets the piriformis and outer glute, which tighten after long runs or sitting."
+        "reps": "60 seconds per side",
+        "notes": "Start in a standard child's pose, then walk both hands to one side to feel a deep stretch through the lat and side of the back. Hold, breathe, then switch sides. Keep your hips pressed back toward your heels."
       }
     ],
-    "cooldown": "Finish with 3 minutes lying flat on your back in a full-body scan. Breathe slowly and consciously relax each body part from your feet to your face. Let your nervous system shift into recovery mode.",
+    "cooldown": "Finish flat on your back in a full body relaxation pose for 3 to 5 minutes. Eyes closed. Let your feet fall outward. Focus only on your breath slowing down. This is not optional. This is when your nervous system does the actual recovery work.",
     "product": {
       "id": "rec-001",
       "name": "TriggerPoint GRID Foam Roller",
@@ -210,20 +168,20 @@
     "carbs": 38,
     "fat": 16,
     "ingredients": [
-      "6 oz cooked chicken breast, sliced or shredded",
-      "1/2 cup cooked brown rice or farro",
+      "170g cooked chicken breast, sliced or shredded",
+      "1 cup cooked brown rice or farro",
+      "1/2 cup canned chickpeas, rinsed and drained",
       "1/2 cup cherry tomatoes, halved",
-      "1/2 cup cucumber, diced",
+      "1/2 cucumber, diced",
       "1/4 cup red onion, thinly sliced",
-      "2 tbsp kalamata olives",
-      "2 tbsp crumbled feta cheese",
-      "2 tbsp tzatziki or plain Greek yogurt",
-      "1 tsp olive oil",
-      "1 tsp dried oregano",
-      "Salt and pepper to taste"
+      "2 tablespoons crumbled feta cheese",
+      "2 tablespoons hummus",
+      "1 tablespoon olive oil",
+      "Juice of half a lemon",
+      "Salt, pepper, and dried oregano to taste"
     ],
-    "instructions": "1. If cooking chicken fresh, season with oregano, salt, and pepper and cook in a hot skillet with olive oil for 6 to 7 minutes per side until done. Slice thin. 2. Add warm rice or farro to the base of a bowl. 3. Layer chicken, tomatoes, cucumber, onion, and olives over the grain. 4. Top with feta and a generous spoonful of tzatziki. Eat immediately or pack for lunch.",
-    "tip": "Batch cook chicken breasts on Sunday and portion into containers. You will have protein ready for 3 to 4 lunches without any extra weekday cooking.",
+    "instructions": "1. If cooking chicken fresh, season with olive oil, lemon juice, oregano, salt, and pepper and cook in a skillet over medium heat for 6 to 7 minutes per side. Let rest 3 minutes before slicing. 2. Add warm brown rice or farro to a bowl as the base. 3. Arrange the chickpeas, tomatoes, cucumber, and red onion over the grain. Add the sliced chicken on top. 4. Finish with hummus, crumbled feta, a drizzle of olive oil, a squeeze of lemon, and a pinch of oregano.",
+    "tip": "Use a rotisserie chicken from the store to cut total time to under 5 minutes of actual prep. Cook a double portion of grains on Sunday and this bowl comes together in minutes all week.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
