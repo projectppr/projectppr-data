@@ -1,52 +1,69 @@
 {
   "date": "2026-05-03",
   "dateLabel": "Sunday, May 3, 2026",
-  "generatedAt": "2026-05-03T20:59:34.154Z",
+  "generatedAt": "2026-05-03T21:23:28.867Z",
   "articles": [
     {
-      "category": "SLEEP",
-      "headline": "Your Deep Sleep Is a Hormone Factory. Here's What Happens When You Skip It.",
-      "body": "UC Berkeley scientists just mapped the exact brain circuit that controls growth hormone release during sleep. Published in Cell, the study shows deep, early-night sleep is when your body gets its biggest repair signal. That hormone builds muscle, burns fat, and keeps your brain sharp. Miss that window and output drops fast. In adults, low growth hormone is linked to weight gain, slower recovery, and higher risk of metabolic disease. The biggest pulse happens in the first two to three hours after you fall asleep. Alcohol before bed, a warm room, or a drifting bedtime all disrupt the circuit.",
-      "takeaway": "Lock in a consistent bedtime and keep your room cool so your body can actually do its overnight repair work.",
-      "pexelsQuery": "person sleeping dark bedroom",
-      "source": "ScienceDaily / UC Berkeley",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+      "category": "LONGEVITY",
+      "headline": "The Organ Doctors Ignored For Decades May Hold the Key to How Long You Live",
+      "body": "There is a small organ behind your breastbone called the thymus. Doctors largely wrote it off after puberty. Big mistake. Harvard and Mass General Brigham researchers used AI to analyze CT scans from over 25,000 adults and found that people with a healthier thymus had about a 50% lower risk of death and a 63% lower risk of cardiovascular death. The organ trains T cells, your immune system's front line. What hurts it? Chronic inflammation, smoking, and high body weight. The same stuff that ages everything else.",
+      "takeaway": "Keep inflammation low. Eat well, move daily, stay lean. Your immune system's command center depends on it.",
+      "pexelsQuery": "chest x-ray scan medical",
+      "source": "Mass General Brigham / Nature",
+      "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/thymus-critical-to-longevity-and-cancer-treatment",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-looking-at-x-ray-photo-4225925/",
+        "avgColor": "#8A949F"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "headline": "Science Just Settled the Gym Debate: Stop Obsessing Over the Perfect Plan",
+      "body": "The American College of Sports Medicine just released its first major resistance training update in 17 years. They reviewed 137 studies covering more than 30,000 people. The verdict? The biggest gains come from simply going from nothing to something. Bands, bodyweight, barbells, it all works. You do not need to train to failure, use fancy equipment, or follow a complex program. What matters is showing up consistently and hitting all your major muscle groups at least twice a week. That is it.",
+      "takeaway": "Pick a routine you will actually stick with. Consistency beats complexity every single time.",
+      "pexelsQuery": "dumbbells weights gym floor",
+      "source": "ACSM / Medicine and Science in Sports and Exercise",
+      "url": "https://acsm.org/resistance-training-guidelines-update-2026/",
       "product": {
-        "id": "slp-002",
-        "name": "Manta Sleep Mask",
-        "brand": "Manta",
-        "asin": "B07PRG2CQY",
-        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
-        "category": "sleep",
-        "price_range": "$",
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
         "keywords": [
-          "sleep",
-          "light blocking",
-          "blackout",
-          "travel",
-          "sleep quality",
-          "melatonin",
-          "recovery"
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
         ],
-        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/6944002/pexels-photo-6944002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6944002/pexels-photo-6944002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "cottonbro studio",
-        "photographerUrl": "https://www.pexels.com/@cottonbro",
-        "photoPageUrl": "https://www.pexels.com/photo/a-man-lying-on-bed-6944002/",
-        "avgColor": "#39260C"
+        "url": "https://images.pexels.com/photos/3999606/pexels-photo-3999606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3999606/pexels-photo-3999606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kristijan Furstner",
+        "photographerUrl": "https://www.pexels.com/@kristijan-furstner-628822",
+        "photoPageUrl": "https://www.pexels.com/photo/steell-gym-equipments-3999606/",
+        "avgColor": "#6A6F83"
       }
     },
     {
       "category": "MENTAL PERFORMANCE",
-      "headline": "Creatine Isn't Just for Your Muscles. New Research Says It Protects Your Brain Too.",
-      "body": "A new study published in Nutrients found that a single dose of creatine improved cognitive performance by 12% during 21 hours of sleep deprivation. Researchers in Germany tested logical reasoning, language processing, and mental vigilance. Creatine won across the board. The thinking is that sleep-deprived brain cells are under stress, and that stress actually helps creatine get absorbed faster into the brain. For anyone running on four hours of sleep while managing work and kids, this is worth knowing. Creatine is already safe, cheap, and well-studied for physical performance.",
-      "takeaway": "If you're not already taking creatine daily, this is one more very good reason to start.",
-      "pexelsQuery": "white powder supplement scoop",
-      "source": "NutraIngredients",
-      "sourceUrl": "https://www.nutraingredients.com/Article/2026/04/21/single-dose-creatine-may-support-cognition-in-sleep-deprivation-study/",
+      "headline": "Your Creatine Is Doing Something in Your Brain That You Probably Don't Know About",
+      "body": "Creatine is not just for your muscles. About 5% of your body's creatine is stored in the brain, where it helps power mental energy production. New 2026 research shows it may buffer the effects of sleep deprivation on cognitive function, support mood regulation, and protect against stress-related mental fatigue. One study found a high dose partially reversed brain metabolic changes after a sleepless night. Researchers flagged this as especially relevant for shift workers, first responders, and new parents.",
+      "takeaway": "If you are not sleeping enough or running hot on stress, creatine may be one of the smartest supplements on your shelf.",
+      "pexelsQuery": "supplement powder scoop white",
+      "source": "NaturalNews / Annals of Neurology",
+      "url": "https://www.naturalnews.com/2026-04-26-research-creatine-support-cognitive-function-under-stress.html",
       "product": {
         "id": "sup-001",
         "name": "Thorne Creatine Monohydrate",
@@ -69,22 +86,22 @@
         "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/7615618/pexels-photo-7615618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7615618/pexels-photo-7615618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7526074/pexels-photo-7526074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7526074/pexels-photo-7526074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "photographer": "Nataliya Vaitkevich",
         "photographerUrl": "https://www.pexels.com/@n-voitkevich",
-        "photoPageUrl": "https://www.pexels.com/photo/ginkgo-leaves-and-a-strainer-7615618/",
-        "avgColor": "#D4DAD2"
+        "photoPageUrl": "https://www.pexels.com/photo/glass-bottles-containing-medicines-7526074/",
+        "avgColor": "#D9B24B"
       }
     },
     {
       "category": "TRAINING",
-      "headline": "Your Brain Is Running Your Endurance. Science Just Proved It.",
-      "body": "A new UT Southwestern study published in Neuron found that neurons in the brain, not just the heart or muscles, are what drive endurance improvements from exercise. Researchers identified a specific group of cells in the hypothalamus that become more active as training continues, forming a kind of memory of past workouts. When those neurons were blocked in mice, endurance gains stopped completely. When they were activated, gains kept coming even past the normal plateau. Most people credit their lungs and legs for fitness. Turns out the brain is running the show.",
-      "takeaway": "Consistency matters more than intensity. Every session is training your brain to expect more, so showing up regularly is the actual work.",
-      "pexelsQuery": "person running treadmill gym",
-      "source": "UT Southwestern Medical Center",
-      "sourceUrl": "https://www.utsouthwestern.edu/newsroom/articles/year-2026/april-brain-cells-boost-endurance.html",
+      "headline": "Sitting All Day? A New Study Says Walking Can Undo Most of the Damage",
+      "body": "A massive University of Sydney study tracking over 72,000 people just dropped a finding that will make desk workers feel better about their mornings. No matter how many hours you sit, getting to around 9,000 to 10,000 steps a day cut mortality risk by nearly 40% and cardiovascular disease risk by over 20%. The good news for busy people? Even hitting 7,000 steps cuts your risk of early death significantly. You do not have to run. You just have to move.",
+      "takeaway": "Aim for 7,000 to 10,000 steps daily. A 20-minute walk after lunch gets you most of the way there.",
+      "pexelsQuery": "person walking city sidewalk",
+      "source": "University of Sydney / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417085409.htm",
       "product": {
         "id": "watch-001",
         "name": "Garmin Forerunner 255",
@@ -107,30 +124,125 @@
         "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/5327557/pexels-photo-5327557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5327557/pexels-photo-5327557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Tima Miroshnichenko",
-        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
-        "photoPageUrl": "https://www.pexels.com/photo/man-in-black-tank-top-using-a-treadmill-5327557/",
-        "avgColor": "#302B29"
-      }
-    },
-    {
-      "category": "LONGEVITY",
-      "headline": "Exercise Doesn't Just Make You Fit. It Makes You Biologically Younger.",
-      "body": "A review published April 29 in The Lancet Healthy Longevity found that higher physical activity is significantly linked to lower biological age, measured by epigenetic clocks that track how fast your cells are actually aging. Your calendar age and your biological age are two different numbers. Exercise appears to move the second one backward. The effect showed up consistently across multiple aging markers. Researchers say the data is strong enough that physical activity may actually change how fast you age at the cellular level, not just how you feel.",
-      "takeaway": "You don't need a longevity drug. Regular movement is still the most evidence-backed tool for slowing biological aging.",
-      "pexelsQuery": "older adult walking park outdoor",
-      "source": "The Lancet Healthy Longevity",
-      "sourceUrl": "https://www.thelancet.com/journals/lanhl/home",
-      "photo": {
-        "url": "https://images.pexels.com/photos/36478487/pexels-photo-36478487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/36478487/pexels-photo-36478487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "pierre matile",
-        "photographerUrl": "https://www.pexels.com/@open-borders",
-        "photoPageUrl": "https://www.pexels.com/photo/black-and-white-street-scene-in-catania-park-36478487/",
-        "avgColor": "#7B7B7B"
+        "url": "https://images.pexels.com/photos/11213281/pexels-photo-11213281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11213281/pexels-photo-11213281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mathias Reding",
+        "photographerUrl": "https://www.pexels.com/@matreding",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-black-jacket-walking-on-pavement-11213281/",
+        "avgColor": "#5E4362"
       }
     }
-  ]
+  ],
+  "quote": {
+    "text": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "context": "American entrepreneur, author, and motivational speaker who influenced a generation of personal development thinkers."
+  },
+  "workout": {
+    "type": "RECOVERY",
+    "title": "Sunday Reset: Full-Body Mobility Flow",
+    "duration": "30 min",
+    "equipment": [
+      "foam roller",
+      "yoga mat"
+    ],
+    "warmup": "Start with 2 minutes of slow, deep belly breathing lying on your back. Then do 10 slow cat-cow movements on all fours to wake up the spine. Finish with 60 seconds of gentle hip circles standing to get blood moving into the joints.",
+    "exercises": [
+      {
+        "name": "Foam Roll Thoracic Spine",
+        "sets": "1",
+        "reps": "60 seconds per segment",
+        "notes": "Place the roller perpendicular to your spine at mid-back. Support your head with your hands. Slowly roll from mid-back to upper back. Pause on any tight spots. Do not roll the lower back."
+      },
+      {
+        "name": "90/90 Hip Stretch",
+        "sets": "2",
+        "reps": "60 seconds each side",
+        "notes": "Sit with both knees bent at 90 degrees, one leg in front and one behind. Sit tall, hinge slightly forward at the hip. Switch sides. This targets internal and external hip rotation, which most desk workers desperately need."
+      },
+      {
+        "name": "World's Greatest Stretch",
+        "sets": "2",
+        "reps": "5 reps each side",
+        "notes": "Step into a deep lunge, place the same-side hand on the ground, then rotate the opposite arm up toward the ceiling. Move slowly and breathe. This hits your hip flexors, thoracic spine, and shoulders all at once."
+      },
+      {
+        "name": "Deep Squat Hold with Prying",
+        "sets": "2",
+        "reps": "45 seconds",
+        "notes": "Hold a deep bodyweight squat with feet shoulder-width apart. Use your elbows to gently push your knees out. Hold a door frame or post if needed. This opens the hips and ankles over time."
+      },
+      {
+        "name": "Lying Glute and Piriformis Stretch (Figure Four)",
+        "sets": "2",
+        "reps": "60 seconds each side",
+        "notes": "Lie on your back, cross one ankle over the opposite knee, and pull the bottom leg toward your chest. Breathe into the stretch. This targets the piriformis and outer glute, which tighten after long runs or sitting."
+      }
+    ],
+    "cooldown": "Finish with 3 minutes lying flat on your back in a full-body scan. Breathe slowly and consciously relax each body part from your feet to your face. Let your nervous system shift into recovery mode.",
+    "product": {
+      "id": "rec-001",
+      "name": "TriggerPoint GRID Foam Roller",
+      "brand": "TriggerPoint",
+      "asin": "B0040EGNIU",
+      "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+      "category": "recovery",
+      "price_range": "$",
+      "keywords": [
+        "foam roller",
+        "recovery",
+        "muscle soreness",
+        "flexibility",
+        "mobility",
+        "IT band",
+        "running",
+        "triathlon"
+      ],
+      "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+    }
+  },
+  "meal": {
+    "title": "Greek Chicken Power Bowl",
+    "type": "lunch",
+    "prepTime": "15 min",
+    "calories": 480,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 16,
+    "ingredients": [
+      "6 oz cooked chicken breast, sliced or shredded",
+      "1/2 cup cooked brown rice or farro",
+      "1/2 cup cherry tomatoes, halved",
+      "1/2 cup cucumber, diced",
+      "1/4 cup red onion, thinly sliced",
+      "2 tbsp kalamata olives",
+      "2 tbsp crumbled feta cheese",
+      "2 tbsp tzatziki or plain Greek yogurt",
+      "1 tsp olive oil",
+      "1 tsp dried oregano",
+      "Salt and pepper to taste"
+    ],
+    "instructions": "1. If cooking chicken fresh, season with oregano, salt, and pepper and cook in a hot skillet with olive oil for 6 to 7 minutes per side until done. Slice thin. 2. Add warm rice or farro to the base of a bowl. 3. Layer chicken, tomatoes, cucumber, onion, and olives over the grain. 4. Top with feta and a generous spoonful of tzatziki. Eat immediately or pack for lunch.",
+    "tip": "Batch cook chicken breasts on Sunday and portion into containers. You will have protein ready for 3 to 4 lunches without any extra weekday cooking.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
 }
