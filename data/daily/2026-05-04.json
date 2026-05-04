@@ -1,144 +1,189 @@
 {
   "date": "2026-05-04",
   "dateLabel": "Monday, May 4, 2026",
-  "generatedAt": "2026-05-04T00:02:57.548Z",
+  "generatedAt": "2026-05-04T16:55:43.869Z",
   "articles": [
     {
+      "id": "art-001",
       "category": "LONGEVITY",
-      "headline": "The Tiny Organ in Your Chest That Could Predict How Long You Live",
-      "body": "Scientists at Mass General Brigham and Harvard just published two major studies in Nature that are rewriting what we know about the thymus. That small organ behind your breastbone trains your immune T-cells, but doctors assumed it went dormant after puberty. Not so fast. Using AI to scan over 25,000 adults, researchers found that people with a healthy thymus had about a 50% lower risk of death and a 63% lower risk of cardiovascular death. Chronic inflammation, smoking, and high body weight were all linked to worse thymic health. Another reason lifestyle matters more than you think.",
-      "takeaway": "Keep inflammation low. Manage your weight, skip cigarettes, and train consistently. Your immune system is aging in real time.",
-      "pexelsQuery": "chest xray scan medical",
-      "source": "Harvard Gazette / Mass General Brigham",
-      "sourceUrl": "https://news.harvard.edu/gazette/story/2026/03/thymus-may-be-critical-to-adult-health/",
+      "headline": "Mixing Up Your Workouts Could Add Years to Your Life",
+      "body": "Harvard researchers tracked 111,000 adults for 30 years and found something surprising: it's not just how much you exercise that matters. It's how many different kinds you do. People who mixed walking, lifting, cycling, and other activities had a 19% lower risk of premature death compared to those who stuck to one type. And that benefit held no matter how much total time they spent moving. The takeaway is simple. Your body adapts to what you repeat. Give it new demands and it pays you back with more years.",
+      "takeaway": "Add one new type of movement to your week. A swim, a hike, a yoga class. Variety is literally life-extending.",
+      "source": "Harvard T.H. Chan School of Public Health / BMJ Medicine",
+      "url": "https://hsph.harvard.edu/news/exercise-variety-not-just-amount-linked-to-lower-risk-of-premature-mortality/",
+      "pexelsQuery": "people running cycling park",
       "photo": {
-        "url": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Anna Shvets",
-        "photographerUrl": "https://www.pexels.com/@shvetsa",
-        "photoPageUrl": "https://www.pexels.com/photo/doctor-looking-at-x-ray-photo-4225925/",
-        "avgColor": "#8A949F"
+        "url": "https://images.pexels.com/photos/15457899/pexels-photo-15457899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15457899/pexels-photo-15457899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ΓΑΒΡΙΗΛ ΠΟΥΛΤΟΥΡΤΖΙΔΗΣ",
+        "photographerUrl": "https://www.pexels.com/@447179906",
+        "photoPageUrl": "https://www.pexels.com/photo/people-jogging-walking-and-cycling-on-promenade-15457899/",
+        "avgColor": "#999999"
       }
     },
     {
-      "category": "SLEEP",
-      "headline": "Vivid Dreams Are Actually a Sign Your Sleep Is Working",
-      "body": "Here is something you did not expect: dreaming more vividly may mean you are sleeping better. A new study published in PLOS Biology wired up participants for four nights, woke them over 1,000 times, and tracked what they were experiencing. The result? People reported their deepest, most restorative sleep not just during quiet blank periods, but after immersive, vivid dreams. Shallow sleep was tied to vague or fragmented experiences. Scientists say the quality of dream experience, not just hours logged, appears to shape how rested you actually feel.",
-      "takeaway": "Stop dismissing your dreams as noise. Rich dream life may be a sign your brain is doing its repair work. Protect your sleep environment to get there.",
-      "pexelsQuery": "person sleeping pillow bed",
-      "source": "ScienceDaily / PLOS Biology",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
+      "id": "art-002",
+      "category": "TRAINING",
+      "headline": "Being Strong Is Its Own Longevity Superpower",
+      "body": "A University at Buffalo study published in JAMA Network Open followed more than 5,000 women aged 63 to 99 and found that muscle strength cut death risk dramatically on its own. For every 7 kilograms of grip strength, mortality risk dropped 12%. The strongest women lived significantly longer, even after accounting for aerobic fitness, inflammation, and how much they moved. Even women who did not hit standard exercise guidelines benefited if they were stronger. Strength is not just about looking fit. It turns out it is one of the most powerful biological levers you have.",
+      "takeaway": "Test yourself: Can you do 5 sit-to-stand chair raises in under 11 seconds? That number is linked to your odds of living longer. Start training for it.",
+      "source": "University at Buffalo / JAMA Network Open",
+      "url": "https://www.buffalo.edu/news/releases/2026/02/lamonte-jama-network-open-muscle-strength-mortality-risk.html",
+      "pexelsQuery": "woman lifting weights gym",
       "product": {
-        "id": "slp-002",
-        "name": "Manta Sleep Mask",
-        "brand": "Manta",
-        "asin": "B07PRG2CQY",
-        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4853656/pexels-photo-4853656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853656/pexels-photo-4853656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-lifting-a-barbell-with-weight-plates-4853656/",
+        "avgColor": "#847269"
+      }
+    },
+    {
+      "id": "art-003",
+      "category": "SLEEP",
+      "headline": "Scientists Just Found the Brain Switch That Builds Muscle While You Sleep",
+      "body": "UC Berkeley researchers published a landmark study in Cell that finally explains why deep sleep is so critical for your body. They mapped the exact brain circuits that trigger growth hormone release during non-REM sleep, the stage you hit in the first two to three hours of the night. That hormone drives muscle repair, fat metabolism, bone density, and cognitive function. Here is the kicker: alcohol before bed, an inconsistent bedtime, or a warm room can disrupt this circuit and tank your growth hormone output. Your sleep is not downtime. It is maintenance.",
+      "takeaway": "Protect your first two to three hours of sleep. Consistent bedtime, cool room, no nightcap. That window is your body's biggest hormone pulse of the day.",
+      "source": "UC Berkeley / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+      "pexelsQuery": "person sleeping bedroom dark",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
         "category": "sleep",
         "price_range": "$",
         "keywords": [
           "sleep",
-          "light blocking",
-          "blackout",
-          "travel",
+          "white noise",
+          "sound machine",
+          "insomnia",
           "sleep quality",
-          "melatonin",
-          "recovery"
+          "recovery",
+          "deep sleep"
         ],
-        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/6941126/pexels-photo-6941126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6941126/pexels-photo-6941126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "cottonbro studio",
-        "photographerUrl": "https://www.pexels.com/@cottonbro",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-a-bed-6941126/",
-        "avgColor": "#494E5B"
+        "url": "https://images.pexels.com/photos/9787924/pexels-photo-9787924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9787924/pexels-photo-9787924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marcus Aurelius",
+        "photographerUrl": "https://www.pexels.com/@marcus-aurelius",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-sleeping-beside-her-smartphone-9787924/",
+        "avgColor": "#C1C2C4"
       }
     },
     {
-      "category": "NUTRITION",
-      "headline": "The AHA Just Told You to Eat Less Meat. Here Is What That Actually Means.",
-      "body": "The American Heart Association just dropped its first updated dietary guidance since 2021, and the headline is clear: shift from meat to plant-based proteins. Published in Circulation, the new statement points to strong evidence linking legumes, nuts, and seeds with lower cardiovascular disease risk. It also takes a harder stance on ultra-processed foods, calling them out as a dedicated category to minimize. The kicker? Up to 80% of heart disease and stroke may be preventable through healthy lifestyle choices. That number should wake everyone up.",
-      "takeaway": "You do not have to go vegetarian. Start by swapping one meat-based meal per day for beans, lentils, or nuts. Small, consistent swaps add up.",
-      "pexelsQuery": "lentils beans legumes bowl",
-      "source": "Medical News Today / AHA Circulation",
-      "sourceUrl": "https://www.medicalnewstoday.com/articles/9-steps-improve-heart-health-diet-guidance-aha",
-      "photo": {
-        "url": "https://images.pexels.com/photos/7090130/pexels-photo-7090130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7090130/pexels-photo-7090130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Nasty  Fotografia",
-        "photographerUrl": "https://www.pexels.com/@nasty-fotografia-26650143",
-        "photoPageUrl": "https://www.pexels.com/photo/chickpeas-in-a-bowl-7090130/",
-        "avgColor": "#958E8E"
-      }
-    },
-    {
+      "id": "art-004",
       "category": "MENTAL PERFORMANCE",
-      "headline": "Exercise Works as Well as Therapy for Depression. Here Is the Dose.",
-      "body": "A major updated Cochrane review just confirmed it: regular exercise eases depression about as effectively as psychological therapy. Looking at the updated evidence, researchers found light to moderate intensity activity worked best, not all-out efforts. The sweet spot for benefits was completing between 13 and 36 sessions total. Programs combining different types of movement and resistance training outperformed aerobic exercise alone. This is not a replacement for professional care, but it is one of the most accessible mental health tools available.",
-      "takeaway": "You need about 3 to 9 months of consistent, moderate movement to feel the mental shift. Start with 3 days per week and build from there.",
-      "pexelsQuery": "person running park outdoors",
-      "source": "ScienceDaily / Cochrane Database",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "headline": "The AHA Just Issued a Wake-Up Call About Your Brain",
+      "body": "A new American Heart Association scientific statement published April 28 in the journal Stroke says brain health is not mostly genetic and it is not mostly about what happens when you get old. A growing body of evidence shows that mental health, sleep quality, diet, social connections, and physical activity shape how your brain functions and ages across your entire lifetime. The habits you build in your 30s and 40s are writing the story your brain tells in your 70s. Getting regular exercise, sleeping well, and managing stress have all shown consistent protective benefits.",
+      "takeaway": "Your brain is a long game. The lifestyle choices you make this week are investments in your cognitive health decades from now.",
+      "source": "American Heart Association / Stroke Journal",
+      "url": "https://newsroom.heart.org/news/brain-health-shaped-by-lifetime-mental-physical-environmental-and-lifestyle-factors",
+      "pexelsQuery": "person meditating nature outdoors",
+      "product": {
+        "id": "book-008",
+        "name": "Outlive - Peter Attia Audiobook",
+        "brand": "Peter Attia",
+        "asin": "B0B64WL9PK",
+        "url": "https://www.amazon.com/dp/B0B64WL9PK?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "longevity",
+          "health",
+          "aging",
+          "medicine",
+          "lifespan",
+          "book",
+          "audiobook",
+          "exercise"
+        ],
+        "blurb": "The definitive book on living longer and better. Required reading for anyone who trains."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/33407804/pexels-photo-33407804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/33407804/pexels-photo-33407804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Lawrence Su",
-        "photographerUrl": "https://www.pexels.com/@lawrence-su-1913420461",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-jogging-on-a-forest-trail-in-summer-33407804/",
-        "avgColor": "#556C3E"
+        "url": "https://images.pexels.com/photos/12666580/pexels-photo-12666580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12666580/pexels-photo-12666580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Shyamap Bhattacharyya",
+        "photographerUrl": "https://www.pexels.com/@shyamap-bhattacharyya-260670215",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-denim-jacket-listening-to-music-while-meditating-with-his-eyes-closed-12666580/",
+        "avgColor": "#656F79"
       }
     }
   ],
   "quote": {
     "text": "The first wealth is health.",
     "author": "Ralph Waldo Emerson",
-    "context": "19th-century American essayist and philosopher whose writing on self-reliance shaped modern ideas about personal responsibility."
+    "context": "19th-century American philosopher and essayist whose writing on self-reliance and human potential still shapes how we think about living well."
   },
   "workout": {
     "type": "PUSH",
     "title": "Press, Dip, Dominate",
     "duration": "30 min",
     "equipment": [
-      "none",
-      "chair or dip bar (optional)",
-      "floor"
+      "floor",
+      "chair or bench",
+      "optional dumbbells or backpack for resistance"
     ],
-    "warmup": "Spend 3 minutes moving through arm circles, shoulder rolls, and slow bodyweight squats to get blood flowing. Finish with 10 slow push-up negatives (lower yourself over 4 counts) to prime the chest and shoulders before loading up.",
+    "warmup": "Spend 3 minutes getting the shoulders and chest ready. Do 20 arm circles forward and back, 10 shoulder rolls, and 10 slow controlled push-ups with a 3-second descent. Your elbows should feel warm and your chest slightly activated before you hit set one.",
     "exercises": [
       {
         "name": "Push-Up",
         "sets": "4",
         "reps": "12-15",
-        "notes": "Hands just outside shoulder width, body in a straight line from head to heels. If 15 feels easy, slow the lowering phase to 3 counts."
+        "notes": "Hands just outside shoulder width. Keep your core braced and lower chest to within an inch of the floor. If full push-ups are too easy, elevate your feet on a chair. If too hard, drop to your knees and still focus on a slow descent."
       },
       {
         "name": "Pike Push-Up",
         "sets": "3",
         "reps": "10",
-        "notes": "Start in a downward-dog position, bend elbows to lower your head toward the floor. This targets the shoulders hard. Walk feet closer to hands to increase difficulty."
+        "notes": "Start in a downward dog position with hips high. Bend your elbows and lower your head toward the floor between your hands. This hammers the shoulders hard. Keep your neck neutral and do not let your hips drop."
       },
       {
-        "name": "Triceps Dip",
+        "name": "Tricep Dip",
         "sets": "3",
         "reps": "12",
-        "notes": "Use a sturdy chair or low table behind you, hands gripping the edge. Keep your back close to the surface and lower until elbows hit 90 degrees. Straighten legs to make it harder."
+        "notes": "Use a chair or low bench. Hands on the edge, fingers forward, feet extended in front of you. Lower until your elbows hit 90 degrees then press back up. Keep your back close to the chair throughout."
+      },
+      {
+        "name": "Wide Push-Up",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Place hands wider than normal, maybe 6 to 8 inches outside shoulders. This shifts more load to the chest. Lower slowly over 3 counts and explode up. Rest 60 seconds between sets."
       },
       {
         "name": "Diamond Push-Up",
         "sets": "3",
         "reps": "8-10",
-        "notes": "Form a triangle with your thumbs and index fingers beneath your chest. Crushes the inner chest and triceps. Drop to your knees if needed to keep form clean."
-      },
-      {
-        "name": "Wide Push-Up Hold (Isometric)",
-        "sets": "3",
-        "reps": "20-30 second hold",
-        "notes": "Lower to halfway down and hold. Feels brutal. Keep breathing. This builds serious chest and core stability without adding reps."
+        "notes": "Form a diamond shape with your thumbs and index fingers directly under your chest. This is a tricep burner. If the wrist angle feels uncomfortable, shift your hands slightly apart until it feels clean."
       }
     ],
-    "cooldown": "Spend 2 to 3 minutes in a doorway chest stretch and a cross-body shoulder stretch on each side. Breathe slowly and let the muscles decompress. You earned it.",
+    "cooldown": "Spend 2 minutes stretching. Hold a doorway chest stretch for 30 seconds on each side, then reach one arm across your chest and hold for 20 seconds per side to open the rear delt. Shake your hands out gently to release wrist tension.",
     "product": {
       "id": "str-001",
       "name": "Gymnastic Rings - Double Circle Wood",
@@ -162,28 +207,28 @@
     }
   },
   "meal": {
-    "title": "Spicy Turkey and White Bean Skillet",
-    "type": "dinner",
-    "prepTime": "20 min",
-    "calories": 470,
+    "title": "Greek Chicken Power Bowl",
+    "type": "lunch",
+    "prepTime": "15 min",
+    "calories": 480,
     "protein": 42,
-    "carbs": 34,
-    "fat": 16,
+    "carbs": 38,
+    "fat": 14,
     "ingredients": [
-      "340g (12 oz) lean ground turkey",
-      "1 can (400g) white beans, drained and rinsed",
-      "1 can (400g) diced tomatoes",
-      "1 cup baby spinach",
-      "1/2 onion, diced",
-      "2 cloves garlic, minced",
-      "1 tsp smoked paprika",
-      "1/2 tsp cumin",
-      "1/4 tsp red pepper flakes",
-      "Salt and black pepper to taste",
-      "1 tbsp olive oil"
+      "170g cooked chicken breast, sliced or shredded",
+      "1/2 cup cooked brown rice or quinoa",
+      "1/2 cup canned chickpeas, drained and rinsed",
+      "1/2 cup cherry tomatoes, halved",
+      "1/2 cucumber, diced",
+      "2 tablespoons hummus",
+      "1/4 cup low-fat Greek yogurt",
+      "juice of half a lemon",
+      "1 teaspoon dried oregano",
+      "salt and pepper to taste",
+      "optional: handful of baby spinach"
     ],
-    "instructions": "Heat olive oil in a large skillet over medium-high heat. Add onion and cook 2 to 3 minutes until soft, then add garlic and cook 30 seconds more. Add ground turkey and break it up, cooking until no longer pink, about 5 minutes. Stir in paprika, cumin, and red pepper flakes. Pour in diced tomatoes and white beans, stir to combine, and simmer 5 minutes until the sauce thickens slightly. Fold in spinach and cook 1 minute until wilted. Season with salt and pepper and serve straight from the pan.",
-    "tip": "Double the batch on Sunday and portion it into containers. Reheats perfectly in 90 seconds and pairs great with a handful of rice or crusty bread if you need more carbs post-workout.",
+    "instructions": "1. Cook or reheat your chicken breast and season with oregano, lemon juice, salt, and pepper. 2. Add the brown rice or quinoa to your bowl as the base, then layer on the chickpeas, tomatoes, cucumber, and spinach if using. 3. Place the sliced chicken on top, then add a scoop of hummus and a dollop of Greek yogurt on the side. 4. Squeeze extra lemon over the whole bowl and serve immediately.",
+    "tip": "Batch cook chicken and grains on Sunday and you can assemble this bowl in under 3 minutes on busy weekdays. The chickpeas add a solid fiber and protein punch without any extra cooking.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
