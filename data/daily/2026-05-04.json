@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-04",
+  "dateLabel": "Monday, May 4, 2026",
+  "generatedAt": "2026-05-04T00:02:57.548Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "headline": "The Tiny Organ in Your Chest That Could Predict How Long You Live",
+      "body": "Scientists at Mass General Brigham and Harvard just published two major studies in Nature that are rewriting what we know about the thymus. That small organ behind your breastbone trains your immune T-cells, but doctors assumed it went dormant after puberty. Not so fast. Using AI to scan over 25,000 adults, researchers found that people with a healthy thymus had about a 50% lower risk of death and a 63% lower risk of cardiovascular death. Chronic inflammation, smoking, and high body weight were all linked to worse thymic health. Another reason lifestyle matters more than you think.",
+      "takeaway": "Keep inflammation low. Manage your weight, skip cigarettes, and train consistently. Your immune system is aging in real time.",
+      "pexelsQuery": "chest xray scan medical",
+      "source": "Harvard Gazette / Mass General Brigham",
+      "sourceUrl": "https://news.harvard.edu/gazette/story/2026/03/thymus-may-be-critical-to-adult-health/",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-looking-at-x-ray-photo-4225925/",
+        "avgColor": "#8A949F"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "headline": "Vivid Dreams Are Actually a Sign Your Sleep Is Working",
+      "body": "Here is something you did not expect: dreaming more vividly may mean you are sleeping better. A new study published in PLOS Biology wired up participants for four nights, woke them over 1,000 times, and tracked what they were experiencing. The result? People reported their deepest, most restorative sleep not just during quiet blank periods, but after immersive, vivid dreams. Shallow sleep was tied to vague or fragmented experiences. Scientists say the quality of dream experience, not just hours logged, appears to shape how rested you actually feel.",
+      "takeaway": "Stop dismissing your dreams as noise. Rich dream life may be a sign your brain is doing its repair work. Protect your sleep environment to get there.",
+      "pexelsQuery": "person sleeping pillow bed",
+      "source": "ScienceDaily / PLOS Biology",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6941126/pexels-photo-6941126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6941126/pexels-photo-6941126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-a-bed-6941126/",
+        "avgColor": "#494E5B"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "headline": "The AHA Just Told You to Eat Less Meat. Here Is What That Actually Means.",
+      "body": "The American Heart Association just dropped its first updated dietary guidance since 2021, and the headline is clear: shift from meat to plant-based proteins. Published in Circulation, the new statement points to strong evidence linking legumes, nuts, and seeds with lower cardiovascular disease risk. It also takes a harder stance on ultra-processed foods, calling them out as a dedicated category to minimize. The kicker? Up to 80% of heart disease and stroke may be preventable through healthy lifestyle choices. That number should wake everyone up.",
+      "takeaway": "You do not have to go vegetarian. Start by swapping one meat-based meal per day for beans, lentils, or nuts. Small, consistent swaps add up.",
+      "pexelsQuery": "lentils beans legumes bowl",
+      "source": "Medical News Today / AHA Circulation",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/9-steps-improve-heart-health-diet-guidance-aha",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7090130/pexels-photo-7090130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7090130/pexels-photo-7090130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nasty  Fotografia",
+        "photographerUrl": "https://www.pexels.com/@nasty-fotografia-26650143",
+        "photoPageUrl": "https://www.pexels.com/photo/chickpeas-in-a-bowl-7090130/",
+        "avgColor": "#958E8E"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "headline": "Exercise Works as Well as Therapy for Depression. Here Is the Dose.",
+      "body": "A major updated Cochrane review just confirmed it: regular exercise eases depression about as effectively as psychological therapy. Looking at the updated evidence, researchers found light to moderate intensity activity worked best, not all-out efforts. The sweet spot for benefits was completing between 13 and 36 sessions total. Programs combining different types of movement and resistance training outperformed aerobic exercise alone. This is not a replacement for professional care, but it is one of the most accessible mental health tools available.",
+      "takeaway": "You need about 3 to 9 months of consistent, moderate movement to feel the mental shift. Start with 3 days per week and build from there.",
+      "pexelsQuery": "person running park outdoors",
+      "source": "ScienceDaily / Cochrane Database",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/33407804/pexels-photo-33407804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33407804/pexels-photo-33407804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Lawrence Su",
+        "photographerUrl": "https://www.pexels.com/@lawrence-su-1913420461",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-jogging-on-a-forest-trail-in-summer-33407804/",
+        "avgColor": "#556C3E"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The first wealth is health.",
+    "author": "Ralph Waldo Emerson",
+    "context": "19th-century American essayist and philosopher whose writing on self-reliance shaped modern ideas about personal responsibility."
+  },
+  "workout": {
+    "type": "PUSH",
+    "title": "Press, Dip, Dominate",
+    "duration": "30 min",
+    "equipment": [
+      "none",
+      "chair or dip bar (optional)",
+      "floor"
+    ],
+    "warmup": "Spend 3 minutes moving through arm circles, shoulder rolls, and slow bodyweight squats to get blood flowing. Finish with 10 slow push-up negatives (lower yourself over 4 counts) to prime the chest and shoulders before loading up.",
+    "exercises": [
+      {
+        "name": "Push-Up",
+        "sets": "4",
+        "reps": "12-15",
+        "notes": "Hands just outside shoulder width, body in a straight line from head to heels. If 15 feels easy, slow the lowering phase to 3 counts."
+      },
+      {
+        "name": "Pike Push-Up",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Start in a downward-dog position, bend elbows to lower your head toward the floor. This targets the shoulders hard. Walk feet closer to hands to increase difficulty."
+      },
+      {
+        "name": "Triceps Dip",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Use a sturdy chair or low table behind you, hands gripping the edge. Keep your back close to the surface and lower until elbows hit 90 degrees. Straighten legs to make it harder."
+      },
+      {
+        "name": "Diamond Push-Up",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "Form a triangle with your thumbs and index fingers beneath your chest. Crushes the inner chest and triceps. Drop to your knees if needed to keep form clean."
+      },
+      {
+        "name": "Wide Push-Up Hold (Isometric)",
+        "sets": "3",
+        "reps": "20-30 second hold",
+        "notes": "Lower to halfway down and hold. Feels brutal. Keep breathing. This builds serious chest and core stability without adding reps."
+      }
+    ],
+    "cooldown": "Spend 2 to 3 minutes in a doorway chest stretch and a cross-body shoulder stretch on each side. Breathe slowly and let the muscles decompress. You earned it.",
+    "product": {
+      "id": "str-001",
+      "name": "Gymnastic Rings - Double Circle Wood",
+      "brand": "Double Circle",
+      "asin": "B076X32LFY",
+      "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$",
+      "keywords": [
+        "gymnastics",
+        "rings",
+        "strength",
+        "bodyweight",
+        "upper body",
+        "pull-ups",
+        "dips",
+        "core",
+        "home gym"
+      ],
+      "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+    }
+  },
+  "meal": {
+    "title": "Spicy Turkey and White Bean Skillet",
+    "type": "dinner",
+    "prepTime": "20 min",
+    "calories": 470,
+    "protein": 42,
+    "carbs": 34,
+    "fat": 16,
+    "ingredients": [
+      "340g (12 oz) lean ground turkey",
+      "1 can (400g) white beans, drained and rinsed",
+      "1 can (400g) diced tomatoes",
+      "1 cup baby spinach",
+      "1/2 onion, diced",
+      "2 cloves garlic, minced",
+      "1 tsp smoked paprika",
+      "1/2 tsp cumin",
+      "1/4 tsp red pepper flakes",
+      "Salt and black pepper to taste",
+      "1 tbsp olive oil"
+    ],
+    "instructions": "Heat olive oil in a large skillet over medium-high heat. Add onion and cook 2 to 3 minutes until soft, then add garlic and cook 30 seconds more. Add ground turkey and break it up, cooking until no longer pink, about 5 minutes. Stir in paprika, cumin, and red pepper flakes. Pour in diced tomatoes and white beans, stir to combine, and simmer 5 minutes until the sauce thickens slightly. Fold in spinach and cook 1 minute until wilted. Season with salt and pepper and serve straight from the pan.",
+    "tip": "Double the batch on Sunday and portion it into containers. Reheats perfectly in 90 seconds and pairs great with a handful of rice or crusty bread if you need more carbs post-workout.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
