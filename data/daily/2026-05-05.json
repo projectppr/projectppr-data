@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-05",
+  "dateLabel": "Tuesday, May 5, 2026",
+  "generatedAt": "2026-05-05T00:15:39.030Z",
+  "articles": [
+    {
+      "id": "art-001",
+      "category": "LONGEVITY",
+      "headline": "The Overlooked Organ That Could Predict How Long You Live",
+      "body": "Scientists at Mass General Brigham used AI to analyze CT scans from more than 25,000 adults and found something surprising: the health of your thymus, a small gland in your chest, powerfully predicts how long you live. People with a healthy thymus had roughly a 50 percent lower risk of death, a 63 percent lower risk of dying from cardiovascular disease, and a 36 percent lower risk of developing lung cancer. The thymus trains your immune system's T-cells and most doctors assumed it went dormant after puberty. Turns out, it never really clocks out. Chronic inflammation, high body weight, and smoking were all linked to poorer thymic health.",
+      "takeaway": "Keep inflammation low. Stay at a healthy weight. Don't smoke. Your immune system is aging right alongside you.",
+      "source": "Mass General Brigham / Nature",
+      "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/thymus-critical-to-longevity-and-cancer-treatment",
+      "pexelsQuery": "chest xray scan medical",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-looking-at-x-ray-photo-4225925/",
+        "avgColor": "#8A949F"
+      }
+    },
+    {
+      "id": "art-002",
+      "category": "TRAINING",
+      "headline": "Your Body Starts Slowing Down at 35. Here's What to Do About It.",
+      "body": "A landmark 47-year Swedish study from Karolinska Institutet followed the same group of people from age 16 to 63 and found that fitness and strength begin declining around age 35, regardless of how much someone trained earlier in life. The decline gradually accelerates with age. But there's good news: people who started exercising later in adulthood still improved their physical capacity by 5 to 10 percent. The body keeps responding to training even when you think the window has closed. For anyone in their 30s, 40s, or 50s, this is your evidence that starting now is never a wasted move.",
+      "takeaway": "Don't wait for a health scare. The body responds to exercise at any age. Start or stay consistent now.",
+      "source": "Karolinska Institutet / Journal of Cachexia, Sarcopenia and Muscle",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035336.htm",
+      "pexelsQuery": "person running outdoor park",
+      "product": {
+        "id": "run-004",
+        "name": "HOKA Clifton 9",
+        "brand": "HOKA",
+        "asin": "B0CPBZ8668",
+        "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "shoes",
+          "daily trainer",
+          "cushion",
+          "marathon",
+          "recovery run",
+          "easy run"
+        ],
+        "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7849191/pexels-photo-7849191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7849191/pexels-photo-7849191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Centre for Ageing Better",
+        "photographerUrl": "https://www.pexels.com/@centre-for-ageing-better-55954677",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-active-wear-jogging-on-gray-asphalt-road-7849191/",
+        "avgColor": "#777346"
+      }
+    },
+    {
+      "id": "art-003",
+      "category": "MENTAL PERFORMANCE",
+      "headline": "Your Workout Is Basically Therapy. Science Just Confirmed It.",
+      "body": "A major updated Cochrane review analyzed 73 randomized controlled trials involving nearly 5,000 adults with depression. The verdict: exercise reduces depression symptoms to roughly the same degree as psychological therapy and possibly antidepressants, with far fewer side effects. Light to moderate intensity worked better than going hard, and completing 13 to 36 sessions was associated with the biggest improvements. Mixed programs combining different types of movement and resistance training outperformed aerobic exercise alone. The researchers described exercise as low-cost, widely accessible, and beneficial for both mind and body.",
+      "takeaway": "Even a 30-minute walk counts. Consistency across sessions matters more than intensity.",
+      "source": "Cochrane / University of Lancashire",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "pexelsQuery": "person walking nature trail",
+      "photo": {
+        "url": "https://images.pexels.com/photos/35497197/pexels-photo-35497197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/35497197/pexels-photo-35497197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Michael Li",
+        "photographerUrl": "https://www.pexels.com/@michael-li-483163181",
+        "photoPageUrl": "https://www.pexels.com/photo/person-enjoying-a-winter-walk-in-the-forest-35497197/",
+        "avgColor": "#353533"
+      }
+    },
+    {
+      "id": "art-004",
+      "category": "RECOVERY",
+      "headline": "Microplastics Are Showing Up Inside Heart Arteries. Should You Be Worried?",
+      "body": "A new review published in Cardiovascular Toxicology in March 2026 synthesized growing evidence that microplastics are turning up in human heart and artery tissue and may be an emerging cardiovascular risk factor. Human studies have found plastic particles in carotid plaques, coronary arteries, and cardiac tissue, with some data linking higher concentrations to greater risks of heart attack and stroke. Researchers are still working to establish whether microplastics directly cause damage or are a marker of broader inflammation. Right now, the clearest advice is practical: reduce single-use plastics, filter your drinking water, and limit processed foods packaged in plastic.",
+      "takeaway": "Swap plastic water bottles for glass or stainless steel and choose whole foods over ultra-processed options in plastic packaging.",
+      "source": "Cardiovascular Toxicology / Springer Nature",
+      "url": "https://link.springer.com/article/10.1007/s12012-026-10112-z",
+      "pexelsQuery": "plastic water bottle close up",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8217498/pexels-photo-8217498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8217498/pexels-photo-8217498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-person-s-hand-holding-a-bottle-of-water-8217498/",
+        "avgColor": "#B7CDCB"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "context": "American entrepreneur, author, and motivational speaker whose philosophy on personal development influenced a generation of coaches and leaders."
+  },
+  "workout": {
+    "type": "RUN",
+    "title": "Tuesday Tempo Ladder",
+    "duration": "35 min",
+    "equipment": [
+      "running shoes",
+      "watch or phone timer"
+    ],
+    "warmup": "Start with 8 minutes at an easy, conversational pace. Your breathing should be relaxed and comfortable. Finish with 30 seconds of light leg swings and ankle circles before picking up the effort.",
+    "exercises": [
+      {
+        "name": "Easy Base Run",
+        "sets": "1",
+        "reps": "8 min",
+        "notes": "Easy effort. You should be able to hold a full conversation. This gets blood moving and preps your legs."
+      },
+      {
+        "name": "Tempo Interval 1",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "Moderate-hard effort. Comfortably hard but controlled. Think 7 out of 10 on effort. You can speak a word or two, not a sentence."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Drop back to easy effort. Let your breathing settle before the next push."
+      },
+      {
+        "name": "Tempo Interval 2",
+        "sets": "1",
+        "reps": "5 min",
+        "notes": "Same moderate-hard effort as before. Stay tall, keep your arms relaxed, and drive with your hips. If you're gasping, back off a notch."
+      },
+      {
+        "name": "Easy Cool-Down Run",
+        "sets": "1",
+        "reps": "8 min",
+        "notes": "Return to easy conversational pace. Let your heart rate come down naturally. This is non-negotiable for recovery."
+      }
+    ],
+    "cooldown": "Walk for 3 to 5 minutes after your final easy jog. Finish with a 60-second standing quad stretch and a 60-second calf stretch on each side.",
+    "product": {
+      "id": "run-001",
+      "name": "Saucony Endorphin Speed 5",
+      "brand": "Saucony",
+      "asin": "B0DJWMR6YY",
+      "url": "https://www.amazon.com/dp/B0DJWMR6YY?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "marathon",
+        "5k",
+        "10k",
+        "half marathon",
+        "race",
+        "speed",
+        "carbon"
+      ],
+      "blurb": "The shoe Chris trains and races in. Fast, light, built for people who take running seriously."
+    }
+  },
+  "meal": {
+    "title": "Turkey and Egg Scramble with Spinach and Feta",
+    "type": "breakfast",
+    "prepTime": "12 min",
+    "calories": 430,
+    "protein": 42,
+    "carbs": 8,
+    "fat": 26,
+    "ingredients": [
+      "3 large eggs",
+      "3 oz lean ground turkey",
+      "1 cup fresh spinach",
+      "2 tbsp crumbled feta cheese",
+      "1/4 cup diced red onion",
+      "1 tsp olive oil",
+      "Salt, pepper, and garlic powder to taste"
+    ],
+    "instructions": "Heat olive oil in a nonstick pan over medium heat. Add ground turkey and diced onion, breaking the turkey apart as it cooks, about 4 to 5 minutes until no longer pink. Add spinach and stir until wilted, about 1 minute. Whisk eggs with a pinch of salt, pepper, and garlic powder, then pour over the turkey mixture. Stir gently until eggs are just set. Top with crumbled feta and serve immediately.",
+    "tip": "Cook the turkey the night before and refrigerate it. In the morning you just reheat, add eggs, and you are eating in under 5 minutes.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
