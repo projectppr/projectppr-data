@@ -1,234 +1,184 @@
 {
   "date": "2026-05-04",
   "dateLabel": "Monday, May 4, 2026",
-  "generatedAt": "2026-05-04T16:55:43.869Z",
+  "generatedAt": "2026-05-05T00:26:22.289Z",
   "articles": [
     {
-      "id": "art-001",
-      "category": "LONGEVITY",
-      "headline": "Mixing Up Your Workouts Could Add Years to Your Life",
-      "body": "Harvard researchers tracked 111,000 adults for 30 years and found something surprising: it's not just how much you exercise that matters. It's how many different kinds you do. People who mixed walking, lifting, cycling, and other activities had a 19% lower risk of premature death compared to those who stuck to one type. And that benefit held no matter how much total time they spent moving. The takeaway is simple. Your body adapts to what you repeat. Give it new demands and it pays you back with more years.",
-      "takeaway": "Add one new type of movement to your week. A swim, a hike, a yoga class. Variety is literally life-extending.",
-      "source": "Harvard T.H. Chan School of Public Health / BMJ Medicine",
-      "url": "https://hsph.harvard.edu/news/exercise-variety-not-just-amount-linked-to-lower-risk-of-premature-mortality/",
-      "pexelsQuery": "people running cycling park",
-      "photo": {
-        "url": "https://images.pexels.com/photos/15457899/pexels-photo-15457899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/15457899/pexels-photo-15457899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "ΓΑΒΡΙΗΛ ΠΟΥΛΤΟΥΡΤΖΙΔΗΣ",
-        "photographerUrl": "https://www.pexels.com/@447179906",
-        "photoPageUrl": "https://www.pexels.com/photo/people-jogging-walking-and-cycling-on-promenade-15457899/",
-        "avgColor": "#999999"
-      }
-    },
-    {
-      "id": "art-002",
       "category": "TRAINING",
-      "headline": "Being Strong Is Its Own Longevity Superpower",
-      "body": "A University at Buffalo study published in JAMA Network Open followed more than 5,000 women aged 63 to 99 and found that muscle strength cut death risk dramatically on its own. For every 7 kilograms of grip strength, mortality risk dropped 12%. The strongest women lived significantly longer, even after accounting for aerobic fitness, inflammation, and how much they moved. Even women who did not hit standard exercise guidelines benefited if they were stronger. Strength is not just about looking fit. It turns out it is one of the most powerful biological levers you have.",
-      "takeaway": "Test yourself: Can you do 5 sit-to-stand chair raises in under 11 seconds? That number is linked to your odds of living longer. Start training for it.",
-      "source": "University at Buffalo / JAMA Network Open",
-      "url": "https://www.buffalo.edu/news/releases/2026/02/lamonte-jama-network-open-muscle-strength-mortality-risk.html",
-      "pexelsQuery": "woman lifting weights gym",
-      "product": {
-        "id": "str-001",
-        "name": "Gymnastic Rings - Double Circle Wood",
-        "brand": "Double Circle",
-        "asin": "B076X32LFY",
-        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
-        "category": "strength",
-        "price_range": "$",
-        "keywords": [
-          "gymnastics",
-          "rings",
-          "strength",
-          "bodyweight",
-          "upper body",
-          "pull-ups",
-          "dips",
-          "core",
-          "home gym"
-        ],
-        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
-      },
+      "headline": "The Fitter You Get, the Bigger Your Brain Boost from Every Workout",
+      "body": "A new UCL study published in Brain Research found that getting fitter does not just make your body stronger — it makes your brain respond better to exercise too. Researchers put inactive people through 12 weeks of cycling three times a week. As fitness improved, the brain released significantly more BDNF — a protein that grows new brain cells and strengthens connections — after each workout. Even a 15-minute session triggered the spike. The takeaway: consistency compounds. The more you show up, the smarter your brain gets from every single session.",
+      "takeaway": "Show up consistently. Every workout builds a bigger brain payoff for the next one.",
+      "pexelsQuery": "woman cycling gym",
+      "source": "Medical Xpress / Brain Research Journal",
+      "url": "https://medicalxpress.com/news/2026-03-amplify-brain-boost.html",
       "photo": {
-        "url": "https://images.pexels.com/photos/4853656/pexels-photo-4853656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4853656/pexels-photo-4853656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ketut Subiyanto",
-        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
-        "photoPageUrl": "https://www.pexels.com/photo/a-man-lifting-a-barbell-with-weight-plates-4853656/",
-        "avgColor": "#847269"
+        "url": "https://images.pexels.com/photos/6388524/pexels-photo-6388524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6388524/pexels-photo-6388524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/a-grayscale-of-a-woman-training-on-an-air-bike-6388524/",
+        "avgColor": "#727272"
       }
     },
     {
-      "id": "art-003",
-      "category": "SLEEP",
-      "headline": "Scientists Just Found the Brain Switch That Builds Muscle While You Sleep",
-      "body": "UC Berkeley researchers published a landmark study in Cell that finally explains why deep sleep is so critical for your body. They mapped the exact brain circuits that trigger growth hormone release during non-REM sleep, the stage you hit in the first two to three hours of the night. That hormone drives muscle repair, fat metabolism, bone density, and cognitive function. Here is the kicker: alcohol before bed, an inconsistent bedtime, or a warm room can disrupt this circuit and tank your growth hormone output. Your sleep is not downtime. It is maintenance.",
-      "takeaway": "Protect your first two to three hours of sleep. Consistent bedtime, cool room, no nightcap. That window is your body's biggest hormone pulse of the day.",
-      "source": "UC Berkeley / ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
-      "pexelsQuery": "person sleeping bedroom dark",
-      "product": {
-        "id": "slp-001",
-        "name": "LectroFan White Noise Machine",
-        "brand": "LectroFan",
-        "asin": "B00E6D6LQY",
-        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
-        "category": "sleep",
-        "price_range": "$",
-        "keywords": [
-          "sleep",
-          "white noise",
-          "sound machine",
-          "insomnia",
-          "sleep quality",
-          "recovery",
-          "deep sleep"
-        ],
-        "blurb": "Blocks ambient noise so your sleep is actually restorative."
-      },
+      "category": "LONGEVITY",
+      "headline": "You Don't Have to Walk Every Day. Just Walk Enough on the Days You Do.",
+      "body": "New research is quietly burying the '10,000 steps every day' rule. A study published just this week found that hitting 8,000 steps on just one or two days a week is linked to a 15% reduction in mortality risk. Separate Harvard research confirmed that walking for longer stretches — even 10 to 15 minutes at a time — beats scattered short bursts for heart health and longevity. The message is clear: consistency matters, but perfection does not. Two solid walks on your busiest week still moves the needle in a big way.",
+      "takeaway": "Aim for 8,000 steps on at least two days a week — even if the rest of the week is chaos.",
+      "pexelsQuery": "person walking outdoors path",
+      "source": "YourNews / Harvard T.H. Chan School of Public Health",
+      "url": "https://yournews.com/2026/05/01/6875911/new-study-walking-8000-steps-just-1-2-days-a-week/",
       "photo": {
-        "url": "https://images.pexels.com/photos/9787924/pexels-photo-9787924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/9787924/pexels-photo-9787924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Marcus Aurelius",
-        "photographerUrl": "https://www.pexels.com/@marcus-aurelius",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-sleeping-beside-her-smartphone-9787924/",
-        "avgColor": "#C1C2C4"
+        "url": "https://images.pexels.com/photos/5385905/pexels-photo-5385905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5385905/pexels-photo-5385905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/back-view-of-person-walking-on-pathway-between-green-trees-5385905/",
+        "avgColor": "#41442A"
       }
     },
     {
-      "id": "art-004",
       "category": "MENTAL PERFORMANCE",
-      "headline": "The AHA Just Issued a Wake-Up Call About Your Brain",
-      "body": "A new American Heart Association scientific statement published April 28 in the journal Stroke says brain health is not mostly genetic and it is not mostly about what happens when you get old. A growing body of evidence shows that mental health, sleep quality, diet, social connections, and physical activity shape how your brain functions and ages across your entire lifetime. The habits you build in your 30s and 40s are writing the story your brain tells in your 70s. Getting regular exercise, sleeping well, and managing stress have all shown consistent protective benefits.",
-      "takeaway": "Your brain is a long game. The lifestyle choices you make this week are investments in your cognitive health decades from now.",
-      "source": "American Heart Association / Stroke Journal",
-      "url": "https://newsroom.heart.org/news/brain-health-shaped-by-lifetime-mental-physical-environmental-and-lifestyle-factors",
-      "pexelsQuery": "person meditating nature outdoors",
+      "headline": "Your Gym Supplement Might Also Be Protecting Your Brain",
+      "body": "Creatine has long been the go-to for strength and power. Now scientists are taking a hard look at what it does above the neck. A major review published by ScienceDaily this week found that creatine may support memory, mood, and mental processing speed — particularly in older adults and people with naturally lower levels. About 5% of your body's creatine lives in your brain, where it fuels cellular energy under stress. Emerging data also suggests it can buffer the cognitive fog that comes with poor sleep. Still early, but the evidence is building fast.",
+      "takeaway": "If you're already taking creatine for strength, know it may be doing double duty for your brain too.",
+      "pexelsQuery": "supplement powder scoop white",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
       "product": {
-        "id": "book-008",
-        "name": "Outlive - Peter Attia Audiobook",
-        "brand": "Peter Attia",
-        "asin": "B0B64WL9PK",
-        "url": "https://www.amazon.com/dp/B0B64WL9PK?tag=chrisolson04-20",
-        "category": "books",
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
         "price_range": "$$",
         "keywords": [
-          "longevity",
-          "health",
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
           "aging",
-          "medicine",
-          "lifespan",
-          "book",
-          "audiobook",
-          "exercise"
+          "endurance"
         ],
-        "blurb": "The definitive book on living longer and better. Required reading for anyone who trains."
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/12666580/pexels-photo-12666580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/12666580/pexels-photo-12666580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Shyamap Bhattacharyya",
-        "photographerUrl": "https://www.pexels.com/@shyamap-bhattacharyya-260670215",
-        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-denim-jacket-listening-to-music-while-meditating-with-his-eyes-closed-12666580/",
-        "avgColor": "#656F79"
+        "url": "https://images.pexels.com/photos/7526074/pexels-photo-7526074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7526074/pexels-photo-7526074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nataliya Vaitkevich",
+        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
+        "photoPageUrl": "https://www.pexels.com/photo/glass-bottles-containing-medicines-7526074/",
+        "avgColor": "#D9B24B"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "headline": "The New Protein Target Most People Are Still Missing at Breakfast",
+      "body": "The 2025-2030 Dietary Guidelines for Americans, analyzed in a new Journal of Nutrition paper, now recommend 1.2 to 1.6 grams of protein per kilogram of body weight daily — well above the old standard. For a 175-pound person, that is around 95 to 130 grams per day. The catch? Most Americans load up at dinner and skip protein at breakfast, crossing the muscle-building threshold only once or twice a day. Research shows you need 25 to 40 grams of quality protein per meal to actually trigger muscle protein synthesis — not just hit a daily total.",
+      "takeaway": "Front-load your protein. Aim for 30 grams at breakfast, not just dinner.",
+      "pexelsQuery": "eggs chicken breast meal prep",
+      "source": "The Journal of Nutrition",
+      "url": "https://jn.nutrition.org/article/S0022-3166(26)00126-4/pdf",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4827131/pexels-photo-4827131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4827131/pexels-photo-4827131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-cooking-eggs-4827131/",
+        "avgColor": "#756F69"
       }
     }
   ],
   "quote": {
-    "text": "The first wealth is health.",
-    "author": "Ralph Waldo Emerson",
-    "context": "19th-century American philosopher and essayist whose writing on self-reliance and human potential still shapes how we think about living well."
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "context": "Ancient Greek philosopher whose ideas on habit and virtue still underpin modern behavioral science."
   },
   "workout": {
     "type": "PUSH",
-    "title": "Press, Dip, Dominate",
+    "title": "Press & Burn: Monday Push",
     "duration": "30 min",
     "equipment": [
-      "floor",
-      "chair or bench",
-      "optional dumbbells or backpack for resistance"
+      "none (or light dumbbells optional)"
     ],
-    "warmup": "Spend 3 minutes getting the shoulders and chest ready. Do 20 arm circles forward and back, 10 shoulder rolls, and 10 slow controlled push-ups with a 3-second descent. Your elbows should feel warm and your chest slightly activated before you hit set one.",
+    "warmup": "Spend 3 minutes loosening up: 10 arm circles each direction, 10 shoulder rolls, and 15 slow bodyweight squats to wake up the posterior chain. Finish with 10 cat-cow stretches to open the chest.",
     "exercises": [
       {
         "name": "Push-Up",
         "sets": "4",
         "reps": "12-15",
-        "notes": "Hands just outside shoulder width. Keep your core braced and lower chest to within an inch of the floor. If full push-ups are too easy, elevate your feet on a chair. If too hard, drop to your knees and still focus on a slow descent."
+        "notes": "Hands just outside shoulder width, core tight, full range of motion. Drop to knees if you need to keep quality high."
       },
       {
         "name": "Pike Push-Up",
         "sets": "3",
         "reps": "10",
-        "notes": "Start in a downward dog position with hips high. Bend your elbows and lower your head toward the floor between your hands. This hammers the shoulders hard. Keep your neck neutral and do not let your hips drop."
-      },
-      {
-        "name": "Tricep Dip",
-        "sets": "3",
-        "reps": "12",
-        "notes": "Use a chair or low bench. Hands on the edge, fingers forward, feet extended in front of you. Lower until your elbows hit 90 degrees then press back up. Keep your back close to the chair throughout."
+        "notes": "Hips high in a pike position, lower your head toward the floor. This targets the shoulders. The higher your hips, the harder it gets."
       },
       {
         "name": "Wide Push-Up",
         "sets": "3",
-        "reps": "10",
-        "notes": "Place hands wider than normal, maybe 6 to 8 inches outside shoulders. This shifts more load to the chest. Lower slowly over 3 counts and explode up. Rest 60 seconds between sets."
+        "reps": "12",
+        "notes": "Hands wider than shoulders to emphasize the chest. Focus on squeezing the chest at the top of each rep."
       },
       {
         "name": "Diamond Push-Up",
         "sets": "3",
         "reps": "8-10",
-        "notes": "Form a diamond shape with your thumbs and index fingers directly under your chest. This is a tricep burner. If the wrist angle feels uncomfortable, shift your hands slightly apart until it feels clean."
+        "notes": "Hands together under your chest, elbows track back, not out. These are tough. Scale to a decline or incline surface as needed."
+      },
+      {
+        "name": "Dip (Chair or Bench)",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hands on a sturdy chair or bench behind you, lower until your arms hit 90 degrees. Lean slightly forward to hit the chest more. Keep your feet flat on the floor."
       }
     ],
-    "cooldown": "Spend 2 minutes stretching. Hold a doorway chest stretch for 30 seconds on each side, then reach one arm across your chest and hold for 20 seconds per side to open the rear delt. Shake your hands out gently to release wrist tension.",
+    "cooldown": "Finish with a 90-second chest doorframe stretch on each side and 60 seconds of slow deep breathing to bring your heart rate down. Roll out the shoulders if you have a foam roller handy.",
     "product": {
-      "id": "str-001",
-      "name": "Gymnastic Rings - Double Circle Wood",
-      "brand": "Double Circle",
-      "asin": "B076X32LFY",
-      "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
-      "category": "strength",
+      "id": "rec-001",
+      "name": "TriggerPoint GRID Foam Roller",
+      "brand": "TriggerPoint",
+      "asin": "B0040EGNIU",
+      "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+      "category": "recovery",
       "price_range": "$",
       "keywords": [
-        "gymnastics",
-        "rings",
-        "strength",
-        "bodyweight",
-        "upper body",
-        "pull-ups",
-        "dips",
-        "core",
-        "home gym"
+        "foam roller",
+        "recovery",
+        "muscle soreness",
+        "flexibility",
+        "mobility",
+        "IT band",
+        "running",
+        "triathlon"
       ],
-      "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
     }
   },
   "meal": {
-    "title": "Greek Chicken Power Bowl",
-    "type": "lunch",
-    "prepTime": "15 min",
-    "calories": 480,
+    "title": "Cottage Cheese Power Bowl with Smoked Salmon and Everything Bagel Seasoning",
+    "type": "breakfast",
+    "prepTime": "5 min",
+    "calories": 420,
     "protein": 42,
-    "carbs": 38,
-    "fat": 14,
+    "carbs": 22,
+    "fat": 16,
     "ingredients": [
-      "170g cooked chicken breast, sliced or shredded",
-      "1/2 cup cooked brown rice or quinoa",
-      "1/2 cup canned chickpeas, drained and rinsed",
-      "1/2 cup cherry tomatoes, halved",
-      "1/2 cucumber, diced",
-      "2 tablespoons hummus",
-      "1/4 cup low-fat Greek yogurt",
-      "juice of half a lemon",
-      "1 teaspoon dried oregano",
-      "salt and pepper to taste",
-      "optional: handful of baby spinach"
+      "1 cup full-fat cottage cheese (4% milkfat)",
+      "3 oz smoked salmon",
+      "2 tbsp everything bagel seasoning",
+      "1/4 avocado, sliced",
+      "1/4 cup cherry tomatoes, halved",
+      "1 slice whole grain toast or 2 rice cakes",
+      "Fresh lemon juice to taste"
     ],
-    "instructions": "1. Cook or reheat your chicken breast and season with oregano, lemon juice, salt, and pepper. 2. Add the brown rice or quinoa to your bowl as the base, then layer on the chickpeas, tomatoes, cucumber, and spinach if using. 3. Place the sliced chicken on top, then add a scoop of hummus and a dollop of Greek yogurt on the side. 4. Squeeze extra lemon over the whole bowl and serve immediately.",
-    "tip": "Batch cook chicken and grains on Sunday and you can assemble this bowl in under 3 minutes on busy weekdays. The chickpeas add a solid fiber and protein punch without any extra cooking.",
+    "instructions": "Scoop cottage cheese into a bowl. Layer smoked salmon on top. Add avocado slices and cherry tomatoes. Sprinkle generously with everything bagel seasoning and a squeeze of lemon. Serve with toast or rice cakes on the side.",
+    "tip": "Make a double batch of the base the night before — cottage cheese and seasoning keep overnight in the fridge. Just add the fresh toppings in the morning and you are out the door in 3 minutes.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
