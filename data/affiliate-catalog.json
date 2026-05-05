@@ -1,0 +1,1032 @@
+{
+  "version": "1.3",
+  "updated": "2026-05-02",
+  "tag": "chrisolson04-20",
+  "products": [
+    {
+      "id": "run-001",
+      "name": "Saucony Endorphin Speed 5",
+      "brand": "Saucony",
+      "asin": "B0DJWMR6YY",
+      "url": "https://www.amazon.com/dp/B0DJWMR6YY?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "marathon",
+        "5k",
+        "10k",
+        "half marathon",
+        "race",
+        "speed",
+        "carbon"
+      ],
+      "blurb": "The shoe Chris trains and races in. Fast, light, built for people who take running seriously."
+    },
+    {
+      "id": "run-002",
+      "name": "Nike Vaporfly 3",
+      "brand": "Nike",
+      "asin": "B0DJGCM7LK",
+      "url": "https://www.amazon.com/dp/B0DJGCM7LK?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$$",
+      "keywords": [
+        "running",
+        "race",
+        "marathon",
+        "carbon plate",
+        "fast",
+        "PR",
+        "race day"
+      ],
+      "blurb": "The shoe that rewrote marathon records. Save it for race day."
+    },
+    {
+      "id": "run-003",
+      "name": "Nike Vaporfly 3 (Alt)",
+      "brand": "Nike",
+      "asin": "B0DJGC25X8",
+      "url": "https://www.amazon.com/dp/B0DJGC25X8?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$$",
+      "keywords": [
+        "running",
+        "race",
+        "marathon",
+        "carbon plate",
+        "fast",
+        "PR"
+      ],
+      "blurb": "The shoe that rewrote marathon records. Save it for race day."
+    },
+    {
+      "id": "run-004",
+      "name": "HOKA Clifton 9",
+      "brand": "HOKA",
+      "asin": "B0CPBZ8668",
+      "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "daily trainer",
+        "cushion",
+        "marathon",
+        "recovery run",
+        "easy run"
+      ],
+      "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+    },
+    {
+      "id": "run-005",
+      "name": "On Cloudmonster 2",
+      "brand": "On Running",
+      "asin": "B0C5QJN4PX",
+      "url": "https://www.amazon.com/dp/B0C5QJN4PX?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "cushion",
+        "daily trainer",
+        "road",
+        "marathon"
+      ],
+      "blurb": "Pillowy cushion meets responsive ride. A serious daily trainer."
+    },
+    {
+      "id": "run-006",
+      "name": "Brooks Glycerin 22",
+      "brand": "Brooks",
+      "asin": "B0DYGHK9S3",
+      "url": "https://www.amazon.com/dp/B0DYGHK9S3?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "daily trainer",
+        "cushion",
+        "marathon",
+        "road",
+        "easy run"
+      ],
+      "blurb": "The gold standard daily trainer. Soft enough for easy days, structured enough for long runs."
+    },
+    {
+      "id": "run-007",
+      "name": "HOKA Speedgoat 6 Trail Shoes",
+      "brand": "HOKA",
+      "asin": "B0CP3SLDX8",
+      "url": "https://www.amazon.com/dp/B0CP3SLDX8?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "trail running",
+        "shoes",
+        "hiking",
+        "outdoor",
+        "nature",
+        "off-road",
+        "grip"
+      ],
+      "blurb": "Dominate the trails. Maximum grip and cushion for off-road runs."
+    },
+    {
+      "id": "watch-001",
+      "name": "Garmin Forerunner 255",
+      "brand": "Garmin",
+      "asin": "B09WTYT878",
+      "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+      "category": "wearables",
+      "price_range": "$$$",
+      "keywords": [
+        "triathlon",
+        "running",
+        "cycling",
+        "swimming",
+        "gps",
+        "watch",
+        "heart rate",
+        "training load",
+        "garmin"
+      ],
+      "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+    },
+    {
+      "id": "watch-002",
+      "name": "Garmin Forerunner 165",
+      "brand": "Garmin",
+      "asin": "B0CWB662HK",
+      "url": "https://www.amazon.com/dp/B0CWB662HK?tag=chrisolson04-20",
+      "category": "wearables",
+      "price_range": "$$",
+      "keywords": [
+        "running",
+        "gps",
+        "watch",
+        "heart rate",
+        "beginner",
+        "triathlon",
+        "fitness tracker",
+        "garmin"
+      ],
+      "blurb": "The best entry-level Garmin. Everything you need to start training with data."
+    },
+    {
+      "id": "watch-003",
+      "name": "Garmin Forerunner 955 Solar",
+      "brand": "Garmin",
+      "asin": "B09WT9PF2N",
+      "url": "https://www.amazon.com/dp/B09WT9PF2N?tag=chrisolson04-20",
+      "category": "wearables",
+      "price_range": "$$$$",
+      "keywords": [
+        "triathlon",
+        "running",
+        "cycling",
+        "swimming",
+        "gps",
+        "solar",
+        "ironman",
+        "70.3",
+        "advanced",
+        "garmin"
+      ],
+      "blurb": "Built for long-course racing. Solar charging means you never run out of battery mid-race."
+    },
+    {
+      "id": "watch-004",
+      "name": "Garmin Forerunner Music",
+      "brand": "Garmin",
+      "asin": "B09WTV6MMY",
+      "url": "https://www.amazon.com/dp/B09WTV6MMY?tag=chrisolson04-20",
+      "category": "wearables",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "music",
+        "gps",
+        "watch",
+        "garmin",
+        "training",
+        "no phone",
+        "wireless"
+      ],
+      "blurb": "Leave your phone at home. GPS and music in one watch."
+    },
+    {
+      "id": "tech-001",
+      "name": "Ray-Ban Meta Smart Glasses",
+      "brand": "Ray-Ban",
+      "asin": "B0FLYDJHB4",
+      "url": "https://www.amazon.com/dp/B0FLYDJHB4?tag=chrisolson04-20",
+      "category": "tech",
+      "price_range": "$$$",
+      "keywords": [
+        "smart glasses",
+        "wearable",
+        "tech",
+        "audio",
+        "lifestyle",
+        "hands-free",
+        "daily carry"
+      ],
+      "blurb": "Sunglasses that play music, take calls, and keep you present. Chris uses these daily."
+    },
+    {
+      "id": "sensor-001",
+      "name": "Garmin HRM-Pro Heart Rate Strap",
+      "brand": "Garmin",
+      "asin": "B0F7ZGDDCX",
+      "url": "https://www.amazon.com/dp/B0F7ZGDDCX?tag=chrisolson04-20",
+      "category": "wearables",
+      "price_range": "$$",
+      "keywords": [
+        "heart rate",
+        "hrm",
+        "training zones",
+        "zone 2",
+        "garmin",
+        "triathlon",
+        "running",
+        "cycling",
+        "accuracy"
+      ],
+      "blurb": "Chest strap accuracy beats wrist sensors every time. Essential for zone 2 training."
+    },
+    {
+      "id": "sensor-002",
+      "name": "Garmin Speed and Cadence Sensor",
+      "brand": "Garmin",
+      "asin": "B0DRWCB7HT",
+      "url": "https://www.amazon.com/dp/B0DRWCB7HT?tag=chrisolson04-20",
+      "category": "cycling",
+      "price_range": "$$",
+      "keywords": [
+        "cycling",
+        "bike",
+        "cadence",
+        "speed",
+        "sensor",
+        "garmin",
+        "triathlon",
+        "data"
+      ],
+      "blurb": "Real cycling data without a power meter. Track speed and cadence on any bike."
+    },
+    {
+      "id": "tri-001",
+      "name": "Zone3 Aspect Wetsuit",
+      "brand": "Zone3",
+      "asin": "B08TT2BL2M",
+      "url": "https://www.amazon.com/dp/B08TT2BL2M?tag=chrisolson04-20",
+      "category": "triathlon",
+      "price_range": "$$$",
+      "keywords": [
+        "swimming",
+        "triathlon",
+        "wetsuit",
+        "open water",
+        "70.3",
+        "ironman",
+        "race"
+      ],
+      "blurb": "Fast, flexible, and legal in all races. The best value wetsuit in triathlon."
+    },
+    {
+      "id": "tri-002",
+      "name": "SLS3 Tri Suit",
+      "brand": "SLS3",
+      "asin": "B0F4DD986L",
+      "url": "https://www.amazon.com/dp/B0F4DD986L?tag=chrisolson04-20",
+      "category": "triathlon",
+      "price_range": "$$$",
+      "keywords": [
+        "triathlon",
+        "tri suit",
+        "race kit",
+        "70.3",
+        "ironman",
+        "swim bike run"
+      ],
+      "blurb": "One kit from swim to finish line. Saves time in transition and looks sharp doing it."
+    },
+    {
+      "id": "tri-003",
+      "name": "Fitletic Race Belt",
+      "brand": "Fitletic",
+      "asin": "B00A49V0LA",
+      "url": "https://www.amazon.com/dp/B00A49V0LA?tag=chrisolson04-20",
+      "category": "triathlon",
+      "price_range": "$",
+      "keywords": [
+        "triathlon",
+        "race belt",
+        "bib number",
+        "transition",
+        "running",
+        "race day"
+      ],
+      "blurb": "Never fumble with a bib number again. Clip it on in transition and go."
+    },
+    {
+      "id": "tri-004",
+      "name": "Wahoo KICKR CORE 2 with Zwift Cog",
+      "brand": "Wahoo",
+      "asin": "B0FLQDCR7X",
+      "url": "https://www.amazon.com/dp/B0FLQDCR7X?tag=chrisolson04-20",
+      "category": "cycling",
+      "price_range": "$$$$",
+      "keywords": [
+        "cycling",
+        "bike",
+        "triathlon",
+        "indoor training",
+        "zwift",
+        "trainer",
+        "70.3",
+        "ironman",
+        "kickr"
+      ],
+      "blurb": "The gold standard indoor trainer. Pairs with Zwift for real course simulation."
+    },
+    {
+      "id": "tri-005",
+      "name": "Wahoo KICKR CORE 2 11 Speed",
+      "brand": "Wahoo",
+      "asin": "B0FLQCKQC8",
+      "url": "https://www.amazon.com/dp/B0FLQCKQC8?tag=chrisolson04-20",
+      "category": "cycling",
+      "price_range": "$$$$",
+      "keywords": [
+        "cycling",
+        "bike",
+        "triathlon",
+        "indoor training",
+        "zwift",
+        "trainer",
+        "kickr"
+      ],
+      "blurb": "Serious indoor training for serious triathletes. Ride Zwift courses or just grind out watts."
+    },
+    {
+      "id": "tri-006",
+      "name": "Sportneer Indoor Bike Trainer",
+      "brand": "Sportneer",
+      "asin": "B071HQFKBY",
+      "url": "https://www.amazon.com/dp/B071HQFKBY?tag=chrisolson04-20",
+      "category": "cycling",
+      "price_range": "$$",
+      "keywords": [
+        "cycling",
+        "bike trainer",
+        "indoor training",
+        "triathlon",
+        "budget",
+        "beginner"
+      ],
+      "blurb": "Train on your own bike indoors. The entry point to consistent cycling fitness."
+    },
+    {
+      "id": "swim-001",
+      "name": "Speedo Vanquisher 2.0 Goggles",
+      "brand": "Speedo",
+      "asin": "B001GFLSIQ",
+      "url": "https://www.amazon.com/dp/B001GFLSIQ?tag=chrisolson04-20",
+      "category": "swimming",
+      "price_range": "$",
+      "keywords": [
+        "swimming",
+        "goggles",
+        "triathlon",
+        "pool",
+        "open water",
+        "speed",
+        "clarity"
+      ],
+      "blurb": "The goggle Chris swims in. Trusted by competitive swimmers for decades."
+    },
+    {
+      "id": "swim-002",
+      "name": "NEAGLORY Pull Buoy Float",
+      "brand": "NEAGLORY",
+      "asin": "B08ZMMCF5T",
+      "url": "https://www.amazon.com/dp/B08ZMMCF5T?tag=chrisolson04-20",
+      "category": "swimming",
+      "price_range": "$",
+      "keywords": [
+        "swimming",
+        "pull buoy",
+        "triathlon",
+        "technique",
+        "upper body",
+        "pool",
+        "drills"
+      ],
+      "blurb": "Isolates your upper body to build swim-specific strength and fix your technique."
+    },
+    {
+      "id": "swim-003",
+      "name": "New Wave Swim Buoy",
+      "brand": "New Wave",
+      "asin": "B072MMKXT3",
+      "url": "https://www.amazon.com/dp/B072MMKXT3?tag=chrisolson04-20",
+      "category": "swimming",
+      "price_range": "$",
+      "keywords": [
+        "open water",
+        "swimming",
+        "safety",
+        "triathlon",
+        "buoy",
+        "visibility",
+        "ironman",
+        "70.3"
+      ],
+      "blurb": "Non-negotiable for open water training. Keeps you visible and gives you a float if you need it."
+    },
+    {
+      "id": "nut-001",
+      "name": "Skratch Labs Hydration Mix",
+      "brand": "Skratch Labs",
+      "asin": "B075NDRY1C",
+      "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+      "category": "nutrition",
+      "price_range": "$$",
+      "keywords": [
+        "hydration",
+        "electrolytes",
+        "running",
+        "cycling",
+        "triathlon",
+        "endurance",
+        "sports drink",
+        "fueling"
+      ],
+      "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+    },
+    {
+      "id": "nut-002",
+      "name": "Maurten Gel 100 - 12 Pack",
+      "brand": "Maurten",
+      "asin": "B07H319S3V",
+      "url": "https://www.amazon.com/dp/B07H319S3V?tag=chrisolson04-20",
+      "category": "nutrition",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "marathon",
+        "race nutrition",
+        "gel",
+        "energy",
+        "carbohydrates",
+        "fueling",
+        "endurance",
+        "triathlon"
+      ],
+      "blurb": "What the elites use at race distance. Clean fuel that actually works at pace."
+    },
+    {
+      "id": "nut-003",
+      "name": "Maurten 320 Drink Mix - 14 Pack",
+      "brand": "Maurten",
+      "asin": "B07677YMQT",
+      "url": "https://www.amazon.com/dp/B07677YMQT?tag=chrisolson04-20",
+      "category": "nutrition",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "marathon",
+        "triathlon",
+        "drink mix",
+        "carbohydrates",
+        "fueling",
+        "endurance",
+        "long ride"
+      ],
+      "blurb": "High-carb fuel for long rides and runs. What elites use at race distance."
+    },
+    {
+      "id": "nut-004",
+      "name": "Nathan QuickStart 2.0 Hydration Pack",
+      "brand": "Nathan",
+      "asin": "B0DSZ74R1J",
+      "url": "https://www.amazon.com/dp/B0DSZ74R1J?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$",
+      "keywords": [
+        "hydration",
+        "running",
+        "vest",
+        "long run",
+        "trail",
+        "marathon",
+        "water",
+        "pack"
+      ],
+      "blurb": "Carry everything you need on long runs without holding anything in your hands."
+    },
+    {
+      "id": "nut-005",
+      "name": "Salomon ADV Skin 12 Hydration Vest",
+      "brand": "Salomon",
+      "asin": "B0992DZD2W",
+      "url": "https://www.amazon.com/dp/B0992DZD2W?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$$",
+      "keywords": [
+        "hydration",
+        "trail running",
+        "vest",
+        "ultramarathon",
+        "long run",
+        "pack",
+        "endurance"
+      ],
+      "blurb": "The vest serious trail runners trust. Fits like a second skin, carries everything you need."
+    },
+    {
+      "id": "str-001",
+      "name": "Gymnastic Rings - Double Circle Wood",
+      "brand": "Double Circle",
+      "asin": "B076X32LFY",
+      "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$",
+      "keywords": [
+        "gymnastics",
+        "rings",
+        "strength",
+        "bodyweight",
+        "upper body",
+        "pull-ups",
+        "dips",
+        "core",
+        "home gym"
+      ],
+      "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+    },
+    {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    },
+    {
+      "id": "str-003",
+      "name": "Harbinger Padded Lifting Belt",
+      "brand": "Harbinger",
+      "asin": "B0F4HW62T4",
+      "url": "https://www.amazon.com/dp/B0F4HW62T4?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$",
+      "keywords": [
+        "lifting",
+        "belt",
+        "strength",
+        "deadlift",
+        "squat",
+        "core",
+        "back support",
+        "gym"
+      ],
+      "blurb": "Protect your lower back on heavy lifts. Simple, durable, effective."
+    },
+    {
+      "id": "rec-001",
+      "name": "TriggerPoint GRID Foam Roller",
+      "brand": "TriggerPoint",
+      "asin": "B0040EGNIU",
+      "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+      "category": "recovery",
+      "price_range": "$",
+      "keywords": [
+        "foam roller",
+        "recovery",
+        "muscle soreness",
+        "flexibility",
+        "mobility",
+        "IT band",
+        "running",
+        "triathlon"
+      ],
+      "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+    },
+    {
+      "id": "rec-002",
+      "name": "Theragun Mini Massage Gun",
+      "brand": "Therabody",
+      "asin": "B0DV7JN7ZD",
+      "url": "https://www.amazon.com/dp/B0DV7JN7ZD?tag=chrisolson04-20",
+      "category": "recovery",
+      "price_range": "$$",
+      "keywords": [
+        "recovery",
+        "massage",
+        "muscle soreness",
+        "percussive therapy",
+        "portable",
+        "travel",
+        "triathlon"
+      ],
+      "blurb": "Pocket-sized recovery. Takes the edge off sore muscles anywhere."
+    },
+    {
+      "id": "rec-003",
+      "name": "Petzl ACTIK CORE Headlamp",
+      "brand": "Petzl",
+      "asin": "B0FD64NN69",
+      "url": "https://www.amazon.com/dp/B0FD64NN69?tag=chrisolson04-20",
+      "category": "gear",
+      "price_range": "$$",
+      "keywords": [
+        "headlamp",
+        "running",
+        "trail",
+        "early morning",
+        "dark",
+        "safety",
+        "outdoor",
+        "training"
+      ],
+      "blurb": "Train before sunrise or after sunset safely. Rechargeable, bright, and built to last."
+    },
+    {
+      "id": "body-001",
+      "name": "RENPHO Smart Body Scale",
+      "brand": "Renpho",
+      "asin": "B01N1UX8RW",
+      "url": "https://www.amazon.com/dp/B01N1UX8RW?tag=chrisolson04-20",
+      "category": "health",
+      "price_range": "$",
+      "keywords": [
+        "body composition",
+        "weight",
+        "muscle mass",
+        "body fat",
+        "health tracking",
+        "scale",
+        "BMI",
+        "training progress"
+      ],
+      "blurb": "Weight alone lies. Body composition tells the real story of your training progress."
+    },
+    {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    },
+    {
+      "id": "body-003",
+      "name": "Renpho Food Scale",
+      "brand": "Renpho",
+      "asin": "B08X1H8NPX",
+      "url": "https://www.amazon.com/dp/B08X1H8NPX?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion"
+      ],
+      "blurb": "Simple, accurate, and syncs with nutrition apps. Track what you eat and watch your performance improve."
+    },
+    {
+      "id": "sup-001",
+      "name": "Thorne Creatine Monohydrate",
+      "brand": "Thorne",
+      "asin": "B0013OQGO6",
+      "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+      "category": "supplements",
+      "price_range": "$$",
+      "keywords": [
+        "creatine",
+        "strength",
+        "muscle",
+        "performance",
+        "supplement",
+        "brain",
+        "cognitive",
+        "aging",
+        "endurance"
+      ],
+      "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+    },
+    {
+      "id": "sup-002",
+      "name": "Nordic Naturals Omega-3 Fish Oil",
+      "brand": "Nordic Naturals",
+      "asin": "B002CQU564",
+      "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+      "category": "supplements",
+      "price_range": "$$",
+      "keywords": [
+        "fish oil",
+        "omega-3",
+        "heart health",
+        "brain health",
+        "inflammation",
+        "supplement",
+        "DHA",
+        "EPA",
+        "recovery"
+      ],
+      "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+    },
+    {
+      "id": "sup-003",
+      "name": "Thorne Vitamin D3/K2",
+      "brand": "Thorne",
+      "asin": "B0797N3F9T",
+      "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+      "category": "supplements",
+      "price_range": "$$",
+      "keywords": [
+        "vitamin d",
+        "bone health",
+        "immune system",
+        "supplement",
+        "deficiency",
+        "longevity",
+        "sun",
+        "endurance"
+      ],
+      "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+    },
+    {
+      "id": "sup-004",
+      "name": "Pure Encapsulations Magnesium Glycinate",
+      "brand": "Pure Encapsulations",
+      "asin": "B0058HWV9S",
+      "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+      "category": "supplements",
+      "price_range": "$$",
+      "keywords": [
+        "sleep",
+        "magnesium",
+        "recovery",
+        "muscle cramps",
+        "relaxation",
+        "insomnia",
+        "stress",
+        "supplement"
+      ],
+      "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+    },
+    {
+      "id": "slp-001",
+      "name": "LectroFan White Noise Machine",
+      "brand": "LectroFan",
+      "asin": "B00E6D6LQY",
+      "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+      "category": "sleep",
+      "price_range": "$",
+      "keywords": [
+        "sleep",
+        "white noise",
+        "sound machine",
+        "insomnia",
+        "sleep quality",
+        "recovery",
+        "deep sleep"
+      ],
+      "blurb": "Blocks ambient noise so your sleep is actually restorative."
+    },
+    {
+      "id": "slp-002",
+      "name": "Manta Sleep Mask",
+      "brand": "Manta",
+      "asin": "B07PRG2CQY",
+      "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+      "category": "sleep",
+      "price_range": "$",
+      "keywords": [
+        "sleep",
+        "light blocking",
+        "blackout",
+        "travel",
+        "sleep quality",
+        "melatonin",
+        "recovery"
+      ],
+      "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+    },
+    {
+      "id": "book-001",
+      "name": "Can't Hurt Me - David Goggins Audiobook",
+      "brand": "David Goggins",
+      "asin": "B07KKP62FW",
+      "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "mental toughness",
+        "mindset",
+        "motivation",
+        "endurance",
+        "running",
+        "ultramarathon",
+        "book",
+        "audiobook"
+      ],
+      "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
+    },
+    {
+      "id": "book-002",
+      "name": "Endure - Alex Hutchinson Audiobook",
+      "brand": "Alex Hutchinson",
+      "asin": "B078PMQPH7",
+      "url": "https://www.amazon.com/dp/B078PMQPH7?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "endurance",
+        "running",
+        "performance",
+        "mind",
+        "limits",
+        "book",
+        "audiobook",
+        "triathlon",
+        "marathon"
+      ],
+      "blurb": "The science of pushing past your limits. Changed how I think about hard workouts."
+    },
+    {
+      "id": "book-003",
+      "name": "Iron War - Matt Fitzgerald Audiobook",
+      "brand": "Matt Fitzgerald",
+      "asin": "B00BPPSY3O",
+      "url": "https://www.amazon.com/dp/B00BPPSY3O?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "triathlon",
+        "ironman",
+        "book",
+        "audiobook",
+        "history",
+        "endurance",
+        "racing",
+        "mindset"
+      ],
+      "blurb": "The greatest race ever run. Every triathlete needs to hear this story."
+    },
+    {
+      "id": "book-004",
+      "name": "80/20 Running - Matt Fitzgerald Audiobook",
+      "brand": "Matt Fitzgerald",
+      "asin": "B071D4481W",
+      "url": "https://www.amazon.com/dp/B071D4481W?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "running",
+        "training",
+        "zone 2",
+        "easy running",
+        "book",
+        "audiobook",
+        "marathon",
+        "performance"
+      ],
+      "blurb": "Why 80% of your running should be easy. The science behind training smarter."
+    },
+    {
+      "id": "book-005",
+      "name": "How Bad Do You Want It - Matt Fitzgerald Audiobook",
+      "brand": "Matt Fitzgerald",
+      "asin": "B01B6KWGFE",
+      "url": "https://www.amazon.com/dp/B01B6KWGFE?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "mental toughness",
+        "endurance",
+        "running",
+        "triathlon",
+        "mindset",
+        "book",
+        "audiobook",
+        "performance"
+      ],
+      "blurb": "The psychology of champions. Why mental fitness is the real limiter."
+    },
+    {
+      "id": "book-006",
+      "name": "Born to Run - Christopher McDougall Audiobook",
+      "brand": "Christopher McDougall",
+      "asin": "B0028TY1D8",
+      "url": "https://www.amazon.com/dp/B0028TY1D8?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "running",
+        "barefoot",
+        "ultramarathon",
+        "book",
+        "audiobook",
+        "inspiration",
+        "trail",
+        "endurance"
+      ],
+      "blurb": "The book that got a generation off the couch and onto the trails."
+    },
+    {
+      "id": "book-007",
+      "name": "Atomic Habits - James Clear Audiobook",
+      "brand": "James Clear",
+      "asin": "B07RFSSYBH",
+      "url": "https://www.amazon.com/dp/B07RFSSYBH?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "habits",
+        "productivity",
+        "health",
+        "routine",
+        "behavior change",
+        "book",
+        "audiobook",
+        "training"
+      ],
+      "blurb": "The system behind every sustainable health and training habit."
+    },
+    {
+      "id": "book-009",
+      "name": "Lifespan - David Sinclair Audiobook",
+      "brand": "David Sinclair",
+      "asin": "B07QGH1Q43",
+      "url": "https://www.amazon.com/dp/B07QGH1Q43?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "longevity",
+        "aging",
+        "genetics",
+        "book",
+        "audiobook",
+        "science",
+        "health"
+      ],
+      "blurb": "The science of why we age and what we can actually do about it."
+    },
+    {
+      "id": "book-010",
+      "name": "Why We Sleep - Matthew Walker Audiobook",
+      "brand": "Matthew Walker",
+      "asin": "B0752XRB5F",
+      "url": "https://www.amazon.com/dp/B0752XRB5F?tag=chrisolson04-20",
+      "category": "books",
+      "price_range": "$$",
+      "keywords": [
+        "sleep",
+        "book",
+        "audiobook",
+        "health",
+        "brain",
+        "memory",
+        "insomnia",
+        "recovery",
+        "longevity"
+      ],
+      "blurb": "Read this and you will never deprioritize sleep again."
+    }
+  ]
+}
