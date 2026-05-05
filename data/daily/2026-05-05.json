@@ -1,195 +1,192 @@
 {
   "date": "2026-05-05",
   "dateLabel": "Tuesday, May 5, 2026",
-  "generatedAt": "2026-05-05T12:06:54.843Z",
+  "generatedAt": "2026-05-05T12:44:51.458Z",
   "articles": [
     {
-      "category": "LONGEVITY",
-      "headline": "Mixing Up Your Workouts May Lower Your Risk of Early Death",
-      "body": "Harvard researchers analyzed data from over 111,000 adults across 30-plus years and found that people who regularly engaged in a variety of physical activities had a lower risk of premature death, even when total exercise volume was the same. Walking, lifting, gardening, racquet sports — the mix matters. Benefits appeared to plateau around 20 weekly MET hours, suggesting more isn't always more. The takeaway: don't just do more. Do different.",
-      "takeaway": "Add one new activity type to your weekly routine. Swap a second run for a strength session or a bike ride.",
-      "pexelsQuery": "person hiking trail nature",
-      "source": "Harvard T.H. Chan School of Public Health / BMJ Medicine",
-      "url": "https://hsph.harvard.edu/news/exercise-variety-not-just-amount-linked-to-lower-risk-of-premature-mortality/",
+      "category": "STRESS",
+      "topic": "Monday anxiety cortisol heart health",
+      "headline": "Monday Blues Are More Than a Mood. They're in Your Biology.",
+      "body": "A new study from the University of Hong Kong tracked thousands of older adults and found that people who dread Mondays carry elevated cortisol in their hair for months afterward. That's not just a bad vibe — it's a measurable stress hormone hanging around long after the weekend ends. Researchers found the effect holds even for retirees, which means it's not just your job causing it. Society's calendar is literally wired into your stress physiology. And chronically elevated cortisol raises your cardiovascular risk over time.",
+      "takeaway": "Build a Sunday ritual that sets a positive tone for Monday. Even 10 minutes of intentional calm — a walk, a short workout, quiet coffee — can interrupt the weekly stress cycle before it starts.",
+      "pexelsQuery": "person stressed sitting office Monday",
+      "source": "ScienceDaily / University of Hong Kong",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2025/07/250706230309.htm",
       "photo": {
-        "url": "https://images.pexels.com/photos/2186033/pexels-photo-2186033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/2186033/pexels-photo-2186033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Gonzalo Facello",
-        "photographerUrl": "https://www.pexels.com/@gonchifacello",
-        "photoPageUrl": "https://www.pexels.com/photo/perso-in-black-clothes-carrying-a-yellow-backpack-2186033/",
-        "avgColor": "#31281E"
+        "url": "https://images.pexels.com/photos/6028573/pexels-photo-6028573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6028573/pexels-photo-6028573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "www.kaboompics.com",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-long-sleeve-shirt-wearing-eyeglasses-sitting-at-a-table-6028573/",
+        "avgColor": "#C7C6C6"
       }
     },
     {
-      "category": "MENTAL PERFORMANCE",
-      "headline": "Staying Mentally Active Throughout Life Could Delay Alzheimer's by 5 Years",
-      "body": "A study published in Neurology tracked nearly 2,000 adults over eight years and found that those with the highest lifetime cognitive enrichment had a 38% lower risk of developing Alzheimer's disease. Activities like reading, writing, and learning languages at multiple stages of life were linked to slower cognitive decline. High enrichers developed Alzheimer's about five years later than low enrichers. This isn't just for retirees — the mental habits you build now count.",
-      "takeaway": "Pick up a book, learn something new, or subscribe to a challenging podcast. Your future brain is shaped by what you do today.",
-      "pexelsQuery": "person reading book library",
-      "source": "Neurology / American Academy of Neurology",
-      "url": "https://www.aan.com/PressRoom/Home/PressRelease/5311",
+      "category": "HORMONES",
+      "topic": "GLP-1 medications testosterone levels men obesity",
+      "headline": "Weight Loss Drugs Are Also Quietly Fixing Low Testosterone",
+      "body": "Here's a side effect nobody's complaining about. A study presented at ENDO 2025 — the Endocrine Society's annual meeting — found that GLP-1 medications like semaglutide and tirzepatide significantly raised testosterone in men with obesity or type 2 diabetes. Among men who lost around 10% of their body weight on these drugs, the share with normal testosterone levels jumped from 53% to 77%. Researchers say low testosterone can be reversed with weight loss alone — and these medications are making that easier.",
+      "takeaway": "If you're a man struggling with low energy, reduced muscle mass, or low libido — and you carry excess weight — talk to your doctor about how weight loss (by any sustainable means) could be the first move before considering hormone therapy.",
+      "pexelsQuery": "man doctor health checkup clinic",
+      "source": "Endocrine Society / ENDO 2025",
+      "sourceUrl": "https://www.endocrine.org/news-and-advocacy/news-room/endo-annual-meeting/endo-2025-press-releases/portillo-canales-press-release",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7108355/pexels-photo-7108355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7108355/pexels-photo-7108355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-lying-on-the-bed-7108355/",
+        "avgColor": "#B1B2B1"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "ZOE microbiome health ranking diet study 2025",
+      "headline": "Scientists Just Ranked 661 Gut Bacteria by How Good They Are for You",
+      "body": "A massive new study in Nature analyzed gut microbiome data from over 34,000 people in the US and UK — and built the first large-scale ranking of gut bacteria by their association with health and diet quality. The result? People with favorable gut bacteria had lower BMI and fewer diseases. Those with unfavorable bacteria were more likely to have obesity-related conditions. The good news: when people improved their diets in clinical trials, their beneficial bacteria increased. Your gut responds to what you feed it.",
+      "takeaway": "You don't need a microbiome test to start. More fiber, more whole foods, and more dietary variety are still the most reliable ways to shift your gut bacteria in the right direction.",
+      "pexelsQuery": "colorful vegetables fresh produce market",
+      "source": "Nature / ZOE PREDICT Study",
+      "sourceUrl": "https://www.nature.com/articles/s41586-025-09854-7",
+      "photo": {
+        "url": "https://images.pexels.com/photos/28857754/pexels-photo-28857754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/28857754/pexels-photo-28857754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Natalia S",
+        "photographerUrl": "https://www.pexels.com/@planka",
+        "photoPageUrl": "https://www.pexels.com/photo/assorted-fresh-radishes-and-turnips-at-market-28857754/",
+        "avgColor": "#93786F"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "DOMS recovery strategies massage cold water immersion comparison",
+      "headline": "Cold Plunges vs. Massage vs. Stretching: What Actually Kills Soreness Best?",
+      "body": "A 2025 randomized controlled trial in Frontiers in Physiology put five popular recovery methods head to head for muscle soreness relief: massage, cold water immersion, vibration therapy, static stretching, and electrical stimulation. The finding? No single method wins at every stage. Cold water works best in the first 24 hours to control inflammation. Massage takes over from 24 to 48 hours. Stretching helps most from 48 to 72 hours when stiffness peaks. Researchers recommend a phased approach rather than picking one and sticking with it.",
+      "takeaway": "Think of recovery as a timeline, not a single tool. Ice or cold water right after a hard session, then massage or rolling the next day, then stretching on day three. Stack them and you'll bounce back faster.",
+      "pexelsQuery": "person foam rolling muscle recovery floor",
+      "source": "Frontiers in Physiology",
+      "sourceUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1622377/full",
       "product": {
-        "id": "book-008",
-        "name": "Outlive - Peter Attia Audiobook",
-        "brand": "Peter Attia",
-        "asin": "B0B64WL9PK",
-        "url": "https://www.amazon.com/dp/B0B64WL9PK?tag=chrisolson04-20",
-        "category": "books",
-        "price_range": "$$",
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
         "keywords": [
-          "longevity",
-          "health",
-          "aging",
-          "medicine",
-          "lifespan",
-          "book",
-          "audiobook",
-          "exercise"
-        ],
-        "blurb": "The definitive book on living longer and better. Required reading for anyone who trains."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/9158359/pexels-photo-9158359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/9158359/pexels-photo-9158359.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Mikhail Nilov",
-        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
-        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-person-reading-a-book-9158359/",
-        "avgColor": "#ADA49B"
-      }
-    },
-    {
-      "category": "LONGEVITY",
-      "headline": "Your Brain Health Is Being Built Right Now, Not Just in Old Age",
-      "body": "A new American Heart Association scientific statement published in the journal Stroke says brain health isn't just about what happens later in life. Sleep quality, mental health, diet, social connection, and environment all shape how your brain functions and ages — starting early. The statement points to the AHA's Life's Essential 8 as a practical guide and highlights Mediterranean-style eating and healthy sleep as especially protective. Small daily habits add up over decades.",
-      "takeaway": "Treat sleep, stress management, and diet as brain investments — not just body investments. The payoff is decades away, but it starts now.",
-      "pexelsQuery": "healthy food mediterranean diet table",
-      "source": "American Heart Association / Stroke Journal",
-      "url": "https://newsroom.heart.org/news/brain-health-shaped-by-lifetime-mental-physical-environmental-and-lifestyle-factors",
-      "photo": {
-        "url": "https://images.pexels.com/photos/111134/olive-oil-tomatoes-basil-eat-111134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/111134/olive-oil-tomatoes-basil-eat-111134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Pixabay",
-        "photographerUrl": "https://www.pexels.com/@pixabay",
-        "photoPageUrl": "https://www.pexels.com/photo/clear-glass-bottle-near-bowl-with-tomatoes-111134/",
-        "avgColor": "#4E522D"
-      }
-    },
-    {
-      "category": "TRAINING",
-      "headline": "Even 2 Minutes of Hard Effort Can Improve Long-Term Health",
-      "body": "A Washington Post column citing recent research says you don't need long workouts to get longevity benefits from intensity. Adding even brief bursts of vigorous movement to a routine that already includes walking can meaningfully improve fitness and long-term health outcomes. The piece highlights that getting older doesn't mean slowing down — and that short doses of high-intensity effort can transform health without requiring a huge time commitment.",
-      "takeaway": "Tack 2 to 5 minutes of hard effort onto your next easy walk or run. Stair sprints, hill surges, or fast intervals all count.",
-      "pexelsQuery": "person running sprinting track",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2026/04/20/vigorous-lifestyle-activity-longevity/",
-      "product": {
-        "id": "run-004",
-        "name": "HOKA Clifton 9",
-        "brand": "HOKA",
-        "asin": "B0CPBZ8668",
-        "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
-        "category": "running",
-        "price_range": "$$$",
-        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
           "running",
-          "shoes",
-          "daily trainer",
-          "cushion",
-          "marathon",
-          "recovery run",
-          "easy run"
+          "triathlon"
         ],
-        "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/5961805/pexels-photo-5961805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5961805/pexels-photo-5961805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "RUN 4 FFWPU",
-        "photographerUrl": "https://www.pexels.com/@runffwpu",
-        "photoPageUrl": "https://www.pexels.com/photo/men-running-on-track-field-5961805/",
-        "avgColor": "#A88A81"
+        "url": "https://images.pexels.com/photos/6303711/pexels-photo-6303711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6303711/pexels-photo-6303711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Klaus Nielsen",
+        "photographerUrl": "https://www.pexels.com/@klaus-nielsen",
+        "photoPageUrl": "https://www.pexels.com/photo/man-preparing-for-extended-puppy-pose-6303711/",
+        "avgColor": "#898C90"
       }
     }
   ],
   "quote": {
-    "text": "The mind is the athlete. The body is simply the means it uses.",
-    "author": "Bryce Courtenay",
-    "context": "Australian author known for exploring human resilience and the power of mental determination in his novels."
+    "text": "You must do the thing you think you cannot do.",
+    "author": "Eleanor Roosevelt",
+    "context": "Former First Lady, diplomat, and one of the most admired human rights advocates of the 20th century."
   },
   "workout": {
     "type": "RUN",
-    "title": "Tuesday Tempo Builder",
+    "title": "Tuesday Tempo Ladder",
     "duration": "35 min",
     "equipment": [
       "running shoes",
       "watch or phone timer"
     ],
-    "warmup": "Start with 8 minutes at an easy, conversational pace — you should be able to talk in full sentences. Finish the warmup with 4 short 20-second pickups at a slightly faster effort to wake up your legs.",
+    "warmup": "Start with 8 minutes at an easy, conversational pace — you should be able to say a full sentence without gasping. Finish the warmup with 4 short 10-second stride-outs at moderate effort to prime your legs.",
     "exercises": [
       {
         "name": "Easy Base Run",
         "sets": "1",
         "reps": "8 min",
-        "notes": "Effort level: easy. This is your warmup mileage — keep it relaxed, nose breathing if possible."
+        "notes": "Stay fully conversational. This is your foundation — resist the urge to push here."
       },
       {
-        "name": "Tempo Intervals",
-        "sets": "3",
-        "reps": "5 min on / 90 sec off",
-        "notes": "Effort level: moderate-hard. Comfortably uncomfortable — you can speak a few words but not hold a conversation. Recover with an easy jog or walk during the rest."
-      },
-      {
-        "name": "Easy Float",
+        "name": "Tempo Interval 1",
         "sets": "1",
         "reps": "5 min",
-        "notes": "Effort level: easy. Between your last tempo and cooldown — shake out your legs and bring your heart rate down naturally."
+        "notes": "Comfortably hard effort — you can speak in short phrases but not hold a full conversation. Think 7 out of 10 effort."
+      },
+      {
+        "name": "Easy Recovery Run",
+        "sets": "1",
+        "reps": "3 min",
+        "notes": "Drop back to easy, conversational pace. Let your breathing settle completely before the next interval."
+      },
+      {
+        "name": "Tempo Interval 2",
+        "sets": "1",
+        "reps": "6 min",
+        "notes": "Same 7/10 effort as the first tempo block. Focus on smooth turnover and relaxed shoulders — not speed."
+      },
+      {
+        "name": "Easy Cool-Down Run",
+        "sets": "1",
+        "reps": "5 min",
+        "notes": "Fully easy. Let your heart rate come down naturally before you stop moving."
       }
     ],
-    "cooldown": "Walk or jog very easily for 5 minutes. Finish with 2 minutes of standing quad, calf, and hip flexor stretches — hold each for 30 seconds per side.",
+    "cooldown": "Walk for 3 to 5 minutes after finishing. Then spend 5 minutes on standing quad, calf, and hip flexor stretches — your hips and calves take the most beating on tempo runs.",
     "product": {
-      "id": "run-001",
-      "name": "Saucony Endorphin Speed 5",
-      "brand": "Saucony",
-      "asin": "B0DJWMR6YY",
-      "url": "https://www.amazon.com/dp/B0DJWMR6YY?tag=chrisolson04-20",
+      "id": "run-004",
+      "name": "HOKA Clifton 9",
+      "brand": "HOKA",
+      "asin": "B0CPBZ8668",
+      "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
       "category": "running",
       "price_range": "$$$",
       "keywords": [
         "running",
         "shoes",
+        "daily trainer",
+        "cushion",
         "marathon",
-        "5k",
-        "10k",
-        "half marathon",
-        "race",
-        "speed",
-        "carbon"
+        "recovery run",
+        "easy run"
       ],
-      "blurb": "The shoe Chris trains and races in. Fast, light, built for people who take running seriously."
+      "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
     }
   },
   "meal": {
-    "title": "Turkey and Egg White Breakfast Scramble with Spinach and Feta",
-    "type": "breakfast",
-    "prepTime": "12 min",
-    "calories": 420,
+    "title": "Turkey Taco Rice Bowl",
+    "type": "lunch",
+    "mainProtein": "ground turkey",
+    "prepTime": "20 min",
+    "calories": 520,
     "protein": 42,
-    "carbs": 18,
+    "carbs": 45,
     "fat": 16,
     "ingredients": [
-      "4 oz lean ground turkey",
-      "4 large egg whites",
-      "1 whole egg",
-      "1 cup fresh spinach",
-      "2 tbsp crumbled feta cheese",
-      "1/4 cup diced onion",
-      "1/2 cup cherry tomatoes, halved",
-      "1 tsp olive oil",
-      "salt, pepper, and garlic powder to taste",
-      "1 slice whole grain toast (optional)"
+      "5 oz lean ground turkey (93% lean)",
+      "1 cup cooked brown rice or microwaveable rice pouch",
+      "1/2 cup black beans, rinsed and drained",
+      "1/2 cup corn (frozen or canned)",
+      "1/4 cup salsa",
+      "1 tsp cumin",
+      "1 tsp chili powder",
+      "1/2 tsp garlic powder",
+      "Salt and pepper to taste",
+      "1/4 cup shredded Mexican cheese blend",
+      "Optional: sliced avocado, plain Greek yogurt instead of sour cream, fresh cilantro"
     ],
-    "instructions": "1. Heat olive oil in a non-stick pan over medium-high heat. Add onion and cook 2 minutes until soft. 2. Add ground turkey, breaking it up, and cook until no longer pink — about 4 minutes. Season with salt, pepper, and garlic powder. 3. Add spinach and cherry tomatoes, stir until spinach wilts. 4. Pour in egg whites and the whole egg, scramble gently until just set. Top with feta and serve immediately, with toast if you want extra carbs.",
-    "tip": "Batch-cook the ground turkey the night before so this comes together in under 5 minutes in the morning — just reheat and add the eggs.",
+    "instructions": "1. Cook ground turkey in a skillet over medium-high heat, breaking it apart as it browns (about 6 to 8 minutes). Season with cumin, chili powder, garlic powder, salt, and pepper. 2. Add black beans, corn, and salsa to the skillet. Stir and heat through for 2 to 3 minutes. 3. Warm your rice in the microwave if using a pouch. 4. Build your bowl: rice on the bottom, turkey mixture on top, finish with cheese and any optional toppings.",
+    "tip": "Batch cook the turkey taco mixture on Sunday and it keeps in the fridge for 4 days. Throw it on rice, in a wrap, or over greens — one cook, four meals done.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
