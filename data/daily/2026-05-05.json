@@ -1,35 +1,87 @@
 {
   "date": "2026-05-05",
   "dateLabel": "Tuesday, May 5, 2026",
-  "generatedAt": "2026-05-05T00:15:39.030Z",
+  "generatedAt": "2026-05-05T12:06:54.843Z",
   "articles": [
     {
-      "id": "art-001",
       "category": "LONGEVITY",
-      "headline": "The Overlooked Organ That Could Predict How Long You Live",
-      "body": "Scientists at Mass General Brigham used AI to analyze CT scans from more than 25,000 adults and found something surprising: the health of your thymus, a small gland in your chest, powerfully predicts how long you live. People with a healthy thymus had roughly a 50 percent lower risk of death, a 63 percent lower risk of dying from cardiovascular disease, and a 36 percent lower risk of developing lung cancer. The thymus trains your immune system's T-cells and most doctors assumed it went dormant after puberty. Turns out, it never really clocks out. Chronic inflammation, high body weight, and smoking were all linked to poorer thymic health.",
-      "takeaway": "Keep inflammation low. Stay at a healthy weight. Don't smoke. Your immune system is aging right alongside you.",
-      "source": "Mass General Brigham / Nature",
-      "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/thymus-critical-to-longevity-and-cancer-treatment",
-      "pexelsQuery": "chest xray scan medical",
+      "headline": "Mixing Up Your Workouts May Lower Your Risk of Early Death",
+      "body": "Harvard researchers analyzed data from over 111,000 adults across 30-plus years and found that people who regularly engaged in a variety of physical activities had a lower risk of premature death, even when total exercise volume was the same. Walking, lifting, gardening, racquet sports — the mix matters. Benefits appeared to plateau around 20 weekly MET hours, suggesting more isn't always more. The takeaway: don't just do more. Do different.",
+      "takeaway": "Add one new activity type to your weekly routine. Swap a second run for a strength session or a bike ride.",
+      "pexelsQuery": "person hiking trail nature",
+      "source": "Harvard T.H. Chan School of Public Health / BMJ Medicine",
+      "url": "https://hsph.harvard.edu/news/exercise-variety-not-just-amount-linked-to-lower-risk-of-premature-mortality/",
       "photo": {
-        "url": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4225925/pexels-photo-4225925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Anna Shvets",
-        "photographerUrl": "https://www.pexels.com/@shvetsa",
-        "photoPageUrl": "https://www.pexels.com/photo/doctor-looking-at-x-ray-photo-4225925/",
-        "avgColor": "#8A949F"
+        "url": "https://images.pexels.com/photos/2186033/pexels-photo-2186033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/2186033/pexels-photo-2186033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gonzalo Facello",
+        "photographerUrl": "https://www.pexels.com/@gonchifacello",
+        "photoPageUrl": "https://www.pexels.com/photo/perso-in-black-clothes-carrying-a-yellow-backpack-2186033/",
+        "avgColor": "#31281E"
       }
     },
     {
-      "id": "art-002",
+      "category": "MENTAL PERFORMANCE",
+      "headline": "Staying Mentally Active Throughout Life Could Delay Alzheimer's by 5 Years",
+      "body": "A study published in Neurology tracked nearly 2,000 adults over eight years and found that those with the highest lifetime cognitive enrichment had a 38% lower risk of developing Alzheimer's disease. Activities like reading, writing, and learning languages at multiple stages of life were linked to slower cognitive decline. High enrichers developed Alzheimer's about five years later than low enrichers. This isn't just for retirees — the mental habits you build now count.",
+      "takeaway": "Pick up a book, learn something new, or subscribe to a challenging podcast. Your future brain is shaped by what you do today.",
+      "pexelsQuery": "person reading book library",
+      "source": "Neurology / American Academy of Neurology",
+      "url": "https://www.aan.com/PressRoom/Home/PressRelease/5311",
+      "product": {
+        "id": "book-008",
+        "name": "Outlive - Peter Attia Audiobook",
+        "brand": "Peter Attia",
+        "asin": "B0B64WL9PK",
+        "url": "https://www.amazon.com/dp/B0B64WL9PK?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "longevity",
+          "health",
+          "aging",
+          "medicine",
+          "lifespan",
+          "book",
+          "audiobook",
+          "exercise"
+        ],
+        "blurb": "The definitive book on living longer and better. Required reading for anyone who trains."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9158359/pexels-photo-9158359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9158359/pexels-photo-9158359.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-person-reading-a-book-9158359/",
+        "avgColor": "#ADA49B"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "headline": "Your Brain Health Is Being Built Right Now, Not Just in Old Age",
+      "body": "A new American Heart Association scientific statement published in the journal Stroke says brain health isn't just about what happens later in life. Sleep quality, mental health, diet, social connection, and environment all shape how your brain functions and ages — starting early. The statement points to the AHA's Life's Essential 8 as a practical guide and highlights Mediterranean-style eating and healthy sleep as especially protective. Small daily habits add up over decades.",
+      "takeaway": "Treat sleep, stress management, and diet as brain investments — not just body investments. The payoff is decades away, but it starts now.",
+      "pexelsQuery": "healthy food mediterranean diet table",
+      "source": "American Heart Association / Stroke Journal",
+      "url": "https://newsroom.heart.org/news/brain-health-shaped-by-lifetime-mental-physical-environmental-and-lifestyle-factors",
+      "photo": {
+        "url": "https://images.pexels.com/photos/111134/olive-oil-tomatoes-basil-eat-111134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/111134/olive-oil-tomatoes-basil-eat-111134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/clear-glass-bottle-near-bowl-with-tomatoes-111134/",
+        "avgColor": "#4E522D"
+      }
+    },
+    {
       "category": "TRAINING",
-      "headline": "Your Body Starts Slowing Down at 35. Here's What to Do About It.",
-      "body": "A landmark 47-year Swedish study from Karolinska Institutet followed the same group of people from age 16 to 63 and found that fitness and strength begin declining around age 35, regardless of how much someone trained earlier in life. The decline gradually accelerates with age. But there's good news: people who started exercising later in adulthood still improved their physical capacity by 5 to 10 percent. The body keeps responding to training even when you think the window has closed. For anyone in their 30s, 40s, or 50s, this is your evidence that starting now is never a wasted move.",
-      "takeaway": "Don't wait for a health scare. The body responds to exercise at any age. Start or stay consistent now.",
-      "source": "Karolinska Institutet / Journal of Cachexia, Sarcopenia and Muscle",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260116035336.htm",
-      "pexelsQuery": "person running outdoor park",
+      "headline": "Even 2 Minutes of Hard Effort Can Improve Long-Term Health",
+      "body": "A Washington Post column citing recent research says you don't need long workouts to get longevity benefits from intensity. Adding even brief bursts of vigorous movement to a routine that already includes walking can meaningfully improve fitness and long-term health outcomes. The piece highlights that getting older doesn't mean slowing down — and that short doses of high-intensity effort can transform health without requiring a huge time commitment.",
+      "takeaway": "Tack 2 to 5 minutes of hard effort onto your next easy walk or run. Stair sprints, hill surges, or fast intervals all count.",
+      "pexelsQuery": "person running sprinting track",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2026/04/20/vigorous-lifestyle-activity-longevity/",
       "product": {
         "id": "run-004",
         "name": "HOKA Clifton 9",
@@ -50,98 +102,50 @@
         "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/7849191/pexels-photo-7849191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7849191/pexels-photo-7849191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Centre for Ageing Better",
-        "photographerUrl": "https://www.pexels.com/@centre-for-ageing-better-55954677",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-active-wear-jogging-on-gray-asphalt-road-7849191/",
-        "avgColor": "#777346"
-      }
-    },
-    {
-      "id": "art-003",
-      "category": "MENTAL PERFORMANCE",
-      "headline": "Your Workout Is Basically Therapy. Science Just Confirmed It.",
-      "body": "A major updated Cochrane review analyzed 73 randomized controlled trials involving nearly 5,000 adults with depression. The verdict: exercise reduces depression symptoms to roughly the same degree as psychological therapy and possibly antidepressants, with far fewer side effects. Light to moderate intensity worked better than going hard, and completing 13 to 36 sessions was associated with the biggest improvements. Mixed programs combining different types of movement and resistance training outperformed aerobic exercise alone. The researchers described exercise as low-cost, widely accessible, and beneficial for both mind and body.",
-      "takeaway": "Even a 30-minute walk counts. Consistency across sessions matters more than intensity.",
-      "source": "Cochrane / University of Lancashire",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-      "pexelsQuery": "person walking nature trail",
-      "photo": {
-        "url": "https://images.pexels.com/photos/35497197/pexels-photo-35497197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/35497197/pexels-photo-35497197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Michael Li",
-        "photographerUrl": "https://www.pexels.com/@michael-li-483163181",
-        "photoPageUrl": "https://www.pexels.com/photo/person-enjoying-a-winter-walk-in-the-forest-35497197/",
-        "avgColor": "#353533"
-      }
-    },
-    {
-      "id": "art-004",
-      "category": "RECOVERY",
-      "headline": "Microplastics Are Showing Up Inside Heart Arteries. Should You Be Worried?",
-      "body": "A new review published in Cardiovascular Toxicology in March 2026 synthesized growing evidence that microplastics are turning up in human heart and artery tissue and may be an emerging cardiovascular risk factor. Human studies have found plastic particles in carotid plaques, coronary arteries, and cardiac tissue, with some data linking higher concentrations to greater risks of heart attack and stroke. Researchers are still working to establish whether microplastics directly cause damage or are a marker of broader inflammation. Right now, the clearest advice is practical: reduce single-use plastics, filter your drinking water, and limit processed foods packaged in plastic.",
-      "takeaway": "Swap plastic water bottles for glass or stainless steel and choose whole foods over ultra-processed options in plastic packaging.",
-      "source": "Cardiovascular Toxicology / Springer Nature",
-      "url": "https://link.springer.com/article/10.1007/s12012-026-10112-z",
-      "pexelsQuery": "plastic water bottle close up",
-      "photo": {
-        "url": "https://images.pexels.com/photos/8217498/pexels-photo-8217498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8217498/pexels-photo-8217498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "MART  PRODUCTION",
-        "photographerUrl": "https://www.pexels.com/@mart-production",
-        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-person-s-hand-holding-a-bottle-of-water-8217498/",
-        "avgColor": "#B7CDCB"
+        "url": "https://images.pexels.com/photos/5961805/pexels-photo-5961805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5961805/pexels-photo-5961805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RUN 4 FFWPU",
+        "photographerUrl": "https://www.pexels.com/@runffwpu",
+        "photoPageUrl": "https://www.pexels.com/photo/men-running-on-track-field-5961805/",
+        "avgColor": "#A88A81"
       }
     }
   ],
   "quote": {
-    "text": "Take care of your body. It's the only place you have to live.",
-    "author": "Jim Rohn",
-    "context": "American entrepreneur, author, and motivational speaker whose philosophy on personal development influenced a generation of coaches and leaders."
+    "text": "The mind is the athlete. The body is simply the means it uses.",
+    "author": "Bryce Courtenay",
+    "context": "Australian author known for exploring human resilience and the power of mental determination in his novels."
   },
   "workout": {
     "type": "RUN",
-    "title": "Tuesday Tempo Ladder",
+    "title": "Tuesday Tempo Builder",
     "duration": "35 min",
     "equipment": [
       "running shoes",
       "watch or phone timer"
     ],
-    "warmup": "Start with 8 minutes at an easy, conversational pace. Your breathing should be relaxed and comfortable. Finish with 30 seconds of light leg swings and ankle circles before picking up the effort.",
+    "warmup": "Start with 8 minutes at an easy, conversational pace — you should be able to talk in full sentences. Finish the warmup with 4 short 20-second pickups at a slightly faster effort to wake up your legs.",
     "exercises": [
       {
         "name": "Easy Base Run",
         "sets": "1",
         "reps": "8 min",
-        "notes": "Easy effort. You should be able to hold a full conversation. This gets blood moving and preps your legs."
+        "notes": "Effort level: easy. This is your warmup mileage — keep it relaxed, nose breathing if possible."
       },
       {
-        "name": "Tempo Interval 1",
-        "sets": "1",
-        "reps": "4 min",
-        "notes": "Moderate-hard effort. Comfortably hard but controlled. Think 7 out of 10 on effort. You can speak a word or two, not a sentence."
+        "name": "Tempo Intervals",
+        "sets": "3",
+        "reps": "5 min on / 90 sec off",
+        "notes": "Effort level: moderate-hard. Comfortably uncomfortable — you can speak a few words but not hold a conversation. Recover with an easy jog or walk during the rest."
       },
       {
-        "name": "Recovery Jog",
-        "sets": "1",
-        "reps": "2 min",
-        "notes": "Drop back to easy effort. Let your breathing settle before the next push."
-      },
-      {
-        "name": "Tempo Interval 2",
+        "name": "Easy Float",
         "sets": "1",
         "reps": "5 min",
-        "notes": "Same moderate-hard effort as before. Stay tall, keep your arms relaxed, and drive with your hips. If you're gasping, back off a notch."
-      },
-      {
-        "name": "Easy Cool-Down Run",
-        "sets": "1",
-        "reps": "8 min",
-        "notes": "Return to easy conversational pace. Let your heart rate come down naturally. This is non-negotiable for recovery."
+        "notes": "Effort level: easy. Between your last tempo and cooldown — shake out your legs and bring your heart rate down naturally."
       }
     ],
-    "cooldown": "Walk for 3 to 5 minutes after your final easy jog. Finish with a 60-second standing quad stretch and a 60-second calf stretch on each side.",
+    "cooldown": "Walk or jog very easily for 5 minutes. Finish with 2 minutes of standing quad, calf, and hip flexor stretches — hold each for 30 seconds per side.",
     "product": {
       "id": "run-001",
       "name": "Saucony Endorphin Speed 5",
@@ -165,24 +169,27 @@
     }
   },
   "meal": {
-    "title": "Turkey and Egg Scramble with Spinach and Feta",
+    "title": "Turkey and Egg White Breakfast Scramble with Spinach and Feta",
     "type": "breakfast",
     "prepTime": "12 min",
-    "calories": 430,
+    "calories": 420,
     "protein": 42,
-    "carbs": 8,
-    "fat": 26,
+    "carbs": 18,
+    "fat": 16,
     "ingredients": [
-      "3 large eggs",
-      "3 oz lean ground turkey",
+      "4 oz lean ground turkey",
+      "4 large egg whites",
+      "1 whole egg",
       "1 cup fresh spinach",
       "2 tbsp crumbled feta cheese",
-      "1/4 cup diced red onion",
+      "1/4 cup diced onion",
+      "1/2 cup cherry tomatoes, halved",
       "1 tsp olive oil",
-      "Salt, pepper, and garlic powder to taste"
+      "salt, pepper, and garlic powder to taste",
+      "1 slice whole grain toast (optional)"
     ],
-    "instructions": "Heat olive oil in a nonstick pan over medium heat. Add ground turkey and diced onion, breaking the turkey apart as it cooks, about 4 to 5 minutes until no longer pink. Add spinach and stir until wilted, about 1 minute. Whisk eggs with a pinch of salt, pepper, and garlic powder, then pour over the turkey mixture. Stir gently until eggs are just set. Top with crumbled feta and serve immediately.",
-    "tip": "Cook the turkey the night before and refrigerate it. In the morning you just reheat, add eggs, and you are eating in under 5 minutes.",
+    "instructions": "1. Heat olive oil in a non-stick pan over medium-high heat. Add onion and cook 2 minutes until soft. 2. Add ground turkey, breaking it up, and cook until no longer pink — about 4 minutes. Season with salt, pepper, and garlic powder. 3. Add spinach and cherry tomatoes, stir until spinach wilts. 4. Pour in egg whites and the whole egg, scramble gently until just set. Top with feta and serve immediately, with toast if you want extra carbs.",
+    "tip": "Batch-cook the ground turkey the night before so this comes together in under 5 minutes in the morning — just reheat and add the eggs.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
