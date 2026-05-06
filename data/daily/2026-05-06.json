@@ -1,17 +1,73 @@
 {
   "date": "2026-05-06",
   "dateLabel": "Wednesday, May 6, 2026",
-  "generatedAt": "2026-05-06T22:43:58.408Z",
+  "generatedAt": "2026-05-06T22:46:27.091Z",
   "articles": [
     {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "cortisol stress brain navigation impairment",
+      "headline": "Stress Hormones Can Literally Scramble Your Brain's GPS",
+      "body": "A March 2026 study published in PLOS Biology found that cortisol actively disrupts the brain's internal navigation system. Researchers at Ruhr University Bochum gave healthy men either cortisol or a placebo, then had them navigate a virtual landscape. The cortisol group performed worse and showed blurred activity in their grid cells, the neurons that act as your internal GPS. The entorhinal cortex, the region affected, is also one of the first areas hit by Alzheimer's disease. Chronic stress, the researchers warn, may be quietly destabilizing this sensitive region over time.",
+      "takeaway": "Your brain under chronic stress is literally harder to navigate. A consistent wind-down routine and stress management are not luxuries. They are brain protection.",
+      "pexelsQuery": "stressed man holding head desk",
+      "source": "Medical Xpress / PLOS Biology",
+      "url": "https://medicalxpress.com/news/2026-03-lost-stress-cortisol-scramble-brain.html",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6632854/pexels-photo-6632854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6632854/pexels-photo-6632854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Cup of  Couple",
+        "photographerUrl": "https://www.pexels.com/@cup-of-couple",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-resting-on-a-table-6632854/",
+        "avgColor": "#A8AC98"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "muscle stem cell metabolic switch repair timing",
+      "headline": "Your Muscles Have a Hidden Repair Sequence. Science Just Found the Switch.",
+      "body": "UC Irvine scientists discovered exactly how muscle stem cells rebuild after damage, and the process is more complex than just eating protein. Published in Nature Metabolism in February 2026, the study found that immediately after stress, muscle cells temporarily stop burning glucose for energy and reroute it to produce antioxidants that reduce inflammation. Only once that repair phase is complete do the cells ramp up energy production and grow new fibers. The researchers called it a metabolic timing checkpoint and showed that supplying specific nutrients at the right phase could actually accelerate recovery.",
+      "takeaway": "This confirms that what you eat right after training matters. Anti-inflammatory foods and adequate carbs in the recovery window are not optional extras. They are part of the repair sequence.",
+      "pexelsQuery": "person foam rolling legs floor",
+      "source": "UC Irvine News / Nature Metabolism",
+      "url": "https://news.uci.edu/2026/02/27/uc-irvine-scientists-uncover-cellular-mechanism-behind-muscle-repair/",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7663235/pexels-photo-7663235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7663235/pexels-photo-7663235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anastasia  Shuraeva",
+        "photographerUrl": "https://www.pexels.com/@anastasia-shuraeva",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-black-leggings-kneeling-on-gray-yoga-mat-7663235/",
+        "avgColor": "#817A73"
+      }
+    },
+    {
       "category": "SUPPLEMENTS",
-      "topic": "creatine brain health cognitive benefits",
-      "headline": "Creatine Is No Longer Just a Gym Supplement",
-      "body": "A new review published May 4, 2026 takes a deep look at creatine beyond bench press numbers. The findings confirm it helps muscles regenerate ATP during intense effort — but scientists are increasingly excited about what it does for the brain. Studies suggest it may support memory, mood, and processing speed, especially in people with naturally lower creatine levels, like older adults. Researchers are now exploring its potential role in depression, Parkinson's, and menopause-related muscle loss. The headline: this one's not just for gym bros anymore.",
-      "takeaway": "5g of creatine monohydrate daily is low-risk, well-researched, and increasingly supported for brain health — not just performance.",
-      "pexelsQuery": "white powder supplement scoop",
-      "source": "ScienceDaily (Taylor & Francis Group)",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "topic": "creatine magnesium supplement popularity growth 2025",
+      "headline": "Creatine Just Had Its Biggest Year Ever. Here Is Why That Makes Sense.",
+      "body": "A February 2026 ConsumerLab survey of over 8,850 supplement users found that creatine led all supplements in popularity growth in 2025, up 17.1 percentage points year over year. Magnesium was close behind, remaining the second most popular supplement overall at 64.8% usage. The findings reflect a broader shift: people are moving away from flashy new compounds toward the supplements with the deepest evidence base. Creatine is the most studied ergogenic aid in sports science. Magnesium is essential for ATP function, sleep quality, and muscle contraction.",
+      "takeaway": "If you are not taking creatine and magnesium yet, you are behind the curve on two of the most evidence-backed supplements available. Start simple: 3-5g creatine daily, magnesium glycinate at night.",
+      "pexelsQuery": "protein powder supplement scoop jar",
+      "source": "ConsumerLab.com",
+      "url": "https://www.consumerlab.com/news/2026-supplement-popularity-press-release/02-26-2026/",
       "product": {
         "id": "sup-001",
         "name": "Thorne Creatine Monohydrate",
@@ -34,41 +90,23 @@
         "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/12625114/pexels-photo-12625114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/12625114/pexels-photo-12625114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Towfiqu barbhuiya",
-        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
-        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-white-powder-and-a-scoop-lying-on-the-blue-background-12625114/",
-        "avgColor": "#8FBBC4"
-      }
-    },
-    {
-      "category": "GUT HEALTH",
-      "topic": "CAG-170 gut bacteria health marker global study",
-      "headline": "Scientists Just Found a Hidden Gut Bacteria That Tracks With Good Health",
-      "body": "A University of Cambridge team analyzed over 11,000 gut samples from 39 countries and discovered a previously overlooked group of gut bacteria called CAG-170. People with chronic diseases — including inflammatory bowel disease, obesity, and chronic fatigue syndrome — had consistently lower levels of it. The bacteria appear stable over time, support the wider gut ecosystem, and may produce vitamin B12. The lead researcher noted that most probiotic products haven't caught up with this kind of discovery yet.",
-      "takeaway": "A varied, fiber-rich diet is still your best tool for supporting a balanced microbiome while the science on CAG-170 develops.",
-      "pexelsQuery": "fresh vegetables colorful plate",
-      "source": "University of Cambridge",
-      "url": "https://www.cam.ac.uk/research/news/hidden-bugs-in-our-gut-appear-key-to-good-health-finds-global-study",
-      "photo": {
-        "url": "https://images.pexels.com/photos/5639482/pexels-photo-5639482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5639482/pexels-photo-5639482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Shameel mukkath",
-        "photographerUrl": "https://www.pexels.com/@shameel-mukkath-3421394",
-        "photoPageUrl": "https://www.pexels.com/photo/fish-with-lemon-and-vegetables-5639482/",
-        "avgColor": "#765D3F"
+        "url": "https://images.pexels.com/photos/37316381/pexels-photo-37316381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/37316381/pexels-photo-37316381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Guillermo Berlin",
+        "photographerUrl": "https://www.pexels.com/@guillermo-berlin-1524368912",
+        "photoPageUrl": "https://www.pexels.com/photo/wooden-spoon-in-jar-of-powdered-ingredient-37316381/",
+        "avgColor": "#87614A"
       }
     },
     {
       "category": "SLEEP",
-      "topic": "sleep quality versus quantity cognitive performance older adults",
-      "headline": "How Well You Sleep Matters More Than How Long",
-      "body": "Penn State researchers tracked sleep and cognitive performance in older adults and found a clear pattern: the quality of a night's sleep predicted how quickly people processed information the next day — not the length. The key culprit was how much time people spent awake after falling asleep. More wake time meant slower processing and worse visual working memory scores. The lead author was direct: out of all the sleep factors they measured, quality was the only one that made a day-to-day difference in cognitive performance.",
-      "takeaway": "If you're waking up multiple times at night, that's the problem worth solving — even if your total hours look fine on paper.",
-      "pexelsQuery": "person sleeping in bed night",
-      "source": "Penn State University",
-      "url": "https://www.psu.edu/news/health-and-human-development/story/night-waking-impacts-cognitive-performance-regardless-sleep",
+      "topic": "global sleep awareness gap quality 2026 survey",
+      "headline": "Everyone Knows Sleep Matters. Nobody Is Actually Sleeping.",
+      "body": "ResMed's 2026 Global Sleep Survey of 30,000 people across 13 countries reveals a growing disconnect between knowledge and action. More than half of respondents rank sleep as the single most important behavior for a long, healthy life. Yet more than half only get a good night of sleep four nights a week or less. And 83 percent say they face real barriers to quality rest. Stress and anxiety were the top sleep disruptors worldwide. Among employed respondents, nearly half believe their employer does not care about their sleep health.",
+      "takeaway": "Knowing sleep is important is not enough. Treat your sleep window like a non-negotiable appointment. Protect it the same way you would protect your workout.",
+      "pexelsQuery": "person sleeping in dark bedroom",
+      "source": "ResMed Global Sleep Survey 2026",
+      "url": "https://sleepsurvey.resmed.com/",
       "product": {
         "id": "slp-001",
         "name": "LectroFan White Noise Machine",
@@ -89,102 +127,64 @@
         "blurb": "Blocks ambient noise so your sleep is actually restorative."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/6541120/pexels-photo-6541120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6541120/pexels-photo-6541120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Polina ⠀",
-        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
-        "photoPageUrl": "https://www.pexels.com/photo/asleep-woman-wearing-eye-mask-6541120/",
-        "avgColor": "#61564F"
-      }
-    },
-    {
-      "category": "HYDRATION",
-      "topic": "dehydration sustained attention middle-aged adults daily activities",
-      "headline": "You Might Be Too Dehydrated to Focus — Without Even Knowing It",
-      "body": "Penn State researchers tracked 78 adults between ages 47 and 70 over three months, measuring actual hydration levels via blood markers. At each check-in, up to 39% of the group was dehydrated — from nothing more than normal daily activities. Those participants performed significantly worse on a sustained attention task lasting 14 minutes. Working memory and other cognitive tests were unaffected. The finding matters because most of our important work tasks — reading, writing, analyzing — require exactly that kind of extended focus.",
-      "takeaway": "Don't wait until you're thirsty. Keep a water bottle at your desk and sip consistently through the day, especially before long work blocks.",
-      "pexelsQuery": "glass of water on desk",
-      "source": "Penn State University / Neuroscience News",
-      "url": "https://neurosciencenews.com/dehydration-attention-aging-26163/",
-      "product": {
-        "id": "nut-001",
-        "name": "Skratch Labs Hydration Mix",
-        "brand": "Skratch Labs",
-        "asin": "B075NDRY1C",
-        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
-        "category": "nutrition",
-        "price_range": "$$",
-        "keywords": [
-          "hydration",
-          "electrolytes",
-          "running",
-          "cycling",
-          "triathlon",
-          "endurance",
-          "sports drink",
-          "fueling"
-        ],
-        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/35208/office-home-glasses-workspace.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/35208/office-home-glasses-workspace.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Pixabay",
-        "photographerUrl": "https://www.pexels.com/@pixabay",
-        "photoPageUrl": "https://www.pexels.com/photo/silver-imac-turned-on-beside-gray-ceramic-mug-and-black-frame-eyeglasses-35208/",
-        "avgColor": "#A9A8A8"
+        "url": "https://images.pexels.com/photos/8481534/pexels-photo-8481534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8481534/pexels-photo-8481534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Sergey  Meshkov",
+        "photographerUrl": "https://www.pexels.com/@19x14",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-person-lying-on-the-bed-8481534/",
+        "avgColor": "#100F0D"
       }
     }
   ],
   "quote": {
-    "text": "The secret of getting ahead is getting started.",
-    "author": "Mark Twain",
-    "context": "American author and humorist, known for his sharp wit and timeless observations on human nature."
+    "text": "The mind is the athlete; the body is simply the means it uses.",
+    "author": "Bryce Courtenay",
+    "context": "Australian author and one of the most widely read novelists in his country, known for themes of resilience and human endurance."
   },
   "workout": {
     "type": "PULL",
-    "title": "Dead Hang and Row Grinder",
+    "title": "Dead Hang and Row Strength Builder",
     "difficulty": "Intermediate",
     "duration": "30 min",
     "equipment": [
       "pull-up bar",
-      "resistance bands",
-      "floor space"
+      "resistance band (optional)",
+      "sturdy table or low bar for rows"
     ],
-    "warmup": "Start with 2 minutes of arm circles, shoulder rolls, and cat-cow stretches on the floor. Then do 2 sets of 5 slow, controlled dead hangs lasting 10 seconds each to open up the shoulders and grip.",
+    "warmup": "Spend 2 minutes doing arm circles, shoulder rolls, and slow cat-cow stretches to open up the thoracic spine. Then hang from a bar for 20-30 seconds with a relaxed grip to decompress the spine and activate your lat muscles before the working sets.",
     "exercises": [
       {
         "name": "Dead Hang",
         "sets": "3",
-        "reps": "30-45 sec hold",
-        "notes": "Hang from a bar with a full grip, shoulders pulled slightly down away from ears. Use a band for support if needed. Builds grip and decompresses the spine."
+        "reps": "30-45 seconds",
+        "notes": "Use a supinated or neutral grip. Let your shoulders fully elevate at the top, then actively depress them to engage your lats. This is active, not passive."
       },
       {
-        "name": "Scapular Pull-Up",
-        "sets": "3",
-        "reps": "8",
-        "notes": "From a dead hang, retract and depress your shoulder blades without bending your elbows. Pause at the top. This primes the upper back before full pull-up work."
-      },
-      {
-        "name": "Resistance Band Bent-Over Row",
+        "name": "Bodyweight Row (Table or Low Bar)",
         "sets": "4",
-        "reps": "12",
-        "notes": "Stand on band, hinge at hips to roughly 45 degrees, and pull elbows back behind your body. Keep core braced. Squeeze hard at the top for a 1-second hold."
+        "reps": "10-12",
+        "notes": "Keep your body in a rigid plank. Pull your chest to the bar and squeeze your shoulder blades together at the top. The more horizontal your body, the harder it is."
       },
       {
-        "name": "Chin-Up or Band-Assisted Chin-Up",
+        "name": "Scapular Pull-ups",
         "sets": "3",
-        "reps": "6-8",
-        "notes": "Palms face you. Pull chest toward bar, not chin over bar. Control the descent for 3 counts. Use a looped band under your knee if needed."
+        "reps": "8-10",
+        "notes": "Hang from a bar with straight arms. Without bending the elbows, depress and retract your shoulder blades to lift your body an inch or two. This builds the foundation for full pull-ups."
       },
       {
-        "name": "Plank with Shoulder Tap",
+        "name": "Resistance Band Straight-Arm Pulldown",
         "sets": "3",
-        "reps": "20 taps (10 per side)",
-        "notes": "Hold a strong plank, feet hip-width apart to reduce rotation. Tap opposite shoulder while keeping hips level. Slower is harder — make it count."
+        "reps": "12-15",
+        "notes": "Anchor a band high. Stand and pull the band straight down to your thighs with locked elbows. Drives lat activation without loading the joints. Substitute a lat pulldown machine if at a gym."
+      },
+      {
+        "name": "Plank with Alternating Row",
+        "sets": "3",
+        "reps": "8 each side",
+        "notes": "Hold a plank. With one hand, row a light dumbbell or water bottle from the floor to your hip. Avoid rotating your hips. Core and back working together."
       }
     ],
-    "cooldown": "Finish with a doorway or band chest-opener stretch for 60 seconds, then a 90-second lat stretch — grab a stable post or doorframe and sit back into your hip to lengthen the side body.",
+    "cooldown": "Finish with a 60-second doorway lat stretch each side: grip a door frame, step one foot back, and lean away until you feel a deep stretch through your side. Then do a 30-second chest opener with hands clasped behind your back.",
     "product": {
       "id": "str-001",
       "name": "Gymnastic Rings - Double Circle Wood",
@@ -208,28 +208,29 @@
     }
   },
   "meal": {
-    "title": "Lemon Herb Salmon Rice Bowl",
-    "type": "lunch",
-    "mainProtein": "salmon",
-    "prepTime": "15 min",
-    "calories": 520,
+    "title": "Spiced Chicken and Sweet Potato Skillet",
+    "type": "dinner",
+    "mainProtein": "chicken",
+    "prepTime": "20 min",
+    "calories": 480,
     "protein": 42,
     "carbs": 38,
-    "fat": 18,
+    "fat": 14,
     "ingredients": [
-      "2 salmon fillets (approx. 5 oz each)",
-      "1 cup cooked brown rice or microwaveable rice pouch",
-      "1 cup baby spinach or mixed greens",
-      "1/2 cucumber, sliced",
-      "1/4 avocado, sliced",
+      "2 boneless skinless chicken breasts (approx 200g each), diced",
+      "1 medium sweet potato, peeled and diced small",
+      "1 cup baby spinach",
+      "1/2 red onion, diced",
+      "2 cloves garlic, minced",
+      "1 tsp smoked paprika",
+      "1 tsp cumin",
+      "1/2 tsp chili flakes (optional)",
       "1 tbsp olive oil",
-      "Juice of 1 lemon",
-      "1 tsp garlic powder",
-      "Salt, pepper, and dried dill to taste",
-      "Optional: 1 tbsp low-sodium soy sauce or tamari drizzle"
+      "Salt and pepper to taste",
+      "Fresh lime juice to finish"
     ],
-    "instructions": "Season salmon with garlic powder, dill, salt, and pepper. Pan-sear in olive oil over medium-high heat for 3-4 minutes per side until cooked through. While salmon cooks, heat your rice and lay it in a bowl with greens, cucumber, and avocado. Flake salmon over the top, squeeze lemon juice over everything, and finish with a drizzle of tamari if using.",
-    "tip": "Buy a bag of microwave rice pouches and keep salmon fillets in the freezer — this bowl comes together in under 15 minutes on even the most slammed weekdays.",
+    "instructions": "Heat olive oil in a large skillet over medium-high heat. Add sweet potato and cook for 6-7 minutes until starting to soften, stirring occasionally. Push to the side, add the chicken and cook for 5-6 minutes until golden and cooked through. Add onion, garlic, paprika, cumin, and chili flakes and stir everything together for 2 minutes until fragrant. Fold in spinach until wilted, squeeze lime juice over the top, and serve immediately.",
+    "tip": "Dice your sweet potato small and uniform so it cooks fast and at the same rate as the chicken. No need to pre-boil it.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
