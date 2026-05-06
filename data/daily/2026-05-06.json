@@ -1,145 +1,124 @@
 {
   "date": "2026-05-06",
   "dateLabel": "Wednesday, May 6, 2026",
-  "generatedAt": "2026-05-06T22:46:27.091Z",
+  "generatedAt": "2026-05-06T22:52:17.105Z",
   "articles": [
     {
-      "category": "MENTAL PERFORMANCE",
-      "topic": "cortisol stress brain navigation impairment",
-      "headline": "Stress Hormones Can Literally Scramble Your Brain's GPS",
-      "body": "A March 2026 study published in PLOS Biology found that cortisol actively disrupts the brain's internal navigation system. Researchers at Ruhr University Bochum gave healthy men either cortisol or a placebo, then had them navigate a virtual landscape. The cortisol group performed worse and showed blurred activity in their grid cells, the neurons that act as your internal GPS. The entorhinal cortex, the region affected, is also one of the first areas hit by Alzheimer's disease. Chronic stress, the researchers warn, may be quietly destabilizing this sensitive region over time.",
-      "takeaway": "Your brain under chronic stress is literally harder to navigate. A consistent wind-down routine and stress management are not luxuries. They are brain protection.",
-      "pexelsQuery": "stressed man holding head desk",
-      "source": "Medical Xpress / PLOS Biology",
-      "url": "https://medicalxpress.com/news/2026-03-lost-stress-cortisol-scramble-brain.html",
-      "photo": {
-        "url": "https://images.pexels.com/photos/6632854/pexels-photo-6632854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6632854/pexels-photo-6632854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Cup of  Couple",
-        "photographerUrl": "https://www.pexels.com/@cup-of-couple",
-        "photoPageUrl": "https://www.pexels.com/photo/a-man-resting-on-a-table-6632854/",
-        "avgColor": "#A8AC98"
-      }
-    },
-    {
-      "category": "RECOVERY",
-      "topic": "muscle stem cell metabolic switch repair timing",
-      "headline": "Your Muscles Have a Hidden Repair Sequence. Science Just Found the Switch.",
-      "body": "UC Irvine scientists discovered exactly how muscle stem cells rebuild after damage, and the process is more complex than just eating protein. Published in Nature Metabolism in February 2026, the study found that immediately after stress, muscle cells temporarily stop burning glucose for energy and reroute it to produce antioxidants that reduce inflammation. Only once that repair phase is complete do the cells ramp up energy production and grow new fibers. The researchers called it a metabolic timing checkpoint and showed that supplying specific nutrients at the right phase could actually accelerate recovery.",
-      "takeaway": "This confirms that what you eat right after training matters. Anti-inflammatory foods and adequate carbs in the recovery window are not optional extras. They are part of the repair sequence.",
-      "pexelsQuery": "person foam rolling legs floor",
-      "source": "UC Irvine News / Nature Metabolism",
-      "url": "https://news.uci.edu/2026/02/27/uc-irvine-scientists-uncover-cellular-mechanism-behind-muscle-repair/",
-      "product": {
-        "id": "rec-001",
-        "name": "TriggerPoint GRID Foam Roller",
-        "brand": "TriggerPoint",
-        "asin": "B0040EGNIU",
-        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
-        "category": "recovery",
-        "price_range": "$",
-        "keywords": [
-          "foam roller",
-          "recovery",
-          "muscle soreness",
-          "flexibility",
-          "mobility",
-          "IT band",
-          "running",
-          "triathlon"
-        ],
-        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/7663235/pexels-photo-7663235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7663235/pexels-photo-7663235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Anastasia  Shuraeva",
-        "photographerUrl": "https://www.pexels.com/@anastasia-shuraeva",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-black-leggings-kneeling-on-gray-yoga-mat-7663235/",
-        "avgColor": "#817A73"
-      }
-    },
-    {
       "category": "SUPPLEMENTS",
-      "topic": "creatine magnesium supplement popularity growth 2025",
-      "headline": "Creatine Just Had Its Biggest Year Ever. Here Is Why That Makes Sense.",
-      "body": "A February 2026 ConsumerLab survey of over 8,850 supplement users found that creatine led all supplements in popularity growth in 2025, up 17.1 percentage points year over year. Magnesium was close behind, remaining the second most popular supplement overall at 64.8% usage. The findings reflect a broader shift: people are moving away from flashy new compounds toward the supplements with the deepest evidence base. Creatine is the most studied ergogenic aid in sports science. Magnesium is essential for ATP function, sleep quality, and muscle contraction.",
-      "takeaway": "If you are not taking creatine and magnesium yet, you are behind the curve on two of the most evidence-backed supplements available. Start simple: 3-5g creatine daily, magnesium glycinate at night.",
-      "pexelsQuery": "protein powder supplement scoop jar",
-      "source": "ConsumerLab.com",
-      "url": "https://www.consumerlab.com/news/2026-supplement-popularity-press-release/02-26-2026/",
+      "topic": "magnesium bisglycinate sleep quality adults RCT",
+      "headline": "A New Form of Magnesium Just Outperformed Placebo for Sleep",
+      "body": "A randomized, placebo-controlled trial published in the journal Nature and Sleep Medicine enrolled 155 adults aged 18 to 65 with poor sleep quality. Those taking 250mg of magnesium bisglycinate daily saw significantly greater reductions in insomnia scores after four weeks compared to placebo. The effect was modest overall, but researchers found notably stronger improvements in people who were already low on dietary magnesium. The finding matters: roughly half of American adults don't hit their daily magnesium target, and most don't even know it.",
+      "takeaway": "If your sleep is rough and your diet is light on nuts, seeds, and leafy greens, a magnesium glycinate supplement at night is a low-risk, evidence-backed place to start.",
+      "pexelsQuery": "magnesium supplements capsules bottle",
+      "source": "Nature and Sleep (Tandfonline / Dove Medical Press)",
+      "url": "https://www.tandfonline.com/doi/full/10.2147/NSS.S524348",
       "product": {
-        "id": "sup-001",
-        "name": "Thorne Creatine Monohydrate",
-        "brand": "Thorne",
-        "asin": "B0013OQGO6",
-        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
         "category": "supplements",
         "price_range": "$$",
         "keywords": [
-          "creatine",
-          "strength",
-          "muscle",
-          "performance",
-          "supplement",
-          "brain",
-          "cognitive",
-          "aging",
-          "endurance"
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
         ],
-        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/37316381/pexels-photo-37316381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/37316381/pexels-photo-37316381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Guillermo Berlin",
-        "photographerUrl": "https://www.pexels.com/@guillermo-berlin-1524368912",
-        "photoPageUrl": "https://www.pexels.com/photo/wooden-spoon-in-jar-of-powdered-ingredient-37316381/",
-        "avgColor": "#87614A"
+        "url": "https://images.pexels.com/photos/17604755/pexels-photo-17604755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17604755/pexels-photo-17604755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Beelith USA",
+        "photographerUrl": "https://www.pexels.com/@beelith",
+        "photoPageUrl": "https://www.pexels.com/photo/vials-with-pills-17604755/",
+        "avgColor": "#B48D92"
       }
     },
     {
-      "category": "SLEEP",
-      "topic": "global sleep awareness gap quality 2026 survey",
-      "headline": "Everyone Knows Sleep Matters. Nobody Is Actually Sleeping.",
-      "body": "ResMed's 2026 Global Sleep Survey of 30,000 people across 13 countries reveals a growing disconnect between knowledge and action. More than half of respondents rank sleep as the single most important behavior for a long, healthy life. Yet more than half only get a good night of sleep four nights a week or less. And 83 percent say they face real barriers to quality rest. Stress and anxiety were the top sleep disruptors worldwide. Among employed respondents, nearly half believe their employer does not care about their sleep health.",
-      "takeaway": "Knowing sleep is important is not enough. Treat your sleep window like a non-negotiable appointment. Protect it the same way you would protect your workout.",
-      "pexelsQuery": "person sleeping in dark bedroom",
-      "source": "ResMed Global Sleep Survey 2026",
-      "url": "https://sleepsurvey.resmed.com/",
+      "category": "STRESS",
+      "topic": "chronic stress cortisol immune suppression adults",
+      "headline": "Chronic Stress Is Quietly Weakening Your Immune System",
+      "body": "A study published in Cureus in May 2025 examined the relationship between cortisol, the primary stress hormone, and immune function across age groups and genders. Researchers found that elevated cortisol correlated with reduced lymphocyte levels, meaning the immune cells you need to fight infection were being suppressed. Acute stress gave a brief immune boost, but chronic stress pushed the system into dysregulation. In the middle-aged cohort, the pattern was especially linked to occupational and lifestyle pressures, not just age.",
+      "takeaway": "Chronic work stress isn't just a mental health problem. It's quietly lowering your defenses. Even short daily stress-reduction habits like five minutes of deep breathing have evidence behind them.",
+      "pexelsQuery": "stressed person working desk",
+      "source": "Cureus",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12205267/",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8370961/pexels-photo-8370961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8370961/pexels-photo-8370961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-white-long-sleeves-holding-his-head-8370961/",
+        "avgColor": "#786753"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "exercise gut microbiome diversity gastrointestinal health",
+      "headline": "Your Workouts Are Reshaping Your Gut — But Intensity and Consistency Matter",
+      "body": "A major review published in Gastroenterology in 2025 found that exercise facilitates a more diverse gut microbiome and alters bacterial composition in ways linked to better health. The catch: only moderate to high-intensity exercise done more than three times a week for at least eight weeks consistently produced those changes. Too much high-intensity training without enough recovery could actually increase intestinal permeability. The takeaway isn't to go harder. It's to go consistently.",
+      "takeaway": "Aim for at least three solid workouts per week, sustained over two months or more. That's the threshold where your gut microbiome actually starts to benefit.",
+      "pexelsQuery": "person running park outdoors",
+      "source": "Gastroenterology",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(25)00329-4/fulltext",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5163849/pexels-photo-5163849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5163849/pexels-photo-5163849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gustavo Fring",
+        "photographerUrl": "https://www.pexels.com/@gustavo-fring",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-pink-shirt-and-black-leggings-jogging-5163849/",
+        "avgColor": "#978B7B"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "sleep quality cognitive function attention memory adults",
+      "headline": "Poor Sleep Isn't Slowing You Down a Little. It's Slowing You Down a Lot.",
+      "body": "A study published in Frontiers in Sleep in April 2025 found significant negative correlations between poor sleep quality and cognitive performance across multiple domains, including attention, memory, and executive function. Regression analyses confirmed that sleep quality independently predicted mental performance even after controlling for demographics. People with poorer sleep took longer on attention tasks and performed worse on problem-solving. The researchers note that disruptions in REM and slow-wave sleep impair the brain's ability to consolidate memories formed during the day.",
+      "takeaway": "If you're losing 30 minutes of sleep a night to screens or late-night scrolling, your attention and decision-making the next day are measurably worse. Consistent bedtime beats perfect sleep hygiene.",
+      "pexelsQuery": "person awake at night smartphone",
+      "source": "Frontiers in Sleep",
+      "url": "https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2025.1537997/full",
       "product": {
-        "id": "slp-001",
-        "name": "LectroFan White Noise Machine",
-        "brand": "LectroFan",
-        "asin": "B00E6D6LQY",
-        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
         "category": "sleep",
         "price_range": "$",
         "keywords": [
           "sleep",
-          "white noise",
-          "sound machine",
-          "insomnia",
+          "light blocking",
+          "blackout",
+          "travel",
           "sleep quality",
-          "recovery",
-          "deep sleep"
+          "melatonin",
+          "recovery"
         ],
-        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/8481534/pexels-photo-8481534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8481534/pexels-photo-8481534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Sergey  Meshkov",
-        "photographerUrl": "https://www.pexels.com/@19x14",
-        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-person-lying-on-the-bed-8481534/",
-        "avgColor": "#100F0D"
+        "url": "https://images.pexels.com/photos/296654/pexels-photo-296654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/296654/pexels-photo-296654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vladyslav Dukhin",
+        "photographerUrl": "https://www.pexels.com/@vladyslav-dukhin",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-using-her-smartphone-296654/",
+        "avgColor": "#1F150C"
       }
     }
   ],
   "quote": {
-    "text": "The mind is the athlete; the body is simply the means it uses.",
-    "author": "Bryce Courtenay",
-    "context": "Australian author and one of the most widely read novelists in his country, known for themes of resilience and human endurance."
+    "text": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "context": "Roman Emperor and Stoic philosopher, author of Meditations."
   },
   "workout": {
     "type": "PULL",
@@ -148,43 +127,43 @@
     "duration": "30 min",
     "equipment": [
       "pull-up bar",
-      "resistance band (optional)",
-      "sturdy table or low bar for rows"
+      "resistance band",
+      "gymnastic rings or sturdy table"
     ],
-    "warmup": "Spend 2 minutes doing arm circles, shoulder rolls, and slow cat-cow stretches to open up the thoracic spine. Then hang from a bar for 20-30 seconds with a relaxed grip to decompress the spine and activate your lat muscles before the working sets.",
+    "warmup": "Start with 60 seconds of arm circles forward and backward, then 10 slow shoulder rolls each direction. Finish with 20 seconds of a passive dead hang at about 50 percent effort to open up the lats and decompress the spine.",
     "exercises": [
       {
         "name": "Dead Hang",
         "sets": "3",
         "reps": "30-45 seconds",
-        "notes": "Use a supinated or neutral grip. Let your shoulders fully elevate at the top, then actively depress them to engage your lats. This is active, not passive."
+        "notes": "Grip the bar with hands shoulder-width apart, relax the shoulders fully, and breathe. Scale by bending the knees to reduce load. This builds grip strength and decompresses the spine."
       },
       {
-        "name": "Bodyweight Row (Table or Low Bar)",
-        "sets": "4",
-        "reps": "10-12",
-        "notes": "Keep your body in a rigid plank. Pull your chest to the bar and squeeze your shoulder blades together at the top. The more horizontal your body, the harder it is."
-      },
-      {
-        "name": "Scapular Pull-ups",
+        "name": "Inverted Table Row",
         "sets": "3",
-        "reps": "8-10",
-        "notes": "Hang from a bar with straight arms. Without bending the elbows, depress and retract your shoulder blades to lift your body an inch or two. This builds the foundation for full pull-ups."
+        "reps": "10-12",
+        "notes": "Use a sturdy table or low bar. Keep the body in a rigid plank position and pull the chest to the edge. The more horizontal your body, the harder it gets. Squeeze the shoulder blades together at the top."
       },
       {
-        "name": "Resistance Band Straight-Arm Pulldown",
+        "name": "Resistance Band Lat Pulldown",
         "sets": "3",
         "reps": "12-15",
-        "notes": "Anchor a band high. Stand and pull the band straight down to your thighs with locked elbows. Drives lat activation without loading the joints. Substitute a lat pulldown machine if at a gym."
+        "notes": "Anchor a band overhead, kneel or sit, and pull the band down to your upper chest. Focus on driving the elbows down and back, not pulling with the hands. Slow the return to three seconds."
       },
       {
-        "name": "Plank with Alternating Row",
+        "name": "Scapular Pull-up",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "Hang from the bar and, without bending the elbows, squeeze the shoulder blades down and together so your body rises slightly. Pause for one second at the top. This activates the lower traps and builds the foundation for full pull-ups."
+      },
+      {
+        "name": "Plank with Alternating Reach",
         "sets": "3",
         "reps": "8 each side",
-        "notes": "Hold a plank. With one hand, row a light dumbbell or water bottle from the floor to your hip. Avoid rotating your hips. Core and back working together."
+        "notes": "Hold a high plank and slowly extend one arm forward, holding for two seconds before switching. Keep the hips locked and avoid any rocking. This ties the core to the pulling chain."
       }
     ],
-    "cooldown": "Finish with a 60-second doorway lat stretch each side: grip a door frame, step one foot back, and lean away until you feel a deep stretch through your side. Then do a 30-second chest opener with hands clasped behind your back.",
+    "cooldown": "Hang passively for 30 seconds to relax the lats, then take 90 seconds in a doorway pec stretch to restore chest-to-back balance after all the pulling work.",
     "product": {
       "id": "str-001",
       "name": "Gymnastic Rings - Double Circle Wood",
@@ -208,48 +187,47 @@
     }
   },
   "meal": {
-    "title": "Spiced Chicken and Sweet Potato Skillet",
-    "type": "dinner",
-    "mainProtein": "chicken",
-    "prepTime": "20 min",
-    "calories": 480,
+    "title": "Lemon Herb Salmon Rice Bowl",
+    "type": "lunch",
+    "mainProtein": "salmon",
+    "prepTime": "15 min",
+    "calories": 520,
     "protein": 42,
     "carbs": 38,
-    "fat": 14,
+    "fat": 18,
     "ingredients": [
-      "2 boneless skinless chicken breasts (approx 200g each), diced",
-      "1 medium sweet potato, peeled and diced small",
-      "1 cup baby spinach",
-      "1/2 red onion, diced",
-      "2 cloves garlic, minced",
-      "1 tsp smoked paprika",
-      "1 tsp cumin",
-      "1/2 tsp chili flakes (optional)",
+      "6 oz salmon fillet (or 1 pouch of wild-caught salmon)",
+      "1 cup cooked brown rice or microwavable rice pouch",
+      "1 cup baby spinach or arugula",
+      "1/2 cucumber, sliced thin",
+      "1/4 avocado, sliced",
       "1 tbsp olive oil",
-      "Salt and pepper to taste",
-      "Fresh lime juice to finish"
+      "Juice of half a lemon",
+      "1 tsp garlic powder",
+      "Salt, pepper, and fresh dill or dried herbs to taste"
     ],
-    "instructions": "Heat olive oil in a large skillet over medium-high heat. Add sweet potato and cook for 6-7 minutes until starting to soften, stirring occasionally. Push to the side, add the chicken and cook for 5-6 minutes until golden and cooked through. Add onion, garlic, paprika, cumin, and chili flakes and stir everything together for 2 minutes until fragrant. Fold in spinach until wilted, squeeze lime juice over the top, and serve immediately.",
-    "tip": "Dice your sweet potato small and uniform so it cooks fast and at the same rate as the chicken. No need to pre-boil it.",
+    "instructions": "Season the salmon with garlic powder, salt, pepper, and a squeeze of lemon. Pan sear over medium-high heat in olive oil for 3 to 4 minutes per side until cooked through, or microwave a salmon pouch if you're short on time. Warm the rice and layer it in a bowl with the greens and cucumber. Flake the salmon on top. Add avocado, drizzle with the remaining lemon juice and any pan juices, and finish with dill.",
+    "tip": "Keep a pouch of wild-caught salmon at your desk for zero-prep protein. It flakes straight into a bowl with pre-cooked rice in under three minutes.",
     "product": {
-      "id": "body-002",
-      "name": "Greater Goods Digital Food Scale",
-      "brand": "Greater Goods",
-      "asin": "B09QFWXSD8",
-      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
-      "category": "kitchen",
-      "price_range": "$",
+      "id": "sup-002",
+      "name": "Nordic Naturals Omega-3 Fish Oil",
+      "brand": "Nordic Naturals",
+      "asin": "B002CQU564",
+      "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+      "category": "supplements",
+      "price_range": "$$",
       "keywords": [
-        "nutrition",
-        "calories",
-        "macros",
-        "meal prep",
-        "food tracking",
-        "portion",
-        "weight loss",
-        "protein"
+        "fish oil",
+        "omega-3",
+        "heart health",
+        "brain health",
+        "inflammation",
+        "supplement",
+        "DHA",
+        "EPA",
+        "recovery"
       ],
-      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+      "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
     }
   }
 }
