@@ -1,35 +1,56 @@
 {
   "date": "2026-05-06",
   "dateLabel": "Wednesday, May 6, 2026",
-  "generatedAt": "2026-05-06T22:41:27.810Z",
+  "generatedAt": "2026-05-06T22:43:58.408Z",
   "articles": [
     {
-      "category": "STRESS",
-      "topic": "internalized stress hopelessness memory decline aging",
-      "headline": "Bottling Up Stress Is One of the Worst Things You Can Do for Your Brain",
-      "body": "A Rutgers Health study tracked over 1,500 older adults and found that people who internalize stress — absorbing it rather than expressing it — showed the strongest link to memory decline over time. Feelings of hopelessness were the key driver. Community support and stress-relief activities didn't offset it. Researchers say this form of stress often goes unnoticed because it's quiet and internal. The good news: it's considered a modifiable trait, meaning it can be changed with the right support.",
-      "takeaway": "If you tend to bottle things up, that habit may be costing you more than mood. Finding an outlet — a therapist, a trusted friend, even a journal — isn't soft. It's brain protection.",
-      "pexelsQuery": "person sitting alone window thinking",
-      "source": "ScienceDaily / Rutgers University",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
+      "category": "SUPPLEMENTS",
+      "topic": "creatine brain health cognitive benefits",
+      "headline": "Creatine Is No Longer Just a Gym Supplement",
+      "body": "A new review published May 4, 2026 takes a deep look at creatine beyond bench press numbers. The findings confirm it helps muscles regenerate ATP during intense effort — but scientists are increasingly excited about what it does for the brain. Studies suggest it may support memory, mood, and processing speed, especially in people with naturally lower creatine levels, like older adults. Researchers are now exploring its potential role in depression, Parkinson's, and menopause-related muscle loss. The headline: this one's not just for gym bros anymore.",
+      "takeaway": "5g of creatine monohydrate daily is low-risk, well-researched, and increasingly supported for brain health — not just performance.",
+      "pexelsQuery": "white powder supplement scoop",
+      "source": "ScienceDaily (Taylor & Francis Group)",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/6382597/pexels-photo-6382597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6382597/pexels-photo-6382597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Liza Summer",
-        "photographerUrl": "https://www.pexels.com/@liza-summer",
-        "photoPageUrl": "https://www.pexels.com/photo/desperate-black-woman-embracing-knees-suffering-from-difficulties-6382597/",
-        "avgColor": "#A09489"
+        "url": "https://images.pexels.com/photos/12625114/pexels-photo-12625114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12625114/pexels-photo-12625114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-white-powder-and-a-scoop-lying-on-the-blue-background-12625114/",
+        "avgColor": "#8FBBC4"
       }
     },
     {
       "category": "GUT HEALTH",
-      "topic": "CAG-170 gut bacteria healthy microbiome discovery",
-      "headline": "Scientists Found a Mystery Gut Bacteria That Keeps Showing Up in Healthy People",
-      "body": "Researchers at the University of Cambridge analyzed gut microbiome samples from more than 11,000 people across 39 countries and found one group of bacteria — called CAG-170 — consistently appeared in healthy people and was far less common in those with chronic diseases like obesity, inflammatory bowel disease, and multiple sclerosis. These bacteria produce vitamin B12 and appear to help other beneficial gut microbes thrive. Scientists haven't been able to grow them in a lab yet, but the discovery could eventually reshape how we measure gut health.",
-      "takeaway": "You can't supplement CAG-170 yet. But the research points back to the same basics: a varied, fiber-rich diet is the best way to support a diverse microbiome — including the bacteria we haven't even fully discovered.",
-      "pexelsQuery": "fresh vegetables colorful plate healthy food",
-      "source": "ScienceDaily / University of Cambridge",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260211204210.htm",
+      "topic": "CAG-170 gut bacteria health marker global study",
+      "headline": "Scientists Just Found a Hidden Gut Bacteria That Tracks With Good Health",
+      "body": "A University of Cambridge team analyzed over 11,000 gut samples from 39 countries and discovered a previously overlooked group of gut bacteria called CAG-170. People with chronic diseases — including inflammatory bowel disease, obesity, and chronic fatigue syndrome — had consistently lower levels of it. The bacteria appear stable over time, support the wider gut ecosystem, and may produce vitamin B12. The lead researcher noted that most probiotic products haven't caught up with this kind of discovery yet.",
+      "takeaway": "A varied, fiber-rich diet is still your best tool for supporting a balanced microbiome while the science on CAG-170 develops.",
+      "pexelsQuery": "fresh vegetables colorful plate",
+      "source": "University of Cambridge",
+      "url": "https://www.cam.ac.uk/research/news/hidden-bugs-in-our-gut-appear-key-to-good-health-finds-global-study",
       "photo": {
         "url": "https://images.pexels.com/photos/5639482/pexels-photo-5639482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "squareUrl": "https://images.pexels.com/photos/5639482/pexels-photo-5639482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -40,14 +61,51 @@
       }
     },
     {
+      "category": "SLEEP",
+      "topic": "sleep quality versus quantity cognitive performance older adults",
+      "headline": "How Well You Sleep Matters More Than How Long",
+      "body": "Penn State researchers tracked sleep and cognitive performance in older adults and found a clear pattern: the quality of a night's sleep predicted how quickly people processed information the next day — not the length. The key culprit was how much time people spent awake after falling asleep. More wake time meant slower processing and worse visual working memory scores. The lead author was direct: out of all the sleep factors they measured, quality was the only one that made a day-to-day difference in cognitive performance.",
+      "takeaway": "If you're waking up multiple times at night, that's the problem worth solving — even if your total hours look fine on paper.",
+      "pexelsQuery": "person sleeping in bed night",
+      "source": "Penn State University",
+      "url": "https://www.psu.edu/news/health-and-human-development/story/night-waking-impacts-cognitive-performance-regardless-sleep",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6541120/pexels-photo-6541120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6541120/pexels-photo-6541120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina ⠀",
+        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
+        "photoPageUrl": "https://www.pexels.com/photo/asleep-woman-wearing-eye-mask-6541120/",
+        "avgColor": "#61564F"
+      }
+    },
+    {
       "category": "HYDRATION",
-      "topic": "dehydration cortisol stress response elevated",
-      "headline": "Not Drinking Enough Water Is Making Your Stress Response Worse",
-      "body": "A study from Liverpool John Moores University found that under-hydrated people had cortisol levels more than 50% higher during a standardized stress test compared to well-hydrated participants. Both groups felt equally anxious — but only the low-fluid group showed a significant biological stress spike. Researchers say people in the low-fluid group didn't even feel thirstier, but their urine was darker and more concentrated. The finding suggests poor hydration amplifies the body's stress response even when you don't feel dehydrated.",
-      "takeaway": "Before a big presentation, a hard workout, or a stressful day with the kids — drink your water first. It won't eliminate stress, but it may stop your body from overreacting to it.",
-      "pexelsQuery": "glass of water table clear",
-      "source": "ScienceDaily / Liverpool John Moores University",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2025/09/250923021148.htm",
+      "topic": "dehydration sustained attention middle-aged adults daily activities",
+      "headline": "You Might Be Too Dehydrated to Focus — Without Even Knowing It",
+      "body": "Penn State researchers tracked 78 adults between ages 47 and 70 over three months, measuring actual hydration levels via blood markers. At each check-in, up to 39% of the group was dehydrated — from nothing more than normal daily activities. Those participants performed significantly worse on a sustained attention task lasting 14 minutes. Working memory and other cognitive tests were unaffected. The finding matters because most of our important work tasks — reading, writing, analyzing — require exactly that kind of extended focus.",
+      "takeaway": "Don't wait until you're thirsty. Keep a water bottle at your desk and sip consistently through the day, especially before long work blocks.",
+      "pexelsQuery": "glass of water on desk",
+      "source": "Penn State University / Neuroscience News",
+      "url": "https://neurosciencenews.com/dehydration-attention-aging-26163/",
       "product": {
         "id": "nut-001",
         "name": "Skratch Labs Hydration Mix",
@@ -69,101 +127,64 @@
         "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/9895027/pexels-photo-9895027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/9895027/pexels-photo-9895027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ron Lach",
-        "photographerUrl": "https://www.pexels.com/@ron-lach",
-        "photoPageUrl": "https://www.pexels.com/photo/two-people-holding-glass-of-water-9895027/",
-        "avgColor": "#6D393D"
-      }
-    },
-    {
-      "category": "SLEEP",
-      "topic": "sleep schedule irregularity disease risk 172 conditions",
-      "headline": "It's Not Just How Long You Sleep. It's How Consistently You Sleep.",
-      "body": "A large international study published in Health Data Science analyzed objective sleep data from over 88,000 adults and found that irregular sleep habits — like inconsistent bedtimes — were linked to significantly higher risk across 172 diseases. Going to bed after 12:30am was associated with a 2.5-fold higher risk of liver disease. Poor circadian rhythm stability increased gangrene risk by over 2.6 times. The study also found that objective data challenged the idea that sleeping more than 9 hours is harmful — a claim that previous self-reported research had inflated.",
-      "takeaway": "Consistency matters as much as quantity. Locking in a regular bedtime — even on weekends — may do more for your long-term health than adding an extra hour of sleep here and there.",
-      "pexelsQuery": "alarm clock bedside table bedroom",
-      "source": "ScienceDaily / Health Data Science",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2025/07/250729001227.htm",
-      "product": {
-        "id": "slp-001",
-        "name": "LectroFan White Noise Machine",
-        "brand": "LectroFan",
-        "asin": "B00E6D6LQY",
-        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
-        "category": "sleep",
-        "price_range": "$",
-        "keywords": [
-          "sleep",
-          "white noise",
-          "sound machine",
-          "insomnia",
-          "sleep quality",
-          "recovery",
-          "deep sleep"
-        ],
-        "blurb": "Blocks ambient noise so your sleep is actually restorative."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/33992883/pexels-photo-33992883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/33992883/pexels-photo-33992883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Alexas Fotos",
-        "photographerUrl": "https://www.pexels.com/@alexasfotos",
-        "photoPageUrl": "https://www.pexels.com/photo/vintage-alarm-clock-casting-long-shadow-33992883/",
-        "avgColor": "#84726E"
+        "url": "https://images.pexels.com/photos/35208/office-home-glasses-workspace.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/35208/office-home-glasses-workspace.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/silver-imac-turned-on-beside-gray-ceramic-mug-and-black-frame-eyeglasses-35208/",
+        "avgColor": "#A9A8A8"
       }
     }
   ],
   "quote": {
-    "text": "The mind is the athlete; the body is simply the means it uses.",
-    "author": "Kareem Abdul-Jabbar",
-    "context": "NBA Hall of Famer, 6x champion, and one of the most mentally disciplined athletes in sports history."
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "context": "American author and humorist, known for his sharp wit and timeless observations on human nature."
   },
   "workout": {
     "type": "PULL",
-    "title": "Dead Hang and Row Strength Builder",
+    "title": "Dead Hang and Row Grinder",
     "difficulty": "Intermediate",
     "duration": "30 min",
     "equipment": [
       "pull-up bar",
-      "resistance band (optional)",
-      "sturdy table or low bar for rows"
+      "resistance bands",
+      "floor space"
     ],
-    "warmup": "Spend 2 minutes doing arm circles, shoulder rolls, and cat-cow stretches to open up the thoracic spine. Finish with 30 seconds of passive dead hang at low intensity to decompress the spine and prime your grip.",
+    "warmup": "Start with 2 minutes of arm circles, shoulder rolls, and cat-cow stretches on the floor. Then do 2 sets of 5 slow, controlled dead hangs lasting 10 seconds each to open up the shoulders and grip.",
     "exercises": [
       {
         "name": "Dead Hang",
         "sets": "3",
-        "reps": "30–45 seconds",
-        "notes": "Hang from a pull-up bar with a full grip, shoulders active (not shrugged up to ears). Builds grip strength and shoulder health. Reduce time if grip fails before shoulders."
-      },
-      {
-        "name": "Inverted Table Row",
-        "sets": "4",
-        "reps": "10–12",
-        "notes": "Use a sturdy table or low bar. Body straight, heels on floor, pull chest to the bar. Elevate feet on a chair to increase difficulty. Squeeze shoulder blades at the top."
-      },
-      {
-        "name": "Band Pull-Apart",
-        "sets": "3",
-        "reps": "15",
-        "notes": "Hold a resistance band at shoulder height with both hands. Pull apart until arms are fully extended to sides. Slow and controlled — feel the rear delts and upper back work."
+        "reps": "30-45 sec hold",
+        "notes": "Hang from a bar with a full grip, shoulders pulled slightly down away from ears. Use a band for support if needed. Builds grip and decompresses the spine."
       },
       {
         "name": "Scapular Pull-Up",
         "sets": "3",
         "reps": "8",
-        "notes": "Hang from the bar, then depress and retract your shoulder blades without bending the elbows — a small but powerful movement. Great for shoulder health and lat activation."
+        "notes": "From a dead hang, retract and depress your shoulder blades without bending your elbows. Pause at the top. This primes the upper back before full pull-up work."
       },
       {
-        "name": "Hollow Body Hold",
+        "name": "Resistance Band Bent-Over Row",
+        "sets": "4",
+        "reps": "12",
+        "notes": "Stand on band, hinge at hips to roughly 45 degrees, and pull elbows back behind your body. Keep core braced. Squeeze hard at the top for a 1-second hold."
+      },
+      {
+        "name": "Chin-Up or Band-Assisted Chin-Up",
         "sets": "3",
-        "reps": "20–30 seconds",
-        "notes": "Lie on your back, arms overhead, lower back pressed into floor. Raise legs and shoulders slightly. This is the core position that makes every pulling movement stronger."
+        "reps": "6-8",
+        "notes": "Palms face you. Pull chest toward bar, not chin over bar. Control the descent for 3 counts. Use a looped band under your knee if needed."
+      },
+      {
+        "name": "Plank with Shoulder Tap",
+        "sets": "3",
+        "reps": "20 taps (10 per side)",
+        "notes": "Hold a strong plank, feet hip-width apart to reduce rotation. Tap opposite shoulder while keeping hips level. Slower is harder — make it count."
       }
     ],
-    "cooldown": "Hang passively for 30 seconds, then move into a chest-open doorway stretch and a supine spinal twist on each side. Focus on slow nasal breathing throughout.",
+    "cooldown": "Finish with a doorway or band chest-opener stretch for 60 seconds, then a 90-second lat stretch — grab a stable post or doorframe and sit back into your hip to lengthen the side body.",
     "product": {
       "id": "str-001",
       "name": "Gymnastic Rings - Double Circle Wood",
@@ -187,27 +208,28 @@
     }
   },
   "meal": {
-    "title": "Seared Salmon and White Bean Skillet",
-    "type": "dinner",
+    "title": "Lemon Herb Salmon Rice Bowl",
+    "type": "lunch",
     "mainProtein": "salmon",
-    "prepTime": "20 min",
+    "prepTime": "15 min",
     "calories": 520,
     "protein": 42,
-    "carbs": 28,
-    "fat": 22,
+    "carbs": 38,
+    "fat": 18,
     "ingredients": [
-      "2 salmon fillets (150g each)",
-      "1 can (400g) white cannellini beans, drained and rinsed",
-      "2 cups baby spinach",
-      "3 cloves garlic, minced",
+      "2 salmon fillets (approx. 5 oz each)",
+      "1 cup cooked brown rice or microwaveable rice pouch",
+      "1 cup baby spinach or mixed greens",
+      "1/2 cucumber, sliced",
+      "1/4 avocado, sliced",
       "1 tbsp olive oil",
-      "Juice of half a lemon",
-      "1 tsp smoked paprika",
-      "Salt and pepper to taste",
-      "Fresh parsley to garnish (optional)"
+      "Juice of 1 lemon",
+      "1 tsp garlic powder",
+      "Salt, pepper, and dried dill to taste",
+      "Optional: 1 tbsp low-sodium soy sauce or tamari drizzle"
     ],
-    "instructions": "1. Pat salmon dry, season with smoked paprika, salt, and pepper. Heat olive oil in a skillet over medium-high heat and sear salmon skin-side down for 4 minutes, then flip and cook 2–3 more minutes. Remove and rest. 2. In the same pan over medium heat, add garlic and cook 60 seconds until fragrant. Add white beans and stir to coat. 3. Add baby spinach and stir until wilted, about 2 minutes. Squeeze in lemon juice. 4. Plate the beans and spinach, top with salmon fillets, and garnish with parsley.",
-    "tip": "Don't overcrowd the pan when searing the salmon — you want crispy skin, not steaming. A hot, dry pan is the key.",
+    "instructions": "Season salmon with garlic powder, dill, salt, and pepper. Pan-sear in olive oil over medium-high heat for 3-4 minutes per side until cooked through. While salmon cooks, heat your rice and lay it in a bowl with greens, cucumber, and avocado. Flake salmon over the top, squeeze lemon juice over everything, and finish with a drizzle of tamari if using.",
+    "tip": "Buy a bag of microwave rice pouches and keep salmon fillets in the freezer — this bowl comes together in under 15 minutes on even the most slammed weekdays.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
