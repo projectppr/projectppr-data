@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-06",
+  "dateLabel": "Wednesday, May 6, 2026",
+  "generatedAt": "2026-05-06T07:21:21.648Z",
+  "articles": [
+    {
+      "category": "STRESS",
+      "topic": "room temperature stress hormone reactivity",
+      "headline": "Your Office Temperature Is Quietly Jacking Up Your Stress Hormones",
+      "body": "A new study published in Comprehensive Psychoneuroendocrinology tracked 73 healthy adults exposed to a standardized stress test at varying room temperatures. The finding: warmer rooms, even in the comfortable range of 63 to 82 degrees Fahrenheit, were linked to measurably higher cortisol levels and elevated heart rate. The kicker? Participants didn't even feel more stressed. Their bodies were reacting below conscious awareness. As summer approaches, it's worth paying attention to the temperature of the spaces where you work, sleep, and train.",
+      "takeaway": "Keep your workspace and bedroom on the cooler side. Your stress system is responding to heat whether you notice it or not.",
+      "pexelsQuery": "office room thermostat wall",
+      "source": "AJMC",
+      "url": "https://www.ajmc.com/view/ambient-temperature-linked-to-stress-hormone-changes-study-finds",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7616651/pexels-photo-7616651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7616651/pexels-photo-7616651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Erik Mclean",
+        "photographerUrl": "https://www.pexels.com/@introspectivedsgn",
+        "photoPageUrl": "https://www.pexels.com/photo/white-thermostat-hanging-on-the-wall-7616651/",
+        "avgColor": "#BAADA7"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "training intensity gut microbiome athletes",
+      "headline": "How Hard You Train Is Also Changing Your Gut",
+      "body": "New research from Edith Cowan University, published in the Journal of the International Society of Sports Nutrition, found that training load directly shapes the gut microbiome of highly trained athletes. Higher intensity training was associated with shifts in gut bacteria and short-chain fatty acid levels. When training eased up, diet quality also slipped and digestion slowed, triggering different microbial changes. One possible mechanism: lactate produced by working muscles travels to the gut and may encourage the growth of specific bacteria.",
+      "takeaway": "Consistent, moderately hard training does more than build muscle. It helps shape a healthier gut environment. Another reason not to skip the work.",
+      "pexelsQuery": "person running track athlete",
+      "source": "ScienceDaily / Edith Cowan University",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260222092317.htm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/12585940/pexels-photo-12585940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12585940/pexels-photo-12585940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "BOOM 💥 Photography",
+        "photographerUrl": "https://www.pexels.com/@boom",
+        "photoPageUrl": "https://www.pexels.com/photo/an-athlete-in-a-sprint-race-starting-position-12585940/",
+        "avgColor": "#AF796D"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "magnesium L-threonate cognition sleep quality",
+      "headline": "This Form of Magnesium Does Something Regular Magnesium Might Not",
+      "body": "A 6-week randomized, double-blind, placebo-controlled trial published in Frontiers in Nutrition found that magnesium L-threonate (Magtein) improved overall cognition, working memory, reaction time, heart rate, and heart rate variability in healthy adults with self-reported sleep problems. Researchers think the key is brain bioavailability: this specific form of magnesium may cross the blood-brain barrier more effectively than standard versions. About 50 percent of Americans don't hit the recommended daily magnesium intake.",
+      "takeaway": "If you've tried regular magnesium without much effect, the L-threonate form may be worth exploring. Talk to your doctor before adding it.",
+      "pexelsQuery": "white supplement capsules bottle",
+      "source": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1729164/full",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/15897783/pexels-photo-15897783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15897783/pexels-photo-15897783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "by Natallia",
+        "photographerUrl": "https://www.pexels.com/@by-natallia-311038782",
+        "photoPageUrl": "https://www.pexels.com/photo/vial-and-pills-of-cod-liver-oil-on-pink-background-15897783/",
+        "avgColor": "#9C807C"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "sleep quality versus quantity cognitive performance adults",
+      "headline": "It's Not How Long You Sleep. It's How Well.",
+      "body": "A Penn State and Albert Einstein College of Medicine study published in Sleep Health found that among older adults, sleep quality, not sleep duration, predicted how well they processed information the next day. Participants who spent more time awake after initially falling asleep performed worse on three out of four cognitive tests, including visual working memory. Total hours in bed barely moved the needle. Quality was the only factor that made a day-to-day difference in cognitive function.",
+      "takeaway": "If you're logging 7 hours but waking up multiple times, the hours aren't doing what you think. Focus on reducing wake time, not just time in bed.",
+      "pexelsQuery": "person sleeping in bed bedroom",
+      "source": "Penn State University / Sleep Health",
+      "url": "https://www.psu.edu/news/health-and-human-development/story/night-waking-impacts-cognitive-performance-regardless-sleep",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7241270/pexels-photo-7241270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7241270/pexels-photo-7241270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Eren Li",
+        "photographerUrl": "https://www.pexels.com/@eren-li",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-lying-on-the-bed-7241270/",
+        "avgColor": "#858684"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The mind is the athlete; the body is simply the means it uses.",
+    "author": "Kareem Abdul-Jabbar",
+    "context": "NBA Hall of Famer, 6-time champion, and one of the most disciplined athletes in professional sports history."
+  },
+  "workout": {
+    "type": "PULL",
+    "title": "Hold the Line: Back and Core Pull Session",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar or sturdy door frame",
+      "resistance band (optional)"
+    ],
+    "warmup": "Start with 90 seconds of arm circles and shoulder rolls, forward and backward. Follow with 10 slow scapular retractions, squeezing your shoulder blades together and holding for 2 seconds each. Finish with a 30-second dead hang from the bar to open up the lats and shoulders.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "30 sec hold",
+        "notes": "Full grip on the bar, shoulders relaxed down away from ears. If 30 seconds is too easy, try a slight active hang by gently depressing your shoulder blades."
+      },
+      {
+        "name": "Inverted Row (or Band-Assisted Pull-Up)",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Use a table edge for inverted rows: body straight, pull chest to the surface. For pull-ups, loop a resistance band over the bar for assistance. Drive elbows down and back."
+      },
+      {
+        "name": "Chin-Up or Negative Chin-Up",
+        "sets": "3",
+        "reps": "6-8 (or 4 slow negatives)",
+        "notes": "Palms facing you. If you can't do full reps, step up to the top position and lower yourself for 4-5 seconds. That eccentric load is still serious work."
+      },
+      {
+        "name": "Superman Hold",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Lie face down, arms extended. Lift arms, chest, and legs simultaneously, squeeze at the top for 2 seconds. Keeps the posterior chain engaged and balances out all the pulling."
+      },
+      {
+        "name": "Dead Bug",
+        "sets": "3",
+        "reps": "8 per side",
+        "notes": "Lie on your back, arms toward ceiling, knees at 90 degrees. Slowly lower opposite arm and leg toward the floor while pressing your lower back flat. No arching. This is the core anchor the rest of the session needs."
+      }
+    ],
+    "cooldown": "Hang loosely from the bar for 20 seconds to decompress the spine. Follow with a 60-second child's pose to stretch the lats and lower back.",
+    "product": {
+      "id": "str-001",
+      "name": "Gymnastic Rings - Double Circle Wood",
+      "brand": "Double Circle",
+      "asin": "B076X32LFY",
+      "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$",
+      "keywords": [
+        "gymnastics",
+        "rings",
+        "strength",
+        "bodyweight",
+        "upper body",
+        "pull-ups",
+        "dips",
+        "core",
+        "home gym"
+      ],
+      "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+    }
+  },
+  "meal": {
+    "title": "Teriyaki Salmon Rice Bowl",
+    "type": "dinner",
+    "mainProtein": "salmon",
+    "prepTime": "20 min",
+    "calories": 520,
+    "protein": 42,
+    "carbs": 45,
+    "fat": 16,
+    "ingredients": [
+      "2 salmon fillets (5 oz each)",
+      "2 tbsp low-sodium soy sauce",
+      "1 tbsp honey",
+      "1 tsp sesame oil",
+      "1 tsp fresh ginger, grated",
+      "1 garlic clove, minced",
+      "1 cup cooked brown rice",
+      "1 cup edamame, shelled",
+      "1 cup shredded purple cabbage",
+      "2 green onions, sliced",
+      "1 tsp sesame seeds",
+      "Optional: sriracha drizzle"
+    ],
+    "instructions": "1. Mix soy sauce, honey, sesame oil, ginger, and garlic in a small bowl to make the teriyaki glaze. 2. Heat a non-stick pan over medium-high heat. Add salmon fillets skin-side down and cook 3-4 minutes. Flip, brush generously with glaze, and cook another 3-4 minutes until cooked through. 3. Divide brown rice between two bowls. Top with salmon, edamame, and shredded cabbage. 4. Drizzle any remaining glaze over the top, then finish with green onions, sesame seeds, and sriracha if you like heat.",
+    "tip": "Make a double batch of the teriyaki glaze on Sunday and store it in the fridge. It works on chicken, tofu, and roasted vegetables all week.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
