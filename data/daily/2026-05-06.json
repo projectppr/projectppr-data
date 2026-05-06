@@ -1,91 +1,91 @@
 {
   "date": "2026-05-06",
   "dateLabel": "Wednesday, May 6, 2026",
-  "generatedAt": "2026-05-06T07:21:21.648Z",
+  "generatedAt": "2026-05-06T22:41:27.810Z",
   "articles": [
     {
       "category": "STRESS",
-      "topic": "room temperature stress hormone reactivity",
-      "headline": "Your Office Temperature Is Quietly Jacking Up Your Stress Hormones",
-      "body": "A new study published in Comprehensive Psychoneuroendocrinology tracked 73 healthy adults exposed to a standardized stress test at varying room temperatures. The finding: warmer rooms, even in the comfortable range of 63 to 82 degrees Fahrenheit, were linked to measurably higher cortisol levels and elevated heart rate. The kicker? Participants didn't even feel more stressed. Their bodies were reacting below conscious awareness. As summer approaches, it's worth paying attention to the temperature of the spaces where you work, sleep, and train.",
-      "takeaway": "Keep your workspace and bedroom on the cooler side. Your stress system is responding to heat whether you notice it or not.",
-      "pexelsQuery": "office room thermostat wall",
-      "source": "AJMC",
-      "url": "https://www.ajmc.com/view/ambient-temperature-linked-to-stress-hormone-changes-study-finds",
+      "topic": "internalized stress hopelessness memory decline aging",
+      "headline": "Bottling Up Stress Is One of the Worst Things You Can Do for Your Brain",
+      "body": "A Rutgers Health study tracked over 1,500 older adults and found that people who internalize stress — absorbing it rather than expressing it — showed the strongest link to memory decline over time. Feelings of hopelessness were the key driver. Community support and stress-relief activities didn't offset it. Researchers say this form of stress often goes unnoticed because it's quiet and internal. The good news: it's considered a modifiable trait, meaning it can be changed with the right support.",
+      "takeaway": "If you tend to bottle things up, that habit may be costing you more than mood. Finding an outlet — a therapist, a trusted friend, even a journal — isn't soft. It's brain protection.",
+      "pexelsQuery": "person sitting alone window thinking",
+      "source": "ScienceDaily / Rutgers University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
       "photo": {
-        "url": "https://images.pexels.com/photos/7616651/pexels-photo-7616651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7616651/pexels-photo-7616651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Erik Mclean",
-        "photographerUrl": "https://www.pexels.com/@introspectivedsgn",
-        "photoPageUrl": "https://www.pexels.com/photo/white-thermostat-hanging-on-the-wall-7616651/",
-        "avgColor": "#BAADA7"
+        "url": "https://images.pexels.com/photos/6382597/pexels-photo-6382597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6382597/pexels-photo-6382597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Liza Summer",
+        "photographerUrl": "https://www.pexels.com/@liza-summer",
+        "photoPageUrl": "https://www.pexels.com/photo/desperate-black-woman-embracing-knees-suffering-from-difficulties-6382597/",
+        "avgColor": "#A09489"
       }
     },
     {
       "category": "GUT HEALTH",
-      "topic": "training intensity gut microbiome athletes",
-      "headline": "How Hard You Train Is Also Changing Your Gut",
-      "body": "New research from Edith Cowan University, published in the Journal of the International Society of Sports Nutrition, found that training load directly shapes the gut microbiome of highly trained athletes. Higher intensity training was associated with shifts in gut bacteria and short-chain fatty acid levels. When training eased up, diet quality also slipped and digestion slowed, triggering different microbial changes. One possible mechanism: lactate produced by working muscles travels to the gut and may encourage the growth of specific bacteria.",
-      "takeaway": "Consistent, moderately hard training does more than build muscle. It helps shape a healthier gut environment. Another reason not to skip the work.",
-      "pexelsQuery": "person running track athlete",
-      "source": "ScienceDaily / Edith Cowan University",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260222092317.htm",
+      "topic": "CAG-170 gut bacteria healthy microbiome discovery",
+      "headline": "Scientists Found a Mystery Gut Bacteria That Keeps Showing Up in Healthy People",
+      "body": "Researchers at the University of Cambridge analyzed gut microbiome samples from more than 11,000 people across 39 countries and found one group of bacteria — called CAG-170 — consistently appeared in healthy people and was far less common in those with chronic diseases like obesity, inflammatory bowel disease, and multiple sclerosis. These bacteria produce vitamin B12 and appear to help other beneficial gut microbes thrive. Scientists haven't been able to grow them in a lab yet, but the discovery could eventually reshape how we measure gut health.",
+      "takeaway": "You can't supplement CAG-170 yet. But the research points back to the same basics: a varied, fiber-rich diet is the best way to support a diverse microbiome — including the bacteria we haven't even fully discovered.",
+      "pexelsQuery": "fresh vegetables colorful plate healthy food",
+      "source": "ScienceDaily / University of Cambridge",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260211204210.htm",
       "photo": {
-        "url": "https://images.pexels.com/photos/12585940/pexels-photo-12585940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/12585940/pexels-photo-12585940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "BOOM 💥 Photography",
-        "photographerUrl": "https://www.pexels.com/@boom",
-        "photoPageUrl": "https://www.pexels.com/photo/an-athlete-in-a-sprint-race-starting-position-12585940/",
-        "avgColor": "#AF796D"
+        "url": "https://images.pexels.com/photos/5639482/pexels-photo-5639482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5639482/pexels-photo-5639482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Shameel mukkath",
+        "photographerUrl": "https://www.pexels.com/@shameel-mukkath-3421394",
+        "photoPageUrl": "https://www.pexels.com/photo/fish-with-lemon-and-vegetables-5639482/",
+        "avgColor": "#765D3F"
       }
     },
     {
-      "category": "SUPPLEMENTS",
-      "topic": "magnesium L-threonate cognition sleep quality",
-      "headline": "This Form of Magnesium Does Something Regular Magnesium Might Not",
-      "body": "A 6-week randomized, double-blind, placebo-controlled trial published in Frontiers in Nutrition found that magnesium L-threonate (Magtein) improved overall cognition, working memory, reaction time, heart rate, and heart rate variability in healthy adults with self-reported sleep problems. Researchers think the key is brain bioavailability: this specific form of magnesium may cross the blood-brain barrier more effectively than standard versions. About 50 percent of Americans don't hit the recommended daily magnesium intake.",
-      "takeaway": "If you've tried regular magnesium without much effect, the L-threonate form may be worth exploring. Talk to your doctor before adding it.",
-      "pexelsQuery": "white supplement capsules bottle",
-      "source": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1729164/full",
+      "category": "HYDRATION",
+      "topic": "dehydration cortisol stress response elevated",
+      "headline": "Not Drinking Enough Water Is Making Your Stress Response Worse",
+      "body": "A study from Liverpool John Moores University found that under-hydrated people had cortisol levels more than 50% higher during a standardized stress test compared to well-hydrated participants. Both groups felt equally anxious — but only the low-fluid group showed a significant biological stress spike. Researchers say people in the low-fluid group didn't even feel thirstier, but their urine was darker and more concentrated. The finding suggests poor hydration amplifies the body's stress response even when you don't feel dehydrated.",
+      "takeaway": "Before a big presentation, a hard workout, or a stressful day with the kids — drink your water first. It won't eliminate stress, but it may stop your body from overreacting to it.",
+      "pexelsQuery": "glass of water table clear",
+      "source": "ScienceDaily / Liverpool John Moores University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2025/09/250923021148.htm",
       "product": {
-        "id": "sup-004",
-        "name": "Pure Encapsulations Magnesium Glycinate",
-        "brand": "Pure Encapsulations",
-        "asin": "B0058HWV9S",
-        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
-        "category": "supplements",
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
         "price_range": "$$",
         "keywords": [
-          "sleep",
-          "magnesium",
-          "recovery",
-          "muscle cramps",
-          "relaxation",
-          "insomnia",
-          "stress",
-          "supplement"
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
         ],
-        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/15897783/pexels-photo-15897783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/15897783/pexels-photo-15897783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "by Natallia",
-        "photographerUrl": "https://www.pexels.com/@by-natallia-311038782",
-        "photoPageUrl": "https://www.pexels.com/photo/vial-and-pills-of-cod-liver-oil-on-pink-background-15897783/",
-        "avgColor": "#9C807C"
+        "url": "https://images.pexels.com/photos/9895027/pexels-photo-9895027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9895027/pexels-photo-9895027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/two-people-holding-glass-of-water-9895027/",
+        "avgColor": "#6D393D"
       }
     },
     {
       "category": "SLEEP",
-      "topic": "sleep quality versus quantity cognitive performance adults",
-      "headline": "It's Not How Long You Sleep. It's How Well.",
-      "body": "A Penn State and Albert Einstein College of Medicine study published in Sleep Health found that among older adults, sleep quality, not sleep duration, predicted how well they processed information the next day. Participants who spent more time awake after initially falling asleep performed worse on three out of four cognitive tests, including visual working memory. Total hours in bed barely moved the needle. Quality was the only factor that made a day-to-day difference in cognitive function.",
-      "takeaway": "If you're logging 7 hours but waking up multiple times, the hours aren't doing what you think. Focus on reducing wake time, not just time in bed.",
-      "pexelsQuery": "person sleeping in bed bedroom",
-      "source": "Penn State University / Sleep Health",
-      "url": "https://www.psu.edu/news/health-and-human-development/story/night-waking-impacts-cognitive-performance-regardless-sleep",
+      "topic": "sleep schedule irregularity disease risk 172 conditions",
+      "headline": "It's Not Just How Long You Sleep. It's How Consistently You Sleep.",
+      "body": "A large international study published in Health Data Science analyzed objective sleep data from over 88,000 adults and found that irregular sleep habits — like inconsistent bedtimes — were linked to significantly higher risk across 172 diseases. Going to bed after 12:30am was associated with a 2.5-fold higher risk of liver disease. Poor circadian rhythm stability increased gangrene risk by over 2.6 times. The study also found that objective data challenged the idea that sleeping more than 9 hours is harmful — a claim that previous self-reported research had inflated.",
+      "takeaway": "Consistency matters as much as quantity. Locking in a regular bedtime — even on weekends — may do more for your long-term health than adding an extra hour of sleep here and there.",
+      "pexelsQuery": "alarm clock bedside table bedroom",
+      "source": "ScienceDaily / Health Data Science",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2025/07/250729001227.htm",
       "product": {
         "id": "slp-001",
         "name": "LectroFan White Noise Machine",
@@ -106,63 +106,64 @@
         "blurb": "Blocks ambient noise so your sleep is actually restorative."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/7241270/pexels-photo-7241270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7241270/pexels-photo-7241270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Eren Li",
-        "photographerUrl": "https://www.pexels.com/@eren-li",
-        "photoPageUrl": "https://www.pexels.com/photo/a-person-lying-on-the-bed-7241270/",
-        "avgColor": "#858684"
+        "url": "https://images.pexels.com/photos/33992883/pexels-photo-33992883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33992883/pexels-photo-33992883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alexas Fotos",
+        "photographerUrl": "https://www.pexels.com/@alexasfotos",
+        "photoPageUrl": "https://www.pexels.com/photo/vintage-alarm-clock-casting-long-shadow-33992883/",
+        "avgColor": "#84726E"
       }
     }
   ],
   "quote": {
     "text": "The mind is the athlete; the body is simply the means it uses.",
     "author": "Kareem Abdul-Jabbar",
-    "context": "NBA Hall of Famer, 6-time champion, and one of the most disciplined athletes in professional sports history."
+    "context": "NBA Hall of Famer, 6x champion, and one of the most mentally disciplined athletes in sports history."
   },
   "workout": {
     "type": "PULL",
-    "title": "Hold the Line: Back and Core Pull Session",
+    "title": "Dead Hang and Row Strength Builder",
     "difficulty": "Intermediate",
     "duration": "30 min",
     "equipment": [
-      "pull-up bar or sturdy door frame",
-      "resistance band (optional)"
+      "pull-up bar",
+      "resistance band (optional)",
+      "sturdy table or low bar for rows"
     ],
-    "warmup": "Start with 90 seconds of arm circles and shoulder rolls, forward and backward. Follow with 10 slow scapular retractions, squeezing your shoulder blades together and holding for 2 seconds each. Finish with a 30-second dead hang from the bar to open up the lats and shoulders.",
+    "warmup": "Spend 2 minutes doing arm circles, shoulder rolls, and cat-cow stretches to open up the thoracic spine. Finish with 30 seconds of passive dead hang at low intensity to decompress the spine and prime your grip.",
     "exercises": [
       {
         "name": "Dead Hang",
         "sets": "3",
-        "reps": "30 sec hold",
-        "notes": "Full grip on the bar, shoulders relaxed down away from ears. If 30 seconds is too easy, try a slight active hang by gently depressing your shoulder blades."
+        "reps": "30–45 seconds",
+        "notes": "Hang from a pull-up bar with a full grip, shoulders active (not shrugged up to ears). Builds grip strength and shoulder health. Reduce time if grip fails before shoulders."
       },
       {
-        "name": "Inverted Row (or Band-Assisted Pull-Up)",
-        "sets": "3",
-        "reps": "10-12",
-        "notes": "Use a table edge for inverted rows: body straight, pull chest to the surface. For pull-ups, loop a resistance band over the bar for assistance. Drive elbows down and back."
+        "name": "Inverted Table Row",
+        "sets": "4",
+        "reps": "10–12",
+        "notes": "Use a sturdy table or low bar. Body straight, heels on floor, pull chest to the bar. Elevate feet on a chair to increase difficulty. Squeeze shoulder blades at the top."
       },
       {
-        "name": "Chin-Up or Negative Chin-Up",
+        "name": "Band Pull-Apart",
         "sets": "3",
-        "reps": "6-8 (or 4 slow negatives)",
-        "notes": "Palms facing you. If you can't do full reps, step up to the top position and lower yourself for 4-5 seconds. That eccentric load is still serious work."
+        "reps": "15",
+        "notes": "Hold a resistance band at shoulder height with both hands. Pull apart until arms are fully extended to sides. Slow and controlled — feel the rear delts and upper back work."
       },
       {
-        "name": "Superman Hold",
+        "name": "Scapular Pull-Up",
         "sets": "3",
-        "reps": "12",
-        "notes": "Lie face down, arms extended. Lift arms, chest, and legs simultaneously, squeeze at the top for 2 seconds. Keeps the posterior chain engaged and balances out all the pulling."
+        "reps": "8",
+        "notes": "Hang from the bar, then depress and retract your shoulder blades without bending the elbows — a small but powerful movement. Great for shoulder health and lat activation."
       },
       {
-        "name": "Dead Bug",
+        "name": "Hollow Body Hold",
         "sets": "3",
-        "reps": "8 per side",
-        "notes": "Lie on your back, arms toward ceiling, knees at 90 degrees. Slowly lower opposite arm and leg toward the floor while pressing your lower back flat. No arching. This is the core anchor the rest of the session needs."
+        "reps": "20–30 seconds",
+        "notes": "Lie on your back, arms overhead, lower back pressed into floor. Raise legs and shoulders slightly. This is the core position that makes every pulling movement stronger."
       }
     ],
-    "cooldown": "Hang loosely from the bar for 20 seconds to decompress the spine. Follow with a 60-second child's pose to stretch the lats and lower back.",
+    "cooldown": "Hang passively for 30 seconds, then move into a chest-open doorway stretch and a supine spinal twist on each side. Focus on slow nasal breathing throughout.",
     "product": {
       "id": "str-001",
       "name": "Gymnastic Rings - Double Circle Wood",
@@ -186,30 +187,27 @@
     }
   },
   "meal": {
-    "title": "Teriyaki Salmon Rice Bowl",
+    "title": "Seared Salmon and White Bean Skillet",
     "type": "dinner",
     "mainProtein": "salmon",
     "prepTime": "20 min",
     "calories": 520,
     "protein": 42,
-    "carbs": 45,
-    "fat": 16,
+    "carbs": 28,
+    "fat": 22,
     "ingredients": [
-      "2 salmon fillets (5 oz each)",
-      "2 tbsp low-sodium soy sauce",
-      "1 tbsp honey",
-      "1 tsp sesame oil",
-      "1 tsp fresh ginger, grated",
-      "1 garlic clove, minced",
-      "1 cup cooked brown rice",
-      "1 cup edamame, shelled",
-      "1 cup shredded purple cabbage",
-      "2 green onions, sliced",
-      "1 tsp sesame seeds",
-      "Optional: sriracha drizzle"
+      "2 salmon fillets (150g each)",
+      "1 can (400g) white cannellini beans, drained and rinsed",
+      "2 cups baby spinach",
+      "3 cloves garlic, minced",
+      "1 tbsp olive oil",
+      "Juice of half a lemon",
+      "1 tsp smoked paprika",
+      "Salt and pepper to taste",
+      "Fresh parsley to garnish (optional)"
     ],
-    "instructions": "1. Mix soy sauce, honey, sesame oil, ginger, and garlic in a small bowl to make the teriyaki glaze. 2. Heat a non-stick pan over medium-high heat. Add salmon fillets skin-side down and cook 3-4 minutes. Flip, brush generously with glaze, and cook another 3-4 minutes until cooked through. 3. Divide brown rice between two bowls. Top with salmon, edamame, and shredded cabbage. 4. Drizzle any remaining glaze over the top, then finish with green onions, sesame seeds, and sriracha if you like heat.",
-    "tip": "Make a double batch of the teriyaki glaze on Sunday and store it in the fridge. It works on chicken, tofu, and roasted vegetables all week.",
+    "instructions": "1. Pat salmon dry, season with smoked paprika, salt, and pepper. Heat olive oil in a skillet over medium-high heat and sear salmon skin-side down for 4 minutes, then flip and cook 2–3 more minutes. Remove and rest. 2. In the same pan over medium heat, add garlic and cook 60 seconds until fragrant. Add white beans and stir to coat. 3. Add baby spinach and stir until wilted, about 2 minutes. Squeeze in lemon juice. 4. Plate the beans and spinach, top with salmon fillets, and garnish with parsley.",
+    "tip": "Don't overcrowd the pan when searing the salmon — you want crispy skin, not steaming. A hot, dry pan is the key.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
