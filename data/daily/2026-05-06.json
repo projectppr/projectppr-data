@@ -1,170 +1,149 @@
 {
   "date": "2026-05-06",
   "dateLabel": "Wednesday, May 6, 2026",
-  "generatedAt": "2026-05-06T22:55:33.324Z",
+  "generatedAt": "2026-05-06T23:51:01.681Z",
   "articles": [
     {
-      "category": "GUT HEALTH",
-      "topic": "gut bacteria depression inflammation mechanism",
-      "headline": "Harvard Found the Missing Link Between Your Gut and Your Mood",
-      "body": "A new Harvard Medical School study may explain why gut health and depression are so tightly connected. Researchers found that a gut bacterium called Morganella morganii, when it interacts with a common environmental pollutant, produces a molecule that triggers inflammation — something strongly tied to depression. The finding, published in the Journal of the American Chemical Society, points to the immune system — not just the brain — as a potential treatment target. It also opens a window into how other gut microbes may quietly shape your mental health.",
-      "takeaway": "A diverse, well-fed gut microbiome matters for your mood, not just your digestion. Fiber, fermented foods, and less processed junk are still your best levers.",
-      "pexelsQuery": "gut bacteria microscope science",
-      "source": "ScienceDaily / Harvard Medical School",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260425091216.htm",
-      "photo": {
-        "url": "https://images.pexels.com/photos/10448365/pexels-photo-10448365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/10448365/pexels-photo-10448365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "turek",
-        "photographerUrl": "https://www.pexels.com/@turek3024",
-        "photoPageUrl": "https://www.pexels.com/photo/microorganisms-under-a-microscope-10448365/",
-        "avgColor": "#6B7278"
-      }
-    },
-    {
-      "category": "HORMONES",
-      "topic": "cortisol excess resistant hypertension MOMENTUM study",
-      "headline": "Why Your Blood Pressure Meds Might Not Be Working (Hint: It's a Hormone)",
-      "body": "A major new study called MOMENTUM — the largest of its kind in the US — found that 27 percent of patients with resistant high blood pressure actually have too much cortisol, not just a plumbing problem. Researchers at Mount Sinai analyzed over 1,000 patients across 50 centers and found hypercortisolism is far more common in these patients than doctors previously thought. Resistant hypertension is when blood pressure stays high even on three or more medications. Excess cortisol is also linked to weight gain, muscle loss, and blood sugar issues.",
-      "takeaway": "If your blood pressure won't budge despite medication, ask your doctor whether a cortisol test makes sense. Chronic stress and poor sleep are two modifiable drivers of elevated cortisol.",
-      "pexelsQuery": "blood pressure monitor arm",
-      "source": "Mount Sinai / ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260330001131.htm",
-      "photo": {
-        "url": "https://images.pexels.com/photos/8670518/pexels-photo-8670518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8670518/pexels-photo-8670518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Mikhail Nilov",
-        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-white-shirt-checking-her-blood-pressure-8670518/",
-        "avgColor": "#A49786"
-      }
-    },
-    {
-      "category": "SUPPLEMENTS",
-      "topic": "creatine single dose cognitive performance sleep deprivation",
-      "headline": "Creatine Helped Sleep-Deprived Brains Think Clearer in a New Trial",
-      "body": "A new study published in Nutrients found that a single dose of creatine monohydrate improved cognitive performance by 12 percent during 21 hours of sleep deprivation. Researchers found the biggest gains in logical reasoning and language-related processing speed. The science makes sense — your brain stores a small amount of creatine and relies on it for energy, especially when sleep-deprived cells are under metabolic stress. The effect appears dose-dependent, with higher doses showing stronger results on memory tasks.",
-      "takeaway": "Already taking creatine for the gym? It may also be quietly protecting your focus on short-sleep days. The daily 3-5g maintenance dose is where most people should start.",
-      "pexelsQuery": "white powder supplement scoop",
-      "source": "NutraIngredients / Nutrients journal",
-      "url": "https://www.nutraingredients.com/Article/2026/04/21/single-dose-creatine-may-support-cognition-in-sleep-deprivation-study/",
-      "product": {
-        "id": "sup-001",
-        "name": "Thorne Creatine Monohydrate",
-        "brand": "Thorne",
-        "asin": "B0013OQGO6",
-        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "creatine",
-          "strength",
-          "muscle",
-          "performance",
-          "supplement",
-          "brain",
-          "cognitive",
-          "aging",
-          "endurance"
-        ],
-        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/5078584/pexels-photo-5078584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5078584/pexels-photo-5078584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Nataliya Vaitkevich",
-        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
-        "photoPageUrl": "https://www.pexels.com/photo/spices-powder-in-the-spoon-5078584/",
-        "avgColor": "#CAC5B1"
-      }
-    },
-    {
       "category": "SLEEP",
-      "topic": "global sleep barriers survey 2026 wearables",
-      "headline": "83% of People Say Something Is Getting in the Way of Good Sleep",
-      "body": "ResMed's 2026 Global Sleep Survey of 30,000 people across 13 countries found that 83 percent of respondents face barriers to quality sleep. Women are harder hit — 56 percent say they only get a good night's sleep four days a week or less. Nearly 70 percent have called in sick to work at least once because they were too tired after a bad night. The silver lining: wearable sleep trackers are surging, with nearly 4 in 10 people now checking their sleep data at least weekly.",
-      "takeaway": "Tracking your sleep is a start, but the data only helps if you act on it. Pick one thing — consistent bedtime, darker room, phone out of reach — and protect it like a meeting.",
-      "pexelsQuery": "person sleeping bed dark room",
-      "source": "ResMed 2026 Global Sleep Survey",
-      "url": "https://sleepsurvey.resmed.com/",
+      "topic": "sleep irregularity disease risk 88000 adults",
+      "headline": "It's Not Just How Long You Sleep. It's How Consistent You Are.",
+      "body": "A massive new study of 88,461 adults found that irregular sleep patterns are linked to significantly higher risk across 172 diseases, including liver and circulatory disorders. The kicker: it wasn't just about duration. Going to bed and waking up at inconsistent times was a key driver of disease risk, possibly through inflammatory pathways. Researchers say it's time to redefine 'good sleep' to include regularity, not just the number of hours. Same bedtime every night is a bigger deal than most people think.",
+      "takeaway": "Pick a consistent sleep window and protect it like a meeting you can't cancel. Regularity may matter as much as duration.",
+      "pexelsQuery": "person sleeping bedroom night",
+      "source": "Health Data Science / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/07/250729001227.htm",
       "product": {
-        "id": "slp-002",
-        "name": "Manta Sleep Mask",
-        "brand": "Manta",
-        "asin": "B07PRG2CQY",
-        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
         "category": "sleep",
         "price_range": "$",
         "keywords": [
           "sleep",
-          "light blocking",
-          "blackout",
-          "travel",
+          "white noise",
+          "sound machine",
+          "insomnia",
           "sleep quality",
-          "melatonin",
-          "recovery"
+          "recovery",
+          "deep sleep"
         ],
-        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/33890487/pexels-photo-33890487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/33890487/pexels-photo-33890487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Natalia Olivera",
-        "photographerUrl": "https://www.pexels.com/@nataliaolivera",
-        "photoPageUrl": "https://www.pexels.com/photo/moody-back-view-of-woman-in-dimly-lit-room-33890487/",
-        "avgColor": "#51422F"
+        "url": "https://images.pexels.com/photos/6941126/pexels-photo-6941126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6941126/pexels-photo-6941126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-a-bed-6941126/",
+        "avgColor": "#494E5B"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "stress brain resilience pain tolerance FIU study",
+      "headline": "Your Brain Gets Tougher Every Time You Push Through Discomfort",
+      "body": "New research from Florida International University found that how your brain handles stress is less about how much pain you feel and more about how flexibly it responds. Using EEG, researchers found that people who used strategies like paced breathing, attention-shifting, and self-talk stayed engaged longer under stress. People who tried to force rigid control quit earlier. The brain, it turns out, builds new tolerance reference points each time you push through something hard — whether that's a cold plunge, a hard workout, or a tough week.",
+      "takeaway": "Cognitive flexibility under pressure is trainable. Next time a workout gets hard, try a quick reframe or breath reset instead of white-knuckling through.",
+      "pexelsQuery": "person meditating breathing eyes closed",
+      "source": "FIU News / Journal of Applied Physiology",
+      "url": "https://news.fiu.edu/2026/stress-reshapes-brain-connections-and-boosts-resilience",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7880138/pexels-photo-7880138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7880138/pexels-photo-7880138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-doing-yoga-7880138/",
+        "avgColor": "#9D9B75"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "gut bacteria depression inflammation Harvard Morganella morganii",
+      "headline": "A Gut Bacterium May Be Quietly Fueling Depression Through Hidden Inflammation",
+      "body": "Harvard Medical School researchers have identified a biological mechanism linking a specific gut bacterium, Morganella morganii, to depression. When this microbe interacts with a common environmental pollutant, it produces a molecule that triggers inflammation — a process strongly linked to depressive disorders. The findings, published in the Journal of the American Chemical Society, offer a clearer window into how gut microbes can shape brain health at a molecular level and may point toward new treatment targets beyond the brain itself.",
+      "takeaway": "You can't control every pollutant, but a diverse, fiber-rich diet supports a gut environment less hospitable to harmful bacteria like this one.",
+      "pexelsQuery": "vegetables colorful salad bowl healthy food",
+      "source": "Harvard Medical School / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260425091216.htm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5393660/pexels-photo-5393660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5393660/pexels-photo-5393660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Bruno Bueno",
+        "photographerUrl": "https://www.pexels.com/@brunogobofoto",
+        "photoPageUrl": "https://www.pexels.com/photo/choice-of-salads-5393660/",
+        "avgColor": "#897F6B"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "FDA removes HRT black box warning menopause 2026",
+      "headline": "The FDA Just Quietly Changed the Game for Women's Hormone Health",
+      "body": "In February 2026, the FDA approved labeling changes that remove decades-old black box warnings from hormone replacement therapy products for menopause. The warnings on cardiovascular disease, breast cancer, and dementia risk have been stripped after a comprehensive review of the science. The FDA now notes that women who start HRT within 10 years of menopause onset may reduce heart attack risk by up to 50% and Alzheimer's risk by 35%. The old warnings, based on a flawed 2002 study, had caused HRT use to plummet from 27% to just 5% by 2020.",
+      "takeaway": "If you or someone you know is in perimenopause or early menopause, this changes the conversation with your doctor. Timing matters — the data supports starting earlier.",
+      "pexelsQuery": "doctor woman consultation medical office",
+      "source": "FDA.gov",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-labeling-changes-menopausal-hormone-therapy-products",
+      "photo": {
+        "url": "https://images.pexels.com/photos/19963125/pexels-photo-19963125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19963125/pexels-photo-19963125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tessy Agbonome",
+        "photographerUrl": "https://www.pexels.com/@tessy-agbonome-521343232",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-sitting-with-tablet-19963125/",
+        "avgColor": "#C4C8CB"
       }
     }
   ],
   "quote": {
-    "text": "You must do the thing you think you cannot do.",
-    "author": "Eleanor Roosevelt",
-    "context": "First Lady, diplomat, and one of the most influential human rights advocates of the 20th century."
+    "text": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "author": "Bruce Lee",
+    "context": "Martial artist, philosopher, and actor widely regarded as one of the most influential figures in combat sports history."
   },
   "workout": {
     "type": "PULL",
-    "title": "Dead Hang and Row Power Circuit",
+    "title": "Dead Hang and Row Back Builder",
     "difficulty": "Intermediate",
     "duration": "30 min",
     "equipment": [
       "pull-up bar",
-      "resistance bands",
+      "resistance band (optional)",
       "floor space"
     ],
-    "warmup": "Spend 90 seconds doing arm circles, shoulder rolls, and slow cat-cow stretches on all fours. Then hang from the bar for 20-30 seconds with a relaxed grip to decompress the spine and wake up your lats before loading them.",
+    "warmup": "Spend 90 seconds doing arm circles and shoulder rotations, then hang from the bar with a relaxed grip for 20 seconds. Follow with 10 slow cat-cow stretches to open up the thoracic spine before loading.",
     "exercises": [
       {
         "name": "Dead Hang",
         "sets": "3",
-        "reps": "30-45 sec hold",
-        "notes": "Grip the bar with palms facing away, shoulders engaged — not shrugging into your ears. Work up to 45 seconds. Great for grip and shoulder health."
+        "reps": "30 sec hold",
+        "notes": "Hang with a full overhand grip, shoulders packed down away from ears. Builds grip strength and decompresses the spine. Beginner mod: bent-knee hang to reduce load."
       },
       {
-        "name": "Resistance Band Row",
+        "name": "Scapular Pull-up",
         "sets": "3",
-        "reps": "15",
-        "notes": "Anchor band at chest height, step back for tension. Drive elbows behind you and squeeze shoulder blades together at the top. Control the return — do not let the band snap you forward."
+        "reps": "10",
+        "notes": "Start in a dead hang, then retract and depress your shoulder blades without bending your elbows. This activates the lower traps before full pull-ups. Keep it slow and controlled."
       },
       {
-        "name": "Bodyweight Inverted Table Row (using a low bar or desk edge)",
-        "sets": "3",
+        "name": "Bodyweight Row (under a table or low bar)",
+        "sets": "4",
         "reps": "10-12",
-        "notes": "Lie under a sturdy surface, grip the edge, and pull your chest to it. Keep your body rigid like a plank. Too easy? Elevate your feet."
+        "notes": "Lie below a sturdy table edge or low bar, grip and pull chest to bar keeping body rigid like a plank. Easier: higher angle. Harder: feet elevated. Squeeze shoulder blades at the top."
       },
       {
-        "name": "Band Pull-Apart",
+        "name": "Chin-up or Band-Assisted Pull-up",
         "sets": "3",
-        "reps": "20",
-        "notes": "Hold a light resistance band at chest height with both hands shoulder-width apart. Pull it apart until your arms form a T, squeezing your rear delts. Slow and controlled."
+        "reps": "6-8",
+        "notes": "Supinated (palms facing you) grip targets biceps and lats. Loop a resistance band over the bar and kneel in it for assistance. Focus on pulling elbows down and back, not just lifting chin."
       },
       {
-        "name": "Hollow Body Hold",
+        "name": "Dead Bug (core anti-extension)",
         "sets": "3",
-        "reps": "20-30 sec hold",
-        "notes": "Lie on your back, press your lower back into the floor, raise shoulders and legs slightly. This is a core anchor movement — essential for strong, stable pulling. Bend knees if needed to maintain lower back contact."
+        "reps": "8 per side",
+        "notes": "Lie on back, arms extended to ceiling, knees at 90 degrees. Slowly lower opposite arm and leg toward the floor while pressing your lower back into the ground. Pause, return, switch sides."
       }
     ],
-    "cooldown": "Hang passively from the bar for 20 seconds to decompress, then do a doorframe chest stretch — place both forearms on a door frame and lean through gently for 30 seconds to open the front body after all that pulling.",
+    "cooldown": "Hang passively from the bar for 30 seconds to decompress, then spend 2 minutes in a doorway chest stretch with arms at 90 degrees to reverse the pulling pattern and reset posture.",
     "product": {
       "id": "str-001",
       "name": "Gymnastic Rings - Double Circle Wood",
@@ -188,29 +167,29 @@
     }
   },
   "meal": {
-    "title": "Lemon Herb Chicken and Quinoa Bowl",
-    "type": "lunch",
-    "mainProtein": "chicken",
+    "title": "Honey Garlic Salmon Rice Bowl",
+    "type": "dinner",
+    "mainProtein": "salmon",
     "prepTime": "20 min",
-    "calories": 480,
+    "calories": 520,
     "protein": 42,
-    "carbs": 38,
-    "fat": 14,
+    "carbs": 45,
+    "fat": 16,
     "ingredients": [
-      "6 oz boneless skinless chicken breast",
-      "1/2 cup dry quinoa",
-      "1 cup chicken broth (to cook quinoa)",
-      "1 cup baby spinach",
-      "1/2 cup cherry tomatoes, halved",
-      "1/4 cucumber, sliced",
-      "2 tbsp hummus",
-      "Juice of 1 lemon",
-      "1 tsp olive oil",
-      "1 tsp dried oregano",
-      "Salt, pepper, garlic powder to taste"
+      "2 salmon fillets (5-6 oz each)",
+      "2 tbsp low-sodium soy sauce",
+      "1 tbsp honey",
+      "2 garlic cloves, minced",
+      "1 tsp sesame oil",
+      "1 cup cooked brown rice or jasmine rice",
+      "1 cup edamame (shelled, from frozen)",
+      "1 cup shredded red cabbage",
+      "1 tbsp rice vinegar",
+      "1 tsp sesame seeds",
+      "Sliced green onion for topping"
     ],
-    "instructions": "1. Cook quinoa in chicken broth per package directions (about 15 min). 2. Season chicken with lemon juice, oregano, garlic powder, salt, and pepper. Cook in a skillet over medium-high heat with olive oil, 5-6 minutes per side until cooked through. Slice. 3. Build your bowl: quinoa base, then spinach, tomatoes, and cucumber. Top with sliced chicken. 4. Add a dollop of hummus and a squeeze of lemon to finish.",
-    "tip": "Grill or bake a double batch of chicken on Sunday and you have lunch sorted for two days — just keep the quinoa and veggies separate until serving so nothing gets soggy.",
+    "instructions": "1. Mix soy sauce, honey, garlic, and sesame oil. Marinate salmon for 5 minutes. 2. Cook salmon in a non-stick pan over medium-high heat, 3-4 minutes per side, basting with leftover marinade until caramelized. 3. Toss red cabbage with rice vinegar and a pinch of salt. Warm edamame in the microwave. 4. Build bowls: rice base, flaked salmon, edamame, and pickled cabbage. Top with sesame seeds and green onion.",
+    "tip": "Frozen salmon fillets work perfectly here. Thaw in cold water for 15 minutes while you prep everything else — no advance planning needed.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
