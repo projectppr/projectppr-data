@@ -1,17 +1,17 @@
 {
   "date": "2026-05-07",
   "dateLabel": "Thursday, May 7, 2026",
-  "generatedAt": "2026-05-07T11:01:32.613Z",
+  "generatedAt": "2026-05-07T12:38:11.304Z",
   "articles": [
     {
       "category": "SUPPLEMENTS",
-      "topic": "creatine brain cognitive benefits aging",
-      "headline": "Creatine Is Way More Than a Gym Supplement",
-      "body": "You probably know creatine as the thing that helps you lift heavier. But scientists are now taking a much closer look at what it does for your brain. A new report from ScienceDaily highlights that creatine helps power cells by rapidly regenerating ATP, the fuel that keeps muscles and the brain running. Studies suggest it may support memory, mood, and processing speed, especially in older adults who naturally have lower creatine levels. Researchers are also exploring its role in depression, Parkinson's disease, and menopause-related muscle loss. It is not magic, but it might be the most underrated supplement on the shelf.",
-      "takeaway": "If you are not already taking creatine, the case for starting, especially in your 40s and 50s, just got a lot stronger.",
-      "pexelsQuery": "creatine powder supplement scoop",
+      "topic": "creatine benefits beyond muscle performance",
+      "headline": "Your Gym Staple Does a Lot More Than Build Muscle",
+      "body": "Creatine is known for power and strength, but scientists are now paying serious attention to what it does for your brain. A new review published this week confirms that creatine helps your body rapidly regenerate ATP, the fuel that powers both muscles and brain cells during intense activity. Studies show potential benefits for memory, mood, and processing speed, especially in people with lower natural creatine levels like older adults, women, and vegetarians. Researchers are also exploring its possible role in Parkinson's, depression, and menopause-related muscle and bone loss. Early findings are promising, but more research is still needed.",
+      "takeaway": "3 to 5 grams of creatine monohydrate daily remains the most supported starting point for both physical and early cognitive benefits.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "pexelsQuery": "white powder supplement scoop jar",
       "product": {
         "id": "sup-001",
         "name": "Thorne Creatine Monohydrate",
@@ -34,184 +34,206 @@
         "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/7149595/pexels-photo-7149595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7149595/pexels-photo-7149595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "William Greaves Brown",
-        "photographerUrl": "https://www.pexels.com/@william-greaves-brown-34482881",
-        "photoPageUrl": "https://www.pexels.com/photo/stainless-spoon-with-green-powder-7149595/",
-        "avgColor": "#636440"
+        "url": "https://images.pexels.com/photos/12625114/pexels-photo-12625114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12625114/pexels-photo-12625114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-white-powder-and-a-scoop-lying-on-the-blue-background-12625114/",
+        "avgColor": "#8FBBC4"
       }
     },
     {
-      "category": "HORMONES",
-      "topic": "high cortisol resistant hypertension prevalence study",
-      "headline": "Your Blood Pressure Medication Might Not Be the Problem",
-      "body": "A large new study from Mount Sinai found that 27 percent of patients with resistant hypertension, blood pressure that stays high despite three or more medications, actually have too much cortisol. The MOMENTUM study analyzed over 1,000 participants across 50 US centers. Researchers found that this cortisol disorder, called hypercortisolism, is far more common in these patients than previously understood. The next step is testing whether therapies that lower cortisol's impact can actually bring blood pressure under control. This could change how millions of stubborn cases get treated.",
-      "takeaway": "If your blood pressure is not responding to treatment, ask your doctor whether cortisol levels have ever been checked.",
-      "pexelsQuery": "blood pressure monitor arm",
-      "source": "Mount Sinai Health System",
-      "url": "https://www.mountsinai.org/about/newsroom/2026/nearly-30-percent-of-patients-with-resistant-hypertension-have-a-hormone-disorder-caused-by-high-cortisol",
-      "photo": {
-        "url": "https://images.pexels.com/photos/8670518/pexels-photo-8670518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8670518/pexels-photo-8670518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Mikhail Nilov",
-        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-white-shirt-checking-her-blood-pressure-8670518/",
-        "avgColor": "#A49786"
-      }
-    },
-    {
-      "category": "RECOVERY",
-      "topic": "deep tissue massage muscle recovery inflammation athletes",
-      "headline": "Massage Therapy Just Got a Lot More Science Behind It",
-      "body": "The American Massage Therapy Association is spotlighting a wave of new research showing massage is a serious recovery tool, not just a luxury. A 2025 randomized controlled trial of 150 athletes found that bi-weekly deep tissue massage over eight weeks improved performance, flexibility, and recovery. A separate study comparing six common recovery methods found massage stood out specifically for reducing markers of muscle damage and inflammation, and supporting tissue repair at both a physiological and functional level. Weekend warriors and desk-job parents can benefit just as much as elite athletes.",
-      "takeaway": "Even one massage session every two weeks can make a measurable difference in how fast you bounce back from hard training.",
-      "pexelsQuery": "sports massage therapy table",
-      "source": "American Massage Therapy Association (PRNewswire)",
-      "url": "https://www.prnewswire.com/news-releases/the-latest-research-supports-massage-therapy-for-muscle-recovery-and-athletic-performance-302762872.html",
+      "category": "HYDRATION",
+      "topic": "women's hydration sports science research gap",
+      "headline": "Sports Science Has Been Guessing About Women's Hydration. That's Changing.",
+      "body": "Only 6% of global sports science research focuses exclusively on women. That stat is the driving force behind Gatorade's new multi-year initiative called Body of Science, launched this week with 500 women already enrolled in early studies. The Gatorade Sports Science Institute will now study women's hydration and nutrition needs across all life stages, including the menstrual cycle, pregnancy, and perimenopause. Decades of research has assumed women's physiology mirrors men's, leaving millions of active women without answers about what their bodies actually need to perform and recover.",
+      "takeaway": "Until female-specific hydration data catches up, active women should individualize fluid intake based on their cycle phase, sweat rate, and how they feel, not just standard male-based guidelines.",
+      "source": "PepsiCo Newsroom",
+      "sourceUrl": "https://www.pepsico.com/newsroom/press-releases/2026/gatorade-body-of-science-research-commitment-to-help-womens-hydration-science-across-life-stages",
+      "pexelsQuery": "woman drinking water bottle sports",
       "product": {
-        "id": "rec-002",
-        "name": "Theragun Mini Massage Gun",
-        "brand": "Therabody",
-        "asin": "B0DV7JN7ZD",
-        "url": "https://www.amazon.com/dp/B0DV7JN7ZD?tag=chrisolson04-20",
-        "category": "recovery",
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
         "price_range": "$$",
         "keywords": [
-          "recovery",
-          "massage",
-          "muscle soreness",
-          "percussive therapy",
-          "portable",
-          "travel",
-          "triathlon"
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
         ],
-        "blurb": "Pocket-sized recovery. Takes the edge off sore muscles anywhere."
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/5888092/pexels-photo-5888092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5888092/pexels-photo-5888092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Gustavo Fring",
-        "photographerUrl": "https://www.pexels.com/@gustavo-fring",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-having-a-massage-5888092/",
-        "avgColor": "#C2BDBB"
+        "url": "https://images.pexels.com/photos/5262970/pexels-photo-5262970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5262970/pexels-photo-5262970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/crop-thirsty-sportswoman-drinking-water-from-bottle-5262970/",
+        "avgColor": "#C87F61"
       }
     },
     {
       "category": "STRESS",
-      "topic": "cortisol myths wellness misconceptions debunked",
-      "headline": "Stop Blaming Cortisol for Everything",
-      "body": "Cortisol has become wellness enemy number one, blamed for belly fat, brain fog, and burnout. But a new piece from TIME, citing leading endocrinologists, pushes back hard. Cortisol follows a natural daily rhythm, rising sharply in the morning to get you moving and dropping by night. One expert puts it plainly: cortisol is adaptive and protective within its normal range. The real problem is chronic dysregulation, not cortisol itself. Interestingly, burnout is often linked to a flattened cortisol rhythm or even low levels, not the high cortisol the wellness industry keeps warning you about.",
-      "takeaway": "Focus less on suppressing cortisol and more on protecting your daily rhythm: consistent wake times, morning light, and winding down before bed.",
-      "pexelsQuery": "person stressed sitting desk",
-      "source": "TIME",
-      "url": "https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/",
+      "topic": "cortisol excess resistant hypertension MOMENTUM study",
+      "headline": "If Your Blood Pressure Won't Budge, Cortisol Might Be the Reason",
+      "body": "A major new U.S. study called MOMENTUM found that 27 percent of people with hard-to-treat high blood pressure, the kind that stays high on three or more medications, also have elevated cortisol levels. That is far higher than doctors had previously assumed. The study, presented at the American College of Cardiology's 2026 Scientific Session, screened over 1,000 patients across 50 centers nationwide. Excess cortisol is linked to weight gain, muscle loss, and diabetes on top of hypertension. Researchers say this discovery could open the door to new targeted treatments for people who haven't responded to standard blood pressure drugs.",
+      "takeaway": "If you or someone you know has blood pressure that won't respond to multiple medications, ask a doctor about screening for elevated cortisol as a potential underlying cause.",
+      "source": "Mount Sinai Health System",
+      "sourceUrl": "https://www.mountsinai.org/about/newsroom/2026/nearly-30-percent-of-patients-with-resistant-hypertension-have-a-hormone-disorder-caused-by-high-cortisol",
+      "pexelsQuery": "blood pressure monitor arm cuff",
       "photo": {
-        "url": "https://images.pexels.com/photos/8171161/pexels-photo-8171161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8171161/pexels-photo-8171161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Kampus Production",
-        "photographerUrl": "https://www.pexels.com/@kampus",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-corporate-attire-with-hand-on-head-8171161/",
-        "avgColor": "#C7C7C7"
+        "url": "https://images.pexels.com/photos/5790818/pexels-photo-5790818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5790818/pexels-photo-5790818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vlada Karpovich",
+        "photographerUrl": "https://www.pexels.com/@vlada-karpovich",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-woman-checking-the-blood-pressure-of-an-elderly-man-5790818/",
+        "avgColor": "#979087"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "DOMS recovery timing phase-specific strategy",
+      "headline": "The Order You Use Your Recovery Tools Actually Matters",
+      "body": "A randomized controlled trial out of Shenyang Sport University tested six common recovery methods head to head for muscle soreness relief: massage, cold water immersion, vibration therapy, static stretching, electrical stimulation, and control. The finding that stands out isn't which tool won. It's that timing matters as much as method. Researchers found cold water immersion works best in the first 24 hours when inflammation peaks. Massage combined with electrical stimulation becomes more effective between 24 and 48 hours. Stretching plus massage is best for the 48 to 72 hour window when muscle function is being rebuilt.",
+      "takeaway": "Stop treating recovery as one-size-fits-all. Ice or cold water in the first day, then massage in the second, and stretching combined with massage on day three gives your muscles the right signal at the right time.",
+      "source": "Frontiers in Physiology",
+      "sourceUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1622377/full",
+      "pexelsQuery": "ice bath cold water tub athlete",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/21579111/pexels-photo-21579111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/21579111/pexels-photo-21579111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kamol Khampibool",
+        "photographerUrl": "https://www.pexels.com/@kamol-khampibool-414044589",
+        "photoPageUrl": "https://www.pexels.com/photo/child-lying-down-and-playing-in-bucket-with-water-21579111/",
+        "avgColor": "#5F6C5A"
       }
     }
   ],
   "quote": {
-    "text": "The mind is the athlete; the body is simply the means it uses to run faster or longer, jump higher, fight harder.",
-    "author": "Bryce Courtenay",
-    "context": "South African-born Australian novelist and advertising executive, known for writing about perseverance and human grit."
+    "text": "The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it.",
+    "author": "Arnold Schwarzenegger",
+    "context": "Seven-time Mr. Olympia, actor, and former Governor of California, known for pushing the boundaries of physical and mental performance."
   },
   "workout": {
     "type": "BIKE",
-    "title": "Pyramid Power Tempo Ride",
+    "title": "Sweet Spot Surge Ride",
     "difficulty": "Intermediate",
     "duration": "45 min",
-    "distance": "14 miles",
+    "distance": "14-18 miles",
     "equipment": [
-      "stationary bike or road bike",
-      "cycling shoes (optional)",
-      "heart rate monitor"
+      "Stationary bike or outdoor bike",
+      "Heart rate monitor or RPE scale"
     ],
-    "warmup": "Spin easy at low resistance for 5 minutes, keeping cadence around 85-90 RPM. Gradually bring effort up to a conversational pace by the end of the warmup.",
+    "warmup": "Spin easy at low resistance for 8 minutes, gradually increasing cadence to around 85-90 RPM. In the last 2 minutes of warmup, add two 15-second pickups at a moderate pace to prime the legs.",
     "exercises": [
       {
-        "name": "Steady Base Effort",
+        "name": "Steady Base Ride",
         "sets": "1",
         "reps": "8 min",
-        "notes": "Ride at Zone 2, comfortable effort where you could hold a conversation. Cadence 85-90 RPM."
+        "notes": "Hold zone 2 effort, conversational pace, RPE 4-5 out of 10. Focus on smooth, circular pedal stroke."
       },
       {
-        "name": "Tempo Pyramid — Build",
-        "sets": "1",
-        "reps": "1 min on / 1 min easy x 3",
-        "notes": "Push to a hard but sustainable effort for 1 minute, then recover easy for 1 minute. Each hard interval should feel like a 7 out of 10. Repeat 3 times, building effort slightly each round."
+        "name": "Sweet Spot Intervals",
+        "sets": "3",
+        "reps": "5 min on, 3 min easy",
+        "notes": "Push to RPE 7-8, just below all-out. This is the zone where you can speak a few words but not hold a conversation. Keep cadence at 80-90 RPM."
       },
       {
-        "name": "Sustained Tempo Block",
-        "sets": "1",
-        "reps": "8 min",
-        "notes": "Hold a steady hard pace (Zone 3-4) — comfortably uncomfortable. This is your aerobic threshold. Keep cadence above 80 RPM and resist the urge to slow down."
+        "name": "High Cadence Spin",
+        "sets": "2",
+        "reps": "2 min",
+        "notes": "Drop resistance, spin at 100-110 RPM. Focus on smooth leg turnover without bouncing in the saddle. Rest 1 min easy between each."
       },
       {
-        "name": "Tempo Pyramid — Descend",
-        "sets": "1",
-        "reps": "1 min on / 1 min easy x 3",
-        "notes": "Same format as the build but this time back off slightly each interval, letting your body start to recover while staying engaged. Great for training pacing discipline."
+        "name": "Standing Climb Surge",
+        "sets": "2",
+        "reps": "45 sec",
+        "notes": "Increase resistance and stand out of the saddle, driving through the whole pedal stroke. Drop back to seated and easy spin for 2 minutes between surges."
       },
       {
-        "name": "Aerobic Flush",
+        "name": "Tempo Hold",
         "sets": "1",
-        "reps": "7 min",
-        "notes": "Return to easy Zone 2 effort. Spin the legs out and let your heart rate drop. Keep cadence high and resistance low."
+        "reps": "5 min",
+        "notes": "Settle into a sustained RPE 6-7 effort to finish the main set strong. Maintain steady breathing and stay relaxed in the shoulders and arms."
       }
     ],
-    "cooldown": "Spin at very low resistance for 5 minutes at a slow, relaxed cadence. Stretch hip flexors and quads off the bike for 2-3 minutes.",
+    "cooldown": "Spin easy at minimal resistance for 5 minutes, letting heart rate drop naturally. Finish with 2 minutes of standing quad, hip flexor, and calf stretches.",
     "product": {
-      "id": "tri-004",
-      "name": "Wahoo KICKR CORE 2 with Zwift Cog",
-      "brand": "Wahoo",
-      "asin": "B0FLQDCR7X",
-      "url": "https://www.amazon.com/dp/B0FLQDCR7X?tag=chrisolson04-20",
-      "category": "cycling",
-      "price_range": "$$$$",
+      "id": "sensor-001",
+      "name": "Garmin HRM-Pro Heart Rate Strap",
+      "brand": "Garmin",
+      "asin": "B0F7ZGDDCX",
+      "url": "https://www.amazon.com/dp/B0F7ZGDDCX?tag=chrisolson04-20",
+      "category": "wearables",
+      "price_range": "$$",
       "keywords": [
-        "cycling",
-        "bike",
+        "heart rate",
+        "hrm",
+        "training zones",
+        "zone 2",
+        "garmin",
         "triathlon",
-        "indoor training",
-        "zwift",
-        "trainer",
-        "70.3",
-        "ironman",
-        "kickr"
+        "running",
+        "cycling",
+        "accuracy"
       ],
-      "blurb": "The gold standard indoor trainer. Pairs with Zwift for real course simulation."
+      "blurb": "Chest strap accuracy beats wrist sensors every time. Essential for zone 2 training."
     }
   },
   "meal": {
-    "title": "Spiced Ground Beef and Egg Skillet",
-    "type": "breakfast",
-    "mainProtein": "beef",
-    "prepTime": "15 min",
+    "title": "Spicy Chipotle Chicken and Black Bean Bowl",
+    "type": "lunch",
+    "mainProtein": "chicken",
+    "prepTime": "20 min",
     "calories": 480,
     "protein": 42,
-    "carbs": 12,
-    "fat": 28,
+    "carbs": 38,
+    "fat": 14,
     "ingredients": [
-      "150g lean ground beef (90% lean)",
-      "3 large eggs",
-      "1/2 cup diced bell pepper (any color)",
-      "1/2 cup baby spinach",
-      "1/4 cup diced white onion",
-      "1 tsp olive oil",
-      "1/2 tsp smoked paprika",
-      "1/2 tsp cumin",
-      "1/4 tsp garlic powder",
+      "6 oz boneless skinless chicken breast",
+      "1 tsp chipotle chili powder",
+      "1 tsp smoked paprika",
+      "1/2 tsp garlic powder",
       "Salt and pepper to taste",
-      "Optional: hot sauce or salsa to serve"
+      "1/2 cup canned black beans, rinsed and drained",
+      "1/2 cup cooked brown rice or cauliflower rice",
+      "1/4 cup corn kernels (frozen or canned)",
+      "1/4 cup diced tomatoes",
+      "2 tbsp plain Greek yogurt (as sour cream swap)",
+      "1/4 avocado, sliced",
+      "Juice of half a lime",
+      "Fresh cilantro to taste"
     ],
-    "instructions": "1. Heat olive oil in a medium skillet over medium-high heat. Add onion and bell pepper and cook 2-3 minutes until softened. 2. Add ground beef, breaking it up. Season with paprika, cumin, garlic powder, salt, and pepper. Cook until browned, about 4-5 minutes. 3. Add spinach and stir until wilted. Push the beef mixture to the edges and crack eggs into the center of the pan. Cook to your liking — cover with a lid for 2-3 minutes for set yolks. 4. Serve straight from the pan with hot sauce or salsa on the side.",
-    "tip": "Make a double batch of the seasoned beef the night before and just reheat it in the morning, then add fresh eggs. Total active time drops to under 5 minutes.",
+    "instructions": "1. Season chicken breast with chipotle powder, smoked paprika, garlic powder, salt, and pepper. Cook in a lightly oiled skillet over medium-high heat for 5-6 minutes per side until cooked through, then slice. 2. While chicken rests, warm black beans and corn in the same pan for 2 minutes. 3. Build the bowl: start with rice, then add beans, corn, diced tomatoes, and sliced chicken. 4. Top with Greek yogurt, avocado slices, a squeeze of lime, and fresh cilantro.",
+    "tip": "Grill or air-fry the chicken on Sunday and store sliced in the fridge. Bowls come together in under 5 minutes on busy weekdays.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
