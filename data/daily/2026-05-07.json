@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-07",
+  "dateLabel": "Thursday, May 7, 2026",
+  "generatedAt": "2026-05-07T11:01:32.613Z",
+  "articles": [
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "creatine brain cognitive benefits aging",
+      "headline": "Creatine Is Way More Than a Gym Supplement",
+      "body": "You probably know creatine as the thing that helps you lift heavier. But scientists are now taking a much closer look at what it does for your brain. A new report from ScienceDaily highlights that creatine helps power cells by rapidly regenerating ATP, the fuel that keeps muscles and the brain running. Studies suggest it may support memory, mood, and processing speed, especially in older adults who naturally have lower creatine levels. Researchers are also exploring its role in depression, Parkinson's disease, and menopause-related muscle loss. It is not magic, but it might be the most underrated supplement on the shelf.",
+      "takeaway": "If you are not already taking creatine, the case for starting, especially in your 40s and 50s, just got a lot stronger.",
+      "pexelsQuery": "creatine powder supplement scoop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7149595/pexels-photo-7149595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7149595/pexels-photo-7149595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "William Greaves Brown",
+        "photographerUrl": "https://www.pexels.com/@william-greaves-brown-34482881",
+        "photoPageUrl": "https://www.pexels.com/photo/stainless-spoon-with-green-powder-7149595/",
+        "avgColor": "#636440"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "high cortisol resistant hypertension prevalence study",
+      "headline": "Your Blood Pressure Medication Might Not Be the Problem",
+      "body": "A large new study from Mount Sinai found that 27 percent of patients with resistant hypertension, blood pressure that stays high despite three or more medications, actually have too much cortisol. The MOMENTUM study analyzed over 1,000 participants across 50 US centers. Researchers found that this cortisol disorder, called hypercortisolism, is far more common in these patients than previously understood. The next step is testing whether therapies that lower cortisol's impact can actually bring blood pressure under control. This could change how millions of stubborn cases get treated.",
+      "takeaway": "If your blood pressure is not responding to treatment, ask your doctor whether cortisol levels have ever been checked.",
+      "pexelsQuery": "blood pressure monitor arm",
+      "source": "Mount Sinai Health System",
+      "url": "https://www.mountsinai.org/about/newsroom/2026/nearly-30-percent-of-patients-with-resistant-hypertension-have-a-hormone-disorder-caused-by-high-cortisol",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8670518/pexels-photo-8670518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8670518/pexels-photo-8670518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-white-shirt-checking-her-blood-pressure-8670518/",
+        "avgColor": "#A49786"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "deep tissue massage muscle recovery inflammation athletes",
+      "headline": "Massage Therapy Just Got a Lot More Science Behind It",
+      "body": "The American Massage Therapy Association is spotlighting a wave of new research showing massage is a serious recovery tool, not just a luxury. A 2025 randomized controlled trial of 150 athletes found that bi-weekly deep tissue massage over eight weeks improved performance, flexibility, and recovery. A separate study comparing six common recovery methods found massage stood out specifically for reducing markers of muscle damage and inflammation, and supporting tissue repair at both a physiological and functional level. Weekend warriors and desk-job parents can benefit just as much as elite athletes.",
+      "takeaway": "Even one massage session every two weeks can make a measurable difference in how fast you bounce back from hard training.",
+      "pexelsQuery": "sports massage therapy table",
+      "source": "American Massage Therapy Association (PRNewswire)",
+      "url": "https://www.prnewswire.com/news-releases/the-latest-research-supports-massage-therapy-for-muscle-recovery-and-athletic-performance-302762872.html",
+      "product": {
+        "id": "rec-002",
+        "name": "Theragun Mini Massage Gun",
+        "brand": "Therabody",
+        "asin": "B0DV7JN7ZD",
+        "url": "https://www.amazon.com/dp/B0DV7JN7ZD?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$$",
+        "keywords": [
+          "recovery",
+          "massage",
+          "muscle soreness",
+          "percussive therapy",
+          "portable",
+          "travel",
+          "triathlon"
+        ],
+        "blurb": "Pocket-sized recovery. Takes the edge off sore muscles anywhere."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5888092/pexels-photo-5888092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5888092/pexels-photo-5888092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gustavo Fring",
+        "photographerUrl": "https://www.pexels.com/@gustavo-fring",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-having-a-massage-5888092/",
+        "avgColor": "#C2BDBB"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "cortisol myths wellness misconceptions debunked",
+      "headline": "Stop Blaming Cortisol for Everything",
+      "body": "Cortisol has become wellness enemy number one, blamed for belly fat, brain fog, and burnout. But a new piece from TIME, citing leading endocrinologists, pushes back hard. Cortisol follows a natural daily rhythm, rising sharply in the morning to get you moving and dropping by night. One expert puts it plainly: cortisol is adaptive and protective within its normal range. The real problem is chronic dysregulation, not cortisol itself. Interestingly, burnout is often linked to a flattened cortisol rhythm or even low levels, not the high cortisol the wellness industry keeps warning you about.",
+      "takeaway": "Focus less on suppressing cortisol and more on protecting your daily rhythm: consistent wake times, morning light, and winding down before bed.",
+      "pexelsQuery": "person stressed sitting desk",
+      "source": "TIME",
+      "url": "https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8171161/pexels-photo-8171161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8171161/pexels-photo-8171161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-corporate-attire-with-hand-on-head-8171161/",
+        "avgColor": "#C7C7C7"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The mind is the athlete; the body is simply the means it uses to run faster or longer, jump higher, fight harder.",
+    "author": "Bryce Courtenay",
+    "context": "South African-born Australian novelist and advertising executive, known for writing about perseverance and human grit."
+  },
+  "workout": {
+    "type": "BIKE",
+    "title": "Pyramid Power Tempo Ride",
+    "difficulty": "Intermediate",
+    "duration": "45 min",
+    "distance": "14 miles",
+    "equipment": [
+      "stationary bike or road bike",
+      "cycling shoes (optional)",
+      "heart rate monitor"
+    ],
+    "warmup": "Spin easy at low resistance for 5 minutes, keeping cadence around 85-90 RPM. Gradually bring effort up to a conversational pace by the end of the warmup.",
+    "exercises": [
+      {
+        "name": "Steady Base Effort",
+        "sets": "1",
+        "reps": "8 min",
+        "notes": "Ride at Zone 2, comfortable effort where you could hold a conversation. Cadence 85-90 RPM."
+      },
+      {
+        "name": "Tempo Pyramid — Build",
+        "sets": "1",
+        "reps": "1 min on / 1 min easy x 3",
+        "notes": "Push to a hard but sustainable effort for 1 minute, then recover easy for 1 minute. Each hard interval should feel like a 7 out of 10. Repeat 3 times, building effort slightly each round."
+      },
+      {
+        "name": "Sustained Tempo Block",
+        "sets": "1",
+        "reps": "8 min",
+        "notes": "Hold a steady hard pace (Zone 3-4) — comfortably uncomfortable. This is your aerobic threshold. Keep cadence above 80 RPM and resist the urge to slow down."
+      },
+      {
+        "name": "Tempo Pyramid — Descend",
+        "sets": "1",
+        "reps": "1 min on / 1 min easy x 3",
+        "notes": "Same format as the build but this time back off slightly each interval, letting your body start to recover while staying engaged. Great for training pacing discipline."
+      },
+      {
+        "name": "Aerobic Flush",
+        "sets": "1",
+        "reps": "7 min",
+        "notes": "Return to easy Zone 2 effort. Spin the legs out and let your heart rate drop. Keep cadence high and resistance low."
+      }
+    ],
+    "cooldown": "Spin at very low resistance for 5 minutes at a slow, relaxed cadence. Stretch hip flexors and quads off the bike for 2-3 minutes.",
+    "product": {
+      "id": "tri-004",
+      "name": "Wahoo KICKR CORE 2 with Zwift Cog",
+      "brand": "Wahoo",
+      "asin": "B0FLQDCR7X",
+      "url": "https://www.amazon.com/dp/B0FLQDCR7X?tag=chrisolson04-20",
+      "category": "cycling",
+      "price_range": "$$$$",
+      "keywords": [
+        "cycling",
+        "bike",
+        "triathlon",
+        "indoor training",
+        "zwift",
+        "trainer",
+        "70.3",
+        "ironman",
+        "kickr"
+      ],
+      "blurb": "The gold standard indoor trainer. Pairs with Zwift for real course simulation."
+    }
+  },
+  "meal": {
+    "title": "Spiced Ground Beef and Egg Skillet",
+    "type": "breakfast",
+    "mainProtein": "beef",
+    "prepTime": "15 min",
+    "calories": 480,
+    "protein": 42,
+    "carbs": 12,
+    "fat": 28,
+    "ingredients": [
+      "150g lean ground beef (90% lean)",
+      "3 large eggs",
+      "1/2 cup diced bell pepper (any color)",
+      "1/2 cup baby spinach",
+      "1/4 cup diced white onion",
+      "1 tsp olive oil",
+      "1/2 tsp smoked paprika",
+      "1/2 tsp cumin",
+      "1/4 tsp garlic powder",
+      "Salt and pepper to taste",
+      "Optional: hot sauce or salsa to serve"
+    ],
+    "instructions": "1. Heat olive oil in a medium skillet over medium-high heat. Add onion and bell pepper and cook 2-3 minutes until softened. 2. Add ground beef, breaking it up. Season with paprika, cumin, garlic powder, salt, and pepper. Cook until browned, about 4-5 minutes. 3. Add spinach and stir until wilted. Push the beef mixture to the edges and crack eggs into the center of the pan. Cook to your liking — cover with a lid for 2-3 minutes for set yolks. 4. Serve straight from the pan with hot sauce or salsa on the side.",
+    "tip": "Make a double batch of the seasoned beef the night before and just reheat it in the morning, then add fresh eggs. Total active time drops to under 5 minutes.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
