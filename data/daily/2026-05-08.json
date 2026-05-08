@@ -1,35 +1,72 @@
 {
   "date": "2026-05-08",
   "dateLabel": "Friday, May 8, 2026",
-  "generatedAt": "2026-05-08T20:30:15.896Z",
+  "generatedAt": "2026-05-08T20:32:17.064Z",
   "articles": [
     {
-      "category": "HORMONES",
-      "topic": "testosterone brain tumor suppression men",
-      "headline": "Testosterone May Be Protecting Men's Brains in a Way Nobody Expected",
-      "body": "Scientists at Cleveland Clinic just published a study in Nature that flips the conventional wisdom about testosterone and cancer. In brain tumors specifically, losing testosterone actually accelerates tumor growth. Here's why: when androgen levels drop, the brain's stress hormone system goes into overdrive, creating an environment where immune cells can't reach the tumor. When researchers looked at real-world data from over 1,300 men with glioblastoma, those who happened to be on supplemental testosterone had a 38% lower risk of death. This only applied to brain tumors, not cancer elsewhere in the body.",
-      "takeaway": "This is early-stage research, not a reason to self-prescribe testosterone. But it underlines why hormonal health for men in their 40s and 50s deserves more attention, not less.",
-      "source": "NIH / Nature",
-      "sourceUrl": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
-      "pexelsQuery": "brain scan MRI medical",
+      "category": "MENTAL PERFORMANCE",
+      "topic": "brain trainability across the lifespan",
+      "headline": "Your Brain Can Keep Getting Better at Any Age. Science Just Proved It.",
+      "body": "Think your brain peaks in your 20s and it's downhill from there? New research says otherwise. A three-year study tracking nearly 4,000 people aged 19 to 94 found that the brain stays trainable and improvable at every stage of life. Published in Scientific Reports by researchers at UT Dallas, the study used a tool called the BrainHealth Index to measure clarity, emotional balance, and social connection. Participants who practiced targeted mental habits for just 5 to 15 minutes a day showed measurable gains, no matter their starting point. Even people who started with the lowest brain health scores improved the most.",
+      "takeaway": "You don't need hours of brain training. Even 5 to 15 minutes of focused mental practice daily showed real, measurable gains in this study.",
+      "source": "Scientific Reports (Nature Portfolio)",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-51403-3",
+      "pexelsQuery": "person thinking writing notebook",
+      "product": {
+        "id": "book-009",
+        "name": "Lifespan - David Sinclair Audiobook",
+        "brand": "David Sinclair",
+        "asin": "B07QGH1Q43",
+        "url": "https://www.amazon.com/dp/B07QGH1Q43?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "longevity",
+          "aging",
+          "genetics",
+          "book",
+          "audiobook",
+          "science",
+          "health"
+        ],
+        "blurb": "The science of why we age and what we can actually do about it."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/7089020/pexels-photo-7089020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7089020/pexels-photo-7089020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "MART  PRODUCTION",
-        "photographerUrl": "https://www.pexels.com/@mart-production",
-        "photoPageUrl": "https://www.pexels.com/photo/technology-computer-head-health-7089020/",
-        "avgColor": "#6D6F6B"
+        "url": "https://images.pexels.com/photos/5756577/pexels-photo-5756577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5756577/pexels-photo-5756577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-holding-a-pen-and-paper-5756577/",
+        "avgColor": "#706A61"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "coffee gut microbiome brain axis cognition",
+      "headline": "Your Morning Coffee Is Doing Way More Than Waking You Up",
+      "body": "Scientists at University College Cork just published the first deep look at how coffee actually interacts with the gut-brain connection. The study, out in Nature Communications, found that both regular and decaf coffee reshape the gut microbiome and influence mood and stress. But here's the twist: decaf drinkers showed improvements in learning and memory, while caffeinated coffee was tied to reduced anxiety, better alertness, and lower inflammation. Coffee's polyphenols, not just caffeine, appear to be behind the brain benefits. The takeaway: your cup of coffee is a complex gut-brain intervention, not just a pick-me-up.",
+      "takeaway": "Don't ditch coffee for brain health. Both regular and decaf offer distinct but real benefits through the gut-brain axis.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-71264-8",
+      "pexelsQuery": "coffee cup morning table",
+      "photo": {
+        "url": "https://images.pexels.com/photos/35811553/pexels-photo-35811553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/35811553/pexels-photo-35811553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ersan Yılmaz",
+        "photographerUrl": "https://www.pexels.com/@ersanyilmaz",
+        "photoPageUrl": "https://www.pexels.com/photo/turkish-coffee-on-a-colorful-floral-tablecloth-35811553/",
+        "avgColor": "#8F857B"
       }
     },
     {
       "category": "RECOVERY",
-      "topic": "deep tissue massage athletic recovery inflammation",
-      "headline": "Science Keeps Confirming the Thing You've Been Skipping: Massage",
-      "body": "The American Massage Therapy Association just spotlighted a batch of new research that makes a strong case for getting regular bodywork. A 2025 randomized trial of 150 athletes found bi-weekly deep tissue massage over eight weeks improved recovery, flexibility, and performance across multiple sports. A second study compared six recovery methods head-to-head and found massage uniquely effective at reducing markers of muscle damage and inflammation, outperforming cold-water immersion, vibration therapy, and stretching for tissue repair. Not just soreness relief. Actual physiological recovery.",
-      "takeaway": "Even one professional massage per month beats skipping it entirely. If that's not in the budget, a quality percussion massager at home gives you real results between sessions.",
-      "source": "American Massage Therapy Association / PR Newswire",
+      "topic": "deep tissue massage athletic recovery performance",
+      "headline": "Massage Isn't Just a Treat. It Might Be Your Best Recovery Tool.",
+      "body": "A wave of recent research spotlighted by the American Massage Therapy Association makes a strong case for putting massage back in your training plan. A 2025 randomized controlled trial with 150 athletes found that bi-weekly deep tissue massage over eight weeks significantly improved muscle recovery, flexibility, and performance. Strength and team sport athletes saw the biggest gains. Longer sessions also improved flexibility in the shoulders, knees, and lower back. Separate research found that massage outperformed cold water immersion, vibration therapy, and static stretching for reducing soreness and inflammation over a 72-hour recovery window.",
+      "takeaway": "Consistent deep tissue massage, even twice a week, can meaningfully speed recovery and improve performance, especially for strength training.",
+      "source": "American Massage Therapy Association / Int J Ther Massage Bodywork",
       "sourceUrl": "https://www.prnewswire.com/news-releases/the-latest-research-supports-massage-therapy-for-muscle-recovery-and-athletic-performance-302762872.html",
-      "pexelsQuery": "sports massage therapy back muscle",
+      "pexelsQuery": "sports massage therapy athlete",
       "product": {
         "id": "rec-002",
         "name": "Theragun Mini Massage Gun",
@@ -50,79 +87,61 @@
         "blurb": "Pocket-sized recovery. Takes the edge off sore muscles anywhere."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/6560287/pexels-photo-6560287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6560287/pexels-photo-6560287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Anna Tarazevich",
-        "photographerUrl": "https://www.pexels.com/@anntarazevich",
-        "photoPageUrl": "https://www.pexels.com/photo/topless-woman-having-a-massage-6560287/",
-        "avgColor": "#A47455"
-      }
-    },
-    {
-      "category": "GUT HEALTH",
-      "topic": "everyday chemicals pesticides gut bacteria damage",
-      "headline": "168 Common Chemicals Are Quietly Killing Your Good Gut Bacteria",
-      "body": "University of Cambridge researchers tested over 1,000 common chemical contaminants against 22 species of beneficial gut bacteria. Their finding: 168 of those chemicals actively harm the microbes that keep your gut running. The worst offenders include pesticides used on food crops and industrial compounds found in plastics and flame retardants. Many of these substances were never assumed to affect living organisms at all. There's an added concern: when gut bacteria adapt to survive these chemicals, some develop antibiotic resistance as a side effect.",
-      "takeaway": "Wash your produce thoroughly before eating. It's not just about pesticide residue on the surface. It's about protecting the microbial community that manages your digestion, immunity, and even your mood.",
-      "source": "University of Cambridge / Nature Microbiology",
-      "sourceUrl": "https://www.cam.ac.uk/research/news/pesticides-and-other-common-chemical-pollutants-are-toxic-to-our-good-gut-bacteria",
-      "pexelsQuery": "fresh vegetables washing sink water",
-      "photo": {
-        "url": "https://images.pexels.com/photos/5216244/pexels-photo-5216244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5216244/pexels-photo-5216244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5793920/pexels-photo-5793920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5793920/pexels-photo-5793920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "photographer": "Yan Krukau",
         "photographerUrl": "https://www.pexels.com/@yankrukov",
-        "photoPageUrl": "https://www.pexels.com/photo/person-washing-a-watermelon-in-the-sink-5216244/",
-        "avgColor": "#7C6B4E"
+        "photoPageUrl": "https://www.pexels.com/photo/a-massage-therapist-holding-patient-s-foot-5793920/",
+        "avgColor": "#877361"
       }
     },
     {
       "category": "SUPPLEMENTS",
-      "topic": "magnesium regulates vitamin D levels",
-      "headline": "Your Vitamin D Supplement Might Not Be Working. Magnesium Is Why.",
-      "body": "A randomized clinical trial from Vanderbilt-Ingram Cancer Center published in the American Journal of Clinical Nutrition found that magnesium acts like a thermostat for vitamin D. It raises levels in people who are deficient and actually lowers them in people who already have too much. This could explain why vitamin D supplements produce such inconsistent results across different people. Most adults are already low in magnesium, and taking higher-dose vitamin D without it may be a wasted effort or even counterproductive.",
-      "takeaway": "If you take vitamin D, consider pairing it with a quality magnesium supplement. The two work together, and one without the other is only half the equation.",
-      "source": "Vanderbilt-Ingram Cancer Center / ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2025/12/251228020010.htm",
-      "pexelsQuery": "vitamin supplement pills capsules hand",
+      "topic": "vitamin D midlife tau protein brain health",
+      "headline": "What Your Vitamin D Levels in Your 30s Could Mean for Your Brain at 55",
+      "body": "Here's a reason to stop ignoring your vitamin D levels. A 16-year study from the Framingham Heart Study, published in Neurology, tracked nearly 800 adults starting at age 39 and scanned their brains years later. People with higher vitamin D levels in their 30s had significantly lower levels of tau protein in their brains later on. Tau buildup is one of the key markers linked to Alzheimer's disease. Only 5 percent of participants were taking vitamin D supplements at the time. The study is observational so it can't prove causation, but researchers say midlife is a critical window where this kind of risk factor is most modifiable.",
+      "takeaway": "Get your vitamin D levels checked if you haven't. Midlife appears to be a key window where adequate levels may protect long-term brain health.",
+      "source": "Neurology (American Academy of Neurology)",
+      "sourceUrl": "https://www.neurology.org/doi/10.1212/WN9.0000000000000057",
+      "pexelsQuery": "vitamin D supplement capsule sunlight",
       "product": {
-        "id": "sup-004",
-        "name": "Pure Encapsulations Magnesium Glycinate",
-        "brand": "Pure Encapsulations",
-        "asin": "B0058HWV9S",
-        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
         "category": "supplements",
         "price_range": "$$",
         "keywords": [
-          "sleep",
-          "magnesium",
-          "recovery",
-          "muscle cramps",
-          "relaxation",
-          "insomnia",
-          "stress",
-          "supplement"
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
         ],
-        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/17820707/pexels-photo-17820707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/17820707/pexels-photo-17820707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Jonathan Borba",
-        "photographerUrl": "https://www.pexels.com/@jonathanborba",
-        "photoPageUrl": "https://www.pexels.com/photo/multi-colored-capsules-powder-and-oil-on-spoon-17820707/",
-        "avgColor": "#62AC7B"
+        "url": "https://images.pexels.com/photos/15038477/pexels-photo-15038477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15038477/pexels-photo-15038477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/bottle-with-pills-15038477/",
+        "avgColor": "#9E9C9D"
       }
     }
   ],
   "quote": {
-    "text": "The pain you feel today will be the strength you feel tomorrow.",
-    "author": "Arnold Schwarzenegger",
-    "context": "Seven-time Mr. Olympia, actor, and former Governor of California who built a lifelong philosophy around physical discipline and resilience."
+    "text": "The mind is the athlete. The body is simply the means it uses.",
+    "author": "Kareem Abdul-Jabbar",
+    "context": "NBA legend, 6-time champion, and lifelong advocate for mental discipline in sport."
   },
   "workout": {
     "type": "RUN",
-    "title": "Pyramid Tempo Builder",
+    "title": "Cutdown Tempo Ladder",
     "difficulty": "Intermediate",
     "duration": "40 min",
     "distance": "4-5 miles",
@@ -130,46 +149,46 @@
       "running shoes",
       "GPS watch (optional)"
     ],
-    "warmup": "Start with 8 minutes of easy jogging at a fully conversational pace. Follow with 4 dynamic leg swings per side and 30 seconds of high knees to get the hips firing before you pick up the effort.",
+    "warmup": "Start with 8 minutes at an easy, conversational pace. Follow with 4 leg swings and 4 hip circles on each side, then 30 seconds of high knees to prime your stride.",
     "exercises": [
       {
-        "name": "Easy Base Jog",
+        "name": "Tempo Interval 1",
         "sets": "1",
         "reps": "8 min",
-        "notes": "Very easy effort. You should be able to hold a full conversation. This is your foundation pace."
+        "notes": "Run at a comfortably hard effort, roughly a 7 out of 10. You should be able to speak only a few words at a time."
       },
       {
-        "name": "Moderate Tempo Push",
-        "sets": "1",
-        "reps": "4 min",
-        "notes": "Step up to a comfortably hard effort. You can speak in short sentences but not chat freely. Think 70-75% effort."
-      },
-      {
-        "name": "Hard Tempo Block",
+        "name": "Easy Recovery Jog",
         "sets": "1",
         "reps": "2 min",
-        "notes": "Push to a hard, controlled effort. Breathing is heavy, speaking is just a word or two. Do not sprint."
+        "notes": "Drop back to a slow, easy jog. Shake out your arms. Let your breathing settle before the next interval."
       },
       {
-        "name": "Recovery Float",
-        "sets": "1",
-        "reps": "2 min",
-        "notes": "Drop back to easy jog. Let your heart rate come down before the next push."
-      },
-      {
-        "name": "Repeat Pyramid",
-        "sets": "2",
-        "reps": "4 min moderate + 2 min hard + 2 min easy",
-        "notes": "Repeat the moderate-hard-recovery sequence twice more. Each hard block should feel the same effort level, not harder."
-      },
-      {
-        "name": "Easy Finish",
+        "name": "Tempo Interval 2",
         "sets": "1",
         "reps": "6 min",
-        "notes": "Return to full easy jog. Let your breathing settle completely. This is active recovery, not a walk break."
+        "notes": "Same comfortably hard effort as interval 1. Focus on keeping your form tight as fatigue builds."
+      },
+      {
+        "name": "Easy Recovery Jog",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Keep moving. Resist the urge to walk. Stay relaxed and let your legs reset."
+      },
+      {
+        "name": "Tempo Interval 3",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "Push slightly harder here since the interval is shorter. You should finish feeling like you had a little more in the tank."
+      },
+      {
+        "name": "Final Push",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Hard effort, roughly 8 to 9 out of 10. Not an all-out sprint but a strong, controlled finish. Drive your arms and stay tall."
       }
     ],
-    "cooldown": "Walk for 3-4 minutes after your final easy jog, then do a slow standing quad stretch and a 45-second calf stretch per leg. Give your heart rate time to fully drop before you stop moving.",
+    "cooldown": "Finish with 6 to 8 minutes of easy running or walking to bring your heart rate down. Stop and do a 60-second standing quad stretch and a 60-second calf stretch on each leg.",
     "product": {
       "id": "run-004",
       "name": "HOKA Clifton 9",
@@ -191,28 +210,30 @@
     }
   },
   "meal": {
-    "title": "Seared Steak and Roasted Veggie Bowl",
+    "title": "Korean-Style Beef and Rice Bowl",
     "type": "dinner",
     "mainProtein": "beef",
     "prepTime": "20 min",
-    "calories": 520,
+    "calories": 510,
     "protein": 42,
-    "carbs": 35,
-    "fat": 20,
+    "carbs": 45,
+    "fat": 16,
     "ingredients": [
-      "6 oz sirloin or flat iron steak",
-      "1 cup cooked brown rice or farro",
-      "1 cup broccoli florets",
-      "1/2 cup cherry tomatoes, halved",
-      "1/2 red onion, sliced into wedges",
-      "1 tbsp olive oil",
-      "1 tsp garlic powder",
-      "1 tsp smoked paprika",
-      "Salt and pepper to taste",
-      "2 tbsp chimichurri or salsa verde (store-bought is fine)"
+      "6 oz lean ground beef or thinly sliced sirloin",
+      "1 cup cooked white or brown rice",
+      "2 cloves garlic, minced",
+      "1 tbsp low-sodium soy sauce",
+      "1 tsp sesame oil",
+      "1 tsp gochujang or sriracha (optional)",
+      "1 tsp honey or brown sugar",
+      "1 cup shredded purple cabbage",
+      "1 medium carrot, julienned or grated",
+      "2 green onions, sliced",
+      "1 tsp sesame seeds",
+      "1 egg (fried or soft-boiled, optional for extra protein)"
     ],
-    "instructions": "1. Preheat oven to 425F. Toss broccoli, tomatoes, and onion in olive oil, salt, and garlic powder. Spread on a sheet pan and roast 18 minutes until slightly charred. 2. Pat steak dry, season both sides with smoked paprika, salt, and pepper. Sear in a hot cast iron or stainless pan, 3-4 minutes per side for medium. Rest 5 minutes before slicing thin against the grain. 3. Build your bowl with rice or farro on the bottom, roasted veg piled on top, and sliced steak over everything. 4. Spoon chimichurri over the steak and serve immediately.",
-    "tip": "The resting step is non-negotiable. Cutting the steak immediately after cooking loses half the juices. Five minutes makes a real difference in how tender it eats.",
+    "instructions": "1. Cook beef in a hot skillet over medium-high heat, breaking it up as it browns. Drain any excess fat. 2. Add garlic and cook 30 seconds, then stir in soy sauce, sesame oil, gochujang, and honey. Toss to coat and cook another minute. 3. Build your bowl: rice on the bottom, seasoned beef on top, then raw cabbage and carrot alongside. 4. Garnish with green onions and sesame seeds. Add a fried or soft-boiled egg on top if you want extra protein.",
+    "tip": "Prep the rice and chop the vegetables the night before so this comes together in under 10 minutes on a busy weeknight.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
