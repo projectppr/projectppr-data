@@ -1,0 +1,239 @@
+{
+  "date": "2026-05-08",
+  "dateLabel": "Friday, May 8, 2026",
+  "generatedAt": "2026-05-08T11:37:39.508Z",
+  "articles": [
+    {
+      "category": "HORMONES",
+      "topic": "testosterone brain tumor growth suppression",
+      "headline": "Testosterone Isn't Just a Muscle Hormone. It May Also Be Fighting Brain Cancer.",
+      "body": "Scientists at Cleveland Clinic just flipped the script on testosterone. A new NIH-funded study published in Nature found that in men, testosterone actually slows the growth of glioblastoma, the most aggressive form of brain cancer. When testosterone was removed in preclinical models, it triggered a stress hormone cascade that shut down the immune system's ability to fight tumors. Researchers then looked at data from over 1,300 men with glioblastoma and found those receiving supplemental testosterone had a 38% lower risk of death. The results don't establish cause and effect yet, but clinical trials are on the way.",
+      "takeaway": "This research is early but significant. Maintaining healthy testosterone levels through lifestyle, sleep, and resistance training may carry benefits well beyond the gym.",
+      "source": "NIH / Nature",
+      "sourceUrl": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
+      "pexelsQuery": "brain scan MRI medical research",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7089331/pexels-photo-7089331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7089331/pexels-photo-7089331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/technology-computer-head-health-7089331/",
+        "avgColor": "#A3A19C"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "magnesium vitamin D regulation balance",
+      "headline": "Your Vitamin D Supplement May Need a Partner to Actually Work",
+      "body": "If your vitamin D levels aren't moving despite supplementing, magnesium may be why. A clinical trial from Vanderbilt University published in the American Journal of Clinical Nutrition found that magnesium acts like a thermostat for vitamin D, raising it when levels are too low and pulling it down when levels are already high. This could explain why so many people see inconsistent results from vitamin D alone. Most adults are also deficient in magnesium, which means popping a vitamin D pill without adequate magnesium may not fix anything at all.",
+      "takeaway": "If you supplement vitamin D, consider pairing it with magnesium glycinate. It helps your body actually activate and regulate the vitamin D you're taking.",
+      "source": "ScienceDaily / American Journal of Clinical Nutrition",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2025/12/251228020010.htm",
+      "pexelsQuery": "vitamin supplement capsules bottle",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17820735/pexels-photo-17820735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17820735/pexels-photo-17820735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/multi-colored-capsules-and-bottle-17820735/",
+        "avgColor": "#D19E1F"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "training load gut microbiome athlete shifts",
+      "headline": "How Hard You Train Is Quietly Reshaping Your Gut",
+      "body": "A new study from Edith Cowan University found that training intensity directly shifts the gut microbiome in elite rowers. When athletes trained harder, short-chain fatty acid levels and specific bacterial species changed in ways that researchers think could influence performance and recovery. When training loads dropped, gut transit time slowed down and diet quality slipped, triggering different microbial shifts. One likely explanation: lactate produced by working muscles travels to the gut, where it may encourage the growth of certain beneficial bacteria. The research is early, but it adds a new dimension to what we know about workout intensity and health.",
+      "takeaway": "Another reason not to coast in your workouts. Consistent, quality training may be shaping your gut in ways that feed back into your energy and recovery.",
+      "source": "ScienceDaily / Journal of the International Society of Sports Nutrition",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260222092317.htm",
+      "pexelsQuery": "athlete running track effort training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5961849/pexels-photo-5961849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5961849/pexels-photo-5961849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RUN 4 FFWPU",
+        "photographerUrl": "https://www.pexels.com/@runffwpu",
+        "photoPageUrl": "https://www.pexels.com/photo/men-running-on-running-track-5961849/",
+        "avgColor": "#8C6C65"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "chronic stress cortisol cellular body damage",
+      "headline": "Chronic Stress Isn't Just a Feeling. It's Physically Breaking You Down.",
+      "body": "We tend to treat stress like a mood problem. Columbia University researchers want to change that framing. A March 2026 explainer from Columbia's Center for Behavioral Cardiovascular Health clarifies what happens biologically when stress stops being short-term. Cortisol levels stay elevated, and over time that wears down the body at a cellular level, increasing inflammation, raising heart attack risk, and disrupting immune function. Short bursts of stress can actually sharpen you. But chronic, unrelenting stress, the kind that lasts weeks or months, triggers a different cascade entirely. It's an imbalance, not a mood state.",
+      "takeaway": "Build daily recovery rituals into your routine, not just for performance but to actively downregulate your nervous system and keep cortisol from running the show.",
+      "source": "ColumbiaDoctors / Columbia University",
+      "sourceUrl": "https://www.columbiadoctors.org/news/chronic-stress-can-hurt-your-overall-health",
+      "pexelsQuery": "stressed person overwhelmed work desk",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8011958/pexels-photo-8011958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8011958/pexels-photo-8011958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Thirdman",
+        "photographerUrl": "https://www.pexels.com/@thirdman",
+        "photoPageUrl": "https://www.pexels.com/photo/a-stressed-woman-lying-on-a-bed-beside-cellphones-and-a-laptop-8011958/",
+        "avgColor": "#AAABA6"
+      }
+    }
+  ],
+  "quote": {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "context": "Ancient Chinese philosopher whose teachings on persistence and discipline have endured for over 2,500 years."
+  },
+  "workout": {
+    "type": "RUN",
+    "title": "Broken Tempo Builder",
+    "difficulty": "Intermediate",
+    "duration": "40 min",
+    "distance": "4-5 miles",
+    "equipment": [
+      "running shoes",
+      "GPS watch (optional)"
+    ],
+    "warmup": "Start with 8 minutes at an easy, conversational effort. Focus on relaxed breathing and light foot turnover. Let your body gradually rise to a moderate effort before the first tempo block begins.",
+    "exercises": [
+      {
+        "name": "Easy Base Pace",
+        "sets": "1",
+        "reps": "8 min",
+        "notes": "Conversational effort. You should be able to speak full sentences comfortably."
+      },
+      {
+        "name": "Tempo Block 1",
+        "sets": "1",
+        "reps": "6 min",
+        "notes": "Comfortably hard effort. You can speak a few words but not hold a conversation. Not a sprint, just sustained pressure."
+      },
+      {
+        "name": "Active Recovery Jog",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Drop back to easy pace. Shake out your arms and reset your breathing fully before the next block."
+      },
+      {
+        "name": "Tempo Block 2",
+        "sets": "1",
+        "reps": "8 min",
+        "notes": "Same comfortably hard effort as Block 1. Try to hold the same pace or push slightly harder in the final 2 minutes."
+      },
+      {
+        "name": "Active Recovery Jog",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Return to easy effort. Full recovery before the final block."
+      },
+      {
+        "name": "Tempo Block 3",
+        "sets": "1",
+        "reps": "6 min",
+        "notes": "Final push. Give what you have left at a hard but controlled effort. Finish strong, not empty."
+      }
+    ],
+    "cooldown": "Run or walk 6 minutes at an easy effort to bring your heart rate down. Finish with 2-3 minutes of standing hip flexor and calf stretches.",
+    "product": {
+      "id": "run-006",
+      "name": "Brooks Glycerin 22",
+      "brand": "Brooks",
+      "asin": "B0DYGHK9S3",
+      "url": "https://www.amazon.com/dp/B0DYGHK9S3?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "daily trainer",
+        "cushion",
+        "marathon",
+        "road",
+        "easy run"
+      ],
+      "blurb": "The gold standard daily trainer. Soft enough for easy days, structured enough for long runs."
+    }
+  },
+  "meal": {
+    "title": "Seared Steak and Roasted Veggie Bowl",
+    "type": "dinner",
+    "mainProtein": "beef",
+    "prepTime": "20 min",
+    "calories": 520,
+    "protein": 42,
+    "carbs": 32,
+    "fat": 22,
+    "ingredients": [
+      "6 oz sirloin or flat iron steak",
+      "1 cup cooked brown rice or farro",
+      "1 cup broccoli florets",
+      "1 cup cherry tomatoes, halved",
+      "1/2 red onion, sliced",
+      "2 tbsp olive oil",
+      "1 tsp garlic powder",
+      "1 tsp smoked paprika",
+      "Salt and black pepper to taste",
+      "1 tbsp balsamic glaze",
+      "Fresh parsley to garnish"
+    ],
+    "instructions": "1. Preheat oven to 425F. Toss broccoli, tomatoes, and red onion with 1 tbsp olive oil, garlic powder, salt, and pepper. Roast 18-20 minutes until edges are caramelized. 2. While veggies roast, pat the steak dry and season generously with smoked paprika, salt, and pepper. Sear in a hot cast iron pan with remaining olive oil, 3-4 minutes per side for medium. Rest 5 minutes before slicing. 3. Build the bowl: start with rice or farro, add roasted veggies, and fan the sliced steak on top. 4. Drizzle with balsamic glaze and finish with fresh parsley.",
+    "tip": "Letting the steak rest is non-negotiable. Cut it too early and all those juices hit the cutting board instead of your mouth.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
