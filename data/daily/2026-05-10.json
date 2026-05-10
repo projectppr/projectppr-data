@@ -1,53 +1,35 @@
 {
   "date": "2026-05-10",
   "dateLabel": "Sunday, May 10, 2026",
-  "generatedAt": "2026-05-10T07:36:48.944Z",
+  "generatedAt": "2026-05-10T11:05:35.718Z",
   "articles": [
     {
       "category": "TRAINING",
       "topic": "eccentric exercise muscle strength low effort",
-      "headline": "The Lazy-Looking Workout Move That Builds More Muscle Than You Think",
-      "body": "Turns out, the hardest part of a rep might not be where the gains are. New research from Edith Cowan University, published in the Journal of Sport and Health Science, says the lowering phase of any movement, what scientists call eccentric exercise, builds muscle more efficiently with far less effort than the lifting phase. Think: slowly sitting into a chair, lowering a dumbbell, or stepping downstairs. Just five minutes a day of these moves improved strength and overall health in sedentary adults. No gym required. Muscles actually produce more force during lengthening than shortening, which means you get a bigger training stimulus without pushing as hard.",
-      "takeaway": "Add slow, controlled lowering to your daily routine. Chair squats, wall push-ups, and heel drops for five minutes a day is a legitimate starting point, not a warmup.",
-      "source": "Journal of Sport and Health Science / ScienceDaily",
+      "headline": "You're Probably Skipping the Part of Your Workout That Does the Most Work",
+      "body": "Most people focus on the lifting phase of an exercise. Turns out the lowering phase might be the more powerful one. A new review from Edith Cowan University found that eccentric movements, where muscles lengthen under tension, like slowly sitting into a chair, walking downstairs, or lowering a dumbbell, can build more strength and muscle with less energy output than traditional lifting. Muscles generate over 20 percent more force in the eccentric phase while demanding less oxygen and putting less strain on your heart and lungs. The kicker? Five minutes of this a day can drive real gains. No gym required.",
+      "takeaway": "Slow down the lowering phase of your squats, presses, and curls. Three to five seconds on the way down is enough to meaningfully increase training stimulus without adding more reps or sets.",
+      "source": "ScienceDaily / Journal of Sport and Health Science",
       "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260501052830.htm",
-      "pexelsQuery": "person slowly sitting down chair exercise",
+      "pexelsQuery": "person doing squat exercise slowly controlled",
       "photo": {
-        "url": "https://images.pexels.com/photos/8217648/pexels-photo-8217648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8217648/pexels-photo-8217648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6539867/pexels-photo-6539867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6539867/pexels-photo-6539867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "photographer": "RDNE Stock project",
         "photographerUrl": "https://www.pexels.com/@rdne",
-        "photoPageUrl": "https://www.pexels.com/photo/man-in-blue-button-up-shirt-sitting-on-brown-leather-armchair-8217648/",
-        "avgColor": "#99928C"
-      }
-    },
-    {
-      "category": "NUTRITION",
-      "topic": "heart healthy diet ultraprocessed foods AHA 2026 guidance",
-      "headline": "The American Heart Association Just Updated Its Eating Rules. Here Is What Changed.",
-      "body": "The American Heart Association dropped its most comprehensive dietary update since 2021, publishing new guidance in the journal Circulation. The headline: up to 80 percent of heart disease and stroke is preventable through lifestyle choices alone, and diet is one of the biggest levers. The updated nine-feature framework doubles down on whole grains, plants, unsaturated fats, and lean protein while calling out ultraprocessed foods more firmly than before. A notable new addition: adults who get 25 percent or more of their daily calories from added sugar face nearly triple the risk of dying from cardiovascular disease. The guidance also takes a harder stance on alcohol.",
-      "takeaway": "Focus on your overall eating pattern, not any single food. Swap ultraprocessed snacks for whole food alternatives, cut added sugar first, and do not wait for the perfect diet to start.",
-      "source": "Circulation / American Heart Association",
-      "sourceUrl": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001435",
-      "pexelsQuery": "colorful vegetables fruits whole grains healthy meal",
-      "photo": {
-        "url": "https://images.pexels.com/photos/3698/food-healthy-fruits-breakfast.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3698/food-healthy-fruits-breakfast.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "JÉSHOOTS",
-        "photographerUrl": "https://www.pexels.com/@jeshoots",
-        "photoPageUrl": "https://www.pexels.com/photo/breakfast-food-fruits-healthy-3698/",
-        "avgColor": "#866B64"
+        "photoPageUrl": "https://www.pexels.com/photo/woman-squatting-while-holding-a-kettle-bell-6539867/",
+        "avgColor": "#948170"
       }
     },
     {
       "category": "SLEEP",
-      "topic": "AI sleep analysis disease prediction one night",
-      "headline": "One Night of Sleep Just Got a Lot More Revealing. AI Can Now See Disease Risk in It.",
-      "body": "Stanford researchers built an AI model called SleepFM, trained on over 585,000 hours of sleep data from roughly 65,000 people, that can predict the risk of 130 different health conditions from a single night of sleep. The study, published in Nature Medicine, analyzed detailed physiological signals: brain activity, heart rhythm, and breathing patterns simultaneously. The researchers found that when these systems were out of sync, for example a brain signaling sleep while the heart signaled wakefulness, it pointed to health trouble. This is not a consumer tool yet, but it signals that your sleep is quietly broadcasting your health status in ways we are just beginning to decode.",
-      "takeaway": "Your sleep quality is not just about how rested you feel. It reflects the coordination of your entire biology. Prioritizing consistent, high-quality sleep is not a soft habit, it is a health signal.",
-      "source": "Nature Medicine / Stanford Medicine",
-      "sourceUrl": "https://www.nature.com/articles/s41591-025-04133-4",
-      "pexelsQuery": "person sleeping bedroom peaceful night",
+      "topic": "chronic insomnia cognitive decline dementia risk",
+      "headline": "Struggling to Sleep Three Nights a Week? Your Brain Is Keeping Score.",
+      "body": "A new study published in Neurology tracked nearly 2,750 cognitively healthy adults, average age 70, for close to six years. Those with chronic insomnia, defined as difficulty sleeping at least three nights a week for three months or more, were 40 percent more likely to develop mild cognitive impairment or dementia. Even after adjusting for age, blood pressure, and sleep apnea, the risk held. People who slept less also started the study with cognitive scores equivalent to being four years older, and showed more brain plaque and white matter damage. The association between broken sleep and a fading mind is getting harder to ignore.",
+      "takeaway": "If you are regularly struggling to fall or stay asleep three or more nights per week, treat it as a health issue worth addressing now, not just an annoyance. Talk to your doctor before it compounds.",
+      "source": "Neurology (American Academy of Neurology) / Baptist Health",
+      "sourceUrl": "https://baptisthealth.net/baptist-health-news/chronic-insomnia-may-accelerate-cognitive-decline-and-brain-aging",
+      "pexelsQuery": "person awake at night staring at ceiling bedroom",
       "product": {
         "id": "slp-001",
         "name": "LectroFan White Noise Machine",
@@ -68,87 +50,99 @@
         "blurb": "Blocks ambient noise so your sleep is actually restorative."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/6541177/pexels-photo-6541177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6541177/pexels-photo-6541177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Polina ⠀",
-        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-wearing-a-sleep-mask-6541177/",
-        "avgColor": "#3B312C"
+        "url": "https://images.pexels.com/photos/6940363/pexels-photo-6940363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6940363/pexels-photo-6940363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/person-in-white-pajamas-sitting-on-a-bed-6940363/",
+        "avgColor": "#4E4E5B"
       }
     },
     {
       "category": "LONGEVITY",
-      "topic": "exercise variety types mortality risk reduction",
-      "headline": "Mixing Up Your Workouts Is Not Just Fun. It Might Actually Help You Live Longer.",
-      "body": "A major study published in BMJ Medicine tracked over 170,000 adults across the Nurses' Health Study and the Health Professionals Follow-Up Study and found that people who did the most diverse mix of physical activities had a 19 percent lower risk of dying from all causes. Even after accounting for total exercise volume, variety itself carried independent protective value. Rowing and calisthenics showed a 14 percent reduction in mortality risk. Running and weight training each came in at 13 percent. The researchers concluded that mixing activity types may help you live longer beyond just how much you exercise overall.",
-      "takeaway": "Do not just find one workout and stick to it forever. Rotate between strength, cardio, and something that challenges your body in a new way each week. The variety itself appears to be part of the benefit.",
-      "source": "BMJ Medicine / ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
-      "pexelsQuery": "people doing different sports activities outdoors",
+      "topic": "physical fitness decline starts age 35 Swedish study",
+      "headline": "35 Is When Your Body Starts Quietly Changing. Here Is What the Data Says.",
+      "body": "A 47-year Swedish study from Karolinska Institutet followed 427 people from age 16 to 63, testing the same individuals repeatedly across five decades. The finding: aerobic fitness and muscular strength begin to measurably decline around age 35, regardless of how active you were before that point. The drop starts slow, around 0.3 to 0.6 percent per year, then accelerates to roughly 2.5 percent per year in later life. By age 63, overall physical capacity had fallen 30 to 48 percent from peak. But the study also found a clear upside: adults who got active at any point still improved their capacity by 5 to 10 percent. It is literally never too late.",
+      "takeaway": "If you are in your 30s or 40s, you are not too late. You are right on time. Consistent training now does not just slow the decline — it builds a higher baseline to decline from.",
+      "source": "ScienceDaily / Journal of Cachexia, Sarcopenia and Muscle",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260116035336.htm",
+      "pexelsQuery": "middle aged man running outdoors park trail",
       "photo": {
-        "url": "https://images.pexels.com/photos/8693817/pexels-photo-8693817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8693817/pexels-photo-8693817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Yaroslav Shuraev",
-        "photographerUrl": "https://www.pexels.com/@yaroslav-shuraev",
-        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photo-of-men-and-woman-inside-a-basketball-court-8693817/",
-        "avgColor": "#898989"
+        "url": "https://images.pexels.com/photos/9790259/pexels-photo-9790259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9790259/pexels-photo-9790259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RUN 4 FFWPU",
+        "photographerUrl": "https://www.pexels.com/@runffwpu",
+        "photoPageUrl": "https://www.pexels.com/photo/smiling-sportsman-with-backpack-9790259/",
+        "avgColor": "#595E61"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "AHA 2026 dietary guidelines heart health protein swaps",
+      "headline": "The Heart Association Just Rewrote Its Eating Playbook for the First Time Since 2021",
+      "body": "The American Heart Association just dropped its first updated dietary guidelines since 2021, and the shift is real. The new 2026 guidance makes a strong push toward swapping red meat for plant-rich proteins to protect your heart, cutting ultra-processed foods, and getting potassium-rich foods in to help control blood pressure. Saturated fats get a broader lens too: the AHA now recommends choosing unsaturated fats over saturated ones across the board, not just in cooking oils. The bottom line from the AHA is progress over perfection. Every smart swap you make chips away at cardiovascular risk, no overhaul required.",
+      "takeaway": "You do not need to go fully plant-based. Start with one swap per day: lentils or beans instead of processed meat at lunch, or avocado instead of butter. Small, consistent moves add up over years.",
+      "source": "Baptist Health / American Heart Association",
+      "sourceUrl": "https://baptisthealth.net/baptist-health-news/dietary-guidelines-stress-less-meat-and-more-plant-based-proteins",
+      "pexelsQuery": "colorful healthy meal bowl vegetables legumes",
+      "photo": {
+        "url": "https://images.pexels.com/photos/23384627/pexels-photo-23384627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/23384627/pexels-photo-23384627.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Adrianna CA",
+        "photographerUrl": "https://www.pexels.com/@adriannacalvo",
+        "photoPageUrl": "https://www.pexels.com/photo/cooked-chickpeas-on-plate-23384627/",
+        "avgColor": "#AE9076"
       }
     }
   ],
   "quote": {
-    "text": "The more I practice, the luckier I get.",
-    "author": "Gary Player",
-    "context": "South African golf legend and one of the sport's earliest and most vocal advocates for fitness and longevity."
+    "text": "The human body is the best picture of the human soul.",
+    "author": "Ludwig Wittgenstein",
+    "context": "Austrian-British philosopher regarded as one of the most influential thinkers of the 20th century."
   },
   "workout": {
     "type": "RECOVERY",
-    "title": "Reset and Release: Full-Body Tension Flow",
+    "title": "Slow Lane: Full-Body Unwind & Tension Release",
     "difficulty": "Beginner",
     "duration": "25 min",
     "equipment": [
       "yoga mat or soft surface",
-      "foam roller (optional)"
+      "none"
     ],
-    "warmup": "Start with two minutes of slow, natural breathing lying on your back. Let your shoulders drop, soften your jaw, and take five long exhales. Then roll slowly to one side and move into a seated position before beginning.",
+    "warmup": "Start lying on your back. Take five slow, deep breaths into your belly, letting each exhale last twice as long as the inhale. On breath four and five, gently rock your knees side to side to wake up the spine.",
     "exercises": [
+      {
+        "name": "90/90 Hip Switch",
+        "sets": "2",
+        "reps": "6 switches each side",
+        "notes": "Sit with both knees bent at 90 degrees, one in front and one to the side. Slowly rotate hips to switch sides. Keep your torso tall and move from the hips, not the lower back."
+      },
+      {
+        "name": "Child's Pose with Lateral Reach",
+        "sets": "2",
+        "reps": "Hold 30 sec each side",
+        "notes": "From Child's Pose, walk both hands to the right and hold, breathing into the left side of your ribcage. Swap sides. This opens the lats and thoracic spine — tight spots for desk workers and lifters alike."
+      },
+      {
+        "name": "Supine Figure-Four Stretch",
+        "sets": "2",
+        "reps": "45 sec each side",
+        "notes": "Lying on your back, cross one ankle over the opposite knee and gently pull both legs toward your chest. This targets the piriformis and glutes. If your lower back lifts off the floor, back off slightly."
+      },
+      {
+        "name": "Cat-Cow Flow",
+        "sets": "2",
+        "reps": "10 slow reps",
+        "notes": "On hands and knees, alternate arching and rounding your spine with your breath. Inhale to arch (cow), exhale to round (cat). Move at your own pace — this is a spine reset, not a race."
+      },
       {
         "name": "Seated Neck and Shoulder Release",
         "sets": "1",
-        "reps": "5 slow circles each direction",
-        "notes": "Sit cross-legged or in a chair. Drop one ear toward your shoulder, pause for three breaths, then slowly circle your chin toward your chest and to the other side. Keep it slow and deliberate. This is not a stretch competition."
-      },
-      {
-        "name": "Cat-Cow Spinal Flow",
-        "sets": "3",
-        "reps": "10 breath-linked reps",
-        "notes": "On all fours, inhale to arch (cow), exhale to round (cat). Let your breath control the pace. If your wrists are sensitive, make fists or come down to forearms."
-      },
-      {
-        "name": "Thread-the-Needle Thoracic Rotation",
-        "sets": "2",
-        "reps": "8 each side",
-        "notes": "From all fours, slide one arm under your body along the floor, rotating your upper back. Follow your hand with your eyes. Hold the end position for two counts. Keep your hips stacked over your knees."
-      },
-      {
-        "name": "Low Lunge Hip Flexor Hold",
-        "sets": "1",
-        "reps": "60 seconds each side",
-        "notes": "From a kneeling lunge, shift your hips forward gently until you feel a stretch at the front of the back hip. Keep your front knee stacked over your ankle. This is your desk-job antidote. Breathe into the tightness."
-      },
-      {
-        "name": "Supine Figure-Four Glute Stretch",
-        "sets": "1",
-        "reps": "90 seconds each side",
-        "notes": "Lie on your back, cross one ankle over the opposite knee, and draw both legs toward your chest. Thread your hands around the back of the uncrossed thigh. If you feel it in the outer hip or glute, you are in the right place."
-      },
-      {
-        "name": "Legs-Up-the-Wall or Supported Bridge Hold",
-        "sets": "1",
-        "reps": "3 minutes",
-        "notes": "Lie on your back and either rest your legs straight up a wall, or gently lift your hips into a passive bridge and hold softly. Focus on slow nasal breathing. This is your reset, not an exercise."
+        "reps": "5 reps each direction",
+        "notes": "Sit cross-legged or in a chair. Slowly drop your right ear to your right shoulder and hold for three breaths. Add gentle chin tucks and slow head circles. Never force range of motion here."
       }
     ],
-    "cooldown": "Finish flat on your back in a relaxed position for two to three minutes. Close your eyes, breathe naturally, and let your nervous system absorb the work. You can roll your feet out, turn your palms up, and do nothing at all.",
+    "cooldown": "Finish lying flat on your back in Savasana for 3 to 5 minutes. Let your arms fall open, close your eyes, and breathe normally. This is not optional — your nervous system needs this transition.",
     "product": {
       "id": "rec-001",
       "name": "TriggerPoint GRID Foam Roller",
@@ -171,29 +165,28 @@
     }
   },
   "meal": {
-    "title": "Seared Tuna and Edamame Rice Bowl",
-    "type": "lunch",
-    "mainProtein": "tuna",
-    "prepTime": "15 min",
+    "title": "Lemon Herb Pork Tenderloin Bowl with Quinoa and Roasted Zucchini",
+    "type": "dinner",
+    "mainProtein": "pork",
+    "prepTime": "20 min",
     "calories": 520,
-    "protein": 46,
-    "carbs": 42,
-    "fat": 14,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 16,
     "ingredients": [
-      "2 sushi-grade or canned solid albacore tuna steaks (6 oz total) OR 2 cans solid white albacore tuna in water, drained",
-      "1 cup cooked brown rice or jasmine rice",
-      "1/2 cup shelled edamame (frozen and thawed)",
-      "1/4 cucumber, thinly sliced",
-      "1/4 avocado, sliced",
-      "2 tbsp low-sodium soy sauce or tamari",
-      "1 tsp sesame oil",
-      "1 tsp rice vinegar",
-      "1/2 tsp grated ginger (fresh or jarred)",
-      "1 tsp sesame seeds",
-      "Optional: red pepper flakes, sliced green onion"
+      "6 oz pork tenderloin, sliced into medallions",
+      "3/4 cup cooked quinoa",
+      "1 medium zucchini, sliced into half-moons",
+      "1 tbsp olive oil",
+      "2 garlic cloves, minced",
+      "Juice of 1 lemon",
+      "1 tsp dried oregano",
+      "1/2 tsp smoked paprika",
+      "Salt and black pepper to taste",
+      "Fresh parsley to garnish"
     ],
-    "instructions": "1. If using fresh tuna: pat dry and season lightly with salt. Heat a dry skillet over high heat, sear tuna 60 to 90 seconds per side until just opaque on the outside. Slice. If using canned tuna: drain well and flake. 2. Whisk together soy sauce, sesame oil, rice vinegar, and ginger in a small bowl to make the dressing. 3. Build the bowl: rice on the bottom, then tuna, edamame, cucumber, and avocado arranged on top. 4. Drizzle dressing over everything, finish with sesame seeds and optional toppings.",
-    "tip": "Canned solid albacore works just as well as fresh for this bowl on a busy weekday. Keep a few cans in your pantry and this goes from zero to done in under ten minutes.",
+    "instructions": "1. Toss zucchini with half the olive oil, salt, and pepper. Roast at 425F for 15 minutes until golden. 2. Season pork medallions with paprika, oregano, salt, and pepper. Sear in remaining olive oil over medium-high heat, 3 minutes per side, until cooked through. 3. Deglaze the pan with lemon juice and garlic, stirring for 30 seconds to build a quick pan sauce. 4. Build your bowl: quinoa base, roasted zucchini on the side, pork on top, drizzle with pan sauce, and finish with fresh parsley.",
+    "tip": "Pork tenderloin is one of the leanest cuts of meat — nearly as lean as chicken breast — and it cooks fast. Slice it thin before searing to cut your cook time in half on busy weeknights.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
