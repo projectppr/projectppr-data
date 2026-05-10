@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-10",
+  "dateLabel": "Sunday, May 10, 2026",
+  "generatedAt": "2026-05-10T07:36:48.944Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "eccentric exercise muscle strength low effort",
+      "headline": "The Lazy-Looking Workout Move That Builds More Muscle Than You Think",
+      "body": "Turns out, the hardest part of a rep might not be where the gains are. New research from Edith Cowan University, published in the Journal of Sport and Health Science, says the lowering phase of any movement, what scientists call eccentric exercise, builds muscle more efficiently with far less effort than the lifting phase. Think: slowly sitting into a chair, lowering a dumbbell, or stepping downstairs. Just five minutes a day of these moves improved strength and overall health in sedentary adults. No gym required. Muscles actually produce more force during lengthening than shortening, which means you get a bigger training stimulus without pushing as hard.",
+      "takeaway": "Add slow, controlled lowering to your daily routine. Chair squats, wall push-ups, and heel drops for five minutes a day is a legitimate starting point, not a warmup.",
+      "source": "Journal of Sport and Health Science / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260501052830.htm",
+      "pexelsQuery": "person slowly sitting down chair exercise",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8217648/pexels-photo-8217648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8217648/pexels-photo-8217648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-blue-button-up-shirt-sitting-on-brown-leather-armchair-8217648/",
+        "avgColor": "#99928C"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "heart healthy diet ultraprocessed foods AHA 2026 guidance",
+      "headline": "The American Heart Association Just Updated Its Eating Rules. Here Is What Changed.",
+      "body": "The American Heart Association dropped its most comprehensive dietary update since 2021, publishing new guidance in the journal Circulation. The headline: up to 80 percent of heart disease and stroke is preventable through lifestyle choices alone, and diet is one of the biggest levers. The updated nine-feature framework doubles down on whole grains, plants, unsaturated fats, and lean protein while calling out ultraprocessed foods more firmly than before. A notable new addition: adults who get 25 percent or more of their daily calories from added sugar face nearly triple the risk of dying from cardiovascular disease. The guidance also takes a harder stance on alcohol.",
+      "takeaway": "Focus on your overall eating pattern, not any single food. Swap ultraprocessed snacks for whole food alternatives, cut added sugar first, and do not wait for the perfect diet to start.",
+      "source": "Circulation / American Heart Association",
+      "sourceUrl": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001435",
+      "pexelsQuery": "colorful vegetables fruits whole grains healthy meal",
+      "photo": {
+        "url": "https://images.pexels.com/photos/3698/food-healthy-fruits-breakfast.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3698/food-healthy-fruits-breakfast.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "JÉSHOOTS",
+        "photographerUrl": "https://www.pexels.com/@jeshoots",
+        "photoPageUrl": "https://www.pexels.com/photo/breakfast-food-fruits-healthy-3698/",
+        "avgColor": "#866B64"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "AI sleep analysis disease prediction one night",
+      "headline": "One Night of Sleep Just Got a Lot More Revealing. AI Can Now See Disease Risk in It.",
+      "body": "Stanford researchers built an AI model called SleepFM, trained on over 585,000 hours of sleep data from roughly 65,000 people, that can predict the risk of 130 different health conditions from a single night of sleep. The study, published in Nature Medicine, analyzed detailed physiological signals: brain activity, heart rhythm, and breathing patterns simultaneously. The researchers found that when these systems were out of sync, for example a brain signaling sleep while the heart signaled wakefulness, it pointed to health trouble. This is not a consumer tool yet, but it signals that your sleep is quietly broadcasting your health status in ways we are just beginning to decode.",
+      "takeaway": "Your sleep quality is not just about how rested you feel. It reflects the coordination of your entire biology. Prioritizing consistent, high-quality sleep is not a soft habit, it is a health signal.",
+      "source": "Nature Medicine / Stanford Medicine",
+      "sourceUrl": "https://www.nature.com/articles/s41591-025-04133-4",
+      "pexelsQuery": "person sleeping bedroom peaceful night",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6541177/pexels-photo-6541177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6541177/pexels-photo-6541177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina ⠀",
+        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-wearing-a-sleep-mask-6541177/",
+        "avgColor": "#3B312C"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "exercise variety types mortality risk reduction",
+      "headline": "Mixing Up Your Workouts Is Not Just Fun. It Might Actually Help You Live Longer.",
+      "body": "A major study published in BMJ Medicine tracked over 170,000 adults across the Nurses' Health Study and the Health Professionals Follow-Up Study and found that people who did the most diverse mix of physical activities had a 19 percent lower risk of dying from all causes. Even after accounting for total exercise volume, variety itself carried independent protective value. Rowing and calisthenics showed a 14 percent reduction in mortality risk. Running and weight training each came in at 13 percent. The researchers concluded that mixing activity types may help you live longer beyond just how much you exercise overall.",
+      "takeaway": "Do not just find one workout and stick to it forever. Rotate between strength, cardio, and something that challenges your body in a new way each week. The variety itself appears to be part of the benefit.",
+      "source": "BMJ Medicine / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260426012305.htm",
+      "pexelsQuery": "people doing different sports activities outdoors",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8693817/pexels-photo-8693817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8693817/pexels-photo-8693817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yaroslav Shuraev",
+        "photographerUrl": "https://www.pexels.com/@yaroslav-shuraev",
+        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photo-of-men-and-woman-inside-a-basketball-court-8693817/",
+        "avgColor": "#898989"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The more I practice, the luckier I get.",
+    "author": "Gary Player",
+    "context": "South African golf legend and one of the sport's earliest and most vocal advocates for fitness and longevity."
+  },
+  "workout": {
+    "type": "RECOVERY",
+    "title": "Reset and Release: Full-Body Tension Flow",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [
+      "yoga mat or soft surface",
+      "foam roller (optional)"
+    ],
+    "warmup": "Start with two minutes of slow, natural breathing lying on your back. Let your shoulders drop, soften your jaw, and take five long exhales. Then roll slowly to one side and move into a seated position before beginning.",
+    "exercises": [
+      {
+        "name": "Seated Neck and Shoulder Release",
+        "sets": "1",
+        "reps": "5 slow circles each direction",
+        "notes": "Sit cross-legged or in a chair. Drop one ear toward your shoulder, pause for three breaths, then slowly circle your chin toward your chest and to the other side. Keep it slow and deliberate. This is not a stretch competition."
+      },
+      {
+        "name": "Cat-Cow Spinal Flow",
+        "sets": "3",
+        "reps": "10 breath-linked reps",
+        "notes": "On all fours, inhale to arch (cow), exhale to round (cat). Let your breath control the pace. If your wrists are sensitive, make fists or come down to forearms."
+      },
+      {
+        "name": "Thread-the-Needle Thoracic Rotation",
+        "sets": "2",
+        "reps": "8 each side",
+        "notes": "From all fours, slide one arm under your body along the floor, rotating your upper back. Follow your hand with your eyes. Hold the end position for two counts. Keep your hips stacked over your knees."
+      },
+      {
+        "name": "Low Lunge Hip Flexor Hold",
+        "sets": "1",
+        "reps": "60 seconds each side",
+        "notes": "From a kneeling lunge, shift your hips forward gently until you feel a stretch at the front of the back hip. Keep your front knee stacked over your ankle. This is your desk-job antidote. Breathe into the tightness."
+      },
+      {
+        "name": "Supine Figure-Four Glute Stretch",
+        "sets": "1",
+        "reps": "90 seconds each side",
+        "notes": "Lie on your back, cross one ankle over the opposite knee, and draw both legs toward your chest. Thread your hands around the back of the uncrossed thigh. If you feel it in the outer hip or glute, you are in the right place."
+      },
+      {
+        "name": "Legs-Up-the-Wall or Supported Bridge Hold",
+        "sets": "1",
+        "reps": "3 minutes",
+        "notes": "Lie on your back and either rest your legs straight up a wall, or gently lift your hips into a passive bridge and hold softly. Focus on slow nasal breathing. This is your reset, not an exercise."
+      }
+    ],
+    "cooldown": "Finish flat on your back in a relaxed position for two to three minutes. Close your eyes, breathe naturally, and let your nervous system absorb the work. You can roll your feet out, turn your palms up, and do nothing at all.",
+    "product": {
+      "id": "rec-001",
+      "name": "TriggerPoint GRID Foam Roller",
+      "brand": "TriggerPoint",
+      "asin": "B0040EGNIU",
+      "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+      "category": "recovery",
+      "price_range": "$",
+      "keywords": [
+        "foam roller",
+        "recovery",
+        "muscle soreness",
+        "flexibility",
+        "mobility",
+        "IT band",
+        "running",
+        "triathlon"
+      ],
+      "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+    }
+  },
+  "meal": {
+    "title": "Seared Tuna and Edamame Rice Bowl",
+    "type": "lunch",
+    "mainProtein": "tuna",
+    "prepTime": "15 min",
+    "calories": 520,
+    "protein": 46,
+    "carbs": 42,
+    "fat": 14,
+    "ingredients": [
+      "2 sushi-grade or canned solid albacore tuna steaks (6 oz total) OR 2 cans solid white albacore tuna in water, drained",
+      "1 cup cooked brown rice or jasmine rice",
+      "1/2 cup shelled edamame (frozen and thawed)",
+      "1/4 cucumber, thinly sliced",
+      "1/4 avocado, sliced",
+      "2 tbsp low-sodium soy sauce or tamari",
+      "1 tsp sesame oil",
+      "1 tsp rice vinegar",
+      "1/2 tsp grated ginger (fresh or jarred)",
+      "1 tsp sesame seeds",
+      "Optional: red pepper flakes, sliced green onion"
+    ],
+    "instructions": "1. If using fresh tuna: pat dry and season lightly with salt. Heat a dry skillet over high heat, sear tuna 60 to 90 seconds per side until just opaque on the outside. Slice. If using canned tuna: drain well and flake. 2. Whisk together soy sauce, sesame oil, rice vinegar, and ginger in a small bowl to make the dressing. 3. Build the bowl: rice on the bottom, then tuna, edamame, cucumber, and avocado arranged on top. 4. Drizzle dressing over everything, finish with sesame seeds and optional toppings.",
+    "tip": "Canned solid albacore works just as well as fresh for this bowl on a busy weekday. Keep a few cans in your pantry and this goes from zero to done in under ten minutes.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
