@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-11",
+  "dateLabel": "Monday, May 11, 2026",
+  "generatedAt": "2026-05-11T11:07:31.824Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "exercise variety premature death risk",
+      "headline": "It's Not Just How Much You Move. It's How Many Different Ways You Move.",
+      "body": "Harvard researchers followed more than 111,000 adults for over 30 years and found something most fitness advice misses: variety matters. People who mixed up their movement, walking, lifting weights, gardening, swimming, had a 19% lower risk of premature death compared to those who stuck to just one type of exercise. And here's the kicker: that benefit held true even when the total amount of exercise was exactly the same. It wasn't about doing more. It was about doing different. The study, published in BMJ Medicine, suggests your body gets something from movement variety that no single activity can deliver on its own.",
+      "takeaway": "Don't just do more. Do different. Add one new type of movement this week, even something as simple as a swim or a hike, on top of whatever you already do.",
+      "source": "Harvard T.H. Chan School of Public Health / BMJ Medicine",
+      "sourceUrl": "https://hsph.harvard.edu/news/exercise-variety-not-just-amount-linked-to-lower-risk-of-premature-mortality/",
+      "pexelsQuery": "people doing different outdoor activities running hiking cycling",
+      "photo": {
+        "url": "https://images.pexels.com/photos/33679900/pexels-photo-33679900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33679900/pexels-photo-33679900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "HAMZA YAICH",
+        "photographerUrl": "https://www.pexels.com/@hamza-yaich-1076080225",
+        "photoPageUrl": "https://www.pexels.com/photo/urban-runners-and-cyclist-by-the-river-33679900/",
+        "avgColor": "#9E9492"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "resistance training guidelines update ACSM",
+      "headline": "Science Just Rewrote the Rules on Strength Training. The New Rule Is Simpler Than You Think.",
+      "body": "The American College of Sports Medicine just released its first major update to resistance training guidelines in 17 years. They synthesized 137 systematic reviews covering more than 30,000 people, and the headline finding is refreshingly straightforward: the biggest gains come from simply going from doing nothing to doing something. Bands, bodyweight moves, home routines, they all work. You don't need a fancy program or a full gym. For strength, heavier loads for 2-3 sets, twice a week, is the evidence-based sweet spot. The lead researcher put it plainly: the best resistance training program is the one you'll actually stick with.",
+      "takeaway": "Stop waiting for the perfect program. Two sessions a week, 30-45 minutes, with whatever equipment you have access to, is enough to build real strength.",
+      "source": "American College of Sports Medicine / Medicine & Science in Sports & Exercise",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "pexelsQuery": "person doing bodyweight push-up home workout",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6443535/pexels-photo-6443535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6443535/pexels-photo-6443535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-doing-exercise-6443535/",
+        "avgColor": "#98857A"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "sleep duration life expectancy US counties",
+      "headline": "Getting Under 7 Hours of Sleep Is Worse for Your Lifespan Than a Bad Diet",
+      "body": "A study from Oregon Health and Science University analyzed CDC sleep data from more than 3,000 US counties, comparing sleep habits to life expectancy across the country. The finding that surprised even the researchers: insufficient sleep, defined as less than seven hours a night, was a stronger predictor of shorter lifespan than poor diet, physical inactivity, or social isolation. The connection showed up consistently, year after year, across nearly every state. The authors were clear: sleep should be treated as a core health pillar, right alongside what you eat and how you move.",
+      "takeaway": "Aim for 7 to 9 hours every night. If your schedule is cutting into sleep, that's the health variable with the biggest return on investment to fix first.",
+      "source": "Oregon Health & Science University / SLEEP Advances",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260108231414.htm",
+      "pexelsQuery": "person sleeping peacefully in dark bedroom",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6541424/pexels-photo-6541424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6541424/pexels-photo-6541424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina ⠀",
+        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-lying-on-bed-sleeping-6541424/",
+        "avgColor": "#2C2420"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "new US dietary guidelines protein targets 2025-2030",
+      "headline": "The New Federal Protein Target Is Higher Than You're Probably Hitting",
+      "body": "The 2025-2030 US Dietary Guidelines raised the recommended protein intake to 1.2 to 1.6 grams per kilogram of body weight per day. For a 150-pound person, that's roughly 82 to 109 grams daily, a meaningful jump from the old standard. The guidelines also call for prioritizing a source of protein at every meal, not just at dinner where most people already load up. Older adults, active adults, and anyone managing their weight were flagged as especially likely to be under-eating protein. The message: protein isn't just for gym culture. It's a public health priority.",
+      "takeaway": "Calculate your new target: multiply your weight in pounds by 0.54 to 0.73 to get your daily gram goal. Then check whether breakfast and lunch are actually pulling their weight.",
+      "source": "USDA / HHS 2025-2030 Dietary Guidelines for Americans via CNN",
+      "sourceUrl": "https://www.cnn.com/2026/01/07/health/dietary-guidelines-rfk-maha",
+      "pexelsQuery": "high protein meal chicken eggs Greek yogurt food",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6294391/pexels-photo-6294391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6294391/pexels-photo-6294391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Klaus Nielsen",
+        "photographerUrl": "https://www.pexels.com/@klaus-nielsen",
+        "photoPageUrl": "https://www.pexels.com/photo/fried-egg-with-condiment-in-frying-pan-6294391/",
+        "avgColor": "#7B705F"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The successful warrior is the average man, with laser-like focus.",
+    "author": "Bruce Lee",
+    "context": "Martial arts legend, philosopher, and icon of physical and mental discipline."
+  },
+  "workout": {
+    "type": "PUSH",
+    "title": "Press & Burn: Dumbbell Push Circuit",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "dumbbells",
+      "mat"
+    ],
+    "warmup": "Start with 90 seconds of arm circles, forward and back. Follow with 10 slow shoulder rolls, 10 scapular push-ups, and a 30-second chest opener in a doorframe. Get your joints warm before you load them.",
+    "exercises": [
+      {
+        "name": "Dumbbell Floor Press",
+        "sets": "4",
+        "reps": "10",
+        "notes": "Lie flat, lower slowly to a 2-count, press strong. Keep ribs down and core tight throughout. Modify: use lighter dumbbells or reduce to 3 sets."
+      },
+      {
+        "name": "Standing Dumbbell Overhead Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Press straight up, don't arch your lower back. Lock out fully at the top, control the descent. Squeeze glutes to keep your core braced."
+      },
+      {
+        "name": "Push-Up Negative (3-Second Lower)",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Lower yourself in 3 slow seconds, then push back up at normal speed. This is where the real strength is built. Drop to knees if needed to keep form clean."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Lead with your elbows, not your wrists. Stop at shoulder height. Use lighter weight than you think you need. No swinging."
+      },
+      {
+        "name": "Tricep Dumbbell Kickback",
+        "sets": "3",
+        "reps": "12 each arm",
+        "notes": "Hinge forward at the hip, elbow locked at your side, extend fully. Squeeze at the top for one second. The lockout is the money rep."
+      }
+    ],
+    "cooldown": "Finish with a 60-second chest stretch in a doorframe each side, then a 60-second overhead tricep stretch per arm. Shake out your hands and roll your shoulders back a few times.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Tuna and White Bean Power Bowl",
+    "type": "lunch",
+    "mainProtein": "tuna",
+    "prepTime": "10 min",
+    "calories": 480,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 14,
+    "ingredients": [
+      "2 cans (5 oz each) wild-caught tuna in water, drained",
+      "1 can (15 oz) white cannellini beans, rinsed and drained",
+      "1 cup cherry tomatoes, halved",
+      "1/2 English cucumber, diced",
+      "1/4 red onion, finely diced",
+      "2 tablespoons extra virgin olive oil",
+      "Juice of 1 lemon",
+      "1 teaspoon Dijon mustard",
+      "1/2 teaspoon dried oregano",
+      "Salt and black pepper to taste",
+      "Fresh parsley or basil for topping"
+    ],
+    "instructions": "1. In a large bowl, whisk together olive oil, lemon juice, Dijon mustard, oregano, salt, and pepper to make the dressing. 2. Add the drained tuna and white beans to the bowl and toss gently to coat. 3. Fold in the cherry tomatoes, cucumber, and red onion. 4. Top with fresh parsley or basil and serve immediately, or refrigerate for up to 2 days.",
+    "tip": "Make a double batch on Sunday and portion into containers for grab-and-go lunches Monday through Wednesday. It actually tastes better after the flavors have had a few hours to come together.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
