@@ -1,0 +1,227 @@
+{
+  "date": "2026-05-13",
+  "dateLabel": "Wednesday, May 13, 2026",
+  "generatedAt": "2026-05-13T11:02:46.601Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "insomnia sleep apnea combined cardiovascular risk",
+      "headline": "When Two Sleep Problems Hit at Once, Your Heart Pays the Price",
+      "body": "Most people know that bad sleep is bad for the heart. But a new Yale study of nearly one million veterans reveals that having both insomnia and sleep apnea at the same time is a whole different level of dangerous. People with this combination, called COMISA, had more than double the risk of high blood pressure and over three times the risk of cardiovascular disease compared to those with neither condition. The researchers say doctors have been treating these two disorders as separate problems, but that approach is missing the bigger picture. When sleep is repeatedly interrupted by both breathing pauses and an inability to fall asleep, the heart never gets the recovery time it needs.",
+      "takeaway": "If you snore and also struggle to fall or stay asleep, bring both issues up with your doctor. Treating only one while ignoring the other leaves a major risk on the table.",
+      "source": "Journal of the American Heart Association / Yale School of Medicine",
+      "sourceUrl": "https://medicine.yale.edu/news-article/sleep-as-a-risk-factor-for-cardiovascular-disease/",
+      "pexelsQuery": "person sleeping restless in bed at night",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6944002/pexels-photo-6944002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6944002/pexels-photo-6944002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-lying-on-bed-6944002/",
+        "avgColor": "#39260C"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "sedentary time Alzheimer's brain shrinkage cognition",
+      "headline": "Your Daily Workout Isn't Enough. How Long You Sit Still Matters Too.",
+      "body": "New research from Vanderbilt and the University of Pittsburgh tracked 404 adults over 50 for seven years, monitoring their sitting time with wrist devices and tracking their brain health with MRI scans. The finding hit hard: the more time people spent sitting, the more their brains shrank in regions linked to Alzheimer's disease, and the worse their memory and cognition got over time. Here's the kicker. This was true even in people who exercised regularly. A daily workout does not cancel out eight hours in a chair. The effect was strongest in people who carry the APOE-e4 gene, a known Alzheimer's risk factor, making regular movement breaks even more critical for those individuals.",
+      "takeaway": "Break up your sitting throughout the day, not just by working out once. Short movement breaks, every hour or so, appear to matter independently of your exercise routine.",
+      "source": "Alzheimer's & Dementia",
+      "sourceUrl": "https://news.vumc.org/2025/05/13/study-reveals-sedentary-behavior-is-an-independent-risk-factor-for-alzheimers-disease/",
+      "pexelsQuery": "person sitting desk working office computer",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8123856/pexels-photo-8123856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8123856/pexels-photo-8123856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/a-bearded-man-in-white-long-sleeves-typing-on-computer-keyboard-8123856/",
+        "avgColor": "#D6C1B0"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "gut microbiome enzymes plant nutrients health outcomes",
+      "headline": "Why Two People Can Eat the Same Salad and Get Completely Different Results",
+      "body": "A major study published in Nature Microbiology mapped how gut bacteria process over 775 plant-based nutrients from the foods we eat. The researchers found that gut microbes have to chemically transform many of these compounds before the body can actually use them, like a second round of digestion. The catch: this process varies enormously between people. In people with chronic diseases like inflammatory bowel disease or colorectal cancer, the microbiome had a significantly reduced capacity to transform these beneficial plant compounds. The takeaway is a real shift in how scientists think about healthy eating. A nutritious diet may only deliver its full benefit if you have the right gut bacteria to unlock it.",
+      "takeaway": "Focus on gut microbiome health, not just the food on your plate. Fermented foods, fiber diversity, and limiting ultra-processed foods help build the microbial toolkit your body needs to use plant nutrients effectively.",
+      "source": "Nature Microbiology",
+      "sourceUrl": "https://medicalxpress.com/news/2025-12-power-gut-enzymes-healthy-affects.html",
+      "pexelsQuery": "colorful vegetables fruits salad bowl healthy food",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8845647/pexels-photo-8845647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8845647/pexels-photo-8845647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yaroslav Shuraev",
+        "photographerUrl": "https://www.pexels.com/@yaroslav-shuraev",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-holding-a-red-tomato-8845647/",
+        "avgColor": "#A79881"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "fitness tracker AI predicts hospitalization cardiovascular events",
+      "headline": "Your Fitness Tracker Might Know You're Getting Sick Before You Do",
+      "body": "A study from the University of Pittsburgh Medical Center analyzed Fitbit data from over 14,000 people and ran it through machine learning models to see if wearable data could predict hospitalizations and cardiovascular disease. The results were striking. The AI model predicted all-cause hospitalizations with a 95 percent area under the curve, essentially outperforming traditional clinical tools. Heart rate patterns and step counts were the most predictive features. The researchers say this is early evidence that the device already on your wrist could become a powerful early warning system, flagging health problems before symptoms show up in a doctor's office.",
+      "takeaway": "Your step count and resting heart rate trends over time carry real clinical signal. Pay attention to multi-week changes in both, not just daily numbers, and flag unusual trends at your next checkup.",
+      "source": "American Journal of Preventive Cardiology / UPMC",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12149649/",
+      "pexelsQuery": "smartwatch fitness tracker wrist health data",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/373913/pexels-photo-373913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/373913/pexels-photo-373913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Burst",
+        "photographerUrl": "https://www.pexels.com/@burst",
+        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-green-fitness-band-373913/",
+        "avgColor": "#ABA5A6"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The greatest wealth is health.",
+    "author": "Virgil",
+    "context": "Roman poet whose works have influenced Western literature for over two thousand years."
+  },
+  "workout": {
+    "type": "LOWER",
+    "workout_type": "lower",
+    "title": "Hinge and Hold: Beginner Lower Body Strength",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "fat_loss",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "lower_body",
+      "hinge_dominant",
+      "squat_dominant",
+      "beginner_friendly",
+      "under_60_min"
+    ],
+    "tip": "If you feel lower back strain on the Romanian deadlift, reduce the range of motion and focus on pushing your hips back rather than bending forward. A slight knee bend is fine.",
+    "warmup": "Start with 2 minutes of slow bodyweight squats to wake up your hips and knees. Follow with 10 leg swings each side and 10 hip circles to open up the hip joints before loading.",
+    "exercises": [
+      {
+        "name": "Goblet Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hold one dumbbell vertically at your chest. Sit back and down, keeping your chest tall and knees tracking over your toes. Pause one second at the bottom."
+      },
+      {
+        "name": "Romanian Deadlift (Dumbbell)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold a dumbbell in each hand at your hips. Push hips back, keep back flat, and lower until you feel a stretch in your hamstrings. Drive hips forward to stand."
+      },
+      {
+        "name": "Reverse Lunge",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Step straight back, lower your back knee toward the floor without touching, then drive through your front heel to return. Keep your torso upright."
+      },
+      {
+        "name": "Glute Bridge",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Lie on your back, feet flat on the floor hip-width apart. Drive through your heels, squeeze your glutes at the top, and hold for one second. Add a dumbbell across hips to progress."
+      },
+      {
+        "name": "Lateral Squat",
+        "sets": "2",
+        "reps": "8 each side",
+        "notes": "Stand with feet wide. Shift weight to one side, bending that knee while keeping the other leg straight. Push back to center. Bodyweight only is fine for beginners."
+      }
+    ],
+    "cooldown": "Finish with a 60-second standing quad stretch each side, then a 60-second seated hamstring stretch with legs extended. Breathe slowly and let your heart rate come down.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Smoky Lentil and Halloumi Power Bowl",
+    "type": "lunch",
+    "mainProtein": "halloumi",
+    "prepTime": "20 min",
+    "calories": 520,
+    "protein": 34,
+    "carbs": 42,
+    "fat": 22,
+    "ingredients": [
+      "200g halloumi cheese, sliced",
+      "1 cup cooked green or brown lentils (canned, drained)",
+      "1 cup baby spinach or arugula",
+      "1/2 cup cherry tomatoes, halved",
+      "1/4 cucumber, diced",
+      "1/2 teaspoon smoked paprika",
+      "1/2 teaspoon cumin",
+      "1 tablespoon olive oil",
+      "Juice of half a lemon",
+      "Salt and black pepper to taste",
+      "Optional: 2 tablespoons hummus or plain Greek yogurt to serve"
+    ],
+    "instructions": "1. Heat a non-stick pan over medium-high heat. Add the halloumi slices and cook 2 minutes per side until golden. Set aside. 2. In a bowl, toss the lentils with smoked paprika, cumin, olive oil, lemon juice, salt, and pepper. 3. Build the bowl: add spinach, cherry tomatoes, and cucumber as the base, then top with the seasoned lentils and grilled halloumi. 4. Finish with a dollop of hummus or yogurt if using. Eat immediately while the halloumi is warm.",
+    "tip": "Canned lentils make this a genuine 20-minute meal. Rinse them well and they will soak up the spiced dressing perfectly. Halloumi holds its shape when grilled so it works great for meal prep too.",
+    "productId": null
+  }
+}
