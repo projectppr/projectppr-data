@@ -1,17 +1,17 @@
 {
   "date": "2026-05-15",
   "dateLabel": "Friday, May 15, 2026",
-  "generatedAt": "2026-05-15T11:04:53.245Z",
+  "generatedAt": "2026-05-15T12:12:52.014Z",
   "articles": [
     {
       "category": "SUPPLEMENTS",
       "topic": "daily multivitamin biological aging epigenetic clocks",
-      "headline": "Your Daily Multivitamin Might Be Doing More Than You Think",
-      "body": "A large randomized clinical trial from Harvard and Mass General Brigham found that taking a daily multivitamin for two years slowed biological aging by roughly four months, as measured by DNA-based epigenetic clocks. The study analyzed nearly 1,000 adults from the COSMOS trial. Two of the five aging clocks showed statistically significant improvement in the multivitamin group versus placebo. People who were biologically older than their actual age at the start of the study benefited the most. Cocoa extract, tested alongside the multivitamin, showed no effect on any of the five clocks. Researchers say more work is needed to understand whether the slowdown translates to real-world health outcomes.",
-      "takeaway": "A basic daily multivitamin is a low-cost, safe addition worth considering, especially if your diet is inconsistent or you're over 50.",
-      "source": "Nature Medicine / Mass General Brigham",
-      "sourceUrl": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/daily-multivitamin-use-may-slow-aging",
-      "pexelsQuery": "vitamin pills bottle supplement",
+      "headline": "Your Daily Multivitamin Might Be Buying You Extra Time",
+      "body": "Researchers at Harvard and Mass General Brigham ran a rigorous two-year randomized clinical trial on 958 older adults and found something genuinely surprising. People who took a daily multivitamin showed slower biological aging across five DNA-based epigenetic clocks, which estimate how fast your body is aging at the cellular level. The effect translated to roughly four months less biological aging over two years. People who were already biologically older than their actual age got the biggest benefit. Cocoa extract, tested alongside the multivitamin, showed no effect on aging clocks.",
+      "takeaway": "A basic daily multivitamin may offer a modest but real aging benefit, especially if your diet has gaps. It's not a magic pill, but the evidence from a gold-standard clinical trial is encouraging.",
+      "source": "Harvard Gazette / Nature Medicine",
+      "sourceUrl": "https://news.harvard.edu/gazette/story/2026/03/daily-multivitamin-may-slow-biological-aging/",
+      "pexelsQuery": "vitamin supplement pills bottle",
       "product": {
         "id": "sup-003",
         "name": "Thorne Vitamin D3/K2",
@@ -42,114 +42,109 @@
       }
     },
     {
+      "category": "NUTRITION",
+      "topic": "extra virgin olive oil gut bacteria cognitive function",
+      "headline": "Not All Olive Oil Is the Same. Your Brain Notices the Difference.",
+      "body": "A two-year study tracking 656 adults aged 55 to 75 found that people who used virgin olive oil instead of refined olive oil showed better cognitive performance and more diverse gut bacteria. The key appears to be a specific gut bacterium called Adlercreutzia, which was significantly more abundant in virgin olive oil users and accounted for about half of the cognitive boost seen in memory and problem-solving tests. Refined olive oil users, by contrast, showed declining gut diversity over time. The study, published in the journal Microbiome, was the first to directly examine how olive oil type affects brain health through the gut.",
+      "takeaway": "Swap refined olive oil for extra virgin wherever you can. The polyphenols that make it more expensive are the same ones feeding the gut bacteria linked to sharper thinking.",
+      "source": "Microbiome (journal) via EurekAlert",
+      "sourceUrl": "https://www.eurekalert.org/news-releases/1117175",
+      "pexelsQuery": "extra virgin olive oil bottle kitchen",
+      "photo": {
+        "url": "https://images.pexels.com/photos/10048321/pexels-photo-10048321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10048321/pexels-photo-10048321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/necessary-ingredients-in-italian-cuisine-10048321/",
+        "avgColor": "#92785F"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "semaglutide depression anxiety mental health reduction",
+      "headline": "Ozempic May Be Quietly Helping People's Mental Health Too",
+      "body": "A massive study following nearly 100,000 Swedish adults over 13 years found something unexpected about GLP-1 weight loss drugs like Ozempic. People taking semaglutide had a 42% lower risk of worsening mental illness during treatment periods compared to when they were off it. Depression risk dropped 44%, anxiety disorders fell 38%, and substance use hospitalizations dropped 47%. The study, published in The Lancet Psychiatry, looked at people who already had depression or anxiety diagnoses. Researchers believe semaglutide may be influencing brain pathways tied to mood and reward, not just appetite.",
+      "takeaway": "If you or someone you know is on GLP-1 medication, the mental health data is increasingly pointing in a positive direction. Worth a conversation with your doctor about the full picture.",
+      "source": "The Lancet Psychiatry",
+      "sourceUrl": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00014-3/fulltext",
+      "pexelsQuery": "person looking calm peaceful outdoors",
+      "photo": {
+        "url": "https://images.pexels.com/photos/1458826/pexels-photo-1458826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1458826/pexels-photo-1458826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Engin Akyurt",
+        "photographerUrl": "https://www.pexels.com/@enginakyurt",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-standing-in-front-of-brown-wood-plank-1458826/",
+        "avgColor": "#A69180"
+      }
+    },
+    {
       "category": "WEIGHT MANAGEMENT",
-      "topic": "daily steps weight regain prevention walking",
-      "headline": "The Step Count That Keeps the Weight Off After You Lose It",
-      "body": "Losing weight is hard. Keeping it off is harder. New research presented at the European Congress on Obesity found that walking around 8,500 steps per day may be the key to stopping weight from creeping back after dieting. The study, a systematic review and meta-analysis, found that people who built up their daily steps during a weight loss program and kept that activity level going afterward were significantly better at maintaining their results. Interestingly, walking more did not seem to drive more weight loss during the dieting phase itself. Researchers think that step count becomes a stronger tool during the maintenance phase.",
-      "takeaway": "If you've lost weight and want to keep it off, aim for around 8,500 steps a day as your maintenance target.",
-      "source": "ScienceDaily / European Congress on Obesity 2026",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260510234655.htm",
-      "pexelsQuery": "person walking steps sidewalk shoes",
+      "topic": "GLP-1 weight loss drug social stigma judgment",
+      "headline": "Losing Weight on Ozempic Can Make People Judge You More, Not Less",
+      "body": "Researchers at Rice University ran two controlled experiments with over 1,300 participants and found a counterintuitive result. People who lost weight using GLP-1 medications like Ozempic were rated more negatively than people who lost weight through diet and exercise, and even more harshly than people who did not lose weight at all. The stigma was driven largely by a belief that medication is an easy way out. Published in the International Journal of Obesity, the study also found that weight regain after stopping GLP-1 drugs triggered even more social judgment, creating a difficult cycle for patients.",
+      "takeaway": "Weight stigma is real and it is shifting form, not disappearing. If you are on a GLP-1 or know someone who is, the science says the treatment is legitimate. What other people think is not your health data.",
+      "source": "International Journal of Obesity / Rice University",
+      "sourceUrl": "https://news.rice.edu/news/2026/glp-1-paradox-rice-study-finds-weight-loss-drugs-may-carry-unexpected-stigma",
+      "pexelsQuery": "person standing confident healthy lifestyle",
       "photo": {
-        "url": "https://images.pexels.com/photos/2277601/pexels-photo-2277601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/2277601/pexels-photo-2277601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Gül Işık",
-        "photographerUrl": "https://www.pexels.com/@ekrulila",
-        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-black-leather-shoes-and-blue-denim-jeans-walking-upstairs-2277601/",
-        "avgColor": "#393D47"
-      }
-    },
-    {
-      "category": "HEART HEALTH",
-      "topic": "positive psychology mindfulness cardiovascular risk factors",
-      "headline": "Gratitude Journals and Mindfulness Can Actually Move the Needle on Heart Health",
-      "body": "It sounds soft, but the data is getting harder to ignore. A new review published in Cardiology Clinics analyzed 18 randomized controlled trials and found that positive psychology interventions like mindfulness, gratitude journaling, and optimism training can improve blood pressure, lower inflammation markers, and reduce other cardiovascular risk factors within weeks. The catch: the benefits faded when programs stopped. Programs with more frequent contact with participants produced the most consistent results. The strongest improvements came from an eight-week program that combined weekly sessions with daily micro-tasks.",
-      "takeaway": "Short, consistent mindfulness or gratitude practices are not just mood boosters. They may meaningfully support your heart health over time.",
-      "source": "Cardiology Clinics / Medical Xpress",
-      "sourceUrl": "https://medicalxpress.com/news/2026-05-healthy-heart-require-regular-doses.html",
-      "pexelsQuery": "woman meditating calm peaceful outdoors",
-      "photo": {
-        "url": "https://images.pexels.com/photos/13865921/pexels-photo-13865921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/13865921/pexels-photo-13865921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "RAY LEI",
-        "photographerUrl": "https://www.pexels.com/@ray-lei-2809836",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-praying-on-ledge-13865921/",
-        "avgColor": "#3E3F2F"
-      }
-    },
-    {
-      "category": "MINDSET",
-      "topic": "optimism heart disease cardiovascular risk outlook",
-      "headline": "Thinking Positively About the Future Is Actually Good for Your Heart",
-      "body": "A growing body of research now links optimism directly to better cardiovascular outcomes. Studies show that more optimistic people tend to have healthier hearts, both because of biological pathways and because they are more likely to exercise, eat well, and stick to health behaviors. A major meta-analysis of 229,000 people found that optimistic individuals had a 35 percent lower risk of experiencing a cardiovascular event compared to their more pessimistic peers. The Washington Post this week rounded up the current science on the topic, noting that researchers believe optimism is a modifiable trait, not a fixed personality feature.",
-      "takeaway": "Working on your outlook is not just mental health self-care. It may be one of the most underrated things you can do for your heart.",
-      "source": "The Washington Post",
-      "sourceUrl": "https://www.washingtonpost.com/lifestyle/2026/05/14/studies-link-optimism-better-heart-health-lower-risk-disease/",
-      "pexelsQuery": "person smiling outdoors happy sunlight",
-      "photo": {
-        "url": "https://images.pexels.com/photos/4566028/pexels-photo-4566028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4566028/pexels-photo-4566028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Flávio Santos",
-        "photographerUrl": "https://www.pexels.com/@officialflavio",
-        "photoPageUrl": "https://www.pexels.com/photo/handsome-young-guy-pointing-at-camera-in-tropics-4566028/",
-        "avgColor": "#8C8D89"
+        "url": "https://images.pexels.com/photos/7746517/pexels-photo-7746517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7746517/pexels-photo-7746517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina Tankilevitch",
+        "photographerUrl": "https://www.pexels.com/@polina-tankilevitch",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-shirt-wearing-a-fitness-tracker-7746517/",
+        "avgColor": "#A7806E"
       }
     }
   ],
   "quote": {
-    "text": "The body achieves what the mind believes.",
-    "author": "Napoleon Hill",
-    "context": "American author and pioneer of the modern self-help movement, best known for Think and Grow Rich."
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "context": "American author and humorist whose writing on human nature remains deeply relevant to behavior change and self-improvement."
   },
   "workout": {
     "type": "RUN",
     "workout_type": "intervals",
-    "title": "Lunch Break Ladder: 1-2-3 Minute Interval Pyramid",
-    "difficulty": "Beginner",
+    "title": "60-Second Surge: Speed Play for Busy Runners",
+    "difficulty": "Intermediate",
     "duration": "30 min",
-    "distance": "2.5-3.5 miles",
+    "distance": "2.5 to 3.5 miles",
     "equipment": [
       "none"
     ],
     "goal_affinity": [
       "general_fitness",
-      "5k"
+      "5k",
+      "10k"
     ],
     "tags": [
       "no_equipment",
       "cardio",
-      "beginner_friendly",
-      "under_30_min"
+      "under_30_min",
+      "beginner_friendly"
     ],
-    "tip": "Keep your easy jog recovery truly easy. If you can not hold a short conversation during recovery, you are going too hard on the work intervals.",
-    "warmup": "Start with 5 minutes of easy walking or a very light jog. Then do 30 seconds of high knees and 30 seconds of butt kicks to wake up your legs.",
+    "tip": "If you are short on time, you can do just the warmup and 4 to 5 surges and still get a quality session in. Quality beats quantity on a Friday.",
+    "warmup": "Walk briskly for 2 minutes, then jog easy for 3 minutes at a pace where you can hold a full conversation. Shake out your arms and do 10 slow leg swings on each side before picking up the pace.",
     "exercises": [
       {
-        "name": "Easy jog",
+        "name": "Easy Base Jog",
         "sets": "1",
         "reps": "5 min",
-        "notes": "Conversational pace. This is your base effort before intervals begin."
+        "notes": "Run at an easy, conversational effort. This is your anchor pace for the whole session. Settle in and find your rhythm."
       },
       {
-        "name": "1-minute hard effort",
-        "sets": "2",
-        "reps": "1 min on / 1 min easy",
-        "notes": "Run at a pace that feels comfortably hard, like a 7 out of 10. Recover with a slow jog or walk in between."
+        "name": "60-Second Hard Surge",
+        "sets": "6",
+        "reps": "60 sec on, 90 sec easy jog",
+        "notes": "Push to a comfortably hard effort on the surge, a 7 to 8 out of 10. Not a sprint, but faster than comfortable. Recover fully with the easy jog before the next one."
       },
       {
-        "name": "2-minute hard effort",
-        "sets": "2",
-        "reps": "2 min on / 2 min easy",
-        "notes": "Same effort level as the 1-minute block. Focus on keeping your form tall and relaxed as fatigue sets in."
-      },
-      {
-        "name": "3-minute hard effort",
+        "name": "Easy Finish Jog",
         "sets": "1",
-        "reps": "3 min on / 2 min easy",
-        "notes": "This is the peak of the pyramid. Dig in and hold your pace steady throughout the full 3 minutes."
+        "reps": "5 min",
+        "notes": "Drop back to easy, conversational pace to close out the run. Breathe through your nose if you can. This is your flush."
       }
     ],
-    "cooldown": "Finish with 5 minutes of easy walking. Do a standing quad stretch and a gentle calf stretch on each leg to close out.",
+    "cooldown": "Walk for 2 to 3 minutes until your heart rate settles, then do a standing quad stretch, a calf stretch against a wall, and one hip flexor lunge hold on each side for 20 seconds.",
     "product": {
       "id": "run-004",
       "name": "HOKA Clifton 9",
@@ -171,31 +166,28 @@
     }
   },
   "meal": {
-    "title": "Crispy Tofu and Edamame Rice Bowl with Sesame Ginger Dressing",
-    "type": "lunch",
-    "mainProtein": "tofu",
+    "title": "Seared Scallop and White Bean Bowl with Lemon Herb Dressing",
+    "type": "dinner",
+    "mainProtein": "scallops",
     "prepTime": "20 min",
     "calories": 480,
-    "protein": 34,
-    "carbs": 45,
+    "protein": 38,
+    "carbs": 36,
     "fat": 16,
     "ingredients": [
-      "200g extra-firm tofu, pressed and cubed",
-      "1 cup cooked brown rice or microwaveable rice pouch",
-      "3/4 cup shelled edamame (frozen, thawed)",
-      "1 cup shredded purple cabbage",
-      "1 medium carrot, shredded or julienned",
-      "2 tbsp low-sodium soy sauce or tamari",
-      "1 tbsp sesame oil",
-      "1 tbsp rice vinegar",
-      "1 tsp fresh grated ginger (or 1/2 tsp ground ginger)",
-      "1 tsp honey or maple syrup",
-      "1 tbsp sesame seeds",
-      "2 green onions, thinly sliced",
-      "1 tsp olive oil or avocado oil for cooking"
+      "300g large sea scallops (about 8 to 10 scallops), patted completely dry",
+      "1 can (400g) white cannellini beans, drained and rinsed",
+      "2 cups baby spinach or arugula",
+      "1 cup cherry tomatoes, halved",
+      "2 tablespoons extra virgin olive oil, divided",
+      "2 garlic cloves, minced",
+      "Juice of 1 lemon",
+      "1 tablespoon fresh parsley or basil, chopped",
+      "1 teaspoon capers (optional)",
+      "Salt, black pepper, and a pinch of chili flakes"
     ],
-    "instructions": "1. Pat tofu dry with paper towels and cube into bite-sized pieces. Heat oil in a non-stick skillet over medium-high heat and cook tofu for 3-4 minutes per side until golden and crispy. Season lightly with soy sauce in the last minute. 2. While tofu cooks, whisk together sesame oil, rice vinegar, remaining soy sauce, ginger, and honey to make the dressing. 3. Build the bowl: scoop rice into a bowl, top with edamame, cabbage, carrot, and crispy tofu. 4. Drizzle dressing over the top, then finish with sesame seeds and green onion.",
-    "tip": "Press your tofu for at least 10 minutes beforehand using a heavy pan or paper towels. Drier tofu crisps up much better and holds its shape in the pan.",
+    "instructions": "1. Heat a cast iron or stainless steel pan over high heat until very hot. Pat scallops dry with paper towel, season with salt and pepper. Add 1 tbsp olive oil to the pan, then sear scallops 90 seconds per side without touching them. Remove and rest. 2. In the same pan on medium heat, add remaining olive oil and garlic, cook 30 seconds until fragrant. Add white beans and cherry tomatoes and warm through for 2 minutes. Season with salt, pepper, and chili flakes. 3. Build the bowl: greens on the bottom, beans and tomatoes on top, scallops arranged over everything. 4. Drizzle with lemon juice, scatter fresh herbs and capers, finish with a light drizzle of extra virgin olive oil.",
+    "tip": "Dry scallops are non-negotiable. Any moisture on the surface and you steam them instead of sear them, and you lose the golden crust that makes this dish.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
