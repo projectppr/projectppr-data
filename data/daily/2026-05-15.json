@@ -1,115 +1,115 @@
 {
   "date": "2026-05-15",
   "dateLabel": "Friday, May 15, 2026",
-  "generatedAt": "2026-05-15T12:12:52.014Z",
+  "generatedAt": "2026-05-15T12:25:00.056Z",
   "articles": [
     {
-      "category": "SUPPLEMENTS",
-      "topic": "daily multivitamin biological aging epigenetic clocks",
-      "headline": "Your Daily Multivitamin Might Be Buying You Extra Time",
-      "body": "Researchers at Harvard and Mass General Brigham ran a rigorous two-year randomized clinical trial on 958 older adults and found something genuinely surprising. People who took a daily multivitamin showed slower biological aging across five DNA-based epigenetic clocks, which estimate how fast your body is aging at the cellular level. The effect translated to roughly four months less biological aging over two years. People who were already biologically older than their actual age got the biggest benefit. Cocoa extract, tested alongside the multivitamin, showed no effect on aging clocks.",
-      "takeaway": "A basic daily multivitamin may offer a modest but real aging benefit, especially if your diet has gaps. It's not a magic pill, but the evidence from a gold-standard clinical trial is encouraging.",
-      "source": "Harvard Gazette / Nature Medicine",
-      "sourceUrl": "https://news.harvard.edu/gazette/story/2026/03/daily-multivitamin-may-slow-biological-aging/",
-      "pexelsQuery": "vitamin supplement pills bottle",
-      "product": {
-        "id": "sup-003",
-        "name": "Thorne Vitamin D3/K2",
-        "brand": "Thorne",
-        "asin": "B0797N3F9T",
-        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "vitamin d",
-          "bone health",
-          "immune system",
-          "supplement",
-          "deficiency",
-          "longevity",
-          "sun",
-          "endurance"
-        ],
-        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
-      },
+      "category": "HEART HEALTH",
+      "topic": "ancient mind-body exercise blood pressure reduction",
+      "headline": "An 800-Year-Old Movement Practice Just Matched Brisk Walking for Lowering Blood Pressure",
+      "body": "A large randomized trial published in JACC tested baduanjin, a traditional Chinese practice combining slow movements, controlled breathing, and meditation, against brisk walking and self-directed exercise in 216 adults with stage 1 hypertension. After 12 weeks, the baduanjin group saw systolic blood pressure drop around 3 to 5 points more than the self-directed group. At one year, results held up and matched brisk walking almost exactly. No gym. No equipment. Just deliberate movement and breath. JACC's editor-in-chief noted the effect size was similar to some first-line blood pressure medications.",
+      "takeaway": "If you have slightly elevated blood pressure and struggle to stick to conventional exercise, a structured mind-body practice like baduanjin may be a genuinely effective, sustainable alternative.",
+      "source": "Journal of the American College of Cardiology (JACC)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
+      "pexelsQuery": "person doing tai chi outdoor morning",
       "photo": {
-        "url": "https://images.pexels.com/photos/17820734/pexels-photo-17820734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/17820734/pexels-photo-17820734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Jonathan Borba",
-        "photographerUrl": "https://www.pexels.com/@jonathanborba",
-        "photoPageUrl": "https://www.pexels.com/photo/multi-colored-capsules-on-yellow-backgorund-17820734/",
-        "avgColor": "#C69A31"
+        "url": "https://images.pexels.com/photos/8940488/pexels-photo-8940488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8940488/pexels-photo-8940488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vlada Karpovich",
+        "photographerUrl": "https://www.pexels.com/@vlada-karpovich",
+        "photoPageUrl": "https://www.pexels.com/photo/an-elderly-couple-doing-yoga-with-their-arms-outstretched-8940488/",
+        "avgColor": "#9F987E"
       }
     },
     {
-      "category": "NUTRITION",
-      "topic": "extra virgin olive oil gut bacteria cognitive function",
-      "headline": "Not All Olive Oil Is the Same. Your Brain Notices the Difference.",
-      "body": "A two-year study tracking 656 adults aged 55 to 75 found that people who used virgin olive oil instead of refined olive oil showed better cognitive performance and more diverse gut bacteria. The key appears to be a specific gut bacterium called Adlercreutzia, which was significantly more abundant in virgin olive oil users and accounted for about half of the cognitive boost seen in memory and problem-solving tests. Refined olive oil users, by contrast, showed declining gut diversity over time. The study, published in the journal Microbiome, was the first to directly examine how olive oil type affects brain health through the gut.",
-      "takeaway": "Swap refined olive oil for extra virgin wherever you can. The polyphenols that make it more expensive are the same ones feeding the gut bacteria linked to sharper thinking.",
-      "source": "Microbiome (journal) via EurekAlert",
-      "sourceUrl": "https://www.eurekalert.org/news-releases/1117175",
-      "pexelsQuery": "extra virgin olive oil bottle kitchen",
+      "category": "RECOVERY",
+      "topic": "B vitamins muscle stem cell repair exercise",
+      "headline": "Two B Vitamins You Already Know Just Got a New Job: Rebuilding Your Muscles Faster",
+      "body": "A randomized, placebo-controlled clinical trial published in Advanced Science found that combining nicotinamide (vitamin B3) and pyridoxine (vitamin B6) after intense exercise significantly boosted muscle stem cell activity and accelerated repair. Men who took the combination for nine days showed a 29% increase in stem cells per damaged fiber and a 37% increase in regenerating muscle fibers compared to placebo. Researchers from Copenhagen University Hospital and Nestle Research concluded the combo could accelerate recovery from sport-related muscle damage. The science behind it: these two nutrients work together to activate the stem cells your muscles rely on to rebuild.",
+      "takeaway": "If you are pushing hard in workouts and recovery feels slow, this emerging research suggests B3 and B6 working together at specific doses may help rebuild muscle at the cellular level, though daily protein intake remains the baseline priority.",
+      "source": "Advanced Science",
+      "sourceUrl": "https://www.nutraingredients.com/Article/2026/03/26/vitamins-b3-plus-b6-may-boost-muscle-repair-after-high-intensity-exercise/",
+      "pexelsQuery": "vitamin supplement capsules close up",
       "photo": {
-        "url": "https://images.pexels.com/photos/10048321/pexels-photo-10048321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/10048321/pexels-photo-10048321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ron Lach",
-        "photographerUrl": "https://www.pexels.com/@ron-lach",
-        "photoPageUrl": "https://www.pexels.com/photo/necessary-ingredients-in-italian-cuisine-10048321/",
-        "avgColor": "#92785F"
-      }
-    },
-    {
-      "category": "MENTAL PERFORMANCE",
-      "topic": "semaglutide depression anxiety mental health reduction",
-      "headline": "Ozempic May Be Quietly Helping People's Mental Health Too",
-      "body": "A massive study following nearly 100,000 Swedish adults over 13 years found something unexpected about GLP-1 weight loss drugs like Ozempic. People taking semaglutide had a 42% lower risk of worsening mental illness during treatment periods compared to when they were off it. Depression risk dropped 44%, anxiety disorders fell 38%, and substance use hospitalizations dropped 47%. The study, published in The Lancet Psychiatry, looked at people who already had depression or anxiety diagnoses. Researchers believe semaglutide may be influencing brain pathways tied to mood and reward, not just appetite.",
-      "takeaway": "If you or someone you know is on GLP-1 medication, the mental health data is increasingly pointing in a positive direction. Worth a conversation with your doctor about the full picture.",
-      "source": "The Lancet Psychiatry",
-      "sourceUrl": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00014-3/fulltext",
-      "pexelsQuery": "person looking calm peaceful outdoors",
-      "photo": {
-        "url": "https://images.pexels.com/photos/1458826/pexels-photo-1458826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/1458826/pexels-photo-1458826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Engin Akyurt",
-        "photographerUrl": "https://www.pexels.com/@enginakyurt",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-standing-in-front-of-brown-wood-plank-1458826/",
-        "avgColor": "#A69180"
+        "url": "https://images.pexels.com/photos/22020984/pexels-photo-22020984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/22020984/pexels-photo-22020984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Christina & Peter",
+        "photographerUrl": "https://www.pexels.com/@christina99999",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-capsules-with-powder-22020984/",
+        "avgColor": "#944D15"
       }
     },
     {
       "category": "WEIGHT MANAGEMENT",
-      "topic": "GLP-1 weight loss drug social stigma judgment",
-      "headline": "Losing Weight on Ozempic Can Make People Judge You More, Not Less",
-      "body": "Researchers at Rice University ran two controlled experiments with over 1,300 participants and found a counterintuitive result. People who lost weight using GLP-1 medications like Ozempic were rated more negatively than people who lost weight through diet and exercise, and even more harshly than people who did not lose weight at all. The stigma was driven largely by a belief that medication is an easy way out. Published in the International Journal of Obesity, the study also found that weight regain after stopping GLP-1 drugs triggered even more social judgment, creating a difficult cycle for patients.",
-      "takeaway": "Weight stigma is real and it is shifting form, not disappearing. If you are on a GLP-1 or know someone who is, the science says the treatment is legitimate. What other people think is not your health data.",
-      "source": "International Journal of Obesity / Rice University",
-      "sourceUrl": "https://news.rice.edu/news/2026/glp-1-paradox-rice-study-finds-weight-loss-drugs-may-carry-unexpected-stigma",
-      "pexelsQuery": "person standing confident healthy lifestyle",
+      "topic": "GLP-1 weight loss real world disease risk outcomes",
+      "headline": "On GLP-1 Drugs, How Much Weight You Lose Turns Out to Matter a Lot",
+      "body": "New real-world data presented at the European Congress on Obesity (ECO 2026) tracked nearly 90,000 people who started GLP-1 treatment for obesity or diabetes. The clear finding: the more weight people lost in the first year, the lower their risk of developing serious conditions like heart failure, sleep apnea, and chronic kidney disease. People who lost 15% or more of their BMI saw a 69% lower risk of developing sleep apnea and a 32% lower risk of heart failure compared to those who gained weight. Researchers also noted that half of patients stopped taking the medication within a year, which was tied to worse outcomes.",
+      "takeaway": "If you or someone you know is on a GLP-1 medication, staying consistent and working toward meaningful weight loss, not just any weight loss, is what drives the real health gains.",
+      "source": "European Congress on Obesity (ECO 2026) / MedicalXpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-benefits-obesity-linked-conditions-weight.html",
+      "pexelsQuery": "doctor patient health consultation",
       "photo": {
-        "url": "https://images.pexels.com/photos/7746517/pexels-photo-7746517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7746517/pexels-photo-7746517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Polina Tankilevitch",
-        "photographerUrl": "https://www.pexels.com/@polina-tankilevitch",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-shirt-wearing-a-fitness-tracker-7746517/",
-        "avgColor": "#A7806E"
+        "url": "https://images.pexels.com/photos/6010792/pexels-photo-6010792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6010792/pexels-photo-6010792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-beside-a-patient-6010792/",
+        "avgColor": "#606365"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "women's hydration science research gap",
+      "headline": "Sports Science Has Been Guessing About Women's Hydration. Gatorade Just Committed to Fixing That.",
+      "body": "Only 6% of global sports science research focuses exclusively on women. That number is the starting point for Gatorade's new multi-year research commitment called Body of Science, launched May 4, 2026. Led by the Gatorade Sports Science Institute, the program will study how women's hydration needs shift across the menstrual cycle, pregnancy, and perimenopause, areas with almost no solid data. More than 500 women have already participated in early research. The goal is peer-reviewed studies that give women actual evidence-based guidance rather than advice borrowed from male-dominated research.",
+      "takeaway": "Until this research matures, active women should pay close attention to how their hydration needs shift throughout their cycle rather than following general guidelines built mostly on male data.",
+      "source": "PepsiCo Newsroom / Gatorade Sports Science Institute",
+      "sourceUrl": "https://www.pepsico.com/newsroom/press-releases/2026/gatorade-body-of-science-research-commitment-to-help-womens-hydration-science-across-life-stages",
+      "pexelsQuery": "woman athlete drinking water sports bottle",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4853240/pexels-photo-4853240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853240/pexels-photo-4853240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/happy-people-drinking-water-after-training-4853240/",
+        "avgColor": "#969EA2"
       }
     }
   ],
   "quote": {
-    "text": "The secret of getting ahead is getting started.",
-    "author": "Mark Twain",
-    "context": "American author and humorist whose writing on human nature remains deeply relevant to behavior change and self-improvement."
+    "text": "Most people run away from discomfort. Champions run toward it.",
+    "author": "Deena Kastor",
+    "context": "American marathon record holder and Olympic bronze medalist who ran her fastest times in her 30s."
   },
   "workout": {
     "type": "RUN",
     "workout_type": "intervals",
-    "title": "60-Second Surge: Speed Play for Busy Runners",
+    "title": "Surge and Settle: 60-Second Speed Play",
     "difficulty": "Intermediate",
-    "duration": "30 min",
-    "distance": "2.5 to 3.5 miles",
+    "duration": "35 min",
+    "distance": "3-4 miles",
     "equipment": [
-      "none"
+      "running shoes"
     ],
     "goal_affinity": [
       "general_fitness",
@@ -119,32 +119,32 @@
     "tags": [
       "no_equipment",
       "cardio",
-      "under_30_min",
+      "under_60_min",
       "beginner_friendly"
     ],
-    "tip": "If you are short on time, you can do just the warmup and 4 to 5 surges and still get a quality session in. Quality beats quantity on a Friday.",
-    "warmup": "Walk briskly for 2 minutes, then jog easy for 3 minutes at a pace where you can hold a full conversation. Shake out your arms and do 10 slow leg swings on each side before picking up the pace.",
+    "tip": "Keep the surges feeling controlled, not all-out sprints. If you cannot hold a conversation at your easy pace, you are going too hard in recovery. Parents: this workout fits a school pickup window and needs zero planning.",
+    "warmup": "Start with 8 minutes of easy jogging, barely above a walk. In the final 2 minutes, do 4 short strides of about 20 seconds, picking up the pace lightly, then floating back down.",
     "exercises": [
       {
-        "name": "Easy Base Jog",
+        "name": "Easy Base Pace",
         "sets": "1",
         "reps": "5 min",
-        "notes": "Run at an easy, conversational effort. This is your anchor pace for the whole session. Settle in and find your rhythm."
+        "notes": "True conversational pace. This is your reset between surges. It should feel almost too easy."
       },
       {
-        "name": "60-Second Hard Surge",
-        "sets": "6",
-        "reps": "60 sec on, 90 sec easy jog",
-        "notes": "Push to a comfortably hard effort on the surge, a 7 to 8 out of 10. Not a sprint, but faster than comfortable. Recover fully with the easy jog before the next one."
+        "name": "60-Second Surge",
+        "sets": "8",
+        "reps": "60 sec each",
+        "notes": "Pick up to a pace that feels comfortably hard, like a 7 out of 10 effort. Not a sprint. Think controlled fast. Follow each surge with 90 seconds of easy jogging to recover."
       },
       {
-        "name": "Easy Finish Jog",
+        "name": "Steady Cruise Finish",
         "sets": "1",
         "reps": "5 min",
-        "notes": "Drop back to easy, conversational pace to close out the run. Breathe through your nose if you can. This is your flush."
+        "notes": "After your final surge and recovery, settle into a moderate pace just above easy for 5 minutes. This is your aerobic closer."
       }
     ],
-    "cooldown": "Walk for 2 to 3 minutes until your heart rate settles, then do a standing quad stretch, a calf stretch against a wall, and one hip flexor lunge hold on each side for 20 seconds.",
+    "cooldown": "Walk for 3 to 5 minutes, then shake out your legs. Spend 60 seconds on each calf by stepping forward into a slow lunge and letting the back heel drop.",
     "product": {
       "id": "run-004",
       "name": "HOKA Clifton 9",
@@ -166,47 +166,29 @@
     }
   },
   "meal": {
-    "title": "Seared Scallop and White Bean Bowl with Lemon Herb Dressing",
+    "title": "Spiced Turkey Meatball and White Bean Skillet",
     "type": "dinner",
-    "mainProtein": "scallops",
+    "mainProtein": "turkey",
     "prepTime": "20 min",
-    "calories": 480,
-    "protein": 38,
-    "carbs": 36,
-    "fat": 16,
+    "calories": 490,
+    "protein": 42,
+    "carbs": 32,
+    "fat": 18,
     "ingredients": [
-      "300g large sea scallops (about 8 to 10 scallops), patted completely dry",
-      "1 can (400g) white cannellini beans, drained and rinsed",
-      "2 cups baby spinach or arugula",
-      "1 cup cherry tomatoes, halved",
-      "2 tablespoons extra virgin olive oil, divided",
-      "2 garlic cloves, minced",
-      "Juice of 1 lemon",
-      "1 tablespoon fresh parsley or basil, chopped",
-      "1 teaspoon capers (optional)",
-      "Salt, black pepper, and a pinch of chili flakes"
+      "1 lb ground turkey (93% lean)",
+      "1 can (15 oz) white cannellini beans, drained and rinsed",
+      "1 can (15 oz) crushed tomatoes",
+      "1/2 cup chicken broth",
+      "3 garlic cloves, minced",
+      "1 tsp smoked paprika",
+      "1 tsp cumin",
+      "1/2 tsp red pepper flakes",
+      "1 tbsp olive oil",
+      "Salt and black pepper to taste",
+      "Fresh parsley or spinach to finish"
     ],
-    "instructions": "1. Heat a cast iron or stainless steel pan over high heat until very hot. Pat scallops dry with paper towel, season with salt and pepper. Add 1 tbsp olive oil to the pan, then sear scallops 90 seconds per side without touching them. Remove and rest. 2. In the same pan on medium heat, add remaining olive oil and garlic, cook 30 seconds until fragrant. Add white beans and cherry tomatoes and warm through for 2 minutes. Season with salt, pepper, and chili flakes. 3. Build the bowl: greens on the bottom, beans and tomatoes on top, scallops arranged over everything. 4. Drizzle with lemon juice, scatter fresh herbs and capers, finish with a light drizzle of extra virgin olive oil.",
-    "tip": "Dry scallops are non-negotiable. Any moisture on the surface and you steam them instead of sear them, and you lose the golden crust that makes this dish.",
-    "product": {
-      "id": "body-002",
-      "name": "Greater Goods Digital Food Scale",
-      "brand": "Greater Goods",
-      "asin": "B09QFWXSD8",
-      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
-      "category": "kitchen",
-      "price_range": "$",
-      "keywords": [
-        "nutrition",
-        "calories",
-        "macros",
-        "meal prep",
-        "food tracking",
-        "portion",
-        "weight loss",
-        "protein"
-      ],
-      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
-    }
+    "instructions": "1. Mix ground turkey with smoked paprika, cumin, half the garlic, salt, and pepper. Roll into 12 to 14 small meatballs. 2. Heat olive oil in a large skillet over medium-high heat. Brown meatballs for 3 to 4 minutes, turning once, then set aside. 3. In the same pan, saute remaining garlic for 30 seconds, add crushed tomatoes and broth, bring to a simmer. 4. Add white beans and meatballs back to the pan. Simmer uncovered for 8 to 10 minutes until meatballs are cooked through. Finish with a handful of fresh spinach or chopped parsley.",
+    "tip": "Make a double batch of meatballs on Sunday and freeze half raw. You will have this meal on the table in under 15 minutes on a busy weeknight.",
+    "productId": null
   }
 }
