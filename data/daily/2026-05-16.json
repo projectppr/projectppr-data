@@ -1,0 +1,228 @@
+{
+  "date": "2026-05-16",
+  "dateLabel": "Saturday, May 16, 2026",
+  "generatedAt": "2026-05-16T11:03:45.852Z",
+  "articles": [
+    {
+      "category": "COLD THERAPY",
+      "topic": "cold water immersion endurance athletes recovery",
+      "headline": "Science Has a Clear Answer on Ice Baths. It Depends on What You're Trying to Do.",
+      "body": "Cold plunges have gone mainstream, but an exercise physiology expert at Victoria University says the science is more specific than the hype suggests. Cold water immersion can genuinely help with short-term recovery and soreness after hard training, and research backs that up. The catch: doing it right after strength work may blunt the muscle adaptations you worked for. The timing and purpose matter a lot. For endurance athletes recovering between sessions, it can be a real tool. For people trying to build muscle, the timing needs to be smarter.",
+      "takeaway": "Save cold immersion for after your cardio or endurance sessions. If you're chasing strength gains, wait at least a few hours before taking the plunge.",
+      "source": "Triathlete",
+      "sourceUrl": "https://www.triathlete.com/training/recovery/ice-baths-what-science-says-about-protocols-adaptations-safety",
+      "pexelsQuery": "person ice bath cold water tub",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8511325/pexels-photo-8511325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8511325/pexels-photo-8511325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-filling-the-bath-tub-with-water-8511325/",
+        "avgColor": "#797778"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "sleep duration life expectancy longevity",
+      "headline": "Sleep Is Now the Strongest Predictor of How Long You'll Live",
+      "body": "A nationwide analysis from Oregon Health and Science University found something that surprised even its own researchers: how much you sleep is more closely linked to life expectancy than diet, exercise, or loneliness. The connection held steady year after year across nearly every U.S. state. Sleep wasn't just one factor among many. It outweighed the others. Researchers say this makes sleep one of the most underestimated pillars of long-term health. The sweet spot remains seven to nine hours, and it may be the single highest-leverage thing most people can do.",
+      "takeaway": "If you're prioritizing nutrition and exercise but not protecting your sleep, you may be optimizing the wrong thing first.",
+      "source": "ScienceDaily / Oregon Health and Science University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260108231414.htm",
+      "pexelsQuery": "person sleeping peaceful bedroom",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/10024961/pexels-photo-10024961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10024961/pexels-photo-10024961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Eduard Sheryshev",
+        "photographerUrl": "https://www.pexels.com/@edmosckov",
+        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photo-of-a-person-lying-down-on-bed-10024961/",
+        "avgColor": "#585858"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "GLP-1 drugs weight regain after stopping",
+      "headline": "Stop Taking the Weight Loss Drug and the Weight Comes Back. Fast.",
+      "body": "A major Oxford University review of 37 studies and over 9,000 adults found that people who stop taking weight loss medications regain weight about four times faster than those who stop a behavioral diet program. With semaglutide and tirzepatide, the average regain was around 0.8 kg per month, with most people projected to return to their starting weight within roughly 18 months. The researchers are clear: this is not a failure of the drugs. Obesity is a chronic condition. But the finding puts a spotlight on whether short-term use, without building lasting habits alongside it, is enough.",
+      "takeaway": "If you or someone you know is using GLP-1 medications, building sustainable nutrition and movement habits alongside treatment matters more than most people realize.",
+      "source": "The BMJ / University of Oxford",
+      "sourceUrl": "https://www.ox.ac.uk/news/2026-01-08-new-study-finds-stopping-weight-loss-drugs-linked-faster-regain-ending-diet",
+      "pexelsQuery": "person stepping on weighing scale",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6670943/pexels-photo-6670943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6670943/pexels-photo-6670943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Moe Magners",
+        "photographerUrl": "https://www.pexels.com/@moe-magners",
+        "photoPageUrl": "https://www.pexels.com/photo/person-holding-a-cardboard-with-weight-loss-message-6670943/",
+        "avgColor": "#D6CCC8"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "creatine cognitive function aging adults",
+      "headline": "Your Gym Supplement Has a Brain Benefit That Most People Are Sleeping On",
+      "body": "A February 2026 systematic review in Nutrition Reviews found that creatine supplementation may support cognitive function in older adults, particularly for memory and processing speed. It works in the brain the same way it works in muscle: by replenishing ATP, your cells' energy currency. Brain creatine levels naturally decline with age and under stress. People with lower baseline levels tend to see the biggest gains. The Washington Post noted this week that among all the so-called brain supplements flooding shelves, creatine has one of the most consistent bodies of peer-reviewed evidence behind it.",
+      "takeaway": "If you're already taking creatine for training, you may be getting a cognitive benefit on top of the strength gains. If you're not taking it yet, this is another reason to consider it.",
+      "source": "The Washington Post",
+      "sourceUrl": "https://www.washingtonpost.com/health/2026/05/07/brain-supplements-longevity/",
+      "pexelsQuery": "white powder supplement scoop container",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17820735/pexels-photo-17820735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17820735/pexels-photo-17820735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/multi-colored-capsules-and-bottle-17820735/",
+        "avgColor": "#D19E1F"
+      }
+    }
+  ],
+  "quote": {
+    "text": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "context": "Roman emperor and Stoic philosopher whose journals on self-discipline and resilience became the classic Meditations."
+  },
+  "workout": {
+    "type": "FULL_BODY",
+    "workout_type": "full_body",
+    "title": "Five-Move Flow: Compound Strength for Busy Humans",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "fat_loss",
+      "strength"
+    ],
+    "tags": [
+      "full_body",
+      "minimal_equipment",
+      "under_30_min",
+      "fat_loss",
+      "muscle_gain"
+    ],
+    "tip": "If you only have one set of dumbbells, control the tempo. Slower lowering phases make lighter weights feel heavier and keep the workout effective. Three seconds down on every rep.",
+    "warmup": "March in place for 60 seconds, then do 10 arm circles forward and backward. Finish with 10 bodyweight squats and 5 slow hip hinges to loosen up the posterior chain before loading it.",
+    "exercises": [
+      {
+        "name": "Dumbbell Romanian Deadlift",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hinge from the hips, not the lower back. Keep the weights close to your legs and feel the hamstrings load before you drive back up."
+      },
+      {
+        "name": "Dumbbell Goblet Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hold one dumbbell vertically at your chest. Drive knees out and sit tall. Pause one second at the bottom to kill any momentum."
+      },
+      {
+        "name": "Dumbbell Push Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Use a small knee dip to initiate the press. Lock out fully at the top. A great total-body move that connects lower and upper body power."
+      },
+      {
+        "name": "Dumbbell Bent-Over Row",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Hinge forward and row the dumbbell to your hip, not your shoulder. Keep your elbow tucked close and squeeze at the top."
+      },
+      {
+        "name": "Dumbbell Farmers Carry",
+        "sets": "3",
+        "reps": "20 steps each direction",
+        "notes": "Hold one or two dumbbells and walk tall. Shoulders down and back, core braced. This builds real-world strength and grip endurance. Rest 60 to 90 seconds between rounds."
+      }
+    ],
+    "cooldown": "Spend 90 seconds in a standing quad stretch on each leg, then finish with a 60-second deep hip flexor stretch on the floor. Your hips and hamstrings did the most work today."
+  },
+  "meal": {
+    "title": "Sesame Ginger Tofu and Brown Rice Power Bowl",
+    "type": "dinner",
+    "mainProtein": "tofu",
+    "prepTime": "20 min",
+    "calories": 480,
+    "protein": 34,
+    "carbs": 45,
+    "fat": 16,
+    "ingredients": [
+      "1 block (400g) extra-firm tofu, pressed and cubed",
+      "1 cup cooked brown rice",
+      "2 cups baby spinach or shredded cabbage",
+      "1 cup shelled edamame (frozen, thawed)",
+      "2 tbsp low-sodium soy sauce",
+      "1 tbsp sesame oil",
+      "1 tbsp rice vinegar",
+      "1 tsp fresh ginger, grated",
+      "1 garlic clove, minced",
+      "1 tsp honey or maple syrup",
+      "1 tbsp sesame seeds",
+      "2 green onions, sliced",
+      "1 tsp chili flakes (optional)"
+    ],
+    "instructions": "Press tofu for 10 minutes, then cube it. Pan-fry in a lightly oiled skillet over medium-high heat for 4 to 5 minutes per side until golden and crispy. While it cooks, whisk together soy sauce, sesame oil, rice vinegar, ginger, garlic, and honey in a small bowl. Add the sauce to the pan in the last 2 minutes and toss to coat. Build bowls: start with brown rice, add greens and edamame, then top with the glazed tofu. Finish with sesame seeds, green onions, and chili flakes.",
+    "tip": "Pressing tofu is the key step most people skip. Even 10 minutes under a heavy pan makes the texture dramatically better and helps it crisp up instead of steam. Prep tofu the night before and store it pressed in the fridge to cut your cook time to under 15 minutes.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
