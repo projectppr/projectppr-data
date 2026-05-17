@@ -1,0 +1,227 @@
+{
+  "date": "2026-05-17",
+  "dateLabel": "Sunday, May 17, 2026",
+  "generatedAt": "2026-05-17T11:03:01.883Z",
+  "articles": [
+    {
+      "category": "MINDSET",
+      "topic": "brain resilience loss processing decision making",
+      "headline": "Resilient People Don't Fear Losses More — Their Brains Just Process Them Differently",
+      "body": "Scientists at RPTU University in Germany wanted to know what actually makes some people mentally tougher than others. They put 82 people through a decision-making task involving real financial gains and losses, then mapped their brain activity. The finding? Resilient people didn't crave rewards more than anyone else. What set them apart was how their brains handled the downside. They placed less weight on minor losses, and their prefrontal cortex fired harder when processing negative information. That stronger brain response appeared to give them better control over their emotional reaction to setbacks. The researchers believe this loss-processing bias may be a trainable, modifiable brain function rather than a fixed trait.",
+      "takeaway": "Resilience isn't about ignoring bad news. It's about not catastrophizing it. Practices that build emotional regulation, like breathwork or mindfulness, may literally rewire how your brain weights losses.",
+      "source": "Journal of Neuroscience",
+      "sourceUrl": "https://neurosciencenews.com/resilience-decision-making-loss-bias-30663/",
+      "pexelsQuery": "human brain scan neuroscience",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7089331/pexels-photo-7089331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7089331/pexels-photo-7089331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/technology-computer-head-health-7089331/",
+        "avgColor": "#A3A19C"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "collagen versus whey protein strength training",
+      "headline": "Science Just Ranked 13 Protein Supplements for Muscle Gains. Collagen Came Out on Top.",
+      "body": "A new network meta-analysis published in Translational Sports Medicine compared 13 different protein supplements across 78 randomized trials and 4,755 participants. The goal: find out which ones actually move the needle on muscle strength and body composition when combined with resistance training. The winner was collagen, edging out whey protein for both strength and fat-free mass. Every other supplement tested — including many popular options — showed no statistically significant advantage over placebo. Collagen's win is counterintuitive because it's low in leucine, the amino acid usually credited for triggering muscle growth. Researchers think its role in tendon and connective tissue strength may explain the results.",
+      "takeaway": "If you supplement protein for strength training, the evidence now points to collagen and whey as the only two worth considering. Collagen showed the larger effect, but both were meaningfully better than placebo.",
+      "source": "Translational Sports Medicine",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12862422/",
+      "pexelsQuery": "protein powder supplement scoop",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7615563/pexels-photo-7615563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7615563/pexels-photo-7615563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nataliya Vaitkevich",
+        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
+        "photoPageUrl": "https://www.pexels.com/photo/brown-and-white-nuts-and-black-pen-7615563/",
+        "avgColor": "#7C9F80"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "consumer wearables connected to health records",
+      "headline": "People Are Plugging Their Fitness Trackers Into Their Medical Records. Doctors Are Watching.",
+      "body": "A new study published in Frontiers in Digital Health analyzed 843 patients at a US academic medical center who voluntarily linked their consumer wearables to their electronic health records. The average patient was 48 years old. The Apple Watch dominated at 56% of connected devices, followed by the Oura ring at 7.7% and Fitbit at 4.6%. Key finding: short-term engagement with connected devices was high, suggesting people genuinely want their health data reaching their care team. Researchers noted this integration could transform clinical care and research by surfacing data between appointments, when most health changes actually happen.",
+      "takeaway": "Your fitness tracker data doesn't have to just sit in an app. Ask your doctor whether your health system supports wearable integration, especially if you're managing blood pressure, sleep, or recovery.",
+      "source": "Frontiers in Digital Health",
+      "sourceUrl": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1784621/full",
+      "pexelsQuery": "smartwatch wearable health tracker wrist",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5038817/pexels-photo-5038817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5038817/pexels-photo-5038817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/two-people-checking-their-wristwatches-5038817/",
+        "avgColor": "#5A5444"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "napping sleep timing athletic performance recovery",
+      "headline": "The 20-Minute Nap Has Officially Graduated From Lazy Habit to Recovery Protocol",
+      "body": "A comprehensive review published in a leading neuroscience journal synthesized current evidence on sleep, physical performance, and recovery. One of the clearest practical findings: a 20 to 30 minute nap taken between 1 PM and 3 PM, timed to the body's natural post-lunch circadian dip, measurably improves afternoon alertness, reaction time, and physical output without causing the grogginess of longer naps. The review also confirmed that sleep restriction raises resting cortisol levels, essentially creating a hormonal environment that fights against every recovery investment you make. Athletes sleeping below their needs are training into a headwind they may not even notice.",
+      "takeaway": "If you train in the afternoon or evenings, a short nap after lunch is one of the highest-leverage recovery tools available. Set a 25-minute alarm and don't feel guilty about it.",
+      "source": "L'Encéphale (ScienceDirect)",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0013700626000709",
+      "pexelsQuery": "person napping resting couch",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6753229/pexels-photo-6753229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6753229/pexels-photo-6753229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-sick-woman-6753229/",
+        "avgColor": "#7E7974"
+      }
+    }
+  ],
+  "quote": {
+    "text": "You don't rise to the level of your goals. You fall to the level of your systems.",
+    "author": "James Clear",
+    "context": "Author of Atomic Habits and one of the most-read voices on behavior change and habit formation."
+  },
+  "workout": {
+    "type": "RECOVERY",
+    "workout_type": "recovery",
+    "title": "Unwind & Reset: Head-to-Toe Release Flow",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness"
+    ],
+    "tags": [
+      "no_equipment",
+      "low_impact",
+      "joint_friendly",
+      "beginner_friendly",
+      "full_body",
+      "mobility_focused",
+      "under_30_min"
+    ],
+    "tip": "Move at your own pace. These holds are about sensation, not performance. If something feels sharp or painful, back off by 20% and breathe into the edge instead.",
+    "warmup": "Start lying on your back. Take 5 slow belly breaths, letting your exhale be twice as long as your inhale. Then gently hug both knees to your chest and rock side to side for 30 seconds to wake up the lower back.",
+    "exercises": [
+      {
+        "name": "Supine Figure-4 Hip Opener",
+        "sets": "1",
+        "reps": "60 sec each side",
+        "notes": "Lie on your back, cross one ankle over the opposite knee, flex the top foot, and gently press the top knee away. Hold for 60 seconds, breathe deeply. Switch sides. Great for tight hips from sitting or running."
+      },
+      {
+        "name": "Child's Pose with Side Reach",
+        "sets": "1",
+        "reps": "45 sec each side",
+        "notes": "From hands and knees, push hips back toward heels, arms extended. Walk both hands to one side and hold 45 seconds, then switch. Targets the lats and thoracic spine."
+      },
+      {
+        "name": "Lying Spinal Twist",
+        "sets": "1",
+        "reps": "60 sec each side",
+        "notes": "On your back, draw one knee to your chest and let it fall across your body toward the floor while your opposite arm extends out. Keep both shoulders grounded. This is your nervous system reset."
+      },
+      {
+        "name": "Doorway-Free Chest Opener",
+        "sets": "1",
+        "reps": "45 sec",
+        "notes": "Sit or stand, interlace fingers behind your back, straighten your arms, and gently lift them while opening your chest toward the ceiling. Counteracts hours of forward posture at a desk or screen."
+      },
+      {
+        "name": "90/90 Hip Position Hold",
+        "sets": "1",
+        "reps": "60 sec each side",
+        "notes": "Sit on the floor with both legs bent at 90 degrees in front of and behind you. Sit tall and breathe. Don't force the stretch. Simply load the hip in external and internal rotation. Switch sides."
+      }
+    ],
+    "cooldown": "Finish in Savasana — flat on your back, arms slightly out from your sides, palms up. Take 10 slow breaths and let your body get heavy. This is the work. Let it land."
+  },
+  "meal": {
+    "title": "Cod and Roasted Chickpea Grain Bowl with Lemon Tahini Drizzle",
+    "type": "dinner",
+    "mainProtein": "cod",
+    "prepTime": "20 min",
+    "calories": 490,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 14,
+    "ingredients": [
+      "2 cod fillets (6 oz each)",
+      "1 can (15 oz) chickpeas, drained and rinsed",
+      "1 cup cooked farro or brown rice",
+      "1 cup baby spinach or arugula",
+      "1 tbsp olive oil",
+      "1 tsp smoked paprika",
+      "1/2 tsp garlic powder",
+      "Salt and black pepper to taste",
+      "2 tbsp tahini",
+      "Juice of 1 lemon",
+      "1 tbsp water (to thin tahini dressing)",
+      "Fresh parsley to garnish (optional)"
+    ],
+    "instructions": "1. Preheat oven to 425F. Toss drained chickpeas with half the olive oil, smoked paprika, garlic powder, salt, and pepper. Spread on a baking sheet and roast 15-18 minutes until crispy, shaking halfway. 2. While chickpeas roast, pat cod dry, season with salt, pepper, and a pinch of paprika. Heat remaining olive oil in a skillet over medium-high. Cook cod 3-4 minutes per side until flaky and golden. 3. Whisk tahini, lemon juice, and water into a smooth dressing. Add more water if too thick. 4. Build bowls: grain base, greens, cod, crispy chickpeas. Drizzle with lemon tahini dressing and garnish with parsley.",
+    "tip": "Double the chickpea batch and store the extras. They stay crispy for 2 days and make an excellent high-protein snack or salad topper.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
