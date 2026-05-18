@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-18",
+  "dateLabel": "Monday, May 18, 2026",
+  "generatedAt": "2026-05-18T11:07:27.929Z",
+  "articles": [
+    {
+      "category": "MOBILITY",
+      "topic": "flexibility body composition mortality risk midlife",
+      "headline": "How Flexible You Are Right Now Could Predict How Long You'll Live",
+      "body": "Most fitness talk focuses on cardio and strength. But a long-running study of over 3,000 middle-aged adults found that flexibility deserves a seat at that table. Researchers measured range of motion across seven joints and tracked participants for nearly 13 years. The result: less flexible people were significantly more likely to die early. The gap was especially stark in women. Those with the lowest flexibility scores were nearly five times more likely to die prematurely than the most flexible women. In men, the least flexible were almost twice as likely to die early. Researchers think flexibility may signal broader tissue and vascular health throughout the body.",
+      "takeaway": "Add at least five minutes of stretching to every workout. It is a small investment the lead researcher says could deliver meaningful long-term benefits.",
+      "source": "Scandinavian Journal of Medicine & Science in Sports / AARP",
+      "sourceUrl": "https://www.aarp.org/health/healthy-living/stretches-for-flexibility-longevity/",
+      "pexelsQuery": "person stretching yoga mat floor",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/374101/pexels-photo-374101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/374101/pexels-photo-374101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Burst",
+        "photographerUrl": "https://www.pexels.com/@burst",
+        "photoPageUrl": "https://www.pexels.com/photo/balance-body-exercise-female-374101/",
+        "avgColor": "#DFC1D0"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "hidden gut bacteria health marker discovery",
+      "headline": "Scientists Just Found a Gut Bacterium That Shows Up in Healthy People and Almost Nobody Else",
+      "body": "Cambridge researchers analyzed more than 11,000 gut microbiome samples from people in 39 countries and stumbled onto something they were not looking for. A previously unknown group of gut bacteria called CAG-170 kept appearing in healthy people and was notably absent in those with chronic diseases like inflammatory bowel disease, obesity, and chronic fatigue syndrome. CAG-170 appears to produce vitamin B12 and help maintain balance across the wider gut ecosystem. Researchers think it acts as a support system for other beneficial bacteria rather than directly helping the host. It could eventually become a useful marker for overall gut health.",
+      "takeaway": "You cannot supplement for CAG-170 yet, but feeding your gut diversity with a wide variety of fiber-rich plants is your best strategy for supporting the beneficial bacteria that researchers keep discovering.",
+      "source": "Cell Host & Microbe / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260104202815.htm",
+      "pexelsQuery": "colorful vegetables fiber fermented food",
+      "photo": {
+        "url": "https://images.pexels.com/photos/28645472/pexels-photo-28645472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/28645472/pexels-photo-28645472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "hello aesthe",
+        "photographerUrl": "https://www.pexels.com/@helloaesthe",
+        "photoPageUrl": "https://www.pexels.com/photo/preparing-homemade-pickled-vegetables-in-jar-28645472/",
+        "avgColor": "#7A5B49"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "menstrual cycle hormones exercise effort perception",
+      "headline": "Your Hormones Don't Limit Your Workout. They Change How Hard It Feels.",
+      "body": "Women have long been told that their menstrual cycle affects how hard they can train. A new University of Oregon study published in the Journal of Applied Physiology finally tested that properly. The finding was more nuanced than expected. Hormonal fluctuations across the cycle did not change a woman's ability to exercise hard or her maximum aerobic capacity. But higher progesterone levels did make the same effort feel significantly more difficult. That is not a small distinction. It means your output stays the same, but your perceived exertion goes up. On high-progesterone days, working at the same intensity as usual may feel like more work than it actually is.",
+      "takeaway": "On days when training feels harder than normal, trust your data over your feelings. Your body may be doing exactly what it always does, just with a higher effort signal from your hormones.",
+      "source": "Journal of Applied Physiology / MedicalXpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-03-hormones-women-youd.html",
+      "pexelsQuery": "woman running exercise training outdoor",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8346703/pexels-photo-8346703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8346703/pexels-photo-8346703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-jogging-during-daytime-8346703/",
+        "avgColor": "#B5B59D"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "muscle myokines endocrine organ systemic health",
+      "headline": "Your Muscles Are Sending Signals to Your Brain, Liver, and Immune System Every Time You Move",
+      "body": "Most people think of muscles as mechanical tools for moving things. The science says they are much more than that. When you contract your muscles during exercise, they release hormones called myokines into your bloodstream. These chemical messengers travel to the brain, liver, fat tissue, bones, and immune system and trigger protective effects throughout the body. The most studied myokine, interleukin-6, is released at levels up to 100 times higher during intense aerobic exercise. Others like irisin help regulate body fat, and BDNF supports brain plasticity. Researchers now describe skeletal muscle as a full endocrine organ, one that communicates with virtually every system in your body.",
+      "takeaway": "Resistance training and aerobic exercise both trigger myokine release. Doing both consistently gives your whole body, not just your muscles, the benefits.",
+      "source": "The Conversation / MedicalXpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-benefits-area-body-hormones.html",
+      "pexelsQuery": "person lifting weights gym strength training",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4853657/pexels-photo-4853657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853657/pexels-photo-4853657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-working-out-4853657/",
+        "avgColor": "#7F6C61"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The body achieves what the mind believes.",
+    "author": "Napoleon Hill",
+    "context": "American author and one of the earliest producers of personal-success literature, best known for Think and Grow Rich."
+  },
+  "workout": {
+    "type": "PUSH",
+    "workout_type": "push",
+    "title": "Chest, Shoulders and Triceps: 4-Move Pressing Power",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbells",
+      "floor"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "upper_body",
+      "push_dominant",
+      "muscle_gain",
+      "under_60_min"
+    ],
+    "tip": "If you don't have a bench, floor press is your friend. It removes the bottom range of motion, which actually reduces shoulder strain for anyone with tight pecs or a dodgy shoulder.",
+    "warmup": "Spend 3 minutes doing arm circles forward and back, 10 band pull-aparts or door-frame chest stretches, and 10 slow bodyweight push-ups focusing on a controlled 3-second descent. Get the shoulder joint warm before you load it.",
+    "exercises": [
+      {
+        "name": "Dumbbell Floor Press",
+        "sets": "4",
+        "reps": "10",
+        "notes": "Press both dumbbells directly over your chest, not your face. Lower until upper arms touch the floor, pause for one second, then drive up. Keep your core braced and lower back flat the whole time."
+      },
+      {
+        "name": "Dumbbell Overhead Press (Standing)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Stand with feet hip-width apart. Press dumbbells from shoulder height straight overhead without flaring your ribs out. Lock out at the top and squeeze your glutes to protect your lower back."
+      },
+      {
+        "name": "Push-Up to Shoulder Tap",
+        "sets": "3",
+        "reps": "8 per side",
+        "notes": "Do one full push-up, then at the top lift one hand and tap the opposite shoulder. Keep your hips square. If your hips rotate, widen your feet slightly. Beginners can do this from the knees."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Keep a slight bend in the elbows throughout. Lead with your elbows, not your hands. Stop when your arms are parallel to the floor. Go lighter than you think you need to."
+      },
+      {
+        "name": "Close-Grip Push-Up",
+        "sets": "3",
+        "reps": "10-15",
+        "notes": "Place hands directly under your shoulders, no wider. This shifts load to your triceps and inner chest. Lower your chest between your hands. Modify by elevating your hands on a counter or wall if needed."
+      }
+    ],
+    "cooldown": "Finish with a 90-second chest doorframe stretch on each side and a 60-second child's pose to decompress your spine. Roll out your shoulders with a foam roller or lacrosse ball if you have one."
+  },
+  "meal": {
+    "title": "Miso-Glazed Black Cod with Edamame and Brown Rice",
+    "type": "dinner",
+    "mainProtein": "black cod",
+    "prepTime": "20 min",
+    "calories": 520,
+    "protein": 42,
+    "carbs": 45,
+    "fat": 14,
+    "ingredients": [
+      "2 black cod fillets (6 oz each)",
+      "2 tbsp white miso paste",
+      "1 tbsp low-sodium soy sauce",
+      "1 tbsp rice vinegar",
+      "1 tsp sesame oil",
+      "1 tsp honey",
+      "1 cup cooked brown rice",
+      "1 cup shelled edamame (frozen, thawed)",
+      "2 scallions, thinly sliced",
+      "1 tsp sesame seeds",
+      "1 tsp grated fresh ginger"
+    ],
+    "instructions": "1. Mix miso, soy sauce, rice vinegar, sesame oil, honey, and ginger into a glaze. Pat cod fillets dry and coat with half the glaze. 2. Heat an oven to 400F. Place cod on a lined baking sheet and roast 12 to 14 minutes until the glaze caramelizes and the fish flakes easily. 3. While the fish roasts, warm edamame in a pan over medium heat with the remaining glaze for 2 to 3 minutes. 4. Serve over brown rice, top with scallions and sesame seeds.",
+    "tip": "White miso is milder and less salty than red miso. If black cod is hard to find or expensive, Chilean sea bass or halibut work beautifully with the same glaze and cooking time.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
