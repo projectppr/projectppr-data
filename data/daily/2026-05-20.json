@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-20",
+  "dateLabel": "Wednesday, May 20, 2026",
+  "generatedAt": "2026-05-20T11:02:14.425Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "optimal sleep duration organ aging biology",
+      "headline": "There's a Sleep Sweet Spot for Every Organ in Your Body. Scientists Just Found It.",
+      "body": "A sweeping new study in Nature analyzed 23 biological aging clocks across brain imaging, blood proteins, and metabolomics in half a million people. The finding: a U-shaped curve connects sleep duration to how fast your organs age. The lowest biological age gaps appear between 6.4 and 7.8 hours of sleep. Get less than 6 hours or more than 8, and your brain, heart, lungs, and immune system all show signs of accelerating faster. Too little and too much both speed up the clock. The sweet spot is narrower than most people think.",
+      "takeaway": "Aim for between 6.5 and 8 hours. Consistently sleeping under 6 or over 8 hours appears to accelerate biological aging across nearly every organ system.",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10524-5",
+      "pexelsQuery": "person sleeping bed alarm clock",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7622521/pexels-photo-7622521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7622521/pexels-photo-7622521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Miriam Alonso",
+        "photographerUrl": "https://www.pexels.com/@miriam-alonso",
+        "photoPageUrl": "https://www.pexels.com/photo/calm-woman-sleeping-on-pillow-in-bedroom-7622521/",
+        "avgColor": "#A9A8A6"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "shingles vaccine biological aging inflammation",
+      "headline": "Your Shingles Shot Might Be Doing Something Quietly Remarkable to Your Aging Process",
+      "body": "Most people think of the shingles vaccine as a way to dodge a painful rash. But a large USC study of nearly 4,000 Americans aged 70 and older found something unexpected: people who got the vaccine showed slower biological aging across multiple systems, including lower chronic inflammation, slower epigenetic aging, and healthier genetic activity. The theory is that by preventing the herpes zoster virus from reactivating, the vaccine may reduce the kind of low-grade, simmering inflammation that drives age-related disease. The benefits were strongest in the first three years after vaccination.",
+      "takeaway": "If you or a parent are 50-plus and haven't gotten the shingles vaccine, this is another reason to talk to your doctor. Prevention may come with a bonus longevity effect.",
+      "source": "Journals of Gerontology: Series A",
+      "sourceUrl": "https://academic.oup.com/biomedgerontology/article/81/3/glag008/8430804",
+      "pexelsQuery": "vaccine injection arm medical",
+      "photo": {
+        "url": "https://images.pexels.com/photos/12846904/pexels-photo-12846904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12846904/pexels-photo-12846904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jvalenciazz Jhon",
+        "photographerUrl": "https://www.pexels.com/@jvalenciazz",
+        "photoPageUrl": "https://www.pexels.com/photo/a-medical-professional-administering-a-vaccine-12846904/",
+        "avgColor": "#6A5657"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "daily steps weight regain prevention walking",
+      "headline": "Forget 10,000 Steps. Science Says 8,500 Is the Number That Keeps the Weight Off.",
+      "body": "A meta-analysis of 14 randomized controlled trials involving nearly 4,000 people, presented at the European Congress on Obesity 2026, found that hitting roughly 8,500 steps a day was the key number for preventing weight regain after dieting. Calorie cutting drove the initial loss. But once the diet ended, physical activity became the critical factor. People who held around 8,500 daily steps during the maintenance phase kept significantly more weight off than those who didn't. Researchers called it a simple, affordable strategy with real clinical value, especially given that around 80 percent of people who lose weight regain it within five years.",
+      "takeaway": "If you've lost weight or are working to maintain it, aim for 8,500 daily steps as a realistic, sustainable target rather than the arbitrary 10,000.",
+      "source": "International Journal of Environmental Research and Public Health",
+      "sourceUrl": "https://www.healthline.com/health-news/how-many-daily-steps-best-for-weight-management",
+      "pexelsQuery": "person walking outdoors steps path",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7506315/pexels-photo-7506315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7506315/pexels-photo-7506315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "David Henry",
+        "photographerUrl": "https://www.pexels.com/@dhenry",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-walking-down-the-concrete-stairs-7506315/",
+        "avgColor": "#6A6056"
+      }
+    },
+    {
+      "category": "MINDSET",
+      "topic": "yo-yo dieting weight cycling fear unfounded",
+      "headline": "Science Just Gave You Permission to Try Again After Every Diet That Didn't Stick",
+      "body": "For decades, people have been warned that losing weight and gaining it back repeatedly is worse than never dieting at all. A major new review in The Lancet Diabetes and Endocrinology says that fear is not backed by solid science. Researchers from the University of Copenhagen and the German Center for Diabetes Research reviewed decades of human and animal studies on weight cycling. Their conclusion: there is no convincing causal evidence that yo-yo dieting causes lasting metabolic damage, excessive muscle loss, or worse long-term health than staying overweight. Intermittent weight loss, even if not permanent, still delivers meaningful periods of improved metabolic health.",
+      "takeaway": "Don't let past failed diets or the fear of regaining weight stop you from trying again. Each successful period of weight loss still delivers real health benefits.",
+      "source": "The Lancet Diabetes and Endocrinology",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-yoyo-dieting-analysis-longstanding-assumptions.html",
+      "pexelsQuery": "healthy food meal prep scale kitchen",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7262345/pexels-photo-7262345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7262345/pexels-photo-7262345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Sarah  Chai",
+        "photographerUrl": "https://www.pexels.com/@sarah-chai",
+        "photoPageUrl": "https://www.pexels.com/photo/crop-unrecognizable-woman-cutting-bell-pepper-in-kitchen-7262345/",
+        "avgColor": "#8D7764"
+      }
+    }
+  ],
+  "quote": {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "context": "Chinese philosopher whose teachings on persistence and continuous effort have guided leaders and athletes for more than 2,500 years."
+  },
+  "workout": {
+    "type": "LOWER",
+    "workout_type": "lower",
+    "title": "Bodyweight Lower Power: Squat, Hinge, and Lunge Circuit",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "fat_loss",
+      "strength"
+    ],
+    "tags": [
+      "no_equipment",
+      "lower_body",
+      "squat_dominant",
+      "hinge_dominant",
+      "beginner_friendly",
+      "under_60_min",
+      "minimal_equipment"
+    ],
+    "tip": "If your knees feel stiff on the first squat set, slow the descent to a 3-second count. Control beats speed every time on lower-body work, especially for busy parents who sit most of the day.",
+    "warmup": "90 seconds of light marching in place, followed by 10 slow hip circles on each side and 8 bodyweight good mornings. Your hamstrings and glutes should feel warm but not fatigued before your first working set.",
+    "exercises": [
+      {
+        "name": "Bodyweight Squat",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Drive knees out over toes, chest tall, hips below parallel if possible. Pause for 1 second at the bottom of reps 5, 10, and 15."
+      },
+      {
+        "name": "Romanian Deadlift (Single Dumbbell or Bodyweight)",
+        "sets": "3",
+        "reps": "12 each side",
+        "notes": "Hinge at the hip, soft bend in the knee, feel the pull in your hamstring before returning. Hold a water bottle or backpack for added load if bodyweight feels easy."
+      },
+      {
+        "name": "Reverse Lunge",
+        "sets": "3",
+        "reps": "10 each leg",
+        "notes": "Step back, lower your back knee to an inch off the floor, then drive through your front heel to stand. Alternate legs or complete all reps one side at a time."
+      },
+      {
+        "name": "Glute Bridge Hold",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Drive hips to ceiling and hold the top for 2 seconds each rep. Squeeze glutes hard at the top. Place a folded towel under your sacrum if the floor is hard."
+      },
+      {
+        "name": "Lateral Squat (Side-to-Side)",
+        "sets": "3",
+        "reps": "8 each side",
+        "notes": "Feet wide, shift weight to one side and sit into that hip while the opposite leg stays straight. Great for hip mobility and inner thigh strength together."
+      }
+    ],
+    "cooldown": "Spend 60 seconds in a deep bodyweight squat hold, then 90 seconds per side in a low lunge with your back knee on the floor. Breathe slowly and let gravity do the work.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Pan-Seared Salmon and White Bean Smash Bowl",
+    "type": "dinner",
+    "mainProtein": "salmon",
+    "prepTime": "20 min",
+    "calories": 520,
+    "protein": 42,
+    "carbs": 34,
+    "fat": 22,
+    "ingredients": [
+      "2 salmon fillets (5-6 oz each)",
+      "1 can (15 oz) cannellini or white beans, drained and rinsed",
+      "2 cloves garlic, minced",
+      "2 tablespoons olive oil",
+      "1 lemon (zest and juice)",
+      "1 cup baby spinach or arugula",
+      "1 teaspoon smoked paprika",
+      "1 teaspoon dried rosemary",
+      "Salt and black pepper to taste",
+      "2 tablespoons low-sodium chicken or vegetable broth"
+    ],
+    "instructions": "Pat salmon dry, season both sides with smoked paprika, salt, and pepper. Heat 1 tablespoon olive oil in a skillet over medium-high heat and cook salmon 3-4 minutes per side until cooked through. Set aside. In the same pan, add remaining olive oil, garlic, and beans. Mash roughly with a fork, stir in broth, lemon juice, rosemary, and salt. Cook 2-3 minutes until creamy. Plate smashed beans, top with salmon and fresh greens, finish with lemon zest.",
+    "tip": "Buy salmon in bulk and freeze individual portions. They thaw in cold water in 20 minutes, making this a genuinely fast weeknight dinner.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
