@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-21",
+  "dateLabel": "Thursday, May 21, 2026",
+  "generatedAt": "2026-05-21T11:07:28.728Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "exercise volume heart disease risk reduction",
+      "headline": "150 Minutes a Week Is a Start. Your Heart Wants a Lot More.",
+      "body": "For years, 150 minutes of weekly exercise has been sold as the gold standard for heart health. A new study published in the British Journal of Sports Medicine says that gets you an 8 to 9 percent reduction in cardiovascular risk. That is not nothing. But to cut your risk by 30 percent or more, you need to be closer to 560 to 610 minutes per week of moderate to vigorous activity. That is roughly 80 to 90 minutes a day. Researchers tracked 17,000 UK Biobank participants over eight years using wrist-worn devices. The current guideline, they concluded, is a starting block, not a finish line.",
+      "takeaway": "150 minutes a week is your floor, not your ceiling. The study suggests personalized targets based on your fitness level, so if heart protection is the goal, work toward moving more most days.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-real-heart-weekly-climbs-current.html",
+      "pexelsQuery": "person running outdoors park",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7879937/pexels-photo-7879937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7879937/pexels-photo-7879937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-active-wear-running-near-park-benches-7879937/",
+        "avgColor": "#9C9B86"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "choline deficiency anxiety brain chemistry",
+      "headline": "Your Anxious Brain Has a Nutrient Problem. Researchers Just Found the Evidence.",
+      "body": "A meta-analysis from UC Davis Health reviewed 25 studies and scanned the brain chemistry of over 700 people. The finding: those with anxiety disorders had choline levels roughly 8 percent lower than people without anxiety. Choline is an essential nutrient tied to memory, mood, nerve signaling, and cell structure. The drop was most pronounced in the prefrontal cortex, the part of your brain that handles emotional regulation and decision-making. Researchers called it the first clear chemical brain pattern linked to anxiety across multiple diagnoses. The study was published in Molecular Psychiatry.",
+      "takeaway": "Eggs, liver, fish, and soybeans are among the richest food sources of choline. If anxiety is part of your life, it is worth asking your doctor whether your intake is where it should be.",
+      "source": "Molecular Psychiatry (Nature)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
+      "pexelsQuery": "brain scan MRI medical imaging",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5723880/pexels-photo-5723880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5723880/pexels-photo-5723880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/medical-imaging-examination-of-the-spine-5723880/",
+        "avgColor": "#505351"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Mediterranean diet diabetes prevention clinical trial",
+      "headline": "The Mediterranean Diet Just Got an Upgrade. It Cuts Diabetes Risk by 31%.",
+      "body": "The original Mediterranean diet is already well studied. But a major Spanish clinical trial called PREDIMED-Plus found that when you pair it with modest calorie reduction, regular moderate exercise, and professional coaching, the results get significantly better. Over six years, nearly 4,800 adults with metabolic syndrome were 31 percent less likely to develop type 2 diabetes compared to those on a standard Mediterranean diet alone. They also lost more weight and reduced waist size. The study, published in the Annals of Internal Medicine, is the largest European nutrition trial of its kind.",
+      "takeaway": "The Mediterranean diet works. But this study shows the real unlock is combining it with some calorie awareness and consistent movement. You do not need perfection, just a sustained effort across all three.",
+      "source": "Annals of Internal Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260519003103.htm",
+      "pexelsQuery": "Mediterranean food healthy meal vegetables",
+      "photo": {
+        "url": "https://images.pexels.com/photos/1437270/pexels-photo-1437270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1437270/pexels-photo-1437270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Engin Akyurt",
+        "photographerUrl": "https://www.pexels.com/@enginakyurt",
+        "photoPageUrl": "https://www.pexels.com/photo/selective-focus-photography-of-vegetable-pizza-1437270/",
+        "avgColor": "#A09187"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "brain health training cognitive improvement adults",
+      "headline": "A Three-Year Study Just Showed Your Brain Health Is More Changeable Than You Think.",
+      "body": "Researchers at the University of Texas at Dallas tracked nearly 4,000 adults from age 19 to 94 over three years using the BrainHealth Index, which measures cognitive clarity, emotional balance, and social connectedness. Adults who engaged regularly with digital brain health training and lifestyle coaching showed measurable gains across all three areas. The study, published in Scientific Reports, challenges the idea that cognitive decline is inevitable and suggests that actively working on brain health across adulthood produces real, measurable results. The gains were not limited to older participants.",
+      "takeaway": "Brain health is trainable. The study used cognitive training plus lifestyle modules and coaching. Even small regular investments in learning, social connection, and mental challenge add up over years.",
+      "source": "Scientific Reports (Nature)",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-51403-3",
+      "pexelsQuery": "person reading thinking studying focus",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6609583/pexels-photo-6609583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6609583/pexels-photo-6609583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-gray-blazer-reading-a-braille-book-6609583/",
+        "avgColor": "#918B8A"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The mind is the athlete. The body is simply the means it uses to run faster or longer, to box better or throw a javelin further.",
+    "author": "Bryce Courtenay",
+    "context": "Australian author known for his stories of resilience, adversity, and the human will to push through physical limits."
+  },
+  "workout": {
+    "type": "PULL",
+    "workout_type": "pull",
+    "title": "Row, Hang, and Brace: Upper-Back Starter",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "equipment": [
+      "resistance band",
+      "pull-up bar or sturdy door frame"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "pull_dominant",
+      "upper_body",
+      "core",
+      "beginner_friendly",
+      "under_30_min"
+    ],
+    "tip": "No pull-up bar? Use a resistance band anchored in a door for all row variations. Focus on squeezing your shoulder blades together at the end of each rep, not just pulling with your arms.",
+    "warmup": "Start with 60 seconds of arm circles (forward and back), 10 slow cat-cows on all fours, and 30 seconds of dead bug holds lying on your back. This wakes up the spine and activates the shoulder girdle before any pulling.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "20-40 seconds hold",
+        "notes": "Hang from a bar with a shoulder-width grip, arms straight, shoulders packed down away from your ears. Breathe steadily. If a full hang is too hard, bend your knees and put light pressure through your feet on a chair."
+      },
+      {
+        "name": "Resistance Band Seated Row",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Anchor a band at mid-torso height. Sit tall, pull the band to your lower ribs, elbows close to your sides. Pause for one second at the end, then control the return. Do not round your back."
+      },
+      {
+        "name": "Scapular Pull-Up",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Hang from the bar with arms straight. Without bending your elbows, shrug your shoulder blades down and together to elevate your chest a few inches. Lower slowly. This builds the foundation for full pull-ups."
+      },
+      {
+        "name": "Resistance Band Face Pull",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Anchor the band at face height. Hold both ends with palms facing in, pull toward your forehead while flaring your elbows wide. Great for shoulder health and posture. Keep your core braced."
+      },
+      {
+        "name": "Plank with Alternating Shoulder Tap",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Hold a forearm or high plank. Tap one shoulder at a time while keeping your hips completely still. Slow and controlled beats fast and wobbly every time. Widen your feet if you need more stability."
+      }
+    ],
+    "cooldown": "Finish with a 60-second doorway chest opener stretch and a 60-second child's pose with arms extended. Let your shoulders fully drop and breathe into your upper back.",
+    "product": {
+      "id": "str-001",
+      "name": "Gymnastic Rings - Double Circle Wood",
+      "brand": "Double Circle",
+      "asin": "B076X32LFY",
+      "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$",
+      "keywords": [
+        "gymnastics",
+        "rings",
+        "strength",
+        "bodyweight",
+        "upper body",
+        "pull-ups",
+        "dips",
+        "core",
+        "home gym"
+      ],
+      "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+    }
+  },
+  "meal": {
+    "title": "Harissa Chicken Thigh Bowl with Roasted Chickpeas and Herbed Yogurt",
+    "type": "dinner",
+    "mainProtein": "chicken",
+    "prepTime": "20 min",
+    "calories": 510,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 18,
+    "ingredients": [
+      "2 boneless, skinless chicken thighs (about 6 oz each)",
+      "1 tbsp harissa paste",
+      "1 tsp olive oil",
+      "1 can (15 oz) chickpeas, drained and rinsed",
+      "1 tsp smoked paprika",
+      "Salt and pepper to taste",
+      "1 cup cooked brown rice or farro",
+      "Half a cucumber, diced",
+      "1 cup cherry tomatoes, halved",
+      "Half cup plain Greek yogurt",
+      "1 tbsp fresh mint or parsley, chopped",
+      "1 tsp lemon juice",
+      "1 garlic clove, minced"
+    ],
+    "instructions": "1. Toss chickpeas with olive oil, smoked paprika, salt, and pepper. Spread on a baking sheet and roast at 425F for 20 minutes until crispy. 2. Coat chicken thighs in harissa paste and season with salt. Cook in a skillet over medium-high heat for 6 to 7 minutes per side until cooked through and slightly charred. Rest for 3 minutes, then slice. 3. Stir together Greek yogurt, mint, lemon juice, and garlic to make the herbed yogurt sauce. 4. Build your bowl with rice or farro at the base, then chicken, roasted chickpeas, cucumber, and tomatoes. Drizzle herbed yogurt on top.",
+    "tip": "Harissa paste keeps in the fridge for weeks. Use it as a marinade, a dip, or a sauce base whenever you want a fast flavor hit without any prep.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
