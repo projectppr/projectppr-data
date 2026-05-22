@@ -1,0 +1,238 @@
+{
+  "date": "2026-05-22",
+  "dateLabel": "Friday, May 22, 2026",
+  "generatedAt": "2026-05-22T09:40:03.792Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "running cadence injury prevention biomechanics",
+      "headline": "One Small Tweak to Your Running Form Could Save Your Knees",
+      "body": "A systematic review of 18 studies has confirmed something coaches have suspected for years: bumping your running cadence up by just 5 to 10 percent reduces the forces on your knees, hips, and shins in ways that matter. Shorter steps, faster turnover, less pounding. Researchers found it reduced vertical ground reaction forces and lowered loading rates on the tibia and knee joints. The bonus? Changing your cadence did not hurt your running efficiency and in some cases actually improved it. If you are clocking around 150 to 165 steps per minute, this is one of the highest-leverage form adjustments you can make.",
+      "takeaway": "Count your steps for 30 seconds and double it. If your cadence is under 165, try nudging it up 5 to 10 percent using a metronome app or a BPM-matched playlist for your next few runs.",
+      "source": "Cureus / feelgoodpal.com",
+      "sourceUrl": "https://feelgoodpal.com/blog/running-cadence",
+      "pexelsQuery": "person running trail path",
+      "product": {
+        "id": "run-004",
+        "name": "HOKA Clifton 9",
+        "brand": "HOKA",
+        "asin": "B0CPBZ8668",
+        "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "shoes",
+          "daily trainer",
+          "cushion",
+          "marathon",
+          "recovery run",
+          "easy run"
+        ],
+        "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/36696362/pexels-photo-36696362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/36696362/pexels-photo-36696362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vitaliy Bratkov",
+        "photographerUrl": "https://www.pexels.com/@vitaliy-bratkov-903020757",
+        "photoPageUrl": "https://www.pexels.com/photo/person-jogging-in-autumn-park-pathway-36696362/",
+        "avgColor": "#70635D"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "gut microbiota exercise fatigue recovery",
+      "headline": "Your Gut Bacteria Are Part of Why You Feel Wrecked After a Hard Workout",
+      "body": "When you push hard in training, your body does not just run out of fuel. A new narrative review published in Nutrients examined over a decade of research and found that your gut microbiota plays a direct role in how fatigued you get and how fast you bounce back. The microbes in your gut influence energy metabolism, immune response, gut barrier integrity, and even brain signals tied to exhaustion. Specific bacteria help clear lactate from your muscles. Others produce anti-inflammatory compounds that speed recovery. The research points to a gut-muscle axis and a gut-brain axis as two key pathways connecting what lives in your digestive tract to how your body handles training load.",
+      "takeaway": "Feed your gut bacteria with fiber-rich whole foods and consider a probiotic, especially during heavy training blocks when your gut barrier is under the most stress.",
+      "source": "Nutrients (PMC)",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12899331/",
+      "pexelsQuery": "probiotic yogurt fermented food bowl",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5191723/pexels-photo-5191723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5191723/pexels-photo-5191723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "mustafa türkeri",
+        "photographerUrl": "https://www.pexels.com/@farklimavi",
+        "photoPageUrl": "https://www.pexels.com/photo/yogurt-on-a-clay-bowl-with-mint-leaves-5191723/",
+        "avgColor": "#9A8F8B"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "foam rolling muscle range of motion soreness",
+      "headline": "Foam Rolling Is Worth It. Just Not for the Reason You Think.",
+      "body": "A fresh review published this week in the Journal of Innovations in Medical Research analyzed 25 studies on foam rolling and found a more nuanced picture than most people expect. Rolling before a session reliably improves your range of motion. Rolling after a hard workout can ease soreness and support neuromuscular recovery. But here is the twist: the old story about breaking up scar tissue or fascia is not supported by the evidence. The real mechanism appears to be neurological. Foam rolling modulates pain perception and may temporarily dampen muscle tension through the nervous system, not through any mechanical tissue change. The recovery benefits are real. The explanation you have heard is probably not.",
+      "takeaway": "Use foam rolling for 60 to 120 seconds per muscle group after training for soreness relief. Before training, keep it short and follow it with dynamic movement to get the range-of-motion benefit without dulling your muscles.",
+      "source": "Journal of Innovations in Medical Research",
+      "sourceUrl": "https://www.paradigmpress.org/jimr/article/view/2088",
+      "pexelsQuery": "foam roller exercise recovery floor",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6111609/pexels-photo-6111609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6111609/pexels-photo-6111609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-blue-crew-neck-t-shirt-and-black-knit-cap-sitting-on-blue-mat-6111609/",
+        "avgColor": "#7C6E64"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "testosterone therapy women energy mood quality of life",
+      "headline": "Women Are Exhausted and Low on Testosterone. A New Study Says the Connection Is Real.",
+      "body": "For decades testosterone has been framed as a man's hormone. A new study published this month by telehealth platform Joi and Blokes set out to change that narrative. The research found that women treated with testosterone therapy reported significant improvements in energy, mood, and overall quality of life. Many of the participants said they had been told their symptoms were normal or dismissed before getting their hormone levels properly evaluated. Researchers noted that testosterone plays a much larger role in how women feel day to day than standard medical conversations acknowledge, and argued the study should prompt broader access to testing and care for women experiencing hormonal symptoms.",
+      "takeaway": "If you are a woman in your 30s, 40s, or 50s feeling chronically low energy, flat mood, or diminished drive despite good sleep and exercise habits, ask your doctor to check your testosterone levels. It is often not tested as part of a routine panel.",
+      "source": "Las Vegas Sun",
+      "sourceUrl": "https://lasvegassun.com/news/2026/may/07/new-study-shows-testosterone-therapy-in-women-sign/",
+      "pexelsQuery": "woman energy fitness workout smiling",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8769390/pexels-photo-8769390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8769390/pexels-photo-8769390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gustavo Fring",
+        "photographerUrl": "https://www.pexels.com/@gustavo-fring",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-stretching-on-a-sidewalk-during-the-day-8769390/",
+        "avgColor": "#B0A89D"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The pain you feel today will be the strength you feel tomorrow.",
+    "author": "Arnold Schwarzenegger",
+    "context": "Seven-time Mr. Olympia, actor, and former Governor of California known for his philosophy on discipline and physical transformation."
+  },
+  "workout": {
+    "type": "RUN",
+    "workout_type": "intervals",
+    "title": "Turnover Tune-Up: Cadence Intervals for Efficiency",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "distance": "3 to 4 miles",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "5k",
+      "10k"
+    ],
+    "tags": [
+      "no_equipment",
+      "cardio",
+      "under_60_min",
+      "beginner_friendly"
+    ],
+    "tip": "Focus on quick, light footfalls rather than pushing off harder. If you find yourself landing heavily, shorten your stride a little and let your feet spin underneath you.",
+    "warmup": "Walk briskly for 2 minutes, then jog at a very easy conversational pace for 3 minutes. Do 10 high knees and 10 butt kicks on each leg before you start the intervals.",
+    "exercises": [
+      {
+        "name": "Easy Jog Base",
+        "sets": "1",
+        "reps": "5 min",
+        "notes": "Settle into a comfortable easy pace. This is your baseline. Notice your natural cadence but do not try to change it yet."
+      },
+      {
+        "name": "Cadence Pickup Interval",
+        "sets": "4",
+        "reps": "2 min on / 1 min easy",
+        "notes": "During each 2-minute effort, consciously increase your step rate by taking slightly shorter, quicker steps. Think fast feet, not fast pace. Your speed may actually stay the same or increase naturally."
+      },
+      {
+        "name": "Moderate Effort Cruise",
+        "sets": "1",
+        "reps": "8 min",
+        "notes": "Settle into a comfortably hard pace, moderate effort, and try to hold the quicker cadence you practiced in the intervals. Do not force it. Let it feel rhythmic."
+      },
+      {
+        "name": "Easy Float Down",
+        "sets": "1",
+        "reps": "3 min",
+        "notes": "Drop back to a very easy jog. Let your breathing settle. Keep your cadence relaxed but still slightly quicker than your warmup pace."
+      }
+    ],
+    "cooldown": "Walk for 3 minutes, then do 30 seconds of standing quad stretch and 30 seconds of calf stretch on each leg. Take three slow deep breaths before you head inside.",
+    "product": {
+      "id": "run-004",
+      "name": "HOKA Clifton 9",
+      "brand": "HOKA",
+      "asin": "B0CPBZ8668",
+      "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "daily trainer",
+        "cushion",
+        "marathon",
+        "recovery run",
+        "easy run"
+      ],
+      "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+    }
+  },
+  "meal": {
+    "title": "Seared Beef and Roasted Sweet Potato Power Bowl",
+    "type": "dinner",
+    "mainProtein": "beef",
+    "prepTime": "20 min",
+    "calories": 520,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 18,
+    "ingredients": [
+      "170g lean sirloin steak, sliced thin",
+      "1 medium sweet potato, cubed",
+      "1 cup baby spinach",
+      "1/2 cup canned black beans, drained and rinsed",
+      "1/2 avocado, sliced",
+      "1 tbsp olive oil",
+      "1 tsp smoked paprika",
+      "1/2 tsp garlic powder",
+      "Salt and pepper to taste",
+      "Juice of 1/2 lime",
+      "Fresh cilantro or parsley to garnish"
+    ],
+    "instructions": "1. Toss sweet potato cubes with half the olive oil, smoked paprika, salt, and pepper. Roast at 425F for 18 to 20 minutes until golden. 2. Season sliced sirloin with garlic powder, salt, and pepper. Heat remaining oil in a skillet over high heat and sear beef for 2 to 3 minutes until cooked to your liking. 3. Build your bowl with spinach as the base, then top with sweet potato, black beans, seared beef, and avocado. 4. Squeeze lime over the top, season to taste, and finish with fresh herbs.",
+    "tip": "Slice the steak against the grain after resting for a couple of minutes and it will be noticeably more tender, even on a lean cut.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
