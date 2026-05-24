@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-24",
+  "dateLabel": "Sunday, May 24, 2026",
+  "generatedAt": "2026-05-24T11:07:56.113Z",
+  "articles": [
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "caffeine coffee dementia risk reduction",
+      "headline": "Your Morning Coffee Habit Could Be Cutting Your Dementia Risk by 18%",
+      "body": "Harvard researchers tracked 131,000 people for nearly 37 years and found that drinking two to three cups of caffeinated coffee a day was linked to an 18% lower risk of developing dementia. Similar protection was found with one to two daily cups of caffeinated tea. Decaf showed no benefit. Researchers think caffeine may help reduce the buildup of amyloid plaques linked to Alzheimer's and keep brain cells more active. The effect was consistent across men and women and held up even after controlling for smoking, alcohol, and caloric intake. More coffee beyond moderate intake did not increase the benefit.",
+      "takeaway": "Two to three cups of caffeinated coffee a day appears to be the sweet spot. Skip the decaf if brain protection is your goal, and hold the cream if you want to preserve the antioxidant benefit.",
+      "source": "JAMA / Harvard Health",
+      "sourceUrl": "https://www.health.harvard.edu/diet-and-nutrition/harvard-study-a-couple-of-daily-cups-of-coffee-or-tea-linked-to-lower-dementia-risk",
+      "pexelsQuery": "morning coffee cup steaming",
+      "photo": {
+        "url": "https://images.pexels.com/photos/10132981/pexels-photo-10132981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10132981/pexels-photo-10132981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marek Kupiec",
+        "photographerUrl": "https://www.pexels.com/@marek-kupiec-1696944",
+        "photoPageUrl": "https://www.pexels.com/photo/photograph-of-a-book-near-a-hot-drink-10132981/",
+        "avgColor": "#3A3732"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "vitamin B12 brain aging cognitive decline",
+      "headline": "Your B12 Test Says You're Fine. Your Brain Might Disagree.",
+      "body": "A new UCSF study of 231 healthy adults with an average age of 71 found that those with lower vitamin B12 levels, even when still within the officially 'normal' range, showed signs of slower thinking, delayed visual processing, and more white matter damage in the brain. The current minimum B12 standard in the U.S. may simply not be high enough to protect the aging brain. Older adults absorb B12 less efficiently, and the study suggests the definition of B12 deficiency may need to be revised to catch subtle cognitive problems earlier.",
+      "takeaway": "If you're over 50, ask your doctor to check your active B12 level, not just total B12. Meeting the minimum may not be enough to protect your brain as you age.",
+      "source": "ScienceDaily / UCSF / Annals of Neurology",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+      "pexelsQuery": "vitamin supplement capsules bottle",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/14631436/pexels-photo-14631436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14631436/pexels-photo-14631436.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Supplements On Demand",
+        "photographerUrl": "https://www.pexels.com/@supliful",
+        "photoPageUrl": "https://www.pexels.com/photo/fish-oil-orange-by-supliful-14631436/",
+        "avgColor": "#EDE6E0"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "infrasound hidden noise cortisol stress response",
+      "headline": "There's a Sound You Can't Hear That Might Be Stressing You Out",
+      "body": "Researchers at MacEwan University found that infrasound, sound waves below 20 Hz that humans cannot consciously hear, can raise cortisol levels and increase irritability after even brief exposure. These low-frequency vibrations are common near traffic, HVAC systems, and industrial machinery. In the study, participants exposed to infrasound reported more negative moods and showed measurable spikes in salivary cortisol compared to those who were not. None of the participants knew infrasound was being played. The findings suggest invisible noise pollution in everyday environments may be a quiet, hidden driver of chronic stress.",
+      "takeaway": "If your office or home feels vaguely draining, check for humming ventilation or traffic nearby. Simple fixes like white noise or acoustic improvements could reduce your background stress load.",
+      "source": "Frontiers in Behavioral Neuroscience / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260502233901.htm",
+      "pexelsQuery": "office noise stress sound waves",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5269735/pexels-photo-5269735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5269735/pexels-photo-5269735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Harvey Tan Villarino",
+        "photographerUrl": "https://www.pexels.com/@harveyvillarino",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-black-headphones-on-a-wooden-surface-5269735/",
+        "avgColor": "#513B38"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "gut microbiome network structure metabolic health obesity",
+      "headline": "Two People Can Have the Same BMI and Totally Different Gut Health. Here's Why That Matters.",
+      "body": "A new Nature Communications study of 931 people found that the internal organization of the gut microbiome, not just which bacteria are present, predicts metabolic health. People who were obese but metabolically healthy had more tightly connected, cooperative gut microbial networks. People who were metabolically unhealthy showed a fragmented, disorganized microbiome regardless of their weight. When one group received a nutritional intervention, their gut networks became better connected in parallel with measurable metabolic improvements. The finding helps explain why two people at the same weight can have very different health outcomes.",
+      "takeaway": "A diverse, plant-rich diet with plenty of fiber is still your best tool for building a well-organized gut. Consistency matters more than any single probiotic or supplement.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-72588-1",
+      "pexelsQuery": "colorful vegetables plant based food",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4963306/pexels-photo-4963306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4963306/pexels-photo-4963306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "www.kaboompics.com",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/red-to-yellow-fruit-and-vegetables-4963306/",
+        "avgColor": "#D8C8B6"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The body achieves what the mind believes.",
+    "author": "Napoleon Hill",
+    "context": "American author and one of the earliest producers of the modern genre of personal-success literature."
+  },
+  "workout": {
+    "type": "RECOVERY",
+    "workout_type": "recovery",
+    "title": "Morning Joint Reset: Gentle Full-Body Mobility Flow",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness"
+    ],
+    "tags": [
+      "no_equipment",
+      "low_impact",
+      "joint_friendly",
+      "beginner_friendly",
+      "full_body",
+      "mobility_focused",
+      "under_30_min"
+    ],
+    "tip": "Move slowly through each position and breathe into the tight spots. If you only have 10 minutes, do the first three exercises and call it a win.",
+    "warmup": "Start lying on your back. Take 5 deep belly breaths, letting your ribs expand on the inhale and fully relax on the exhale. Slowly roll your ankles and wrists in circles for 30 seconds each to wake up the joints before you get moving.",
+    "exercises": [
+      {
+        "name": "Cat-Cow",
+        "sets": "1",
+        "reps": "10 slow cycles",
+        "notes": "On hands and knees. Inhale as you drop the belly and lift the gaze, exhale as you round the spine and tuck the chin. Match every movement to your breath. Keep your wrists directly under your shoulders."
+      },
+      {
+        "name": "90/90 Hip Switch",
+        "sets": "1",
+        "reps": "8 transitions each side",
+        "notes": "Sit on the floor with both knees bent at 90 degrees, one in front and one to the side. Slowly rotate your hips to switch sides. Use your hands for support if needed. Feel the hip rotate, not the lower back."
+      },
+      {
+        "name": "World's Greatest Stretch",
+        "sets": "1",
+        "reps": "5 reps each side",
+        "notes": "From a lunge position, place the same-side hand on the floor inside your front foot. Rotate the opposite arm up toward the ceiling and hold for 2 seconds. Keep the back leg straight and heel reaching back. Move at your own pace."
+      },
+      {
+        "name": "Thread the Needle Thoracic Rotation",
+        "sets": "1",
+        "reps": "8 reps each side",
+        "notes": "Start on hands and knees. Slide one arm under your body along the floor, rotating your upper back. Follow your hand with your eyes. Hold 2 seconds at the bottom. This one is all about the mid-back, not the hips."
+      },
+      {
+        "name": "Supine Knee-to-Chest with Gentle Spinal Twist",
+        "sets": "1",
+        "reps": "Hold 30 seconds each side",
+        "notes": "Lie on your back, pull one knee to your chest, then let it fall across your body to the opposite side. Extend that arm out and look the other way. This is a passive stretch. No forcing. Just breathe and let gravity do the work."
+      }
+    ],
+    "cooldown": "Finish in child's pose for 60 to 90 seconds. Rest your forehead on the floor, arms extended or tucked at your sides, and take three slow, full breaths before you get up."
+  },
+  "meal": {
+    "title": "Spiced Pork Tenderloin with Roasted Cauliflower and Chickpea Bowl",
+    "type": "dinner",
+    "mainProtein": "pork",
+    "prepTime": "10 min",
+    "calories": 470,
+    "protein": 42,
+    "carbs": 36,
+    "fat": 14,
+    "ingredients": [
+      "6 oz pork tenderloin, sliced into medallions",
+      "1 cup canned chickpeas, drained and rinsed",
+      "2 cups cauliflower florets",
+      "1 tbsp olive oil",
+      "1 tsp smoked paprika",
+      "1 tsp cumin",
+      "1/2 tsp garlic powder",
+      "Salt and pepper to taste",
+      "2 tbsp plain Greek yogurt",
+      "1 tsp lemon juice",
+      "Fresh parsley to garnish"
+    ],
+    "instructions": "1. Preheat oven to 425F. Toss cauliflower and chickpeas with olive oil, smoked paprika, cumin, garlic powder, salt and pepper. Roast on a sheet pan for 20 to 25 minutes, tossing once halfway, until golden and crispy. 2. While the vegetables roast, season pork medallions with paprika, salt, and pepper. Sear in a hot skillet over medium-high heat for 3 to 4 minutes per side until cooked through and lightly browned. 3. Mix Greek yogurt with lemon juice and a pinch of salt to make a quick sauce. 4. Build the bowl: roasted cauliflower and chickpeas on the bottom, sliced pork on top, yogurt drizzle over everything, and fresh parsley to finish.",
+    "tip": "Slice the pork tenderloin into 1-inch medallions before cooking so it cooks fast and evenly. The whole thing comes together in under 30 minutes, sheet pan included.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
