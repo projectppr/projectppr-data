@@ -1,89 +1,129 @@
 {
   "date": "2026-05-25",
   "dateLabel": "Monday, May 25, 2026",
-  "generatedAt": "2026-05-25T16:47:51.850Z",
+  "generatedAt": "2026-05-25T22:34:51.927Z",
   "articles": [
     {
       "category": "TRAINING",
-      "topic": "resistance training whey protein muscle aging",
-      "headline": "The Best Combo for Fighting Muscle Loss Has Been Found. It's Simpler Than You Think.",
-      "body": "A massive new review just analyzed 235 clinical trials covering nearly 21,000 adults aged 50 to 89. The mission: figure out the single best combination of protein and exercise to fight sarcopenia, the muscle loss that quietly steals strength and independence as we age. The winner was clear — resistance training paired with whey protein outperformed every other combination for building muscle mass and leg strength. Researchers noted whey is high in leucine, the amino acid that actually triggers muscle protein synthesis. For overall mobility and daily function, mixing in balance training and walking made the results even stronger. The study was published in Nutrients.",
-      "takeaway": "If you're lifting and not yet supplementing with whey protein, the evidence now says you should — especially if you're over 45.",
-      "source": "Nutrients (2026)",
-      "sourceUrl": "https://sciencex.com/news/2026-05-simple-muscle-duo-aging-bodies.html",
-      "pexelsQuery": "resistance training dumbbells weights gym",
+      "topic": "self-selected music workout endurance boost",
+      "headline": "Your Own Playlist Just Became Your Best Training Tool",
+      "body": "Researchers at the University of Jyväskylä gave 29 recreational cyclists two identical high-intensity rides: one in silence, one with music they picked themselves. The result? Riders with their own playlists lasted nearly 20 percent longer before reaching exhaustion, averaging about 35 minutes versus under 30 in silence. And they didn't feel more wiped out at the end. The mechanism is straightforward: your brain prioritizes the music over fatigue signals, making hard effort feel more manageable. The catch is that personally chosen songs outperform generic playlists. Autonomy matters. What you love is what works.",
+      "takeaway": "Build a playlist of songs you genuinely love before your next hard session. The music itself won't change your fitness, but it will help you stay in the work zone longer.",
+      "source": "Psychology of Sport and Exercise",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260508003123.htm",
+      "pexelsQuery": "person wearing headphones exercising gym",
+      "product": {
+        "id": "watch-004",
+        "name": "Garmin Forerunner Music",
+        "brand": "Garmin",
+        "asin": "B09WTV6MMY",
+        "url": "https://www.amazon.com/dp/B09WTV6MMY?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "music",
+          "gps",
+          "watch",
+          "garmin",
+          "training",
+          "no phone",
+          "wireless"
+        ],
+        "blurb": "Leave your phone at home. GPS and music in one watch."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/3931367/pexels-photo-3931367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3931367/pexels-photo-3931367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "url": "https://images.pexels.com/photos/3931233/pexels-photo-3931233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3931233/pexels-photo-3931233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "photographer": "Andrea Piacquadio",
         "photographerUrl": "https://www.pexels.com/@olly",
-        "photoPageUrl": "https://www.pexels.com/photo/black-and-silver-dumbbells-3931367/",
-        "avgColor": "#8E9399"
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-sports-bra-holding-black-smartphone-3931233/",
+        "avgColor": "#656665"
       }
     },
     {
       "category": "MENTAL PERFORMANCE",
-      "topic": "mental sharpness daily productivity goal completion",
-      "headline": "Your Brain Has Good Days and Bad Days. Science Just Measured the Difference.",
-      "body": "A University of Toronto Scarborough study tracked 184 students over 12 weeks, measuring mental sharpness every single day. The finding: on your sharpest days, you're effectively getting an extra 40 minutes of productive work done. On foggy days, even simple tasks feel harder. Crucially, the researchers looked at changes within each person, not differences between people. So even highly disciplined, conscientious individuals aren't immune to the dip. Published in Science Advances, the study found three things reliably protect your sharp days: enough sleep, avoiding burnout, and managing low mood. The gap between what you intend to do and what you actually do is driven, in large part, by how clear your thinking is right now.",
-      "takeaway": "Protect your sharp days by treating sleep and burnout as non-negotiables — they're as important for output as any skill or habit.",
-      "source": "Science Advances",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "pexelsQuery": "person focused working notebook thinking",
+      "topic": "cognitive warmup running performance improvement",
+      "headline": "Warming Up Your Brain Before a Run Makes You Faster",
+      "body": "A University of Birmingham study found that adding nine minutes of brief cognitive tasks to a standard physical warmup shaved 8 to 11 seconds off recreational runners' one-mile time trial performance. That's a 2 to 3 percent improvement. Runners also reported lower perceived effort and a lower heart rate during the run itself. The cognitive tasks were done on a phone app and involved short bursts of mental processing. The researchers say the mental component increases readiness and primes the nervous system in ways physical warmup alone does not. Interestingly, harder cognitive exercises offered no additional benefit over easier ones.",
+      "takeaway": "Before your next run or hard session, spend a few minutes on a brain-stimulating task. A word puzzle, a memory game, or even a reaction-time app can activate your nervous system and make the effort feel easier.",
+      "source": "European Journal of Sport Science",
+      "sourceUrl": "https://www.birmingham.ac.uk/news/2026/pre-warmup-brain-priming-may-help-runners-hit-personal-bests",
+      "pexelsQuery": "person using phone app before running outdoors",
       "photo": {
-        "url": "https://images.pexels.com/photos/8367779/pexels-photo-8367779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8367779/pexels-photo-8367779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Vlada Karpovich",
-        "photographerUrl": "https://www.pexels.com/@vlada-karpovich",
-        "photoPageUrl": "https://www.pexels.com/photo/redhead-woman-using-a-laptop-while-working-in-the-office-8367779/",
-        "avgColor": "#B09486"
+        "url": "https://images.pexels.com/photos/4162581/pexels-photo-4162581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4162581/pexels-photo-4162581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ivan S",
+        "photographerUrl": "https://www.pexels.com/@ivan-s",
+        "photoPageUrl": "https://www.pexels.com/photo/person-with-headphones-holding-a-smartphone-4162581/",
+        "avgColor": "#353535"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "sleep growth hormone brain circuit muscle recovery",
+      "headline": "Scientists Finally Figured Out How Sleep Builds Your Muscle",
+      "body": "Everyone knows sleep boosts growth hormone. What nobody knew until now was exactly how. Researchers at UC Berkeley mapped the specific brain circuits in the hypothalamus that trigger growth hormone release during deep sleep. They also found a feedback loop: once the hormone is released, it activates a brainstem region that eventually tells the brain it's time to wake up. What this means practically is that deep, early-stage sleep is the trigger for the muscle-building, fat-burning, brain-supporting repair your body does at night. Disrupt that phase, and the whole hormonal cascade stalls. The findings were published in the journal Cell.",
+      "takeaway": "Prioritizing the first half of your night, when deep non-REM sleep dominates, is when growth hormone release peaks. Cut your sleep short and you cut off your recovery.",
+      "source": "Cell / UC Berkeley",
+      "sourceUrl": "https://news.berkeley.edu/2025/09/08/sleep-strengthens-muscle-and-bone-by-boosting-growth-hormone-levels-uc-berkeley-researchers-discover-how/",
+      "pexelsQuery": "person sleeping deeply in dark bedroom",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/3693040/pexels-photo-3693040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3693040/pexels-photo-3693040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/man-lying-on-bed-3693040/",
+        "avgColor": "#1D26B7"
       }
     },
     {
       "category": "STRESS",
-      "topic": "exercise modality cortisol reduction stress response",
-      "headline": "Not All Exercise Lowers Your Stress Hormones. One Type Beats the Rest.",
-      "body": "A new systematic review and network meta-analysis looked at 44 randomized controlled trials covering over 3,200 adults dealing with psychological distress. The goal was to figure out which type of exercise best brings cortisol down. The answer wasn't running. It wasn't the gym. Yoga came out on top by a significant margin, followed by qigong and mixed-modality training. High-intensity interval training was the only exercise type that trended toward increasing cortisol, not lowering it. For busy people who train hard most of the week, this is a useful reminder: the recovery session that actually helps your stress hormones might look more like slow movement than a sweaty workout.",
-      "takeaway": "If your stress levels are high and HIIT is your only outlet, try swapping one session a week for yoga or slow-flow movement and watch how your body responds.",
-      "source": "MDPI Sports",
-      "sourceUrl": "https://www.mdpi.com/2075-4663/13/12/415",
-      "pexelsQuery": "yoga mat meditation calm stretching",
+      "topic": "cortisol excess resistant hypertension undiagnosed",
+      "headline": "If Your Blood Pressure Won't Budge, Check Your Cortisol",
+      "body": "A landmark U.S. study presented at the American College of Cardiology's 2026 conference found that 27 percent of patients with resistant hypertension had elevated cortisol levels, a condition called hypercortisolism. These are people whose blood pressure stays high despite taking three or more medications. The MOMENTUM study screened over 1,000 patients across 50 centers and found this hormonal driver is far more common than previously understood. The implication is significant: if stress hormones are the actual problem, blood pressure drugs alone won't solve it. Treating the underlying cortisol excess may be the missing piece for a large group of people.",
+      "takeaway": "If you or someone you know has blood pressure that won't respond to multiple medications, ask a doctor about cortisol screening. The root cause may be hormonal, not cardiac.",
+      "source": "Mount Sinai / American College of Cardiology 2026",
+      "sourceUrl": "https://www.mountsinai.org/about/newsroom/2026/nearly-30-percent-of-patients-with-resistant-hypertension-have-a-hormone-disorder-caused-by-high-cortisol",
+      "pexelsQuery": "blood pressure cuff measurement arm",
       "photo": {
-        "url": "https://images.pexels.com/photos/6246255/pexels-photo-6246255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6246255/pexels-photo-6246255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "KoolShooters",
-        "photographerUrl": "https://www.pexels.com/@koolshooters",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-brown-tank-top-stretching-on-a-yoga-mat-6246255/",
-        "avgColor": "#765F58"
-      }
-    },
-    {
-      "category": "RECOVERY",
-      "topic": "post-exercise recovery strategies elite athletes ranked",
-      "headline": "A New Meta-Analysis Just Ranked the Best Recovery Tools for Athletes. Sleep and Protein Won.",
-      "body": "A 2026 network meta-analysis published in Frontiers in Physiology compared multiple recovery strategies for elite soccer players — cold water immersion, portable cold compression, far-infrared therapy, hyperoxic gas, and more. For muscle soreness, portable cold compression came out on top. For strength recovery, far-infrared therapy had the best consistent evidence. But for sprinting and overall performance, no single fancy intervention pulled ahead. The researchers concluded the basics matter most: adequate sleep and good nutrition are the foundation of recovery, and expensive or complex methods should not substitute for getting those right. Most people are overcomplicating recovery and underdelivering on the basics.",
-      "takeaway": "Before adding cold plunges or expensive recovery devices, audit your sleep and post-workout protein first. The research says that's still where the biggest gains are hiding.",
-      "source": "Frontiers in Physiology",
-      "sourceUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1760392/full",
-      "photo": {
-        "url": "https://images.pexels.com/photos/20860616/pexels-photo-20860616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/20860616/pexels-photo-20860616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Funkcinės Terapijos Centras",
-        "photographerUrl": "https://www.pexels.com/@funkcines-terapijos-centras-927573878",
-        "photoPageUrl": "https://www.pexels.com/photo/physiotherapist-examining-the-patients-leg-20860616/",
-        "avgColor": "#8B8F8E"
+        "url": "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vlada Karpovich",
+        "photographerUrl": "https://www.pexels.com/@vlada-karpovich",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-checking-blood-pressure-of-a-man-5790814/",
+        "avgColor": "#AFA9A3"
       }
     }
   ],
   "quote": {
-    "text": "The successful warrior is the average man, with laser-like focus.",
-    "author": "Bruce Lee",
-    "context": "Martial artist, philosopher, and cultural icon who built one of history's most disciplined and precise bodies."
+    "text": "The mind is the athlete; the body is simply the means it uses to run faster or throw farther or jump higher.",
+    "author": "Bryce Courtenay",
+    "context": "South African-Australian author known for writing about resilience, endurance, and the power of the human will."
   },
   "workout": {
     "type": "PUSH",
     "workout_type": "push",
-    "title": "Press and Power: Chest and Shoulders in 30",
+    "title": "Press and Pulse: Chest and Shoulder Strength Starter",
     "difficulty": "Intermediate",
     "duration": "30 min",
     "equipment": [
@@ -101,41 +141,41 @@
       "muscle_gain",
       "under_30_min"
     ],
-    "tip": "Keep your core braced like you're about to take a punch on every pressing movement. If your lower back arches off the floor during floor presses, place your feet flat — it protects your spine and keeps tension where it belongs.",
-    "warmup": "Start with 30 seconds of arm circles (forward and backward), 10 shoulder rolls, and 10 slow push-up negatives — take 3 seconds to lower yourself down, then push back up normally. This primes your chest, shoulders, and triceps without fatiguing them.",
+    "tip": "If you only have one set of dumbbells, adjust tempo to increase difficulty. Slow the lowering phase to 3 seconds on every press to keep the muscles working even with lighter weight.",
+    "warmup": "Do 10 arm circles each direction, 10 shoulder rolls, and 10 slow push-ups to grease the groove. Finish with 30 seconds of torso rotations to open the chest before loading.",
     "exercises": [
       {
         "name": "Dumbbell Floor Press",
-        "sets": "4",
-        "reps": "10",
-        "notes": "Lie flat with knees bent. Press straight up, locking out at the top. Lower slowly — 2-3 seconds down. Full range of motion matters more than heavy weight."
+        "sets": "3",
+        "reps": "12",
+        "notes": "Keep your elbows at 45 degrees from your torso, not flared wide. Press to full extension but don't let elbows hyperlock at the top."
       },
       {
-        "name": "Dumbbell Overhead Press (Standing)",
+        "name": "Dumbbell Overhead Press (seated or standing)",
         "sets": "3",
         "reps": "10",
-        "notes": "Stand tall, core tight. Press dumbbells from shoulder height directly overhead. Avoid flaring your elbows out wide — keep them at roughly 45 degrees. Squeeze at the top."
+        "notes": "Brace your core before each rep. Press straight up, not forward. If standing, keep a slight knee bend to protect your lower back."
       },
       {
-        "name": "Push-Up to Alternating Shoulder Tap",
+        "name": "Push-Up with Pause",
         "sets": "3",
-        "reps": "8 each side",
-        "notes": "Do one push-up, then tap your right hand to your left shoulder while holding a plank. Alternate sides. Keep your hips square — resist the urge to rotate. Easier: drop to your knees for the push-up portion only."
+        "reps": "8",
+        "notes": "Lower yourself over 2 counts, pause for 1 second at the bottom, then press back up. Hands just wider than shoulder-width. Modify to knees if needed."
       },
       {
         "name": "Dumbbell Lateral Raise",
         "sets": "3",
         "reps": "12",
-        "notes": "Light weight here. Lead with your elbows, not your hands. Stop at shoulder height. Go slower — 2 seconds up, 2 seconds down. These burn. That's the point."
+        "notes": "Use lighter dumbbells than you think you need. Lead with your elbows, not your wrists. Stop when arms reach shoulder height."
       },
       {
-        "name": "Tricep Push-Up (Close-Grip)",
+        "name": "Tricep Overhead Extension (one dumbbell, both hands)",
         "sets": "3",
-        "reps": "8-12",
-        "notes": "Hands directly under your chest, elbows tracking back along your ribs — not flaring out. Lower until your chest nearly touches the floor. If full push-ups are too hard, elevate your hands on a couch or chair."
+        "reps": "12",
+        "notes": "Keep elbows close to your head throughout the movement. Only your forearms move. Squeeze at the top before lowering slowly."
       }
     ],
-    "cooldown": "Finish with a 60-second doorframe chest stretch (arms on each side of a door frame, lean forward gently) and a 30-second overhead tricep stretch per arm. Breathe slowly. You earned it.",
+    "cooldown": "Finish with a 30-second doorframe chest stretch on each side and 60 seconds of slow neck rolls. Shake out your arms and take 5 deep breaths.",
     "product": {
       "id": "str-002",
       "name": "Bowflex SelectTech 552 Dumbbells",
@@ -157,26 +197,28 @@
     }
   },
   "meal": {
-    "title": "Seared Duck Breast with Roasted Sweet Potato and Wilted Greens",
+    "title": "Seared Duck Breast and Roasted Sweet Potato Bowl with Orange Miso Glaze",
     "type": "dinner",
     "mainProtein": "duck",
     "prepTime": "25 min",
     "calories": 520,
-    "protein": 42,
-    "carbs": 32,
-    "fat": 22,
+    "protein": 38,
+    "carbs": 42,
+    "fat": 18,
     "ingredients": [
       "2 duck breasts (skin-on, about 180g each)",
       "1 large sweet potato, cubed",
-      "2 cups baby spinach or kale",
-      "2 cloves garlic, minced",
-      "1 tsp smoked paprika",
-      "1 tsp olive oil",
-      "Salt and pepper to taste",
-      "1 tsp fresh thyme (or 0.5 tsp dried)"
+      "1 cup cooked brown rice or farro",
+      "2 cups baby spinach",
+      "1 tbsp white miso paste",
+      "2 tbsp fresh orange juice",
+      "1 tsp rice vinegar",
+      "1 tsp sesame oil",
+      "1 tsp honey",
+      "Salt, pepper, and olive oil"
     ],
-    "instructions": "1. Preheat oven to 400F. Toss sweet potato cubes with olive oil, paprika, salt, and pepper. Roast for 20 min until golden. 2. Score the duck skin in a crosshatch pattern, season with salt, thyme, and pepper. Place skin-side down in a cold, dry skillet and turn heat to medium. Cook 8-10 min until skin is crispy and fat has rendered. Flip and cook 3-4 more min for medium. Rest 5 min before slicing. 3. Drain most of the duck fat from the pan (save it — it's liquid gold for cooking). Add garlic and greens, toss for 60-90 seconds until wilted. 4. Plate sweet potato, greens, and sliced duck. Done.",
-    "tip": "Starting the duck in a cold pan — not a hot one — is the secret to getting that crackly, restaurant-quality skin without burning it. Be patient with it.",
+    "instructions": "Score the duck skin in a crosshatch pattern, season with salt and pepper, then place skin-side down in a cold pan. Bring to medium heat and cook 8 to 10 minutes until skin is crispy. Flip and cook 4 more minutes, then rest 5 minutes before slicing. While duck cooks, toss sweet potato cubes in olive oil and roast at 400F for 20 minutes until golden. Whisk miso, orange juice, rice vinegar, sesame oil, and honey into a glaze. Assemble bowls with rice or farro as the base, top with spinach, sweet potato, and sliced duck, then drizzle with miso-orange glaze.",
+    "tip": "Score the skin deeply but do not cut into the flesh. Starting in a cold pan renders the fat slowly and gives you a properly crispy result without burning.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
