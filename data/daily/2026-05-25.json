@@ -1,134 +1,153 @@
 {
   "date": "2026-05-25",
   "dateLabel": "Monday, May 25, 2026",
-  "generatedAt": "2026-05-25T22:34:51.927Z",
+  "generatedAt": "2026-05-25T22:45:18.759Z",
   "articles": [
     {
       "category": "TRAINING",
-      "topic": "self-selected music workout endurance boost",
-      "headline": "Your Own Playlist Just Became Your Best Training Tool",
-      "body": "Researchers at the University of Jyväskylä gave 29 recreational cyclists two identical high-intensity rides: one in silence, one with music they picked themselves. The result? Riders with their own playlists lasted nearly 20 percent longer before reaching exhaustion, averaging about 35 minutes versus under 30 in silence. And they didn't feel more wiped out at the end. The mechanism is straightforward: your brain prioritizes the music over fatigue signals, making hard effort feel more manageable. The catch is that personally chosen songs outperform generic playlists. Autonomy matters. What you love is what works.",
-      "takeaway": "Build a playlist of songs you genuinely love before your next hard session. The music itself won't change your fitness, but it will help you stay in the work zone longer.",
-      "source": "Psychology of Sport and Exercise",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260508003123.htm",
-      "pexelsQuery": "person wearing headphones exercising gym",
+      "topic": "exercise timing chronotype cardiometabolic sleep",
+      "headline": "Working Out at the Wrong Time of Day Could Be Costing You Sleep and Heart Health",
+      "body": "A 12-week randomised controlled trial published in Open Heart tracked 134 sedentary adults aged 40 to 60 with at least one cardiovascular risk factor. Half exercised at times that matched their natural body clock, half at times that didn't. Both groups saw improvements, but the matched group got significantly better results. Their systolic blood pressure dropped nearly twice as much, their sleep quality score improved by 3.4 points versus 1.2 in the mismatched group, and their blood sugar, cholesterol, and aerobic fitness improved more too. The researchers say chronotype, whether you're a morning lark or night owl, should be part of every exercise prescription.",
+      "takeaway": "Figure out your natural chronotype and try to schedule workouts at times that align with when you naturally feel most alert and energised.",
+      "source": "Open Heart (BMJ)",
+      "sourceUrl": "https://bmjgroup.com/timing-exercise-to-match-body-clock-chronotype-may-lower-cardiovascular-disease-risk/",
+      "pexelsQuery": "alarm clock morning sunrise workout",
       "product": {
-        "id": "watch-004",
-        "name": "Garmin Forerunner Music",
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
         "brand": "Garmin",
-        "asin": "B09WTV6MMY",
-        "url": "https://www.amazon.com/dp/B09WTV6MMY?tag=chrisolson04-20",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
         "category": "wearables",
         "price_range": "$$$",
         "keywords": [
+          "triathlon",
           "running",
-          "music",
+          "cycling",
+          "swimming",
           "gps",
           "watch",
-          "garmin",
-          "training",
-          "no phone",
-          "wireless"
+          "heart rate",
+          "training load",
+          "garmin"
         ],
-        "blurb": "Leave your phone at home. GPS and music in one watch."
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/3931233/pexels-photo-3931233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3931233/pexels-photo-3931233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Andrea Piacquadio",
-        "photographerUrl": "https://www.pexels.com/@olly",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-sports-bra-holding-black-smartphone-3931233/",
-        "avgColor": "#656665"
-      }
-    },
-    {
-      "category": "MENTAL PERFORMANCE",
-      "topic": "cognitive warmup running performance improvement",
-      "headline": "Warming Up Your Brain Before a Run Makes You Faster",
-      "body": "A University of Birmingham study found that adding nine minutes of brief cognitive tasks to a standard physical warmup shaved 8 to 11 seconds off recreational runners' one-mile time trial performance. That's a 2 to 3 percent improvement. Runners also reported lower perceived effort and a lower heart rate during the run itself. The cognitive tasks were done on a phone app and involved short bursts of mental processing. The researchers say the mental component increases readiness and primes the nervous system in ways physical warmup alone does not. Interestingly, harder cognitive exercises offered no additional benefit over easier ones.",
-      "takeaway": "Before your next run or hard session, spend a few minutes on a brain-stimulating task. A word puzzle, a memory game, or even a reaction-time app can activate your nervous system and make the effort feel easier.",
-      "source": "European Journal of Sport Science",
-      "sourceUrl": "https://www.birmingham.ac.uk/news/2026/pre-warmup-brain-priming-may-help-runners-hit-personal-bests",
-      "pexelsQuery": "person using phone app before running outdoors",
-      "photo": {
-        "url": "https://images.pexels.com/photos/4162581/pexels-photo-4162581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4162581/pexels-photo-4162581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ivan S",
-        "photographerUrl": "https://www.pexels.com/@ivan-s",
-        "photoPageUrl": "https://www.pexels.com/photo/person-with-headphones-holding-a-smartphone-4162581/",
-        "avgColor": "#353535"
-      }
-    },
-    {
-      "category": "SLEEP",
-      "topic": "sleep growth hormone brain circuit muscle recovery",
-      "headline": "Scientists Finally Figured Out How Sleep Builds Your Muscle",
-      "body": "Everyone knows sleep boosts growth hormone. What nobody knew until now was exactly how. Researchers at UC Berkeley mapped the specific brain circuits in the hypothalamus that trigger growth hormone release during deep sleep. They also found a feedback loop: once the hormone is released, it activates a brainstem region that eventually tells the brain it's time to wake up. What this means practically is that deep, early-stage sleep is the trigger for the muscle-building, fat-burning, brain-supporting repair your body does at night. Disrupt that phase, and the whole hormonal cascade stalls. The findings were published in the journal Cell.",
-      "takeaway": "Prioritizing the first half of your night, when deep non-REM sleep dominates, is when growth hormone release peaks. Cut your sleep short and you cut off your recovery.",
-      "source": "Cell / UC Berkeley",
-      "sourceUrl": "https://news.berkeley.edu/2025/09/08/sleep-strengthens-muscle-and-bone-by-boosting-growth-hormone-levels-uc-berkeley-researchers-discover-how/",
-      "pexelsQuery": "person sleeping deeply in dark bedroom",
-      "product": {
-        "id": "slp-002",
-        "name": "Manta Sleep Mask",
-        "brand": "Manta",
-        "asin": "B07PRG2CQY",
-        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
-        "category": "sleep",
-        "price_range": "$",
-        "keywords": [
-          "sleep",
-          "light blocking",
-          "blackout",
-          "travel",
-          "sleep quality",
-          "melatonin",
-          "recovery"
-        ],
-        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/3693040/pexels-photo-3693040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3693040/pexels-photo-3693040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "cottonbro studio",
-        "photographerUrl": "https://www.pexels.com/@cottonbro",
-        "photoPageUrl": "https://www.pexels.com/photo/man-lying-on-bed-3693040/",
-        "avgColor": "#1D26B7"
+        "url": "https://images.pexels.com/photos/18647749/pexels-photo-18647749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/18647749/pexels-photo-18647749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ruslan Sikunov",
+        "photographerUrl": "https://www.pexels.com/@sikunovruslan",
+        "photoPageUrl": "https://www.pexels.com/photo/alarm-clock-behind-curtain-18647749/",
+        "avgColor": "#99928C"
       }
     },
     {
       "category": "STRESS",
-      "topic": "cortisol excess resistant hypertension undiagnosed",
-      "headline": "If Your Blood Pressure Won't Budge, Check Your Cortisol",
-      "body": "A landmark U.S. study presented at the American College of Cardiology's 2026 conference found that 27 percent of patients with resistant hypertension had elevated cortisol levels, a condition called hypercortisolism. These are people whose blood pressure stays high despite taking three or more medications. The MOMENTUM study screened over 1,000 patients across 50 centers and found this hormonal driver is far more common than previously understood. The implication is significant: if stress hormones are the actual problem, blood pressure drugs alone won't solve it. Treating the underlying cortisol excess may be the missing piece for a large group of people.",
-      "takeaway": "If you or someone you know has blood pressure that won't respond to multiple medications, ask a doctor about cortisol screening. The root cause may be hormonal, not cardiac.",
-      "source": "Mount Sinai / American College of Cardiology 2026",
-      "sourceUrl": "https://www.mountsinai.org/about/newsroom/2026/nearly-30-percent-of-patients-with-resistant-hypertension-have-a-hormone-disorder-caused-by-high-cortisol",
-      "pexelsQuery": "blood pressure cuff measurement arm",
+      "topic": "aerobic exercise cortisol baseline reduction RCT",
+      "headline": "A Year of Regular Cardio Doesn't Just Clear Your Head. It Permanently Lowers Your Stress Baseline.",
+      "body": "For years, we knew exercise helps you feel less stressed. Now we know exactly why. A first-of-its-kind one-year randomised clinical trial from the University of Pittsburgh, published in the Journal of Sport and Health Science, showed that meeting the standard 150 minutes of weekly aerobic activity caused a significant and sustained reduction in long-term cortisol levels. Not just a post-workout dip. A genuine shift in your body's default stress setting. Researchers say this lowered cortisol baseline may be one of the key reasons regular exercise protects against several diseases and mental health conditions.",
+      "takeaway": "You don't need a special protocol. The standard 150 minutes of moderate aerobic activity per week appears to be enough to reshape how your body handles stress at a biological level.",
+      "source": "Journal of Sport and Health Science",
+      "sourceUrl": "https://neurosciencenews.com/exercise-cortisol-stress-biology-30548/",
+      "pexelsQuery": "person running outdoors park",
+      "product": {
+        "id": "run-004",
+        "name": "HOKA Clifton 9",
+        "brand": "HOKA",
+        "asin": "B0CPBZ8668",
+        "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "shoes",
+          "daily trainer",
+          "cushion",
+          "marathon",
+          "recovery run",
+          "easy run"
+        ],
+        "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Vlada Karpovich",
-        "photographerUrl": "https://www.pexels.com/@vlada-karpovich",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-checking-blood-pressure-of-a-man-5790814/",
-        "avgColor": "#AFA9A3"
+        "url": "https://images.pexels.com/photos/14140760/pexels-photo-14140760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14140760/pexels-photo-14140760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Matthew Edington",
+        "photographerUrl": "https://www.pexels.com/@matthew-edington-347722458",
+        "photoPageUrl": "https://www.pexels.com/photo/man-running-in-park-14140760/",
+        "avgColor": "#585336"
+      }
+    },
+    {
+      "category": "BREATHWORK",
+      "topic": "structured breathwork anxiety stress resilience RCT",
+      "headline": "Two Minutes of Breathing Twice a Day Cut Anxiety and Stress in a Clinical Trial",
+      "body": "A structured breathwork protocol called the A52 Breath Method was tested in a 12-week randomised controlled trial published in the journal Stress and Health. The method involves slow, diaphragmatic breathing at a 5-second inhale, 5-second exhale, and 2-second hold, practised twice daily. Among 98 participants, those doing the breathwork showed significantly lower scores for stress, anxiety, and depression compared to the control group, along with higher resilience. More than 60 percent of participants began the study with above-normal anxiety levels. The researchers call it accessible, cost-effective, and practical for everyday life.",
+      "takeaway": "Try two short breathwork sessions a day using a 5-second inhale, 5-second exhale, 2-second hold pattern. It takes minutes and the RCT evidence is solid.",
+      "source": "Stress and Health (Wiley)",
+      "sourceUrl": "https://onlinelibrary.wiley.com/doi/full/10.1002/smi.70161",
+      "pexelsQuery": "person meditating breathing calm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7880138/pexels-photo-7880138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7880138/pexels-photo-7880138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-doing-yoga-7880138/",
+        "avgColor": "#9D9B75"
+      }
+    },
+    {
+      "category": "MOBILITY",
+      "topic": "aerobic exercise knee osteoarthritis pain relief best type",
+      "headline": "Sore Knees? Science Just Ranked Every Exercise Type. One Category Wins by a Mile.",
+      "body": "A sweeping network meta-analysis of 217 trials and more than 15,000 participants, published in The BMJ, ranked exercise types for knee osteoarthritis management. Aerobic exercise, specifically walking, cycling, and swimming, came out on top. It reduced pain in both the short and medium term, improved physical function across all timeframes, and enhanced walking ability and quality of life. Strength training and mind-body approaches helped too, but nothing beat aerobic movement for consistent results. The researchers recommend aerobic exercise as the first-line treatment, calling it safe for nearly everyone.",
+      "takeaway": "If your knees ache, don't rest them. Start with low-impact aerobic movement like walking or cycling. Consistent, moderate-intensity cardio beats any other single approach for pain relief and long-term function.",
+      "source": "The BMJ",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
+      "pexelsQuery": "person cycling outdoors road bike",
+      "product": {
+        "id": "run-004",
+        "name": "HOKA Clifton 9",
+        "brand": "HOKA",
+        "asin": "B0CPBZ8668",
+        "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "shoes",
+          "daily trainer",
+          "cushion",
+          "marathon",
+          "recovery run",
+          "easy run"
+        ],
+        "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8024984/pexels-photo-8024984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8024984/pexels-photo-8024984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alari Tammsalu",
+        "photographerUrl": "https://www.pexels.com/@alaritammsalu",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-riding-her-road-bike-in-a-competition-8024984/",
+        "avgColor": "#8C9A69"
       }
     }
   ],
   "quote": {
-    "text": "The mind is the athlete; the body is simply the means it uses to run faster or throw farther or jump higher.",
-    "author": "Bryce Courtenay",
-    "context": "South African-Australian author known for writing about resilience, endurance, and the power of the human will."
+    "text": "The mind is the athlete; the body is simply the means it uses.",
+    "author": "Gabrielle Reece",
+    "context": "Pro volleyball player, fitness pioneer, and health advocate who competed at the elite level for over a decade."
   },
   "workout": {
     "type": "PUSH",
     "workout_type": "push",
-    "title": "Press and Pulse: Chest and Shoulder Strength Starter",
+    "title": "Tabletop to Lockout: Push Circuit for Busy People",
     "difficulty": "Intermediate",
     "duration": "30 min",
     "equipment": [
-      "dumbbells",
-      "floor"
+      "dumbbells"
     ],
     "goal_affinity": [
       "general_fitness",
@@ -141,41 +160,41 @@
       "muscle_gain",
       "under_30_min"
     ],
-    "tip": "If you only have one set of dumbbells, adjust tempo to increase difficulty. Slow the lowering phase to 3 seconds on every press to keep the muscles working even with lighter weight.",
-    "warmup": "Do 10 arm circles each direction, 10 shoulder rolls, and 10 slow push-ups to grease the groove. Finish with 30 seconds of torso rotations to open the chest before loading.",
+    "tip": "If you're short on space or dumbbells, swap the dumbbell press for a slow, controlled push-up with a 3-second lowering phase. The eccentric phase does most of the muscle-building work.",
+    "warmup": "Spend 3 minutes with arm circles (10 forward, 10 back), 10 shoulder rolls each side, and 10 slow wall push-ups to warm up the shoulder joint and chest without taxing the working muscles early.",
     "exercises": [
       {
         "name": "Dumbbell Floor Press",
         "sets": "3",
-        "reps": "12",
-        "notes": "Keep your elbows at 45 degrees from your torso, not flared wide. Press to full extension but don't let elbows hyperlock at the top."
-      },
-      {
-        "name": "Dumbbell Overhead Press (seated or standing)",
-        "sets": "3",
         "reps": "10",
-        "notes": "Brace your core before each rep. Press straight up, not forward. If standing, keep a slight knee bend to protect your lower back."
+        "notes": "Press straight up, not at an angle. Keep your elbows at 45 degrees, not flared wide. Control the descent for 2 full seconds."
       },
       {
-        "name": "Push-Up with Pause",
+        "name": "Pike Push-Up",
         "sets": "3",
         "reps": "8",
-        "notes": "Lower yourself over 2 counts, pause for 1 second at the bottom, then press back up. Hands just wider than shoulder-width. Modify to knees if needed."
+        "notes": "Start in a downward dog position. Lower the crown of your head toward the floor, elbows track outward. This targets the shoulders without any equipment."
       },
       {
         "name": "Dumbbell Lateral Raise",
         "sets": "3",
         "reps": "12",
-        "notes": "Use lighter dumbbells than you think you need. Lead with your elbows, not your wrists. Stop when arms reach shoulder height."
+        "notes": "Slight bend at the elbow, lead with the elbows not your wrists. Stop at shoulder height. Go lighter than you think you need to."
       },
       {
-        "name": "Tricep Overhead Extension (one dumbbell, both hands)",
+        "name": "Incline Push-Up (hands on couch or chair)",
         "sets": "3",
         "reps": "12",
-        "notes": "Keep elbows close to your head throughout the movement. Only your forearms move. Squeeze at the top before lowering slowly."
+        "notes": "Elevating the hands shifts emphasis to your lower chest. Keep your body in a straight line from heel to head. Great if you have limited floor space."
+      },
+      {
+        "name": "Dumbbell Tricep Overhead Extension",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold one dumbbell with both hands, lower behind your head slowly. Keep your elbows pointed forward and your core tight. Full stretch at the bottom matters."
       }
     ],
-    "cooldown": "Finish with a 30-second doorframe chest stretch on each side and 60 seconds of slow neck rolls. Shake out your arms and take 5 deep breaths.",
+    "cooldown": "Spend 2 minutes in a doorway chest stretch and 1 minute in a cross-body shoulder stretch each side to restore range of motion and reduce next-day tightness.",
     "product": {
       "id": "str-002",
       "name": "Bowflex SelectTech 552 Dumbbells",
@@ -197,28 +216,30 @@
     }
   },
   "meal": {
-    "title": "Seared Duck Breast and Roasted Sweet Potato Bowl with Orange Miso Glaze",
+    "title": "Seared Duck Breast and Lentil-Free Warm Grain Bowl with Ginger Sesame Glaze",
     "type": "dinner",
     "mainProtein": "duck",
     "prepTime": "25 min",
-    "calories": 520,
+    "calories": 530,
     "protein": 38,
     "carbs": 42,
     "fat": 18,
     "ingredients": [
-      "2 duck breasts (skin-on, about 180g each)",
-      "1 large sweet potato, cubed",
-      "1 cup cooked brown rice or farro",
-      "2 cups baby spinach",
-      "1 tbsp white miso paste",
-      "2 tbsp fresh orange juice",
-      "1 tsp rice vinegar",
+      "2 duck breasts (skin-on)",
+      "1 cup cooked farro or barley",
+      "1 cup baby spinach",
+      "1/2 cup shredded purple cabbage",
+      "1/2 cup edamame (shelled)",
+      "1 tbsp low-sodium soy sauce",
+      "1 tsp fresh grated ginger",
       "1 tsp sesame oil",
+      "1 tbsp rice vinegar",
       "1 tsp honey",
-      "Salt, pepper, and olive oil"
+      "1 tsp sesame seeds",
+      "Salt and black pepper"
     ],
-    "instructions": "Score the duck skin in a crosshatch pattern, season with salt and pepper, then place skin-side down in a cold pan. Bring to medium heat and cook 8 to 10 minutes until skin is crispy. Flip and cook 4 more minutes, then rest 5 minutes before slicing. While duck cooks, toss sweet potato cubes in olive oil and roast at 400F for 20 minutes until golden. Whisk miso, orange juice, rice vinegar, sesame oil, and honey into a glaze. Assemble bowls with rice or farro as the base, top with spinach, sweet potato, and sliced duck, then drizzle with miso-orange glaze.",
-    "tip": "Score the skin deeply but do not cut into the flesh. Starting in a cold pan renders the fat slowly and gives you a properly crispy result without burning.",
+    "instructions": "1. Score the duck skin in a crosshatch pattern, season with salt and pepper. Place skin-side down in a cold pan, then turn heat to medium. Cook for 8-10 minutes until the skin is golden and crisp, then flip and cook 4-5 more minutes. Rest for 5 minutes, then slice thin. 2. Whisk together soy sauce, ginger, sesame oil, rice vinegar, and honey to make the glaze. 3. Build bowls with farro, spinach, cabbage, and edamame. Lay sliced duck on top, drizzle glaze over everything. 4. Finish with sesame seeds.",
+    "tip": "Starting duck in a cold pan and slowly rendering the fat gives you crispy skin every time without burning. No special skills required.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
