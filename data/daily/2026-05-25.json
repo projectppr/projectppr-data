@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-25",
+  "dateLabel": "Monday, May 25, 2026",
+  "generatedAt": "2026-05-25T11:05:09.104Z",
+  "articles": [
+    {
+      "category": "RECOVERY",
+      "topic": "muscle stem cells metabolic repair switch",
+      "headline": "Your Muscles Have a Built-In Recovery Switch. Scientists Just Found It.",
+      "body": "UC Irvine researchers published a discovery in Nature Metabolism that changes how we think about muscle repair. When muscle stem cells are damaged, they do not immediately start rebuilding. Instead, they temporarily slow down energy production and reroute fuel into making antioxidants that calm inflammation. Only once that protective phase is done do they flip back into growth mode. The enzyme at the center of this is called PFKM. When it drops, repair starts. When it returns, muscle fibers form. Rushing that process, the research suggests, could actually slow you down.",
+      "takeaway": "Prioritize true rest in the 24-48 hours after hard training. Your muscles are not being lazy. They are running a very deliberate repair sequence that you do not want to interrupt.",
+      "source": "Nature Metabolism / UC Irvine News",
+      "sourceUrl": "https://news.uci.edu/2026/02/27/uc-irvine-scientists-uncover-cellular-mechanism-behind-muscle-repair/",
+      "pexelsQuery": "muscle fiber close up microscope biology",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11210351/pexels-photo-11210351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11210351/pexels-photo-11210351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Fayette Reynolds M.S.",
+        "photographerUrl": "https://www.pexels.com/@fayette-reynolds-m-s-181007507",
+        "photoPageUrl": "https://www.pexels.com/photo/abstract-stripey-background-11210351/",
+        "avgColor": "#AF698B"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "exercise type testosterone response dynamics",
+      "headline": "How Hard You Train Determines How Long Your Testosterone Stays Elevated",
+      "body": "A 2026 systematic review published in PeerJ analyzed 15 randomized controlled trials and 251 participants to map exactly how testosterone responds to different types of exercise. Resistance training produced the biggest spike and the longest-lasting elevation. Aerobic exercise bumped testosterone too, but levels returned to baseline within about an hour. There was a catch though: going too hard for too long backfired. Extended very high-intensity sessions actually suppressed testosterone for up to 72 hours afterward, largely because cortisol stepped in and antagonized it.",
+      "takeaway": "Moderate to high-intensity strength training is your best lever for sustained testosterone elevation. But grinding yourself into the ground every session can flip the switch the wrong way for days.",
+      "source": "PeerJ",
+      "sourceUrl": "https://peerj.com/articles/20615/",
+      "pexelsQuery": "man lifting barbell gym strength training",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4853324/pexels-photo-4853324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853324/pexels-photo-4853324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/young-athletes-lifting-weights-at-gym-with-a-mural-4853324/",
+        "avgColor": "#837657"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "aging muscle stem cells glutamine strength loss",
+      "headline": "Scientists Found Why Your Muscles Get Harder to Rebuild After 40",
+      "body": "A study just published in Nature Aging zeroes in on why muscles do not recover the same way as you get older. The answer involves muscle stem cells and a critical nutrient called glutamine. In younger muscles, stem cells use glutamine to produce the fatty acids needed to grow and repair. In aging muscles, that pathway weakens because a key protein called glutaminase drops by about 50 percent. Without enough of it, stem cells struggle to activate, which means slower repair and less muscle built after each training session. When researchers restored the missing protein in older cells, the cells regained much of their regenerative ability.",
+      "takeaway": "Protein is important, but glutamine-rich foods like meat, fish, eggs, and dairy support the specific repair pathways your aging muscles depend on most. Do not skip them.",
+      "source": "Nature Aging",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01120-3",
+      "pexelsQuery": "older man exercising weights gym active",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8899533/pexels-photo-8899533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8899533/pexels-photo-8899533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "SHVETS production",
+        "photographerUrl": "https://www.pexels.com/@shvets-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-in-blue-shirt-and-gray-shorts-holding-a-dumbbells-8899533/",
+        "avgColor": "#7B7F7E"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "mindfulness attention productivity busy adults",
+      "headline": "You Think You Cannot Afford to Stop. That Is Exactly Why You Should.",
+      "body": "Johns Hopkins researchers recently highlighted a real paradox for busy people: the more overwhelmed you feel, the less likely you are to take the mental breaks that actually make you more productive. A 2025 meta-analysis cited in their May 2026 piece found that mindfulness significantly improves attention and task performance. A separate workplace study found that regular mindfulness practice added roughly 62 minutes of usable productivity per week. The data also shows that stress and a scattered mind often go hand in hand, and that short, intentional pauses outperform grinding through.",
+      "takeaway": "Even two to three minutes of deliberate breathing or stillness between tasks can meaningfully cut stress load and sharpen focus. Think of it as a recovery interval for your brain.",
+      "source": "JHU Hub",
+      "sourceUrl": "https://hub.jhu.edu/2026/05/05/mindfulness-stress-pain/",
+      "pexelsQuery": "person meditating calm mindfulness breathing",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6648592/pexels-photo-6648592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6648592/pexels-photo-6648592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ivan S",
+        "photographerUrl": "https://www.pexels.com/@ivan-s",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-doing-yoga-6648592/",
+        "avgColor": "#323836"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The more tranquil a man becomes, the greater is his success, his influence, his power for good.",
+    "author": "James Allen",
+    "context": "Victorian-era philosopher and author of the self-development classic 'As a Man Thinketh.'"
+  },
+  "workout": {
+    "type": "PUSH",
+    "workout_type": "push",
+    "title": "Push & Press: Chest, Shoulders, Triceps Circuit",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbells",
+      "bench or sturdy chair"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength",
+      "fat_loss"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "upper_body",
+      "push_dominant",
+      "muscle_gain",
+      "under_60_min",
+      "hotel_friendly"
+    ],
+    "tip": "If your lower back starts to arch on any pressing movement, reduce the weight and focus on squeezing your core first. A tight midsection protects your spine and makes every push stronger.",
+    "warmup": "Start with 60 seconds of arm circles (forward and back), then 10 slow shoulder rolls each side and 10 wall push-ups at an easy tempo. Finish with 30 seconds of light chest openers with arms spread wide.",
+    "exercises": [
+      {
+        "name": "Dumbbell Chest Press",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Lie on a bench or floor. Lower dumbbells to chest level with elbows at 45 degrees, not flared wide. Drive up to full extension without locking out hard."
+      },
+      {
+        "name": "Dumbbell Overhead Press (seated or standing)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Press from shoulder height to overhead, finishing with palms facing forward. Avoid letting your lower back arch by bracing your core before each rep."
+      },
+      {
+        "name": "Push-Up",
+        "sets": "3",
+        "reps": "10-15",
+        "notes": "Keep body in a straight line from heels to head. Drop to knees if you need to keep good form. Move at a controlled 2-second down, 1-second up tempo."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Use lighter weight than you think you need. Raise arms to shoulder height only, slight bend in elbow throughout. Pause at the top for one count."
+      },
+      {
+        "name": "Dumbbell Tricep Kickback",
+        "sets": "3",
+        "reps": "12 each arm",
+        "notes": "Hinge at the hips, upper arm parallel to floor, extend forearm back to straight. Squeeze at the top. Switch arms without resting."
+      }
+    ],
+    "cooldown": "Finish with a 60-second chest stretch in a doorway or with hands clasped behind your back. Follow with a gentle overhead tricep stretch, holding 20-30 seconds each side.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Seared Tuna and Edamame Rice Bowl with Sesame Ginger Glaze",
+    "type": "lunch",
+    "mainProtein": "tuna",
+    "prepTime": "15 min",
+    "calories": 480,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 14,
+    "ingredients": [
+      "2 ahi tuna steaks (approx. 5 oz each)",
+      "1 cup cooked brown rice",
+      "1 cup shelled edamame (thawed from frozen)",
+      "1 tbsp low-sodium soy sauce",
+      "1 tsp sesame oil",
+      "1 tsp fresh grated ginger",
+      "1 tsp honey",
+      "1 clove garlic, minced",
+      "1 tbsp olive oil (for searing)",
+      "1 tsp sesame seeds",
+      "2 scallions, sliced",
+      "Lime wedge for serving"
+    ],
+    "instructions": "1. Mix soy sauce, sesame oil, ginger, honey, and garlic in a small bowl. Set aside. 2. Pat tuna steaks dry, season lightly with salt and pepper. Heat olive oil in a skillet over high heat and sear tuna for 60-90 seconds per side, leaving the center pink. Remove and slice. 3. In the same pan over medium heat, warm edamame for 2 minutes then toss with half the glaze. 4. Build the bowl: brown rice on the bottom, edamame and sliced tuna on top. Drizzle with remaining glaze and finish with sesame seeds and scallions.",
+    "tip": "Do not overcook the tuna. Pull it the moment the outside turns opaque. Overcooking dries it out and kills the texture. Sixty seconds per side on screaming-hot heat is all you need.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
