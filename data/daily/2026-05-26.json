@@ -1,0 +1,203 @@
+{
+  "date": "2026-05-26",
+  "dateLabel": "Tuesday, May 26, 2026",
+  "generatedAt": "2026-05-26T11:03:29.362Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "heart rate recovery Parkinson's risk signal",
+      "headline": "How Fast Your Heart Recovers After Exercise Could Be an Early Warning Sign for Parkinson's",
+      "body": "Oxford researchers tracked 69,000 people for over 12 years and found something striking: people whose hearts were slower to recover after exercise had a 30% higher risk of developing Parkinson's disease. For every 10 beats per minute slower your heart rate drops during recovery, that risk climbs independently of other risk factors. The reason? Heart rate recovery reflects your parasympathetic nervous system, which is one of the first systems Parkinson's quietly damages, often years before any movement symptoms show up. This doesn't mean a slow recovery means you'll get Parkinson's. It means it may be a signal worth paying attention to.",
+      "takeaway": "Track how fast your heart rate drops after hard workouts. Faster recovery is a marker of healthy autonomic function. If it seems persistently sluggish, bring it up with your doctor.",
+      "source": "Annals of Neurology / Oxford Population Health",
+      "sourceUrl": "https://www.ndph.ox.ac.uk/news/slower-heart-rate-recovery-after-exercise-may-be-an-early-warning-sign-of-parkinson2019s",
+      "pexelsQuery": "heart rate monitor watch wrist exercise",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/19961775/pexels-photo-19961775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19961775/pexels-photo-19961775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ahmed akeri",
+        "photographerUrl": "https://www.pexels.com/@ahmed-akeri-801514718",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-person-looking-at-the-pulse-displayed-on-a-smartwatch-19961775/",
+        "avgColor": "#785C44"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "nature exposure brain attention restoration",
+      "headline": "Twenty Minutes Outside Is Doing Something Real to Your Brain. Science Just Scanned It.",
+      "body": "A comprehensive 2026 scoping review in Neuroscience and Biobehavioral Reviews pulled together neuroimaging data from EEG, fMRI, and structural MRI studies and found that exposure to natural environments reliably reduced activity in stress-related brain circuits and shifted the brain toward states associated with restored attention. This is not just people saying they feel better. It shows up on brain scans. Even brief nature exposure, as short as 20 minutes, was enough to move the needle on attention. Forty minutes produced measurable changes in brain activity. For busy parents and professionals running on mental fumes, this is a simple and free intervention.",
+      "takeaway": "Build a short outdoor break into your workday, even just a 20-minute walk in a park or green space. Your focus and decision-making capacity afterward will not be the same as after a walk through traffic.",
+      "source": "Neuroscience and Biobehavioral Reviews / SUCCESS",
+      "sourceUrl": "https://www.success.com/brain-on-nature-mental-performance-outdoors",
+      "pexelsQuery": "person walking green park trees sunlight",
+      "photo": {
+        "url": "https://images.pexels.com/photos/3263865/pexels-photo-3263865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3263865/pexels-photo-3263865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Raphael Brasileiro",
+        "photographerUrl": "https://www.pexels.com/@phael",
+        "photoPageUrl": "https://www.pexels.com/photo/green-grass-field-3263865/",
+        "avgColor": "#66624E"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "healthy diet patterns long-term cognitive function",
+      "headline": "Six Different Healthy Diets All Do the Same Thing for Your Brain as You Age",
+      "body": "A Harvard study published in JAMA Neurology followed 159,347 people for several decades and found that sticking to any of six recognized healthy dietary patterns, including DASH, Mediterranean, and MIND, was linked to significantly better cognitive functioning later in life. Participants whose average starting age was 44 were ranked on how closely their diets followed each pattern. All six showed benefits, with DASH scoring particularly well. The finding matters because it removes the pressure to follow one specific diet. The real signal is that consistently eating more plants, whole grains, fish, and less processed food protects your brain over time.",
+      "takeaway": "You don't need to pick the 'perfect' diet. Pick any recognized healthy eating pattern and stick to it consistently. Your brain in your 60s and 70s will notice.",
+      "source": "JAMA Neurology / Harvard Health",
+      "sourceUrl": "https://www.health.harvard.edu/diet-and-nutrition/harvard-study-six-healthy-diets-linked-with-better-long-term-brain-health",
+      "pexelsQuery": "colorful healthy food vegetables grains bowl",
+      "photo": {
+        "url": "https://images.pexels.com/photos/19150338/pexels-photo-19150338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19150338/pexels-photo-19150338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nadja M",
+        "photographerUrl": "https://www.pexels.com/@nadja",
+        "photoPageUrl": "https://www.pexels.com/photo/bowls-with-salads-19150338/",
+        "avgColor": "#A89E92"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "tart cherry powder marathon muscle recovery",
+      "headline": "The Cherry Trick That Helps Marathoners Bounce Back Faster Is Now Backed by a Proper Trial",
+      "body": "A 2026 study in the European Journal of Nutrition tested freeze-dried tart cherry powder on 35 recreational marathon runners with an average age of 40. Runners who took the powder for seven days before and through race day showed better recovery of muscle function and lower inflammation markers compared to the placebo group. Tart cherries are rich in anthocyanins, compounds that help the body control the inflammatory response triggered by hard exercise. You don't need to run a marathon for this to apply. Any long run, hard bike ride, or intense training block creates the same kind of muscle stress.",
+      "takeaway": "Start taking tart cherry powder or juice a few days before your hardest training sessions or a race, not just after. Timing matters. The research consistently shows the benefits come from loading before the effort, not just recovering after.",
+      "source": "European Journal of Nutrition",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s00394-025-03847-y",
+      "pexelsQuery": "tart cherries red fruit bowl",
+      "photo": {
+        "url": "https://images.pexels.com/photos/12955773/pexels-photo-12955773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12955773/pexels-photo-12955773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Atlantic Ambience",
+        "photographerUrl": "https://www.pexels.com/@freestockpro",
+        "photoPageUrl": "https://www.pexels.com/photo/red-cherries-beside-a-lens-cover-on-yellow-background-12955773/",
+        "avgColor": "#D87428"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The human body is capable of so much more than we give it credit for. The limitations we place on it are mostly in our heads.",
+    "author": "Chrissie Wellington",
+    "context": "Four-time Ironman World Champion and one of the most dominant endurance athletes in history."
+  },
+  "workout": {
+    "type": "RUN",
+    "workout_type": "intervals",
+    "title": "Stoplight Intervals: 1-2-3 Minute Effort Ladder",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "distance": "3-4 miles",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "5k",
+      "10k"
+    ],
+    "tags": [
+      "no_equipment",
+      "cardio",
+      "under_60_min",
+      "beginner_friendly"
+    ],
+    "tip": "If you're running with a stroller or on a treadmill, use the minute markers as your effort guide. The 3-minute hard block should feel like you're working hard but can still speak a few words. Drop the pace by feel, not by stopping completely.",
+    "warmup": "Start with 5 minutes of easy jogging at a fully conversational pace. In the last 90 seconds, do 3 short 10-second pick-ups to prime your legs, returning to easy pace between each one.",
+    "exercises": [
+      {
+        "name": "1-Minute Moderate Effort Run",
+        "sets": "3",
+        "reps": "1 min on / 1 min easy",
+        "notes": "Effort level 6 out of 10. You can talk but prefer not to. This is your warm-up into the ladder."
+      },
+      {
+        "name": "2-Minute Hard Effort Run",
+        "sets": "3",
+        "reps": "2 min on / 90 sec easy",
+        "notes": "Effort level 7 to 8 out of 10. Breathing is controlled but elevated. Hold this pace the full 2 minutes."
+      },
+      {
+        "name": "3-Minute Comfortably Hard Effort Run",
+        "sets": "2",
+        "reps": "3 min on / 2 min easy",
+        "notes": "Effort level 7 out of 10 sustained. This is your hardest block. Focus on keeping your form together, not just surviving the clock."
+      },
+      {
+        "name": "Descending 1-Minute Fast Finisher",
+        "sets": "2",
+        "reps": "1 min on / 1 min easy",
+        "notes": "Push back to a 7 to 8 out of 10 effort. These final two surges train your body to run fast on tired legs, which is exactly what racing feels like."
+      }
+    ],
+    "cooldown": "Finish with 5 minutes of very easy jogging or walking to bring your heart rate down gradually. Follow with 30 seconds each of calf raises and hip flexor stretches while standing.",
+    "product": {
+      "id": "run-001",
+      "name": "Saucony Endorphin Speed 5",
+      "brand": "Saucony",
+      "asin": "B0DJWMR6YY",
+      "url": "https://www.amazon.com/dp/B0DJWMR6YY?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "marathon",
+        "5k",
+        "10k",
+        "half marathon",
+        "race",
+        "speed",
+        "carbon"
+      ],
+      "blurb": "The shoe Chris trains and races in. Fast, light, built for people who take running seriously."
+    }
+  },
+  "meal": {
+    "title": "Seared Tuna Steak and Farro Bowl with Avocado and Lemon Tahini",
+    "type": "dinner",
+    "mainProtein": "tuna",
+    "prepTime": "20 min",
+    "calories": 530,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 18,
+    "ingredients": [
+      "2 tuna steaks (6 oz each, fresh or thawed)",
+      "1 cup cooked farro",
+      "1 avocado, sliced",
+      "2 cups baby spinach or arugula",
+      "1 cup cherry tomatoes, halved",
+      "2 tbsp tahini",
+      "Juice of 1 lemon",
+      "1 garlic clove, minced",
+      "1 tbsp olive oil",
+      "Salt, pepper, and smoked paprika to taste",
+      "1 tbsp sesame seeds for garnish"
+    ],
+    "instructions": "1. Pat tuna steaks dry, season with salt, pepper, and a pinch of smoked paprika. Heat olive oil in a skillet over high heat and sear tuna for 90 seconds per side for medium-rare, or 2 to 2.5 minutes per side for medium. Let rest 2 minutes then slice. 2. Whisk tahini, lemon juice, minced garlic, and 2 to 3 tablespoons of water until smooth and pourable. Season with salt. 3. Build bowls: farro on the bottom, then spinach, cherry tomatoes, and avocado slices. Lay sliced tuna on top. 4. Drizzle generously with lemon tahini dressing and finish with sesame seeds.",
+    "tip": "Tuna overcooks fast. Pull it off the heat when it still looks slightly underdone in the center and let it rest. Carryover heat does the rest. For a weeknight shortcut, use pre-cooked farro pouches.",
+    "productId": null
+  }
+}
