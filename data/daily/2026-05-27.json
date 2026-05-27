@@ -1,0 +1,165 @@
+{
+  "date": "2026-05-27",
+  "dateLabel": "Wednesday, May 27, 2026",
+  "generatedAt": "2026-05-27T11:08:26.591Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "banana enzyme destroys berry flavanols",
+      "headline": "That Banana in Your Morning Smoothie Is Quietly Canceling Out Your Berries",
+      "body": "You throw in a banana for creaminess, add some blueberries for antioxidants, and hit blend. Feels healthy. But researchers at UC Davis found a major problem with this combination. Bananas contain high levels of an enzyme called polyphenol oxidase that attacks and destroys flavanols, the beneficial compounds in berries, grapes, and cocoa. In a controlled crossover study, people who drank a banana smoothie showed 84 percent lower flavanol levels in their blood compared to those who took flavanols in a capsule. The berry smoothie without banana matched the capsule. The fix is simple: swap the banana for mango, pineapple, or yogurt when you want the full benefit of your berries.",
+      "takeaway": "If you want the cardiovascular and cognitive benefits of berry flavanols, leave the banana out. Use mango, pineapple, or yogurt as your base instead.",
+      "source": "Food & Function (Royal Society of Chemistry)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
+      "pexelsQuery": "banana and berries smoothie blender",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8845109/pexels-photo-8845109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8845109/pexels-photo-8845109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yaroslav Shuraev",
+        "photographerUrl": "https://www.pexels.com/@yaroslav-shuraev",
+        "photoPageUrl": "https://www.pexels.com/photo/hand-of-a-person-operating-a-blender-8845109/",
+        "avgColor": "#B59A89"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "vitamin D2 reduces D3 levels body",
+      "headline": "Your Vitamin D Supplement Might Be Working Against You. It Depends Which One You're Taking.",
+      "body": "Most people assume vitamin D is vitamin D. Not quite. A meta-analysis from the University of Surrey reviewed 11 randomized controlled trials covering 655 adults and found something unexpected: people taking vitamin D2 supplements actually ended up with lower levels of vitamin D3 in their bodies, the form your skin naturally makes from sunlight and the one your body uses most effectively. In some cases, D3 levels dropped below those seen in people taking no supplement at all. Vitamin D3 also appears to be more effective at supporting immune function. If your supplement label says D2 (ergocalciferol), it may be worth switching to D3 (cholecalciferol), which is now available in vegan forms made from algae.",
+      "takeaway": "Check your supplement label. Choose D3 over D2 for better absorption and immune support. Vegan D3 from algae is widely available.",
+      "source": "Nutrition Reviews (University of Surrey)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17604755/pexels-photo-17604755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17604755/pexels-photo-17604755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Beelith USA",
+        "photographerUrl": "https://www.pexels.com/@beelith",
+        "photoPageUrl": "https://www.pexels.com/photo/vials-with-pills-17604755/",
+        "avgColor": "#B48D92"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "travel experiences slow biological aging",
+      "headline": "Scientists Say Your Next Vacation Might Actually Be Doing Something Real for Your Health",
+      "body": "Researchers at Edith Cowan University applied the concept of entropy to human aging and found that positive travel experiences may help slow aspects of the biological aging process. The theory: activities common in travel, like walking, exploring new places, meeting people, and reducing daily routine stress, support the body systems involved in immune function, metabolic balance, and resilience. The researchers propose that good travel keeps the body in a healthier, more ordered biological state. The flip side also holds. Stressful, disruptive travel can have the opposite effect. This does not mean you need a luxury vacation. The key factors are novelty, movement, social connection, and genuine rest.",
+      "takeaway": "Plan a trip that includes new environments, physical activity, and real downtime. The combination may do more for your long-term health than you think.",
+      "source": "Journal of Travel Research (Edith Cowan University)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
+      "pexelsQuery": "person hiking outdoors nature trail",
+      "photo": {
+        "url": "https://images.pexels.com/photos/9786903/pexels-photo-9786903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9786903/pexels-photo-9786903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alari Tammsalu",
+        "photographerUrl": "https://www.pexels.com/@alaritammsalu",
+        "photoPageUrl": "https://www.pexels.com/photo/man-walking-on-a-pathway-in-the-forest-9786903/",
+        "avgColor": "#59564D"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "beetroot juice oral microbiome blood pressure older adults",
+      "headline": "Beetroot Juice Changed the Bacteria in Older Adults' Mouths and Their Blood Pressure Dropped",
+      "body": "In the largest study of its kind, University of Exeter researchers found that older adults who drank concentrated beetroot juice twice daily for two weeks saw a significant drop in blood pressure. Younger adults in the same study did not. The reason comes down to the mouth. Oral bacteria convert dietary nitrate into nitric oxide, the molecule that relaxes blood vessels. As people age, nitric oxide production naturally declines and the balance of mouth bacteria shifts. Beetroot juice reversed that, reducing harmful bacteria like Prevotella while increasing beneficial bacteria like Neisseria. It is not a replacement for medication, but eating more nitrate-rich vegetables, spinach, arugula, celery, and beets, appears to matter more as you get older.",
+      "takeaway": "If you are over 50, adding more nitrate-rich vegetables to your daily diet, including beetroot, spinach, and arugula, may support healthier blood vessels through your oral microbiome.",
+      "source": "Free Radical Biology and Medicine (University of Exeter)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260524021154.htm",
+      "pexelsQuery": "beetroot juice glass vegetables",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5965948/pexels-photo-5965948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5965948/pexels-photo-5965948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vanessa Loring",
+        "photographerUrl": "https://www.pexels.com/@vanessa-loring",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-purple-fruits-and-vegetables-on-a-purple-surface-5965948/",
+        "avgColor": "#6E4B96"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "context": "American writer and humorist whose sharp wit on human nature has made his words a staple in performance and endurance coaching."
+  },
+  "workout": {
+    "type": "LOWER",
+    "workout_type": "lower",
+    "title": "Squat and Hinge Starter: Bodyweight Lower-Body Foundation",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "fat_loss"
+    ],
+    "tags": [
+      "no_equipment",
+      "lower_body",
+      "beginner_friendly",
+      "joint_friendly",
+      "under_30_min",
+      "squat_dominant",
+      "hinge_dominant"
+    ],
+    "tip": "If your knees ache during squats, widen your stance slightly and point your toes out. Focus on sitting back into your hips rather than letting the knees drive forward.",
+    "warmup": "Spend 3 minutes walking in place, then do 10 slow leg swings per side and 10 hip circles per side. Finish with 5 slow bodyweight squats, pausing at the bottom for 2 seconds each rep.",
+    "exercises": [
+      {
+        "name": "Bodyweight Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Stand feet shoulder-width apart, sit back and down as if reaching for a chair. Keep chest tall and heels grounded."
+      },
+      {
+        "name": "Romanian Deadlift (Bodyweight)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Stand tall, soften your knees, and hinge at the hips pushing them back until you feel a stretch in the hamstrings. Return by driving hips forward."
+      },
+      {
+        "name": "Reverse Lunge",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Step one foot back, lower your back knee toward the floor, then push through your front heel to return. Easier on the knees than forward lunges."
+      },
+      {
+        "name": "Glute Bridge",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Lie on your back, feet flat on the floor, drive your hips up squeezing your glutes at the top. Hold 1 second at the top each rep."
+      },
+      {
+        "name": "Wall Sit",
+        "sets": "3",
+        "reps": "30 sec hold",
+        "notes": "Back flat against a wall, thighs parallel to floor. If 30 seconds is too easy, aim for 45. If too hard, raise your hips slightly."
+      }
+    ],
+    "cooldown": "Hold a standing quad stretch for 20 seconds each leg, then a seated hamstring stretch for 20 seconds each side. Finish with 10 slow deep breaths."
+  },
+  "meal": {
+    "title": "Seared Duck... wait — excluded. Let me use eggs.",
+    "type": "dinner"
+  }
+}
