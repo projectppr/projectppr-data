@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-28",
+  "dateLabel": "Thursday, May 28, 2026",
+  "generatedAt": "2026-05-28T11:02:55.768Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "universal RNA transcriptomic aging clock",
+      "headline": "Scientists Just Built a Universal Aging Clock That Works Across Every Species. Yours Might Be Off.",
+      "body": "Your birth certificate says one thing. Your cells might say something else entirely. A new study published in Nature analyzed more than 11,000 collections of RNA data across mice, rats, monkeys, and humans, building what researchers call a transcriptomic aging clock that works across all mammalian species. Unlike older DNA-based markers, this clock measures the actual loss of cellular function over time, not just the passing of years. The team at Harvard's Brigham and Women's Hospital also built a free online tool called TACO so other scientists can test tissue samples against the clock. The goal: help identify which drugs or lifestyle changes genuinely slow aging at the cellular level.",
+      "takeaway": "This clock measures whether your cells are aging faster or slower than your calendar age, which could one day help personalize anti-aging strategies based on your actual biological state.",
+      "source": "Scientific American",
+      "sourceUrl": "https://www.scientificamerican.com/article/universal-aging-clocks-offer-new-clues-to-longevity/",
+      "pexelsQuery": "DNA helix laboratory science research",
+      "product": {
+        "id": "book-009",
+        "name": "Lifespan - David Sinclair Audiobook",
+        "brand": "David Sinclair",
+        "asin": "B07QGH1Q43",
+        "url": "https://www.amazon.com/dp/B07QGH1Q43?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "longevity",
+          "aging",
+          "genetics",
+          "book",
+          "audiobook",
+          "science",
+          "health"
+        ],
+        "blurb": "The science of why we age and what we can actually do about it."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/35967917/pexels-photo-35967917.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/35967917/pexels-photo-35967917.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nicola Narracci",
+        "photographerUrl": "https://www.pexels.com/@nicola-narracci-157460431",
+        "photoPageUrl": "https://www.pexels.com/photo/abstract-visual-representation-of-dna-helix-35967917/",
+        "avgColor": "#090913"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "handwriting speed cognitive decline biomarker",
+      "headline": "How You Write By Hand Could Be an Early Signal Your Brain Is Changing",
+      "body": "Handwriting is one of the most demanding things your brain does. It requires motor control, working memory, spatial processing, and executive function all firing at once. New research published in Frontiers in Human Neuroscience found that the speed and stroke organization of handwriting during complex tasks, like taking dictation, could distinguish older adults with cognitive impairment from those without. The Portuguese research team used a digital tablet and inking pen to capture subtle movement patterns invisible to the naked eye. Simple motor tasks showed no difference between groups. Only the cognitively demanding writing tasks exposed the gap.",
+      "takeaway": "Keep writing by hand. Complex handwriting tasks challenge your brain in ways that typing cannot replicate, and may help maintain the very functions researchers are now using to detect cognitive decline.",
+      "source": "Frontiers in Human Neuroscience",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-cognitive-decline-older-people.html",
+      "pexelsQuery": "person writing by hand notebook pen",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6326119/pexels-photo-6326119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6326119/pexels-photo-6326119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vanessa Garcia",
+        "photographerUrl": "https://www.pexels.com/@vanessa-garcia",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-man-writing-on-journal-6326119/",
+        "avgColor": "#7D7A7A"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "peppermint oil blood pressure randomized trial",
+      "headline": "A Daily Dose of Peppermint Oil Dropped Blood Pressure by 8.5 Points in 20 Days",
+      "body": "Not what you expect to see in a clinical trial. Researchers at the University of Central Lancashire ran a randomized, placebo-controlled trial with 40 adults who had mildly elevated blood pressure. The group taking 100 microliters of peppermint oil twice a day for 20 days dropped their systolic blood pressure by an average of 8.5 mmHg. The placebo group saw no meaningful change. Scientists believe peppermint works through antioxidant, anti-inflammatory, and vasodilatory properties that directly target mechanisms behind high blood pressure. The study was small and short, so it is not a replacement for medication. But for the estimated 1.4 billion people globally with elevated readings, it is an intriguing and affordable starting point.",
+      "takeaway": "If your blood pressure is mildly elevated and you are not yet on medication, this is worth discussing with your doctor. The trial used 100 microliters of peppermint oil twice daily for three weeks.",
+      "source": "PLOS One",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-peppermint-oil-blood-pressure-clinical.html",
+      "pexelsQuery": "peppermint plant leaves herbs fresh",
+      "photo": {
+        "url": "https://images.pexels.com/photos/33337352/pexels-photo-33337352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33337352/pexels-photo-33337352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Stepko",
+        "photographerUrl": "https://www.pexels.com/@stepkoanna",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-fresh-mint-leaves-in-natural-light-33337352/",
+        "avgColor": "#6F9669"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "hidden cortisol elevation resistant hypertension",
+      "headline": "If Your Blood Pressure Won't Budge No Matter What You Do, Cortisol Might Be Why",
+      "body": "Nearly 10 million Americans have blood pressure that stays high even on three or more medications. Doctors have long struggled to explain why. Now the MOMENTUM study, presented at the American College of Cardiology's 2026 Scientific Session, has a major clue. Researchers at Mount Sinai found that 27 percent of patients with treatment-resistant hypertension had hypercortisolism, meaning chronically elevated cortisol. That is far higher than anyone expected. Cortisol, the body's primary stress hormone, raises blood pressure as part of the fight-or-flight response. When it stays elevated long term, it does not just affect mood and sleep. It can quietly override every blood pressure drug your doctor has tried.",
+      "takeaway": "If you have persistently high blood pressure that is not responding to treatment, ask your doctor whether testing for elevated cortisol makes sense. This is a fixable underlying cause that is currently being missed in millions of patients.",
+      "source": "Mount Sinai / American College of Cardiology",
+      "sourceUrl": "https://www.mountsinai.org/about/newsroom/2026/nearly-30-percent-of-patients-with-resistant-hypertension-have-a-hormone-disorder-caused-by-high-cortisol",
+      "pexelsQuery": "stressed person overwhelmed work desk",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4064177/pexels-photo-4064177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4064177/pexels-photo-4064177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marcus Aurelius",
+        "photographerUrl": "https://www.pexels.com/@marcus-aurelius",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-woman-holding-her-head-4064177/",
+        "avgColor": "#857A6C"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The first wealth is health.",
+    "author": "Ralph Waldo Emerson",
+    "context": "American essayist, poet, and philosopher whose work shaped the foundations of American intellectual culture."
+  },
+  "workout": {
+    "type": "PULL",
+    "workout_type": "pull",
+    "title": "Hang, Row, and Brace: Back and Core in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar or sturdy door frame",
+      "resistance band (optional)",
+      "floor space"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "upper_body",
+      "core",
+      "pull_dominant",
+      "under_30_min",
+      "beginner_friendly"
+    ],
+    "tip": "If you only have 20 minutes, cut rest periods to 45 seconds and drop one set per exercise. The dead hang alone is worth doing every single day.",
+    "warmup": "Spend 3 minutes doing arm circles, shoulder rolls, and slow cat-cow on the floor. Finish with 10 scapular shrugs while hanging from the bar, just packing your shoulder blades down without pulling with your arms.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "20-40 seconds",
+        "notes": "Use an overhand grip. Let your shoulders fully elevate at the start, then gently pull them down and back before you begin your hold. This decompresses the spine and builds grip strength. Bend knees if feet touch the floor."
+      },
+      {
+        "name": "Inverted Row (use a table edge, low bar, or rings)",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Body straight as a plank, heels on the floor. Pull your chest to the bar and squeeze your shoulder blades together at the top. The more horizontal your body, the harder it gets. If it is too easy, elevate your feet on a chair."
+      },
+      {
+        "name": "Band Pull-Apart",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Hold a resistance band at shoulder height with both hands, arms straight. Pull the band apart until it touches your chest, squeezing your rear delts. If you have no band, do prone Y raises lying face-down on the floor."
+      },
+      {
+        "name": "Scapular Pull-Up",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "Hang from the bar with straight arms. Without bending your elbows, depress your shoulder blades to lift your body 1 to 2 inches. Hold for one second, then lower fully. This is the foundation of a full pull-up and most people skip it entirely."
+      },
+      {
+        "name": "Hollow Body Hold",
+        "sets": "3",
+        "reps": "20-30 seconds",
+        "notes": "Lie on your back, press your lower back into the floor, arms extended overhead, and legs straight and raised a few inches. This is harder than it looks. If your lower back lifts off the floor, raise your legs higher or bend your knees slightly."
+      }
+    ],
+    "cooldown": "Finish with a 90/90 hip stretch on each side and a doorway chest opener for 60 seconds per side. Shake out your hands and forearms after the dead hangs.",
+    "product": {
+      "id": "str-001",
+      "name": "Gymnastic Rings - Double Circle Wood",
+      "brand": "Double Circle",
+      "asin": "B076X32LFY",
+      "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$",
+      "keywords": [
+        "gymnastics",
+        "rings",
+        "strength",
+        "bodyweight",
+        "upper body",
+        "pull-ups",
+        "dips",
+        "core",
+        "home gym"
+      ],
+      "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+    }
+  },
+  "meal": {
+    "title": "Seared Halibut with White Bean Mash and Gremolata",
+    "type": "dinner",
+    "mainProtein": "halibut",
+    "prepTime": "20 min",
+    "calories": 480,
+    "protein": 42,
+    "carbs": 32,
+    "fat": 17,
+    "ingredients": [
+      "2 halibut fillets (6 oz each)",
+      "1 can (15 oz) white beans, drained and rinsed",
+      "2 garlic cloves, minced",
+      "1/4 cup low-sodium chicken or vegetable broth",
+      "1 lemon (zest and juice)",
+      "Small handful of flat-leaf parsley, finely chopped",
+      "1 tablespoon olive oil",
+      "1/2 teaspoon red pepper flakes",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": "1. Pat halibut dry and season both sides with salt, pepper, and red pepper flakes. Heat olive oil in a non-stick pan over medium-high heat. Sear fillets 3 to 4 minutes per side until golden and cooked through. Remove and rest. 2. In the same pan over medium heat, add garlic and cook 30 seconds. Add white beans and broth. Mash roughly with a fork until creamy but still textured. Season with salt and pepper. 3. Make gremolata by combining lemon zest, parsley, and a squeeze of lemon juice in a small bowl. 4. Plate the bean mash, lay halibut on top, and spoon gremolata over everything.",
+    "tip": "Halibut dries out fast. Pull it off the heat the moment it flakes easily. A minute too long and you have cardboard. Err on the side of slightly underdone and let carry-over cooking finish it.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
