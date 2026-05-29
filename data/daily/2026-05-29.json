@@ -1,0 +1,266 @@
+{
+  "date": "2026-05-29",
+  "dateLabel": "Friday, May 29, 2026",
+  "generatedAt": "2026-05-29T11:02:23.495Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "weekly exercise volume cardiovascular risk reduction",
+      "headline": "150 Minutes a Week Protects Your Heart. But Real Protection Needs a Lot More.",
+      "body": "The 150-minute weekly exercise guideline has been the standard for years. But a new study published in the British Journal of Sports Medicine says that to get substantial heart protection, you need roughly 560 to 610 minutes of moderate to vigorous activity per week. That's a more than 30% reduction in cardiovascular risk. The standard 150 minutes? A more modest 8 to 9% reduction. The study also found that people with lower fitness levels need slightly more weekly exercise than fitter individuals to achieve the same benefit. Researchers say future guidelines may need to be personalized, not one-size-fits-all.",
+      "takeaway": "150 minutes is the floor, not the ceiling. If heart health is your priority, gradually build toward 400 to 500 minutes weekly and track your progress.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-real-heart-weekly-climbs-current.html",
+      "pexelsQuery": "person running outdoors park",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7879937/pexels-photo-7879937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7879937/pexels-photo-7879937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-active-wear-running-near-park-benches-7879937/",
+        "avgColor": "#9C9B86"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "phytochemical supplement blend muscle soreness RCT",
+      "headline": "A Blend of Turmeric, Pomegranate, and One Obscure Compound Just Passed a Proper Recovery Trial",
+      "body": "Muscle soreness after hard exercise comes from oxidative stress and inflammation. A new randomized controlled trial from Loughborough University and the University of Nottingham tested a supplement combining turmeric, pomegranate extract, and calcium fructoborate on markers of exercise-induced muscle damage. The results showed promise, with reduced muscle soreness and lower perceived exhaustion after exercise. Researchers called it the first study of this specific blend and noted it may also have improved sleep quality post-workout, though that finding needs further investigation. The study was published in the journal Nutrients.",
+      "takeaway": "Turmeric and pomegranate already have a recovery track record. This trial adds calcium fructoborate to the mix as a combination worth watching.",
+      "source": "Nutrients (Loughborough University / University of Nottingham)",
+      "sourceUrl": "https://www.nutraingredients.com/Article/2026/04/15/phytochemical-blend-holds-promise-for-exercise-recovery-study/",
+      "pexelsQuery": "turmeric powder spice bowl",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7966784/pexels-photo-7966784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7966784/pexels-photo-7966784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "jianwei zhu",
+        "photographerUrl": "https://www.pexels.com/@jianwei-zhu-59597368",
+        "photoPageUrl": "https://www.pexels.com/photo/top-view-of-various-spices-in-pots-7966784/",
+        "avgColor": "#382F20"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "intermittent fasting versus standard dieting evidence",
+      "headline": "Intermittent Fasting Just Got Its Biggest Reality Check Yet",
+      "body": "A major Cochrane review analyzed 22 clinical trials involving nearly 2,000 adults and found that intermittent fasting does not produce significantly more weight loss than standard diet advice or no structured plan at all. The verdict is straightforward: the window you eat in matters less than how much you eat overall. A separate German study reinforced this, showing that when calorie intake stayed the same, an eight-hour eating window did not improve metabolic or cardiovascular markers. What did shift was the body's internal clock. The takeaway is that calorie reduction, not meal timing, appears to be the actual driver of results.",
+      "takeaway": "If intermittent fasting helps you eat less without thinking about it, great. But if it doesn't, standard calorie awareness works just as well.",
+      "source": "Cochrane Database of Systematic Reviews / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
+      "pexelsQuery": "empty plate clock fasting meal",
+      "photo": {
+        "url": "https://images.pexels.com/photos/20488464/pexels-photo-20488464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/20488464/pexels-photo-20488464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gül Işık",
+        "photographerUrl": "https://www.pexels.com/@ekrulila",
+        "photoPageUrl": "https://www.pexels.com/photo/people-dining-by-the-table-in-ramadan-20488464/",
+        "avgColor": "#5E5149"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "multidimensional sleep health cardiometabolic risk AHA",
+      "headline": "Your Sleep Score Is More Than Hours. Your Heart Cares About All of It.",
+      "body": "The American Heart Association just published a major scientific statement in Circulation saying that sleep health is multidimensional. Duration is only one piece. How long it takes you to fall asleep, how consistent your schedule is, your daytime functioning, and how satisfied you feel with your rest all matter for cardiometabolic health. Poor sleep across these dimensions is linked to elevated blood pressure, inflammation, glucose problems, obesity, and heart disease. Doctors are now being encouraged to ask patients about more than just hours slept each night. Sleep regularity, in particular, is emerging as a strong independent risk factor.",
+      "takeaway": "Track more than sleep duration. Aim for a consistent bedtime and wake time, and pay attention to how you feel the next day as a real signal of sleep quality.",
+      "source": "American Heart Association / Circulation: Cardiovascular Quality and Outcomes",
+      "sourceUrl": "https://newsroom.heart.org/news/sleep-matters-duration-timing-quality-and-more-may-affect-cardiovascular-disease-risk",
+      "pexelsQuery": "person sleeping bed night",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7504922/pexels-photo-7504922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7504922/pexels-photo-7504922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Artem Podrez",
+        "photographerUrl": "https://www.pexels.com/@artempodrez",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-girl-sleeping-near-a-lamp-7504922/",
+        "avgColor": "#605354"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The human body is capable of amazing physical deeds. If we could just free ourselves from our perceived limitations and tap into our internal fire, the possibilities are endless.",
+    "author": "Dean Karnazes",
+    "context": "Ultramarathon runner who has run 50 marathons in 50 states in 50 consecutive days and is known for pushing the outer limits of human endurance."
+  },
+  "workout": {
+    "type": "RUN",
+    "workout_type": "intervals",
+    "title": "Pyramid Pace Builder: 1-2-3-2-1 Effort Ladder",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "distance": "3.5 miles",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "5k",
+      "10k"
+    ],
+    "tags": [
+      "no_equipment",
+      "cardio",
+      "under_60_min",
+      "beginner_friendly"
+    ],
+    "tip": "If you are short on time or energy, cut the workout at the top of the pyramid after the 3-minute hard effort and run easy back to your car. You still did the work that counts.",
+    "warmup": "Start with 5 minutes of easy jogging at a pace where you can hold a full conversation. Add 3 gentle leg swings each side and a short 20-second stride at the end to wake up your legs before the first interval.",
+    "exercises": [
+      {
+        "name": "1-Minute Hard Effort (first rung)",
+        "sets": "1",
+        "reps": "1 min",
+        "notes": "Run at a pace that feels like a 7 out of 10. Breathing is noticeably harder but you can get a few words out. Recover with 90 seconds easy jogging."
+      },
+      {
+        "name": "2-Minute Hard Effort",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Same effort level, just sustained longer. Focus on relaxed shoulders and short, quick steps. Recover with 2 minutes easy jogging."
+      },
+      {
+        "name": "3-Minute Hard Effort (peak)",
+        "sets": "1",
+        "reps": "3 min",
+        "notes": "This is the top of the pyramid and the hardest segment. Stay relaxed and keep your breathing rhythmic. Recover with 3 minutes easy jogging."
+      },
+      {
+        "name": "2-Minute Hard Effort (descending)",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Your legs will be tired so the same effort will feel harder. That is the point. Recover with 2 minutes easy jogging."
+      },
+      {
+        "name": "1-Minute Hard Effort (final rung)",
+        "sets": "1",
+        "reps": "1 min",
+        "notes": "Finish strong. Give it everything in this last minute. Then drop to easy jogging to begin your cooldown."
+      }
+    ],
+    "cooldown": "Finish with 5 to 7 minutes of very easy jogging or walking until your breathing fully settles. Shake out your legs and do a 30-second quad stretch on each side.",
+    "product": {
+      "id": "run-004",
+      "name": "HOKA Clifton 9",
+      "brand": "HOKA",
+      "asin": "B0CPBZ8668",
+      "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "daily trainer",
+        "cushion",
+        "marathon",
+        "recovery run",
+        "easy run"
+      ],
+      "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+    }
+  },
+  "meal": {
+    "title": "Seared Trout and Farro Bowl with Roasted Cherry Tomatoes and Herb Yogurt",
+    "type": "dinner",
+    "mainProtein": "trout",
+    "prepTime": "20 min",
+    "calories": 490,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 16,
+    "ingredients": [
+      "2 trout fillets (about 5 oz each), skin on",
+      "1 cup cooked farro",
+      "1 cup cherry tomatoes",
+      "1 cup baby spinach",
+      "1/2 cup plain Greek yogurt",
+      "1 tbsp fresh dill, chopped",
+      "1 tbsp fresh parsley, chopped",
+      "1 clove garlic, minced",
+      "Juice of half a lemon",
+      "1 tbsp olive oil",
+      "Salt and black pepper to taste",
+      "Pinch of smoked paprika"
+    ],
+    "instructions": "1. Preheat oven to 400F. Toss cherry tomatoes with a drizzle of olive oil, salt, and pepper on a small baking tray and roast for 12 to 15 minutes until blistered. 2. While tomatoes roast, mix Greek yogurt with dill, parsley, garlic, lemon juice, salt, and pepper to make the herb yogurt. Set aside. 3. Pat trout fillets dry and season with salt, pepper, and smoked paprika. Heat olive oil in a skillet over medium-high heat and sear trout skin-side down for 3 to 4 minutes until the skin is crispy, then flip and cook 1 to 2 minutes more. 4. Build bowls with farro as the base, add a handful of spinach, top with the trout fillet and roasted tomatoes, and finish with a generous spoonful of herb yogurt.",
+    "tip": "Cook a big batch of farro at the start of the week and store it in the fridge. It reheats in 90 seconds and makes high-protein bowls like this a 15-minute weeknight dinner.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
