@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-30",
+  "dateLabel": "Saturday, May 30, 2026",
+  "generatedAt": "2026-05-30T11:04:33.847Z",
+  "articles": [
+    {
+      "category": "HORMONES",
+      "topic": "testosterone exercise visceral fat aging women",
+      "headline": "Adding Testosterone to an Exercise Program Selectively Targets Belly Fat in Older Women. A New Trial Just Showed How.",
+      "body": "Most fat-loss strategies reduce total body weight, which sounds good until you realize that also means losing muscle, which is the last thing aging adults need. A randomized trial from the University of Connecticut tested a smarter approach: combining a topical testosterone gel with structured exercise in 66 women over 65 recovering from hip fractures. After six months, total body fat stayed similar in both groups. But here is the part that matters: the women using the gel actually saw a reduction in visceral fat, the dangerous kind stored deep in the abdomen, while the exercise-only group saw visceral fat increase, which is exactly what normally happens after a fracture.",
+      "takeaway": "Exercise alone matters, but adding hormone support may help redirect where your body stores fat as you age, especially during recovery from injury.",
+      "source": "Obesity Pillars (University of Connecticut / ScienceDaily)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260506225235.htm",
+      "pexelsQuery": "older woman exercise recovery gym",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6922130/pexels-photo-6922130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6922130/pexels-photo-6922130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/person-sitting-on-exercise-mat-while-using-a-tablet-6922130/",
+        "avgColor": "#687181"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "fermented foods microbiome diversity inflammation",
+      "headline": "Fermented Foods Beat High-Fiber Diets for Gut Diversity in a Head-to-Head Stanford Trial",
+      "body": "Fiber has always been the gut health hero. But a 10-week clinical trial from Stanford School of Medicine flipped that assumption on its head. Researchers randomly assigned 36 healthy adults to either a fermented food diet or a high-fiber diet. The fermented food group, eating yogurt, kefir, kimchi, and kombucha, saw a significant rise in gut microbiome diversity. The high-fiber group barely moved the needle. The fermented food group also showed reductions in 19 inflammatory proteins, including interleukin-6, a marker tied to diabetes, arthritis, and chronic stress. Four types of immune cells showed reduced activation too.",
+      "takeaway": "Add at least one fermented food daily. Yogurt at breakfast, kimchi with dinner, or kefir in a smoothie are easy starting points.",
+      "source": "Cell (Stanford School of Medicine)",
+      "sourceUrl": "https://yournews.com/2026/05/26/7003294/stanford-trial-finds-fermented-foods-may-quickly-boost-gut-diversity/",
+      "pexelsQuery": "fermented foods kimchi yogurt kefir",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5305440/pexels-photo-5305440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5305440/pexels-photo-5305440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kai-Chieh Chan",
+        "photographerUrl": "https://www.pexels.com/@qjpioneer",
+        "photoPageUrl": "https://www.pexels.com/photo/spicy-cabbage-on-white-ceramic-bowl-5305440/",
+        "avgColor": "#A37946"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "cluster training sets explosive power performance",
+      "headline": "How You Structure Your Rest Between Sets Changes What Your Body Gets Out of the Workout",
+      "body": "Most people think of rest between sets as dead time. New research says it is actually a training variable you can use to your advantage. A 2026 meta-analysis published in BMC Sports Science, Medicine and Rehabilitation compared cluster training, where you break sets into smaller chunks with short rest periods of 15 to 45 seconds built in, against traditional continuous sets. Across 11 studies, cluster training outperformed traditional sets for sprint ability, explosive power, and peak power output. The effect was especially strong in sports requiring repeated bursts of speed and power.",
+      "takeaway": "If power and speed matter to you, try splitting your sets into mini-clusters with 20 to 30 seconds of rest mid-set rather than grinding through all reps continuously.",
+      "source": "BMC Sports Science, Medicine and Rehabilitation",
+      "sourceUrl": "https://link.springer.com/article/10.1186/s13102-026-01550-x",
+      "pexelsQuery": "barbell squat gym training sets",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17210043/pexels-photo-17210043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17210043/pexels-photo-17210043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Doğu Tuncer",
+        "photographerUrl": "https://www.pexels.com/@dogu-tuncer-339534179",
+        "photoPageUrl": "https://www.pexels.com/photo/man-training-with-barbell-in-gym-17210043/",
+        "avgColor": "#4A4448"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "protein intake recommendations daily adults 2025 guidelines",
+      "headline": "The New Dietary Guidelines Just Raised the Bar on Daily Protein. Most Adults Are Still Missing It.",
+      "body": "The 2025-2030 Dietary Guidelines for Americans made a notable change: they now recommend a serving of protein with every meal, and set a target range of 1.2 to 1.6 grams of protein per kilogram of body weight per day. That is meaningfully higher than what most people actually eat. Research shows older adults, adolescent females, and people managing their weight are most at risk of coming up short. When protein intake falls short, people report low energy, brain fog, low mood, and midday crashes. The guidelines also flag that hitting protein goals is not just about quantity but about spreading intake across meals rather than loading it all at dinner.",
+      "takeaway": "Work out your protein target: multiply your weight in kilograms by 1.4 as a practical midpoint. Then make sure breakfast and lunch each carry a real protein source, not just dinner.",
+      "source": "The Journal of Nutrition",
+      "sourceUrl": "https://jn.nutrition.org/article/S0022-3166(26)00126-4/fulltext",
+      "pexelsQuery": "high protein meal eggs chicken food prep",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6294205/pexels-photo-6294205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6294205/pexels-photo-6294205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Klaus Nielsen",
+        "photographerUrl": "https://www.pexels.com/@klaus-nielsen",
+        "photoPageUrl": "https://www.pexels.com/photo/whole-raw-brown-eggs-arranged-on-table-in-kitchen-6294205/",
+        "avgColor": "#868381"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "context": "American entrepreneur, author, and motivational speaker who shaped a generation of performance thinkers."
+  },
+  "workout": {
+    "type": "FULL_BODY",
+    "workout_type": "full_body",
+    "title": "Ground-to-Standing Power: 5-Move Full-Body Circuit",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "fat_loss",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "full_body",
+      "fat_loss",
+      "under_30_min",
+      "muscle_gain"
+    ],
+    "tip": "If you only have one set of dumbbells, slow down the lowering phase of every rep by 3 seconds. That single change makes a lighter weight feel significantly harder and keeps the workout effective no matter what weight you have at home.",
+    "warmup": "Spend 3 minutes moving continuously: 30 seconds of arm circles, 30 seconds of leg swings, 30 seconds of hip circles, then 30 seconds each of bodyweight squats, inchworms, and jumping jacks at a low pace. Your goal is elevated heart rate and warm joints, not fatigue.",
+    "exercises": [
+      {
+        "name": "Dumbbell Goblet Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hold one dumbbell at chest height with both hands. Drive knees out, keep chest tall, and pause for one count at the bottom. Modification: hold a water bottle or no weight and just own the depth."
+      },
+      {
+        "name": "Dumbbell Romanian Deadlift",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold dumbbells in front of thighs, hinge at hips until you feel a pull in your hamstrings, then drive hips forward to stand. Keep a slight bend in the knees and back flat throughout."
+      },
+      {
+        "name": "Dumbbell Push Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Start with dumbbells at shoulder height. Dip slightly at the knees, then drive them overhead using leg power to initiate the press. Lower under control. This is not a strict press, use your legs."
+      },
+      {
+        "name": "Dumbbell Bent-Over Row",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Hinge forward with a flat back, row one dumbbell toward your hip, elbow driving back and up. Hold for one count at the top. Switch sides. Avoid rotating your torso."
+      },
+      {
+        "name": "Alternating Reverse Lunge with Dumbbell Hold",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Hold dumbbells at your sides. Step back into a lunge, keep front shin vertical and back knee hovering just off the floor. Drive through the front heel to return. Modification: no weights, hands on hips."
+      }
+    ],
+    "cooldown": "Spend 3 to 4 minutes in static holds: a standing quad stretch, a kneeling hip flexor stretch for 30 seconds each side, and a seated forward fold for the hamstrings. Breathe slowly and let the heart rate come all the way down.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Seared Turkey Cutlet with White Bean Puree and Wilted Spinach",
+    "type": "dinner",
+    "mainProtein": "turkey",
+    "prepTime": "20 min",
+    "calories": 480,
+    "protein": 46,
+    "carbs": 32,
+    "fat": 16,
+    "ingredients": [
+      "2 turkey breast cutlets (about 180g each)",
+      "1 can white beans, drained and rinsed",
+      "2 large handfuls of baby spinach",
+      "3 garlic cloves, minced",
+      "2 tablespoons olive oil",
+      "Juice of 1 lemon",
+      "1 teaspoon smoked paprika",
+      "Salt and black pepper to taste",
+      "Fresh parsley to finish"
+    ],
+    "instructions": "Season turkey cutlets with smoked paprika, salt, and pepper. Heat 1 tablespoon of olive oil in a pan over medium-high heat and sear cutlets for 3 to 4 minutes per side until cooked through and golden. Remove and rest. In the same pan, add remaining oil and half the garlic, cook 30 seconds, then add white beans with a splash of water. Mash roughly with a fork to a chunky puree, add lemon juice, salt, and pepper. In a separate pan or push the beans aside, wilt spinach with remaining garlic for 1 to 2 minutes. Serve turkey over the bean puree with spinach alongside and a scatter of fresh parsley.",
+    "tip": "Turkey cutlets are thin and cook fast, making them perfect for weeknight speed. Pound them lightly if they are uneven so they cook at the same rate and you avoid dry edges.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
