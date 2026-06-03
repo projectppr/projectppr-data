@@ -1,0 +1,228 @@
+{
+  "date": "2026-06-03",
+  "dateLabel": "Wednesday, June 3, 2026",
+  "generatedAt": "2026-06-03T11:08:17.910Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "sleep duration organ biological aging",
+      "headline": "Your Organs Are Aging at Different Speeds. Your Sleep Hours Are Part of the Reason.",
+      "body": "A massive new study published in Nature analyzed nearly half a million people and used machine learning to build 23 biological aging clocks across 17 organ systems, including the brain, heart, lungs, liver, and immune system. The finding was clear: both too little and too much sleep accelerate aging in almost every organ. The sweet spot sits between 6.4 and 7.8 hours per night. Sleep less than 6 or more than 8, and the biological gap between how old you are and how old your organs act starts to widen. Researchers called sleep a master regulator of the body's entire aging network, not just something that happens in your brain.",
+      "takeaway": "Aim for 6.5 to 8 hours. Consistently shorter or longer than that window is linked to faster aging across multiple organ systems.",
+      "source": "Nature",
+      "sourceUrl": "https://www.usnews.com/news/health-news/articles/2026-05-14/too-little-or-too-much-sleep-ages-every-organ-in-your-body",
+      "pexelsQuery": "person sleeping in bed at night",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6541074/pexels-photo-6541074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6541074/pexels-photo-6541074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina ⠀",
+        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-woman-sleeping-6541074/",
+        "avgColor": "#78685E"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "hidden gut bacteria CAG-170 chronic disease",
+      "headline": "Scientists Just Found a Gut Bacteria That Keeps Showing Up in Healthy People Worldwide. Nobody Had Studied It Before.",
+      "body": "University of Cambridge researchers analyzed gut microbiome samples from over 11,000 people across 39 countries and found one bacterial group that consistently stood out. It's called CAG-170, and healthy people have a lot more of it. People with inflammatory bowel disease, obesity, multiple sclerosis, chronic fatigue syndrome, rheumatoid arthritis, anxiety, and depression all had lower levels. The bacteria appear to help digest food, support other beneficial gut microbes, and produce vitamin B12. The catch: scientists have never been able to grow CAG-170 in a lab, so it's been largely ignored until now. This discovery could reshape how we define a healthy gut.",
+      "takeaway": "You can't supplement CAG-170 yet, but eating a wide variety of fiber-rich whole foods supports the kind of microbiome diversity where bacteria like this thrive.",
+      "source": "Cell Host & Microbe",
+      "sourceUrl": "https://www.cam.ac.uk/research/news/hidden-bugs-in-our-gut-appear-key-to-good-health-finds-global-study",
+      "pexelsQuery": "colorful vegetables fiber whole foods",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5678108/pexels-photo-5678108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5678108/pexels-photo-5678108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Viktoria  Slowikowska",
+        "photographerUrl": "https://www.pexels.com/@viktoria-slowikowska",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-variety-of-vegetables-on-a-blue-surface-5678108/",
+        "avgColor": "#39574B"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "cortisol stress hormone brain navigation disruption",
+      "headline": "Stress Doesn't Just Cloud Your Thinking. It Literally Scrambles Your Brain's Internal GPS.",
+      "body": "Researchers at Ruhr University Bochum gave participants either cortisol or a placebo, then had them complete a virtual navigation task inside an MRI scanner. The group that received cortisol performed significantly worse and showed disrupted activity in their grid cells, the neurons responsible for spatial orientation in the entorhinal cortex. This region is one of the first areas hit by Alzheimer's disease, and the researchers noted that chronic stress may destabilize it over time. The study, published in PLOS Biology, adds a precise biological mechanism to what many people already feel: when you're stressed, you can't think straight, and your brain literally loses its map.",
+      "takeaway": "Chronic stress isn't just draining your mood. It's impairing a brain region linked to memory and navigation. Protecting that region means managing stress as a long-term priority, not just when it feels bad.",
+      "source": "PLOS Biology",
+      "sourceUrl": "https://medicalxpress.com/news/2026-03-lost-stress-cortisol-scramble-brain.html",
+      "pexelsQuery": "stressed person holding head looking overwhelmed",
+      "photo": {
+        "url": "https://images.pexels.com/photos/3885618/pexels-photo-3885618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3885618/pexels-photo-3885618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/young-frustrated-woman-screaming-with-closed-eyes-3885618/",
+        "avgColor": "#B9ABAB"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "shingles vaccine biological aging inflammation older adults",
+      "headline": "The Shingles Shot Does More Than Prevent a Rash. It May Actually Slow Down How Fast You Age.",
+      "body": "A study from USC using data from nearly 4,000 Americans aged 70 and older found that people who had the shingles vaccine showed measurable signs of slower biological aging compared to those who had not. Vaccinated individuals had lower levels of chronic inflammation, slower epigenetic aging, and better overall biological health markers across seven aging domains. Researchers think the vaccine may reduce a form of low-grade inflammation called inflammaging, which is tied to heart disease, cognitive decline, and frailty. The molecular benefits were strongest within the first three years of vaccination. It's one of the most practical longevity findings in recent years: a two-dose vaccine already recommended for adults over 50.",
+      "takeaway": "If you're 50 or older and haven't had the Shingrix vaccine, talk to your doctor. The evidence now suggests it may do more for your long-term health than you thought.",
+      "source": "Journals of Gerontology",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260225081153.htm",
+      "pexelsQuery": "doctor giving vaccine injection arm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8949897/pexels-photo-8949897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8949897/pexels-photo-8949897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/an-elderly-woman-getting-a-vaccine-8949897/",
+        "avgColor": "#A2A5AC"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The first wealth is health.",
+    "author": "Ralph Waldo Emerson",
+    "context": "19th-century American essayist, philosopher, and poet whose writing shaped modern thinking on self-reliance and human potential."
+  },
+  "workout": {
+    "type": "LOWER",
+    "workout_type": "lower",
+    "title": "Hinge, Squat & Press: Lower-Body Power in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "fat_loss",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "lower_body",
+      "hinge_dominant",
+      "squat_dominant",
+      "under_30_min",
+      "muscle_gain"
+    ],
+    "tip": "If your lower back rounds at the bottom of a Romanian deadlift, shorten your range of motion. Control beats depth every time, especially when you're tired at rep 10.",
+    "warmup": "Spend 3 minutes doing bodyweight leg swings, hip circles, and slow air squats to 90 degrees. Finish with 10 glute bridges on the floor to activate the posterior chain before you load it.",
+    "exercises": [
+      {
+        "name": "Dumbbell Romanian Deadlift",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hinge at the hips, not the waist. Feel the hamstrings load before you drive back up. Keep the dumbbells close to your legs throughout."
+      },
+      {
+        "name": "Goblet Squat with Pause",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold one dumbbell at your chest. Pause for 2 seconds at the bottom of each rep. This kills momentum and forces real quad and glute work."
+      },
+      {
+        "name": "Reverse Lunge with Knee Drive",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Step back and lower your rear knee toward the floor, then drive the rear knee forward as you return to standing. Works balance, glutes, and hip flexors in one shot."
+      },
+      {
+        "name": "Single-Leg Glute Bridge",
+        "sets": "3",
+        "reps": "12 each leg",
+        "notes": "Lie on your back, one foot flat on the floor. Drive through that heel to lift your hips. Squeeze hard at the top for one second. Use a dumbbell across your hip for more resistance."
+      },
+      {
+        "name": "Dumbbell Sumo Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Wide stance, toes turned out 30 to 45 degrees. Hold one dumbbell with both hands between your legs. Drive your knees out and sit deep. Great for inner thighs and glutes."
+      }
+    ],
+    "cooldown": "Finish with 60 seconds of standing quad stretch per leg and a 90-second seated figure-four glute stretch on each side. Your hips will thank you tomorrow.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Seared Salmon and Roasted Broccolini Bowl with Lemon Miso Dressing",
+    "type": "dinner",
+    "mainProtein": "salmon",
+    "prepTime": "20 min",
+    "calories": 480,
+    "protein": 42,
+    "carbs": 32,
+    "fat": 18,
+    "ingredients": [
+      "2 salmon fillets (150g each)",
+      "1 bunch broccolini, trimmed",
+      "1 cup cooked brown rice or farro",
+      "1 tablespoon olive oil",
+      "Salt and black pepper",
+      "1 tablespoon white miso paste",
+      "1 tablespoon fresh lemon juice",
+      "1 teaspoon sesame oil",
+      "1 teaspoon low-sodium soy sauce",
+      "1 teaspoon honey",
+      "1 clove garlic, minced",
+      "1 teaspoon sesame seeds for garnish",
+      "Sliced spring onions for garnish"
+    ],
+    "instructions": "Preheat oven to 220C. Toss broccolini with olive oil, salt, and pepper and roast on a baking tray for 12 to 14 minutes until edges are slightly crispy. While that cooks, whisk together miso paste, lemon juice, sesame oil, soy sauce, honey, and garlic to make the dressing. Season salmon fillets with salt and pepper, then sear in a hot non-stick pan with a little olive oil for 3 to 4 minutes per side until cooked through. Assemble bowls with rice or farro as the base, add broccolini and salmon, drizzle generously with miso dressing, and top with sesame seeds and spring onions.",
+    "tip": "Make a double batch of the miso dressing on Sunday. It keeps in the fridge for a week and works on salads, grain bowls, and steamed vegetables.",
+    "product": {
+      "id": "sup-002",
+      "name": "Nordic Naturals Omega-3 Fish Oil",
+      "brand": "Nordic Naturals",
+      "asin": "B002CQU564",
+      "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+      "category": "supplements",
+      "price_range": "$$",
+      "keywords": [
+        "fish oil",
+        "omega-3",
+        "heart health",
+        "brain health",
+        "inflammation",
+        "supplement",
+        "DHA",
+        "EPA",
+        "recovery"
+      ],
+      "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+    }
+  }
+}
