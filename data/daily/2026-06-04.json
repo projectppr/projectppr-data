@@ -1,0 +1,229 @@
+{
+  "date": "2026-06-04",
+  "dateLabel": "Thursday, June 4, 2026",
+  "generatedAt": "2026-06-04T11:07:12.180Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "cardiovascular health score severe COVID-19 risk",
+      "headline": "Better Heart Health Before the Pandemic Meant Half the Risk of Severe COVID-19",
+      "body": "A study of nearly 30,000 adults published in the Journal of the American Heart Association found that people with the highest heart health scores at the start of the pandemic were almost half as likely to be hospitalized or die from COVID-19 as those with the lowest scores. Researchers used the American Heart Association's Life's Essential 8 framework, which scores physical activity, sleep, blood pressure, and BMI among other factors. For every 14-point rise in that score, COVID-19 hospitalization or death risk dropped by 20%. Your heart health is not just about your heart.",
+      "takeaway": "Improving even a few of the Life's Essential 8 markers, like blood pressure, activity, and sleep, compounds into real protection against serious illness. This is the case for cardiovascular investment at any age.",
+      "source": "Journal of the American Heart Association",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-heart-health-affected-severe-covid.html",
+      "pexelsQuery": "healthy heart pulse cardio fitness",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4679246/pexels-photo-4679246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4679246/pexels-photo-4679246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jens Mahnke",
+        "photographerUrl": "https://www.pexels.com/@atomlaborblog",
+        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-a-heart-rate-monitor-smartwatch-4679246/",
+        "avgColor": "#79746E"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "cognitive decline reversible brain gain any age",
+      "headline": "Your Brain Is Not on a One-Way Decline. A 4,000-Person Study Just Proved It.",
+      "body": "A three-year study of nearly 4,000 adults aged 19 to 94, published in Scientific Reports, found that cognitive decline is not an inevitable part of getting older. Researchers at UT Dallas tracked brain fitness using a multidimensional index covering thinking clarity, emotional balance, and social connectedness. Participants who engaged in targeted brain-healthy habits consistently improved their scores, regardless of age or starting point. Even people in their 70s and 80s improved as much as people in their 20s. The study also showed that consistent mental habits as brief as 5 to 15 minutes a day made a measurable difference.",
+      "takeaway": "You do not need to accept cognitive slowdown as a given. Daily habits that challenge your thinking, manage stress, and maintain social connection all move the needle at any age.",
+      "source": "Scientific Reports (Nature Portfolio)",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-inevitability-cognitive-decline-brain-gain.html",
+      "pexelsQuery": "person reading thinking focus brain",
+      "product": {
+        "id": "book-002",
+        "name": "Endure - Alex Hutchinson Audiobook",
+        "brand": "Alex Hutchinson",
+        "asin": "B078PMQPH7",
+        "url": "https://www.amazon.com/dp/B078PMQPH7?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "endurance",
+          "running",
+          "performance",
+          "mind",
+          "limits",
+          "book",
+          "audiobook",
+          "triathlon",
+          "marathon"
+        ],
+        "blurb": "The science of pushing past your limits. Changed how I think about hard workouts."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4769478/pexels-photo-4769478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4769478/pexels-photo-4769478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/girl-in-white-crew-neck-shirt-sitting-on-brown-wooden-chair-4769478/",
+        "avgColor": "#A38E7A"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Akkermansia gut microbe weight regain prevention",
+      "headline": "This Gut Microbe Helped People Keep the Weight Off. A Proper Trial Just Proved It.",
+      "body": "A randomized controlled trial published in Nature Medicine tested whether supplementing with a pasteurized form of Akkermansia muciniphila, a microbe that lives in the gut's protective lining, could help people maintain weight loss. Ninety adults who had already lost at least 8 percent of their body weight were given either the supplement or a placebo for 24 weeks. The supplement group regained an average of 1.2 kg. The placebo group regained 3.2 kg. The effects were strongest in people who had the lowest natural levels of the bacteria to begin with. Researchers also saw improvements in insulin sensitivity.",
+      "takeaway": "Eating polyphenol-rich foods like berries and grapes can naturally support Akkermansia levels. If you have struggled to maintain weight after dieting, your gut microbiome may be part of the equation.",
+      "source": "Nature Medicine",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04394-7",
+      "pexelsQuery": "gut health probiotic yogurt fermented food",
+      "photo": {
+        "url": "https://images.pexels.com/photos/20379604/pexels-photo-20379604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/20379604/pexels-photo-20379604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "C'Pho Ngondo R.Rouge",
+        "photographerUrl": "https://www.pexels.com/@royalrouge",
+        "photoPageUrl": "https://www.pexels.com/photo/box-of-yogurt-on-table-20379604/",
+        "avgColor": "#3A3B35"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "healthy dietary patterns life expectancy UK Biobank",
+      "headline": "Any One of Five Healthy Diets Can Add Years to Your Life. The Pattern Matters More Than the Label.",
+      "body": "A large UK Biobank study following over 103,000 people, published in Science Advances, found that closely following any of five well-established healthy dietary patterns was linked to 1.5 to 3.0 extra years of life. The five patterns all shared common ground: plenty of whole grains, fruits, vegetables, and plant-based foods, with low processed food intake. The benefits held even for people with a genetic tendency toward a shorter lifespan, suggesting diet can partially offset inherited risk. The researchers found consistency mattered more than which specific plan you followed.",
+      "takeaway": "You do not need the perfect diet. You need a consistent one. Pick a framework that includes more whole foods and fewer processed ones, and stick with it.",
+      "source": "Science Advances",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12904179/",
+      "pexelsQuery": "colorful vegetables whole grains healthy meal",
+      "photo": {
+        "url": "https://images.pexels.com/photos/15611222/pexels-photo-15611222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15611222/pexels-photo-15611222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nadin Sh",
+        "photographerUrl": "https://www.pexels.com/@nadin-sh-78971847",
+        "photoPageUrl": "https://www.pexels.com/photo/a-bowl-with-vegetables-and-an-egg-15611222/",
+        "avgColor": "#575040"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The groundwork of all happiness is health.",
+    "author": "Leigh Hunt",
+    "context": "19th-century English poet and essayist known for his writing on beauty, health, and the good life."
+  },
+  "workout": {
+    "type": "PULL",
+    "workout_type": "pull",
+    "title": "Back to Basics: Row, Hang & Brace",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar or sturdy overhead beam",
+      "resistance band (optional)"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "pull_dominant",
+      "upper_body",
+      "core",
+      "under_30_min"
+    ],
+    "tip": "If you do not have a pull-up bar, a resistance band anchored over a door works for rows and pull-downs. Keep your shoulders packed down away from your ears on every rep.",
+    "warmup": "Spend 2 minutes doing arm circles, shoulder rolls, and slow cat-cow stretches on the floor. Finish with 10 scapular shrugs hanging from the bar to activate your upper back before loading.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "30 seconds",
+        "notes": "Hang from the bar with a full grip. Let your shoulders decompress and breathe slowly. Progress to 45 seconds when this feels easy."
+      },
+      {
+        "name": "Inverted Row (using a table edge or low bar)",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Body straight like a plank, heels on the floor. Pull your chest to the bar and lower with control. Bend your knees to reduce difficulty."
+      },
+      {
+        "name": "Band-Assisted Pull-Up or Negative Pull-Up",
+        "sets": "3",
+        "reps": "5-6",
+        "notes": "For negatives, jump to the top and lower yourself over 4 counts. For band-assisted, place one foot in a looped band. Focus on squeezing your lats, not just bending your arms."
+      },
+      {
+        "name": "Plank with Scapular Retraction",
+        "sets": "3",
+        "reps": "45 seconds",
+        "notes": "Hold a forearm plank. Every 5 seconds, squeeze your shoulder blades together and release. This trains the back and core together as a unit."
+      },
+      {
+        "name": "Single-Arm Band Row",
+        "sets": "3",
+        "reps": "10 per side",
+        "notes": "Anchor a band at waist height. Pull your elbow back past your hip and hold for a 1-second squeeze. Avoid rotating your torso."
+      }
+    ],
+    "cooldown": "Hang passively from the bar for 20-30 seconds to decompress your spine, then spend 60 seconds in a doorframe chest stretch to open the front of your shoulders after all the pulling.",
+    "product": {
+      "id": "str-001",
+      "name": "Gymnastic Rings - Double Circle Wood",
+      "brand": "Double Circle",
+      "asin": "B076X32LFY",
+      "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$",
+      "keywords": [
+        "gymnastics",
+        "rings",
+        "strength",
+        "bodyweight",
+        "upper body",
+        "pull-ups",
+        "dips",
+        "core",
+        "home gym"
+      ],
+      "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+    }
+  },
+  "meal": {
+    "title": "Seared Chicken Thighs with Warm Lentil and Roasted Pepper Salad",
+    "type": "dinner",
+    "mainProtein": "chicken",
+    "prepTime": "25 min",
+    "calories": 490,
+    "protein": 42,
+    "carbs": 32,
+    "fat": 18,
+    "ingredients": [
+      "2 bone-in, skin-on chicken thighs",
+      "1 cup cooked green or puy lentils",
+      "1 roasted red pepper (jarred is fine), sliced",
+      "2 cups baby spinach",
+      "1 clove garlic, minced",
+      "1 tablespoon olive oil",
+      "1 tablespoon red wine vinegar",
+      "1 teaspoon smoked paprika",
+      "Salt and black pepper to taste",
+      "Fresh parsley to finish"
+    ],
+    "instructions": "Season chicken thighs with smoked paprika, salt, and pepper. Sear skin-side down in an oven-safe pan over medium-high heat for 6-7 minutes until golden, then flip and finish in a 400F oven for 12-15 minutes until cooked through. While chicken rests, warm olive oil in a pan over medium heat and saute garlic for 1 minute. Add lentils, roasted pepper, and spinach. Stir until spinach wilts, then deglaze with red wine vinegar. Serve the lentil salad topped with the chicken thigh and a scatter of fresh parsley.",
+    "tip": "Cook a double batch of lentils on Sunday and this meal comes together in under 15 minutes on a weeknight.",
+    "productId": null
+  }
+}
