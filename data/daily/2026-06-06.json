@@ -1,0 +1,263 @@
+{
+  "date": "2026-06-06",
+  "dateLabel": "Saturday, June 6, 2026",
+  "generatedAt": "2026-06-06T11:05:18.656Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "eccentric lowering phase muscle efficiency",
+      "headline": "You're Probably Doing the Hardest Part of Every Rep and Ignoring the Most Useful Part",
+      "body": "Most people rush through the lowering phase of a lift and focus all their energy on pushing or pulling. A review from Edith Cowan University says that's backwards. The 'eccentric' phase, when your muscle lengthens under tension, builds strength and size more efficiently than the lifting phase. Your muscles can produce more force while using less energy during the lowering movement. That means wall push-ups, slow chair squats, and heel drops done with control are more powerful than most people think. You don't need to destroy yourself to make real progress. Slowing down the part most people skip might be the smarter play.",
+      "takeaway": "Slow down the lowering phase of your reps deliberately. That 3-second descent you rush through is where a lot of your strength gains are hiding.",
+      "source": "Journal of Sport and Health Science",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260501052830.htm",
+      "pexelsQuery": "person doing slow squat exercise",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6874408/pexels-photo-6874408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6874408/pexels-photo-6874408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-an-elderly-woman-bending-her-knees-6874408/",
+        "avgColor": "#D5D5D7"
+      }
+    },
+    {
+      "category": "MINDSET",
+      "topic": "social media use loneliness feedback loop",
+      "headline": "Scrolling More Isn't Making You Feel Less Alone. A 9-Year Study Just Confirmed It.",
+      "body": "A nine-year longitudinal study tracking a nationally representative sample of Dutch adults found something uncomfortable. Both passive scrolling and active posting on social media were linked to higher loneliness over time, not lower. The researchers found that lonely people turned to social media for connection, but using it more made them feel even more isolated, creating a continuous negative feedback loop. The study found that digital interaction does not seem to meet the same social needs as face-to-face communication, regardless of how you use the platform. Commenting and liking posts does not substitute for a real conversation.",
+      "takeaway": "If you feel lonely, log off and call someone. The research suggests that time on social media, however you use it, is not a substitute for actual human contact.",
+      "source": "Personality and Social Psychology Bulletin (Sage Journals)",
+      "sourceUrl": "https://journals.sagepub.com/doi/10.1177/01461672241295870",
+      "pexelsQuery": "person alone looking at phone",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6001440/pexels-photo-6001440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6001440/pexels-photo-6001440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Sam Lion",
+        "photographerUrl": "https://www.pexels.com/@sam-lion",
+        "photoPageUrl": "https://www.pexels.com/photo/crop-woman-chatting-on-smartphone-at-home-6001440/",
+        "avgColor": "#8D8D8C"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "Americans underhydrated despite confidence",
+      "headline": "Most People Think They're Well Hydrated. A New National Study Says They're Not.",
+      "body": "A large national survey released in June 2026 found a striking gap between how hydrated Americans think they are and how hydrated they actually are. More than half of those surveyed said they believe they are more hydrated than the average person. But a third of Americans drink fewer than five glasses of water a day. Most people only realize they need water after physical signs show up, like thirst, headaches, fatigue, or brain fog, which can already be signs of mild dehydration. Nearly half of Americans do not even regularly carry a water bottle, meaning hydration is often left to chance. Researchers called it a systems problem, not a motivation problem.",
+      "takeaway": "Don't wait until you're thirsty. Build hydration into your routine the same way you build in meals, as a fixed part of the day rather than a reaction to feeling bad.",
+      "source": "Liquid I.V. Hydration Vitality Barometer Report",
+      "sourceUrl": "http://www.prnewswire.com/news-releases/a-widespread-hydration-gap-is-hiding-in-plain-sight-for-millions-of-americans-302789104.html",
+      "pexelsQuery": "glass of water on desk",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/3975564/pexels-photo-3975564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3975564/pexels-photo-3975564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tatiana Syrikova",
+        "photographerUrl": "https://www.pexels.com/@tatianasyrikova",
+        "photoPageUrl": "https://www.pexels.com/photo/netbook-keyboard-and-glass-of-water-arranged-on-table-near-cellphone-on-empty-paper-and-pencil-3975564/",
+        "avgColor": "#BCBDC0"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "sleep regularity beats duration for longevity",
+      "headline": "Going to Bed at the Same Time Every Night Matters More Than How Long You Sleep",
+      "body": "Getting eight hours is good. Getting eight hours at the same time every night is better. A systematic review published in Sleep Medicine found that irregular sleep timing is consistently linked to worse mental health, metabolic problems, heart risk, and higher all-cause mortality, independent of how much total sleep a person gets. Across five low-bias cohorts reviewed, the least consistent sleepers had 20 to 88 percent higher all-cause mortality compared to the most consistent ones. The research found that unstable sleep timing disrupts the body's circadian rhythm in ways that hours alone cannot fix. The good news: sleep regularity is modifiable, and you can track it with a basic wearable.",
+      "takeaway": "Pick a bedtime and a wake time and protect them like appointments, including on weekends. Consistency in your schedule may do more for your long-term health than chasing a magic number of hours.",
+      "source": "Sleep Medicine (ScienceDirect)",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S108707922500156X",
+      "pexelsQuery": "alarm clock bedroom night",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6753357/pexels-photo-6753357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6753357/pexels-photo-6753357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-lying-on-the-bed-with-blanket-6753357/",
+        "avgColor": "#BA8029"
+      }
+    }
+  ],
+  "quote": {
+    "text": "It's not about perfect. It's about better than yesterday.",
+    "author": "Jocko Willink",
+    "context": "Retired Navy SEAL officer, author, and leadership and discipline coach."
+  },
+  "workout": {
+    "type": "FULL_BODY",
+    "workout_type": "full_body",
+    "title": "Slow It Down: Eccentric Strength Circuit",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength",
+      "fat_loss"
+    ],
+    "tags": [
+      "full_body",
+      "minimal_equipment",
+      "under_30_min",
+      "muscle_gain",
+      "strength",
+      "joint_friendly"
+    ],
+    "tip": "The whole point of this workout is the lowering phase. Count 3-4 seconds on every single descent. If you rush it, you've missed the benefit. Go lighter than you think you need to.",
+    "warmup": "Spend 3 minutes doing arm circles, hip circles, bodyweight squats, and leg swings. Finish with 10 slow cat-cow stretches to wake up the spine.",
+    "exercises": [
+      {
+        "name": "Slow Dumbbell Goblet Squat",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold one dumbbell at your chest. Lower for a 4-count, pause briefly at the bottom, then drive up. Keep chest tall and knees tracking over toes."
+      },
+      {
+        "name": "Slow Dumbbell Romanian Deadlift",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold dumbbells at your thighs, hinge at the hips and lower for a 4-count feeling a stretch in the hamstrings, then drive hips forward to stand. Soft bend in the knees throughout."
+      },
+      {
+        "name": "Slow Dumbbell Chest Press on Floor",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Lie on your back with dumbbells above your chest. Lower for a 4-count until elbows tap the floor, then press up. Floor press limits range and is easier on the shoulder joint."
+      },
+      {
+        "name": "Slow Dumbbell Row",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "One hand and knee on a bench or chair for support. Pull the dumbbell up in one count, then lower slowly for a 4-count. Feel your lat do the work on the way down."
+      },
+      {
+        "name": "Slow Dumbbell Shoulder Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Press both dumbbells overhead in one count, then lower for a 4-count with control. Keep your core tight so your lower back doesn't arch. Go lighter here than you think."
+      }
+    ],
+    "cooldown": "Spend 2-3 minutes in a child's pose and a gentle seated hamstring stretch. Finish with 5 slow deep breaths to bring your heart rate down.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Seared Shrimp and Quinoa Bowl with Lemon Herb Drizzle",
+    "type": "dinner",
+    "mainProtein": "shrimp",
+    "prepTime": "20 min",
+    "calories": 480,
+    "protein": 38,
+    "carbs": 42,
+    "fat": 14,
+    "ingredients": [
+      "250g large raw shrimp, peeled and deveined",
+      "1 cup cooked quinoa",
+      "1 cup baby spinach or arugula",
+      "1/2 cup cherry tomatoes, halved",
+      "1/2 avocado, sliced",
+      "1 tbsp olive oil",
+      "2 cloves garlic, minced",
+      "Juice of 1 lemon",
+      "2 tbsp fresh parsley or basil, chopped",
+      "Salt, pepper, and red pepper flakes to taste"
+    ],
+    "instructions": "1. Heat olive oil in a skillet over high heat. Season shrimp with salt, pepper, and red pepper flakes. Sear for 90 seconds per side until pink and slightly charred. Add garlic in the last 30 seconds. 2. While shrimp cook, build your bowl: quinoa on the bottom, greens on top, cherry tomatoes and avocado on the side. 3. Lay shrimp over the bowl, squeeze lemon juice over everything, and finish with fresh herbs.",
+    "tip": "Buy frozen peeled shrimp and thaw them the night before in the fridge. Dinner is on the table in under 20 minutes flat.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
