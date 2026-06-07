@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-07",
+  "dateLabel": "Sunday, June 7, 2026",
+  "generatedAt": "2026-06-07T10:59:21.991Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "strength training weekly dose mortality risk",
+      "headline": "Science Just Found Your Strength Training Sweet Spot. It's Less Than You Think.",
+      "body": "A 30-year study tracking over 147,000 adults just published in the British Journal of Sports Medicine found that 90 to 120 minutes of strength training per week was the sweet spot for lowering the risk of death. People hitting that range had a 13% lower risk of dying from any cause, a 19% lower risk from cardiovascular disease, and a 27% lower risk from neurological disease. The kicker: doing more than two hours a week added no extra benefit. Pair it with regular cardio and your protection goes even higher. That's about three 30-to-40-minute sessions a week. Totally doable.",
+      "takeaway": "Aim for 90 to 120 minutes of strength training spread across the week. Two or three sessions is all it takes to hit the sweet spot.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://bjsm.bmj.com/content/early/2026/05/28/bjsports-2025-110503",
+      "pexelsQuery": "person lifting weights gym",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4853324/pexels-photo-4853324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853324/pexels-photo-4853324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/young-athletes-lifting-weights-at-gym-with-a-mural-4853324/",
+        "avgColor": "#837657"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "french fries potato preparation diabetes risk",
+      "headline": "It's Not Potatoes That Raise Your Diabetes Risk. It's What You Do to Them.",
+      "body": "A large BMJ study tracking more than 205,000 adults for nearly 40 years found that eating three servings of French fries a week was tied to a 20% higher risk of developing type 2 diabetes. Baked, boiled, and mashed potatoes? No meaningful increase in risk. The way you cook matters even more than the food itself. Researchers also found that swapping fries for whole grains cut diabetes risk by 19%. The potato isn't the villain. The deep fryer is.",
+      "takeaway": "Keep potatoes in your diet. Just bake, boil, or mash them instead of frying, and pair the swap with whole grains where you can.",
+      "source": "The BMJ",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015218.htm",
+      "pexelsQuery": "french fries fast food unhealthy",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14133027/pexels-photo-14133027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14133027/pexels-photo-14133027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marcia Salido",
+        "photographerUrl": "https://www.pexels.com/@marcia-salido-346903577",
+        "photoPageUrl": "https://www.pexels.com/photo/fried-french-fries-on-orange-surface-14133027/",
+        "avgColor": "#EB7641"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "choline brain nutrient anxiety deficit",
+      "headline": "People with Anxiety Are Running Low on a Specific Brain Nutrient. Eggs and Fish Have It.",
+      "body": "A meta-analysis from UC Davis Health published in Molecular Psychiatry reviewed 25 studies and found that people with anxiety disorders had about 8% lower levels of choline in key brain regions compared to those without anxiety. The gap was most pronounced in the prefrontal cortex, the area that handles emotional control and decision-making. Researchers called it the first meta-analysis to identify a consistent chemical pattern in the anxious brain. Choline is found in eggs, liver, salmon, and soybeans. Most people don't get nearly enough.",
+      "takeaway": "If anxiety is a regular struggle, it's worth making sure choline-rich foods like eggs and fish are regular parts of your diet.",
+      "source": "ScienceDaily / Molecular Psychiatry",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
+      "pexelsQuery": "eggs and salmon healthy food",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/15366691/pexels-photo-15366691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15366691/pexels-photo-15366691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Valeria Boltneva",
+        "photographerUrl": "https://www.pexels.com/@valeriya",
+        "photoPageUrl": "https://www.pexels.com/photo/food-in-a-bowl-15366691/",
+        "avgColor": "#9F734C"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "deep tissue massage muscle recovery athletic performance",
+      "headline": "Two Massages a Week for Two Months Did Something Real for These Athletes' Recovery.",
+      "body": "The American Massage Therapy Association is spotlighting a 2025 randomized controlled trial that tested bi-weekly deep tissue massage over eight weeks on 150 athletes across different sports. The results showed significant improvements in muscle recovery, flexibility, and performance. The strongest effects showed up in strength and team sport athletes. Researchers noted that occasional rubdowns did not produce the same results as consistency. The data suggests regular massage is a genuine recovery tool, not just a perk.",
+      "takeaway": "Consistency is what makes massage work. Even one scheduled session per week can meaningfully support recovery if you keep it up.",
+      "source": "American Massage Therapy Association / International Journal of Therapeutic Massage and Bodywork",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/the-latest-research-supports-massage-therapy-for-muscle-recovery-and-athletic-performance-302762872.html",
+      "pexelsQuery": "massage therapy back muscles recovery",
+      "product": {
+        "id": "rec-002",
+        "name": "Theragun Mini Massage Gun",
+        "brand": "Therabody",
+        "asin": "B0DV7JN7ZD",
+        "url": "https://www.amazon.com/dp/B0DV7JN7ZD?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$$",
+        "keywords": [
+          "recovery",
+          "massage",
+          "muscle soreness",
+          "percussive therapy",
+          "portable",
+          "travel",
+          "triathlon"
+        ],
+        "blurb": "Pocket-sized recovery. Takes the edge off sore muscles anywhere."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/37719656/pexels-photo-37719656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/37719656/pexels-photo-37719656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nothing Ahead",
+        "photographerUrl": "https://www.pexels.com/@ian-panelo",
+        "photoPageUrl": "https://www.pexels.com/photo/therapeutic-back-massage-session-in-spa-setting-37719656/",
+        "avgColor": "#916B56"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The body achieves what the mind believes.",
+    "author": "Napoleon Hill",
+    "context": "Author of Think and Grow Rich, one of the most-read self-development books in history."
+  },
+  "workout": {
+    "type": "RECOVERY",
+    "workout_type": "recovery",
+    "title": "Hips, Spine and Shoulders: Sunday Reset Flow",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness"
+    ],
+    "tags": [
+      "no_equipment",
+      "low_impact",
+      "joint_friendly",
+      "beginner_friendly",
+      "full_body",
+      "mobility_focused",
+      "under_30_min"
+    ],
+    "tip": "Move slowly through every position. If a stretch feels sharp rather than deep, ease off by 20%. This is about releasing, not pushing.",
+    "warmup": "Spend two minutes walking in place or marching slowly. Then do five deep belly breaths standing tall, arms reaching overhead on the inhale and releasing down on the exhale.",
+    "exercises": [
+      {
+        "name": "90/90 Hip Rotation Hold",
+        "sets": "2",
+        "reps": "45 seconds each side",
+        "notes": "Sit on the floor with front and back legs both at 90 degrees. Sit tall, lean gently forward over the front shin. Swap sides. Use a folded towel under your hip if the floor is uncomfortable."
+      },
+      {
+        "name": "Cat-Cow Spinal Waves",
+        "sets": "2",
+        "reps": "10 slow reps",
+        "notes": "On hands and knees, time each movement to your breath. Inhale as you drop the belly and lift the gaze; exhale as you round the spine up to the ceiling. Move like slow ocean waves."
+      },
+      {
+        "name": "Thread the Needle Thoracic Rotation",
+        "sets": "2",
+        "reps": "8 each side",
+        "notes": "From hands and knees, slide one arm under your body and let your shoulder drop toward the floor. Hold two seconds at the end range. Great for tight upper backs from desk work."
+      },
+      {
+        "name": "Standing Figure Four (Piriformis Stretch)",
+        "sets": "2",
+        "reps": "40 seconds each side",
+        "notes": "Stand near a wall for balance. Cross one ankle over the opposite knee and gently sit back into a single-leg squat shape until you feel the stretch in the outer hip. Hold steady and breathe."
+      },
+      {
+        "name": "Doorway or Wall Chest Opener",
+        "sets": "2",
+        "reps": "30 seconds each side",
+        "notes": "Place one forearm on a wall at shoulder height and gently rotate your chest away until you feel the pec and front shoulder stretch. Keep your chin level. Breathe into the chest, not the neck."
+      }
+    ],
+    "cooldown": "Lie flat on your back for two minutes in a relaxed body scan. Let your legs fall open, arms at your sides. Take five slow breaths and notice any areas that still feel tight before you get up."
+  },
+  "meal": {
+    "title": "Garlic Herb Pork Tenderloin with Roasted Sweet Potato and Steamed Broccoli",
+    "type": "dinner",
+    "mainProtein": "pork",
+    "prepTime": "20 min",
+    "calories": 470,
+    "protein": 42,
+    "carbs": 35,
+    "fat": 14,
+    "ingredients": [
+      "170g pork tenderloin",
+      "1 medium sweet potato, cubed",
+      "2 cups broccoli florets",
+      "2 cloves garlic, minced",
+      "1 tablespoon olive oil",
+      "1 teaspoon dried rosemary",
+      "1 teaspoon smoked paprika",
+      "Salt and black pepper to taste",
+      "Juice of half a lemon"
+    ],
+    "instructions": "1. Preheat oven to 425F. Toss sweet potato cubes with half the olive oil, paprika, salt and pepper. Spread on a baking sheet and roast 20 minutes, turning once halfway. 2. While the potatoes roast, rub the pork tenderloin with garlic, rosemary, remaining olive oil, salt and pepper. Sear in an oven-safe pan over medium-high heat for 2 minutes per side until golden, then transfer to the oven for 12 to 15 minutes until internal temperature reaches 145F. 3. Steam broccoli for 4 minutes until bright green and just tender. 4. Rest the pork for 5 minutes before slicing. Squeeze lemon juice over everything before serving.",
+    "tip": "Cut the sweet potato into even-sized pieces so they roast at the same rate. Pork tenderloin is one of the leanest cuts you can buy and cooks faster than most people expect.",
+    "productId": null
+  }
+}
