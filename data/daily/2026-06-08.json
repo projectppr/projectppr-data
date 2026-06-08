@@ -1,0 +1,247 @@
+{
+  "date": "2026-06-08",
+  "dateLabel": "Monday, June 8, 2026",
+  "generatedAt": "2026-06-08T11:12:07.241Z",
+  "articles": [
+    {
+      "category": "STRESS",
+      "topic": "aerobic exercise cortisol biology year-long RCT",
+      "headline": "150 Minutes of Weekly Exercise Actually Rewires Your Stress Hormones. A Year-Long Trial Just Proved It.",
+      "body": "Scientists finally ran the experiment everyone assumed was too long and too hard to do. A randomized clinical trial published in the Journal of Sport and Health Science tracked 130 adults aged 26 to 58 for an entire year. One group hit 150 minutes of moderate-to-vigorous aerobic exercise each week. The other just got general health info. Researchers measured cortisol via hair samples, giving them a rare window into chronic stress load over months, not days. The exercisers showed a measurable, sustained drop in long-term cortisol. Not a temporary dip. A genuine biological shift. That has real implications for mood, heart health, and how you handle daily life.",
+      "takeaway": "150 minutes of aerobic exercise per week is the minimum to actually change your stress biology over time. Walk, run, bike, swim — just hit that weekly number consistently.",
+      "source": "Journal of Sport and Health Science",
+      "sourceUrl": "https://neurosciencenews.com/exercise-cortisol-stress-biology-30548/",
+      "pexelsQuery": "person running outdoors morning",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7879937/pexels-photo-7879937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7879937/pexels-photo-7879937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-active-wear-running-near-park-benches-7879937/",
+        "avgColor": "#9C9B86"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "magnesium L-threonate sleep cognition RCT adults",
+      "headline": "A Specific Form of Magnesium Improved Sleep and Sharpened Thinking in a Proper Controlled Trial.",
+      "body": "Not all magnesium is the same. A six-week randomized, double-blind, placebo-controlled trial published in Frontiers in Nutrition tested a form called magnesium L-threonate on 100 adults aged 18 to 45 who were unhappy with their sleep. The magnesium group reported better sleep quality and showed real improvements in cognitive performance, memory, and reaction time. Wearable data from Oura Rings showed lower resting heart rate and higher heart rate variability during sleep too. Standard magnesium supplements struggle to cross the blood-brain barrier. This form was specifically designed to get there.",
+      "takeaway": "If you are already sleeping 7 hours but still feeling foggy or unrested, magnesium L-threonate may be worth a 6-week trial. Standard glycinate or oxide forms may not have the same brain-specific effect.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1729164/full",
+      "pexelsQuery": "magnesium supplement capsules hand",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11200116/pexels-photo-11200116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11200116/pexels-photo-11200116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/hands-holding-pills-and-box-11200116/",
+        "avgColor": "#81B5C3"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "gut microbiome brain function mental health pathways",
+      "headline": "Your Gut Bacteria Are Running a Direct Line to Your Brain. A New Review Just Mapped Out How.",
+      "body": "A comprehensive review published in Frontiers in Microbiomes laid out the strongest picture yet of how your gut microbiome influences your mental state. The gut-brain axis is not a metaphor. Gut microbes produce neurotransmitter precursors, signal through the vagus nerve, and regulate the stress response system. Imbalances in gut bacteria have been linked to depression, anxiety, and cognitive difficulties. The review also evaluated early evidence that interventions like probiotics, dietary changes, and fecal transplants can shift these outcomes. It is early days for clinical treatments, but the pathway mechanisms are now well-documented.",
+      "takeaway": "Feeding your gut bacteria matters as much as feeding your brain. Prioritize fiber diversity, fermented foods, and limiting ultra-processed foods — all of which shift microbiome composition in ways that affect mood and cognition.",
+      "source": "Frontiers in Microbiomes",
+      "sourceUrl": "https://www.frontiersin.org/journals/microbiomes/articles/10.3389/frmbi.2025.1701608/full",
+      "pexelsQuery": "healthy gut food vegetables fermented",
+      "photo": {
+        "url": "https://images.pexels.com/photos/34711401/pexels-photo-34711401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34711401/pexels-photo-34711401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Roman Biernacki",
+        "photographerUrl": "https://www.pexels.com/@szafran",
+        "photoPageUrl": "https://www.pexels.com/photo/homemade-preserved-vegetables-in-glass-jars-34711401/",
+        "avgColor": "#7E664C"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "dynamic vs static stretching post-fatigue performance",
+      "headline": "The Stretch You Do After a Hard Workout Changes Everything. Science Just Got Specific.",
+      "body": "A 2026 study in Scientific Reports put three stretching protocols head-to-head in fatigued athletes: static stretching, dynamic stretching, and a combined approach. The results were clear enough to matter for anyone who works out regularly. Dynamic stretching after fatigue produced the biggest recovery gains in sprint speed and agility. Static stretching was better for restoring range of motion. The combined approach fell somewhere in between, and doing nothing was the worst option. The key finding is that there is no one-size-fits-all stretch. What you do after depends on what you need next.",
+      "takeaway": "After a hard session, if you need to move again soon, prioritize dynamic stretching to recover speed and power. If you just need to feel less tight, static holds do the job better.",
+      "source": "Scientific Reports",
+      "sourceUrl": "https://www.nature.com/articles/s41598-025-32188-3",
+      "pexelsQuery": "athlete stretching legs outdoor workout",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8401912/pexels-photo-8401912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8401912/pexels-photo-8401912.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-woman-stretching-8401912/",
+        "avgColor": "#8B9AAD"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The groundwork of all happiness is health.",
+    "author": "Leigh Hunt",
+    "context": "19th-century English essayist and poet whose writing championed the connection between physical wellbeing and a fulfilling life."
+  },
+  "workout": {
+    "type": "PUSH",
+    "workout_type": "push",
+    "title": "Press and Prove: Chest, Shoulders and Triceps in 35",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbells",
+      "floor"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "upper_body",
+      "push_dominant",
+      "muscle_gain",
+      "under_60_min"
+    ],
+    "tip": "If you only have one dumbbell, do each pressing movement one arm at a time. The core has to work harder to stay stable and you get an extra benefit for free.",
+    "warmup": "Spend 3 minutes on arm circles (forward and backward, 15 each), chest openers with hands clasped behind your back, and 10 slow bodyweight push-ups to prime the shoulders and elbows before load.",
+    "exercises": [
+      {
+        "name": "Dumbbell Floor Press",
+        "sets": "4",
+        "reps": "10",
+        "notes": "Lie flat, elbows at 45 degrees from your body. Lower until elbows graze the floor. Pause one second. Press with control. Avoid flaring elbows wide."
+      },
+      {
+        "name": "Dumbbell Seated Overhead Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Sit upright on the floor or a bench. Start at ear height. Press straight up without arching your lower back. Exhale on the way up."
+      },
+      {
+        "name": "Push-Up to Shoulder Tap",
+        "sets": "3",
+        "reps": "8 each side",
+        "notes": "Do one push-up, then at the top tap each shoulder alternately. Keep hips level. Slow the tap down — rushing defeats the stability benefit."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Light weight, slight bend in the elbow. Raise to shoulder height only. Pause at the top for a half-second. This isolates the side delts — do not swing."
+      },
+      {
+        "name": "Tricep Overhead Extension (one dumbbell, both hands)",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hold one dumbbell with both hands overhead. Lower behind the head until elbows are at 90 degrees. Press back up. Keep elbows pointing forward, not out."
+      }
+    ],
+    "cooldown": "Finish with a doorway chest stretch for 30 seconds each side, then a cross-body shoulder pull for 20 seconds per arm. Shake out the hands and wrists.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Seared Tilapia and Roasted Chickpea Bowl with Lemon Herb Tahini",
+    "type": "dinner",
+    "mainProtein": "tilapia",
+    "prepTime": "20 min",
+    "calories": 480,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 16,
+    "ingredients": [
+      "2 tilapia fillets (approx 150g each)",
+      "1 can chickpeas, drained and patted dry",
+      "2 cups baby spinach",
+      "1 cup cooked brown rice or quinoa",
+      "2 tbsp tahini",
+      "1 lemon, juiced",
+      "1 garlic clove, minced",
+      "1 tbsp olive oil",
+      "1 tsp smoked paprika",
+      "1 tsp cumin",
+      "Salt and black pepper to taste",
+      "Fresh parsley or coriander to garnish"
+    ],
+    "instructions": "1. Toss chickpeas in olive oil, smoked paprika, cumin, salt, and pepper. Roast at 220°C (425°F) for 15 minutes until crispy. 2. While chickpeas roast, season tilapia with salt, pepper, and a pinch of paprika. Sear in a hot non-stick pan for 3 minutes per side until golden and cooked through. 3. Whisk tahini, lemon juice, garlic, and 2 tablespoons of water into a smooth dressing. Add water to thin if needed. 4. Build the bowl: rice or quinoa base, spinach, roasted chickpeas, flaked tilapia, drizzle of tahini dressing, and fresh herbs on top.",
+    "tip": "Pat the tilapia completely dry before it hits the pan. Moisture is the enemy of a good sear. Thirty seconds of drying makes a big difference to the crust.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
