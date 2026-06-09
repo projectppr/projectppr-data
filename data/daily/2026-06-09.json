@@ -1,0 +1,251 @@
+{
+  "date": "2026-06-09",
+  "dateLabel": "Tuesday, June 9, 2026",
+  "generatedAt": "2026-06-09T11:06:17.057Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "stress disrupts memory inference hippocampus",
+      "headline": "One Stressful Event Can Break Your Brain's Ability to Connect the Dots",
+      "body": "You might ace a test after a high-pressure meeting, but struggle to actually use what you know. Now there's a brain scan study that explains why. Researchers at the University of Hamburg had 121 participants learn information before and after a stress event, then tested whether they could make inferences linking what they'd learned. Stressed participants remembered the individual facts just fine. But their hippocampus, the brain region that links memories together, failed to connect them. The stressed group treated related pieces of information as completely separate files. The result: they could recall, but couldn't reason.",
+      "takeaway": "After a stressful event, give yourself time before tackling work that requires connecting ideas or making judgment calls. Your memory isn't broken, but your brain's linking system is temporarily offline.",
+      "source": "Science Advances",
+      "sourceUrl": "https://www.science.org/doi/10.1126/sciadv.aea5496",
+      "pexelsQuery": "stressed person thinking head in hands",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8872807/pexels-photo-8872807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8872807/pexels-photo-8872807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-woman-with-her-hands-on-her-head-8872807/",
+        "avgColor": "#C6B7B2"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "marijuana sleep quality survey mixed results",
+      "headline": "One in Three Adults Say Cannabis Helps Them Sleep. Their Doctors Aren't So Sure.",
+      "body": "A new national survey from the American Academy of Sleep Medicine asked over 2,000 American adults about marijuana and sleep. A third said their sleep was better when they used it. But sleep medicine doctors are urging caution. Research on cannabis and sleep is deeply conflicted. One recent systematic review found cannabinoids improved self-reported sleep quality, but a separate study found that daily long-term cannabis users had more objective nighttime wakefulness. There are also documented concerns around daytime sleepiness, physical dependence, and withdrawal-related sleep disruption. The perception of better sleep may not match what's actually happening in the brain.",
+      "takeaway": "If you're relying on cannabis to fall asleep, ask yourself whether you're solving the problem or masking it. Poor sleep has a cause. Finding it matters more than numbing it.",
+      "source": "American Academy of Sleep Medicine",
+      "sourceUrl": "https://aasm.org/marijuana-and-sleep-survey/",
+      "pexelsQuery": "person lying awake in bed night",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/14223882/pexels-photo-14223882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14223882/pexels-photo-14223882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vladimir Srajber",
+        "photographerUrl": "https://www.pexels.com/@vladimirsrajber",
+        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photo-of-elderly-woman-lying-on-bed-14223882/",
+        "avgColor": "#1F1F1F"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "wearables CGM chronic disease management real-world data",
+      "headline": "Your Wearable Is Becoming a Real Medical Tool. Here's What the Latest Data Shows.",
+      "body": "Wearable devices have quietly crossed a line from fitness gadgets into clinical-grade health tools. Medscape reports that findings from May 2026 showed combining digital education with continuous glucose monitoring produced meaningful improvements in chronic disease outcomes. Doctors are increasingly leaning on wearable data for monitoring and research because it offers something office visits can't: continuous real-world signal. When patients self-report blood pressure readings on paper, conditions vary wildly. A wearable captures what's actually happening every hour of every day. The challenge in 2026 isn't data collection. It's making the torrent of information actionable.",
+      "takeaway": "If you have a smartwatch or fitness tracker, share the data with your doctor. It adds context to a 10-minute appointment that a clipboard form never could.",
+      "source": "Medscape",
+      "sourceUrl": "https://www.medscape.com/viewarticle/wearables-generate-data-whats-next-chronic-care-2026a1000j4l",
+      "pexelsQuery": "smartwatch fitness tracker wrist health",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/1682821/pexels-photo-1682821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1682821/pexels-photo-1682821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ingo Joseph",
+        "photographerUrl": "https://www.pexels.com/@ingo",
+        "photoPageUrl": "https://www.pexels.com/photo/apple-watch-1682821/",
+        "avgColor": "#6E615A"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "massage therapy muscle recovery athletic performance",
+      "headline": "Massage Still Wins. A Fresh Look at the Evidence Just Confirmed It.",
+      "body": "The American Massage Therapy Association spotlighted a wave of recent research making a clear case for hands-on recovery work. A 2025 randomized controlled trial of 150 athletes found that bi-weekly deep tissue massage over eight weeks improved performance, flexibility, and recovery. A separate 2025 study compared six common recovery methods including cold-water immersion, vibration therapy, and static stretching, and found massage therapy stood out for reducing key markers of muscle damage and inflammation. A further RCT found that percussion massage therapy outperformed static stretching for soreness relief, with longer sessions delivering greater benefit.",
+      "takeaway": "If soreness is slowing you down, structured massage or even a quality percussion tool used consistently beats stretching alone. Twenty minutes matters more than you think.",
+      "source": "American Massage Therapy Association",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/the-latest-research-supports-massage-therapy-for-muscle-recovery-and-athletic-performance-302762872.html",
+      "pexelsQuery": "sports massage therapy muscle recovery",
+      "product": {
+        "id": "rec-002",
+        "name": "Theragun Mini Massage Gun",
+        "brand": "Therabody",
+        "asin": "B0DV7JN7ZD",
+        "url": "https://www.amazon.com/dp/B0DV7JN7ZD?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$$",
+        "keywords": [
+          "recovery",
+          "massage",
+          "muscle soreness",
+          "percussive therapy",
+          "portable",
+          "travel",
+          "triathlon"
+        ],
+        "blurb": "Pocket-sized recovery. Takes the edge off sore muscles anywhere."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/27730436/pexels-photo-27730436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/27730436/pexels-photo-27730436.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-with-her-legs-wrapped-in-electric-candles-27730436/",
+        "avgColor": "#675348"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The mind is the athlete. The body is simply the means it uses.",
+    "author": "Bryce Courtenay",
+    "context": "Australian author and advertising executive known for exploring human resilience and mental fortitude."
+  },
+  "workout": {
+    "type": "RUN",
+    "workout_type": "intervals",
+    "title": "90-Second Charge: Short Burst Speed Builder",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "distance": "3-4 miles",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "5k",
+      "10k"
+    ],
+    "tags": [
+      "no_equipment",
+      "cardio",
+      "under_60_min",
+      "beginner_friendly"
+    ],
+    "tip": "If you are running with a stroller or short on time, cut the intervals to 6 and keep the effort honest. Slowing down slightly is fine. Stopping the effort level is not.",
+    "warmup": "Start with 5 minutes of easy jogging at a very comfortable pace. Add 2 x 20-second strides at the end of the warmup, running smooth and relaxed at about 80 percent effort to get your legs turning over before the intervals begin.",
+    "exercises": [
+      {
+        "name": "Easy Jog Warmup",
+        "sets": "1",
+        "reps": "5 min",
+        "notes": "Conversational pace. You should be able to say a full sentence without gasping."
+      },
+      {
+        "name": "90-Second Hard Interval",
+        "sets": "8",
+        "reps": "90 sec on, 90 sec easy jog recovery",
+        "notes": "Hard means uncomfortable but controlled. A 7 out of 10 effort. Not a sprint. You should feel like you could do one more rep after the last one."
+      },
+      {
+        "name": "Easy Jog Cooldown",
+        "sets": "1",
+        "reps": "5 min",
+        "notes": "Drop back to warmup pace. Let your breathing settle fully before you stop moving."
+      }
+    ],
+    "cooldown": "Walk for 2-3 minutes after the cooldown jog. Shake out your legs and take slow deep breaths. Your heart rate should be below 100 bpm before you sit down.",
+    "product": {
+      "id": "run-004",
+      "name": "HOKA Clifton 9",
+      "brand": "HOKA",
+      "asin": "B0CPBZ8668",
+      "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "daily trainer",
+        "cushion",
+        "marathon",
+        "recovery run",
+        "easy run"
+      ],
+      "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+    }
+  },
+  "meal": {
+    "title": "Seared Tuna and Farro Bowl with Avocado and Lemon Herb Dressing",
+    "type": "lunch",
+    "mainProtein": "tuna",
+    "prepTime": "20 min",
+    "calories": 520,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 18,
+    "ingredients": [
+      "2 x 5 oz tuna steaks",
+      "1 cup cooked farro",
+      "1 ripe avocado, sliced",
+      "2 cups baby spinach",
+      "1 cup cherry tomatoes, halved",
+      "2 tbsp olive oil",
+      "Juice of 1 lemon",
+      "1 tbsp fresh parsley, chopped",
+      "1 tsp Dijon mustard",
+      "Salt, black pepper, and chili flakes to taste"
+    ],
+    "instructions": "1. Season tuna steaks with salt, pepper, and chili flakes. Heat 1 tbsp olive oil in a pan over high heat and sear tuna for 90 seconds per side. Remove and slice. 2. Whisk remaining olive oil, lemon juice, Dijon mustard, parsley, salt, and pepper into a dressing. 3. Build bowls with farro as the base, then spinach, cherry tomatoes, and avocado. 4. Lay sliced tuna on top and drizzle with lemon herb dressing.",
+    "tip": "Cook farro in bulk on Sunday and refrigerate. This bowl comes together in under 10 minutes when the grain is already done.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
