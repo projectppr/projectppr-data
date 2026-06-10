@@ -1,17 +1,17 @@
 {
   "date": "2026-06-10",
   "dateLabel": "Wednesday, June 10, 2026",
-  "generatedAt": "2026-06-10T10:49:50.639Z",
+  "generatedAt": "2026-06-10T11:05:48.774Z",
   "articles": [
     {
       "category": "LONGEVITY",
       "topic": "strength training weekly dose mortality risk",
-      "headline": "90 Minutes of Lifting Per Week. That's the Longevity Sweet Spot, According to 30 Years of Data.",
-      "body": "Harvard researchers just published one of the most definitive looks at how much strength training actually buys you more years. They followed 147,374 adults for up to 30 years and found that 90 to 119 minutes of resistance training per week was linked to a 13 percent lower risk of dying from any cause. The benefits for specific diseases were even bigger: 19 percent lower risk of dying from cardiovascular disease and 27 percent lower risk from neurological disease like Alzheimer's. Here is the kicker: doing more than 120 minutes per week offered no additional benefit. The curve flattened out completely.",
-      "takeaway": "Two focused lifting sessions a week hits the sweet spot. You don't need to train like an athlete to get the longevity benefit.",
+      "headline": "Science Just Found the Exact Amount of Lifting That Helps You Live Longer",
+      "body": "A 30-year study tracking more than 147,000 adults found that 90 to 120 minutes of resistance training per week was linked to the lowest risk of death from any cause. That's roughly two solid lifting sessions a week. The benefits got even bigger when strength work was paired with regular cardio. Researchers from Harvard analyzed data across three major long-running cohorts and found the protective effect extended to cardiovascular and neurological disease. More lifting beyond that sweet spot didn't hurt, but the returns leveled off fast.",
+      "takeaway": "Two focused strength sessions per week, paired with some cardio, hits the longevity sweet spot. You don't need to live in the gym.",
       "source": "British Journal of Sports Medicine",
-      "sourceUrl": "https://bjsm.bmj.com/content/early/2026/05/28/bjsports-2025-110503",
-      "pexelsQuery": "dumbbell weights gym workout",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/want-to-live-longer-study-finds-sweet-spot-for-cardio-and-strength-training",
+      "pexelsQuery": "person lifting weights gym dumbbell",
       "product": {
         "id": "str-002",
         "name": "Bowflex SelectTech 552 Dumbbells",
@@ -32,170 +32,170 @@
         "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/37887283/pexels-photo-37887283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/37887283/pexels-photo-37887283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Elena  Kravets",
-        "photographerUrl": "https://www.pexels.com/@elena-kravets-1601294419",
-        "photoPageUrl": "https://www.pexels.com/photo/5kg-dumbbell-weights-on-dark-surface-37887283/",
-        "avgColor": "#4D545A"
+        "url": "https://images.pexels.com/photos/3839310/pexels-photo-3839310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3839310/pexels-photo-3839310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-white-tank-top-and-grey-shorts-lifting-weights-3839310/",
+        "avgColor": "#837F7D"
       }
     },
     {
       "category": "HEART HEALTH",
-      "topic": "men cardiovascular disease risk age 35",
-      "headline": "Men's Heart Risk Starts Rising at 35. Most Screening Programs Miss That Window Entirely.",
-      "body": "A landmark 34-year study tracked over 5,000 adults from young adulthood and found that men and women start out with similar cardiovascular risk. Then something shifts around age 35. From that point, men's risk climbs faster and stays higher through midlife. By the time you hit your early 50s, men have reached a clinically significant level of cardiovascular disease about seven years earlier than women on average. The gap was driven almost entirely by coronary heart disease, not stroke or heart failure. And it couldn't be explained away by smoking, blood pressure, or diabetes alone.",
-      "takeaway": "If you're a man in your 30s or 40s, heart health isn't a future problem. Ask your doctor about getting a baseline cardiovascular risk assessment now.",
-      "source": "Journal of the American Heart Association",
-      "sourceUrl": "https://www.ahajournals.org/doi/10.1161/JAHA.125.044922",
-      "pexelsQuery": "man running outdoors heart health",
-      "photo": {
-        "url": "https://images.pexels.com/photos/17979371/pexels-photo-17979371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/17979371/pexels-photo-17979371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Pexels LATAM",
-        "photographerUrl": "https://www.pexels.com/@pexels-latam-478514802",
-        "photoPageUrl": "https://www.pexels.com/photo/man-running-on-a-path-17979371/",
-        "avgColor": "#6E7444"
-      }
-    },
-    {
-      "category": "WEIGHT MANAGEMENT",
-      "topic": "beyond BMI obesity disease risk tool",
-      "headline": "Two People Can Have the Same BMI and Wildly Different Health Futures. A New Tool Just Proved It.",
-      "body": "Researchers at Queen Mary University of London analyzed health data from 200,000 people and built something that BMI never could: a real picture of who is actually at risk. The tool, called OBSCORE, uses just 20 standard clinical measures like blood test results, waist-to-height ratio, smoking status, and family history to predict a person's 10-year risk of developing 18 different obesity-related diseases. The study, published in Nature Medicine, found that people with the same BMI could have vastly different risk profiles. Many high-risk individuals were overweight, not obese, meaning they would be missed entirely under current guidelines.",
-      "takeaway": "BMI is a starting point, not the full story. If you carry excess weight, ask your doctor about a more complete metabolic risk assessment beyond the scale.",
-      "source": "Nature Medicine",
-      "sourceUrl": "https://www.nature.com/articles/s41591-026-04353-2",
-      "pexelsQuery": "doctor patient health assessment clinic",
+      "topic": "sleep apnea cardiovascular events mortality risk",
+      "headline": "Untreated Sleep Apnea Raises Your Risk of a Cardiac Event by 71 Percent",
+      "body": "New research presented at the European Congress on Obesity found that people living with obstructive sleep apnea had a 71 percent higher risk of cardiovascular events or death from any cause compared to those without it. The condition, which causes repeated airway obstruction during sleep, is tied to inflammation, reduced oxygen levels, and serious strain on the heart over time. What makes this harder to ignore: obesity affects between 40 and 70 percent of people with sleep apnea, and the two conditions tend to make each other worse.",
+      "takeaway": "If you snore loudly, gasp during sleep, or wake up exhausted, talk to your doctor about a sleep study. Treating sleep apnea is a real cardiovascular intervention.",
+      "source": "European Congress on Obesity 2026 / Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-association-obstructive-apnea-mortality-cardiovascular.html",
+      "pexelsQuery": "person sleeping bed night",
       "product": {
-        "id": "body-001",
-        "name": "RENPHO Smart Body Scale",
-        "brand": "Renpho",
-        "asin": "B01N1UX8RW",
-        "url": "https://www.amazon.com/dp/B01N1UX8RW?tag=chrisolson04-20",
-        "category": "health",
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
         "price_range": "$",
         "keywords": [
-          "body composition",
-          "weight",
-          "muscle mass",
-          "body fat",
-          "health tracking",
-          "scale",
-          "BMI",
-          "training progress"
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
         ],
-        "blurb": "Weight alone lies. Body composition tells the real story of your training progress."
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/7108350/pexels-photo-7108350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7108350/pexels-photo-7108350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Pavel Danilyuk",
-        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
-        "photoPageUrl": "https://www.pexels.com/photo/a-man-lying-on-the-bed-7108350/",
-        "avgColor": "#9C9F9E"
+        "url": "https://images.pexels.com/photos/6541206/pexels-photo-6541206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6541206/pexels-photo-6541206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina ⠀",
+        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-sleeping-wearing-a-sleep-mask-6541206/",
+        "avgColor": "#312924"
       }
     },
     {
-      "category": "TRAINING",
-      "topic": "muscle strength women longevity mortality risk",
-      "headline": "For Women Over 60, Muscle Strength Matters More Than How Much You Exercise. A Major Study Just Confirmed It.",
-      "body": "A University at Buffalo team followed 5,472 women between ages 63 and 99 for eight years and found something that challenges everything we assumed about exercise and longevity. Women with the highest grip strength had a 33 percent lower risk of death. Those with the fastest chair stand times had a 37 percent lower risk. The striking part: the benefit held even for women who didn't meet standard aerobic exercise guidelines. Strength mattered independent of how active they were. Published in JAMA Network Open, it is the largest study to ever isolate the effect of muscle strength on longevity in older women.",
-      "takeaway": "Grip strength and the ability to stand from a chair are two of the best longevity signals a woman has. Both improve with regular resistance training.",
-      "source": "JAMA Network Open",
-      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829820",
-      "pexelsQuery": "woman lifting weights strength training gym",
+      "category": "HORMONES",
+      "topic": "testosterone brain tumor growth protection males",
+      "headline": "Scientists Flipped Everything We Thought We Knew About Testosterone and Brain Tumors",
+      "body": "For decades, researchers assumed testosterone made cancers worse by suppressing the immune system. A new Cleveland Clinic study published in Nature just turned that idea on its head, at least in the brain. Scientists found that when testosterone drops in male mice, glioblastoma tumors grow faster. The mechanism: low androgen levels send the brain's stress hormone system into overdrive, triggering inflammation and weakening the brain's immune defenses. In a review of 1,300 men with glioblastoma, those already taking supplemental testosterone had a 38 percent lower risk of death.",
+      "takeaway": "The research is early and doesn't mean you should start testosterone therapy. But it does suggest that supporting healthy androgen levels through sleep, strength training, and body composition may matter more than we realized.",
+      "source": "Nature",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-testosterone-suppresses-brain-tumor-growth.html",
+      "pexelsQuery": "male brain scan neuroscience laboratory",
+      "photo": {
+        "url": "https://images.pexels.com/photos/12197315/pexels-photo-12197315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12197315/pexels-photo-12197315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Михаил Крамор",
+        "photographerUrl": "https://www.pexels.com/@vantik93",
+        "photoPageUrl": "https://www.pexels.com/photo/man-wearing-headband-for-head-examination-12197315/",
+        "avgColor": "#A58471"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "lifelong learning reading Alzheimer's delay cognitive reserve",
+      "headline": "People Who Read and Keep Learning Delay Alzheimer's By Five Years. A New Study Just Proved It.",
+      "body": "A study of nearly 2,000 adults published in Neurology found that the most intellectually active people developed Alzheimer's disease five years later than the least active. For mild cognitive impairment, the delay was even more striking: seven years. Researchers at Rush University followed participants from childhood through old age, tracking reading habits, writing, language learning, and access to books. The effect held even in people who already showed physical signs of brain disease on autopsy. Their brains kept working well despite the damage.",
+      "takeaway": "Reading, writing, and learning new things aren't just enriching hobbies. They may be the best brain insurance you have. Pick something that stretches your thinking and do it consistently.",
+      "source": "Neurology",
+      "sourceUrl": "https://www.eurekalert.org/news-releases/1115779",
+      "pexelsQuery": "person reading book coffee",
       "product": {
-        "id": "str-002",
-        "name": "Bowflex SelectTech 552 Dumbbells",
-        "brand": "Bowflex",
-        "asin": "B0FRNG2N5H",
-        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
-        "category": "strength",
-        "price_range": "$$$",
+        "id": "book-009",
+        "name": "Lifespan - David Sinclair Audiobook",
+        "brand": "David Sinclair",
+        "asin": "B07QGH1Q43",
+        "url": "https://www.amazon.com/dp/B07QGH1Q43?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
         "keywords": [
-          "strength",
-          "weights",
-          "dumbbells",
-          "home gym",
-          "resistance training",
-          "muscle",
-          "lifting"
+          "longevity",
+          "aging",
+          "genetics",
+          "book",
+          "audiobook",
+          "science",
+          "health"
         ],
-        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+        "blurb": "The science of why we age and what we can actually do about it."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/13822300/pexels-photo-13822300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/13822300/pexels-photo-13822300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Jonathan",
-        "photographerUrl": "https://www.pexels.com/@jonathan-328310533",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-lifting-a-barbell-13822300/",
-        "avgColor": "#6A6965"
+        "url": "https://images.pexels.com/photos/6001451/pexels-photo-6001451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6001451/pexels-photo-6001451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Sam Lion",
+        "photographerUrl": "https://www.pexels.com/@sam-lion",
+        "photoPageUrl": "https://www.pexels.com/photo/female-reading-book-while-drinking-coffee-with-whipped-cream-6001451/",
+        "avgColor": "#7C7E7D"
       }
     }
   ],
   "quote": {
-    "text": "The first wealth is health.",
-    "author": "Ralph Waldo Emerson",
-    "context": "19th-century American essayist and philosopher whose writing on self-reliance and vitality still holds up."
+    "text": "The groundwork of all happiness is health.",
+    "author": "Leigh Hunt",
+    "context": "19th-century English poet and essayist known for writing on the good life and human flourishing."
   },
   "workout": {
     "type": "LOWER",
     "workout_type": "lower",
-    "title": "Squat, Hinge, Lunge: Lower-Body Power in 35",
+    "title": "Hinge, Load, and Hold: Lower-Body Strength Builder",
     "difficulty": "Intermediate",
     "duration": "35 min",
     "equipment": [
-      "dumbbells"
+      "dumbbells",
+      "resistance band (optional)"
     ],
     "goal_affinity": [
       "general_fitness",
-      "strength",
-      "fat_loss"
+      "fat_loss",
+      "strength"
     ],
     "tags": [
-      "minimal_equipment",
       "lower_body",
-      "squat_dominant",
+      "minimal_equipment",
       "hinge_dominant",
+      "squat_dominant",
       "under_60_min",
       "muscle_gain"
     ],
-    "tip": "If you only have time to focus on one thing today, nail your bracing. Before every rep, take a breath into your belly, hold it, and brace your core like you're about to take a punch. It protects your spine and makes every movement stronger.",
-    "warmup": "2 minutes of bodyweight squats and leg swings to open up the hips. Follow with 10 slow glute bridges on the floor, pausing at the top for two counts each.",
+    "tip": "If your lower back rounds on Romanian deadlifts, shorten your range of motion and push your hips back farther before you feel the pull in your hamstrings. Depth comes with practice.",
+    "warmup": "Spend 3 minutes doing leg swings (front-to-back and side-to-side), bodyweight good mornings, and slow bodyweight squats. Focus on opening the hips and warming up the posterior chain before you load anything.",
     "exercises": [
       {
-        "name": "Goblet Squat",
-        "sets": "3",
-        "reps": "12",
-        "notes": "Hold one dumbbell vertically at your chest. Drive knees out, sit deep, and stand tall. Pause one count at the bottom to build control."
-      },
-      {
-        "name": "Romanian Deadlift",
+        "name": "Goblet Squat to Pause",
         "sets": "3",
         "reps": "10",
-        "notes": "Hold dumbbells in front of your thighs. Hinge at the hips, keep a soft knee, and lower until you feel a stretch in the hamstrings. Drive hips forward to stand."
+        "notes": "Hold one dumbbell at chest height. Pause 2 seconds at the bottom of each rep with chest tall and knees tracking over toes. Rest 60 seconds between sets."
       },
       {
-        "name": "Reverse Lunge",
-        "sets": "3",
-        "reps": "8 each leg",
-        "notes": "Step back, not forward. This is easier on the knees. Keep your front shin vertical and your torso upright. Hold dumbbells at your sides for added load."
-      },
-      {
-        "name": "Sumo Squat with Dumbbell",
+        "name": "Dumbbell Romanian Deadlift",
         "sets": "3",
         "reps": "12",
-        "notes": "Wide stance, toes angled out at 45 degrees. Hold one dumbbell between your legs. Drive through your heels and squeeze your glutes at the top."
+        "notes": "Hold dumbbells in front of thighs, hinge at the hips with a soft knee bend. Feel the hamstring stretch, then drive through your heels to stand. Keep the back flat throughout."
       },
       {
-        "name": "Single-Leg Glute Bridge",
+        "name": "Reverse Lunge with Knee Drive",
         "sets": "3",
-        "reps": "10 each leg",
-        "notes": "Lie on your back, one foot flat on the floor, the other extended. Drive through the heel to lift your hips. Pause one count at the top. No weight needed."
+        "reps": "8 each leg",
+        "notes": "Step back into a lunge, then drive that same knee up toward your chest as you return to standing. Hold a dumbbell in each hand to add load. Go bodyweight if balance is challenging."
+      },
+      {
+        "name": "Sumo Squat Pulse",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Wide stance, toes turned out 45 degrees. Lower to parallel and pulse up about 3 inches and back down before standing. Great for inner thigh and glute activation without heavy load."
+      },
+      {
+        "name": "Single-Leg Hip Hinge (Kickstand Deadlift)",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Place one foot slightly behind you as a kickstand for balance. Hinge forward on the working leg, keeping the back flat. Hold one dumbbell in the opposite hand for a natural cross-body pull."
       }
     ],
-    "cooldown": "Finish with a 60-second standing quad stretch on each side and a 90-second deep hip flexor stretch in a half-kneeling position. Breathe slowly and let it release.",
+    "cooldown": "Finish with a 90-second standing quad stretch each side and a 90-second standing forward fold to release the hamstrings and lower back. Shake out your legs and walk slowly for 2 minutes.",
     "product": {
       "id": "str-002",
       "name": "Bowflex SelectTech 552 Dumbbells",
@@ -217,26 +217,30 @@
     }
   },
   "meal": {
-    "title": "Seared Duck Breast with Roasted Beet and Lentil Salad",
+    "title": "Seared Mahi-Mahi and Black Bean Bowl with Avocado Lime Drizzle",
     "type": "dinner",
-    "mainProtein": "duck",
-    "prepTime": "25 min",
-    "calories": 520,
-    "protein": 38,
+    "mainProtein": "mahi-mahi",
+    "prepTime": "20 min",
+    "calories": 480,
+    "protein": 42,
     "carbs": 38,
-    "fat": 18,
+    "fat": 16,
     "ingredients": [
-      "2 duck breasts (skin-on)",
-      "1 cup cooked green or French lentils",
-      "2 medium beets, roasted and sliced",
-      "2 cups arugula",
-      "1 tablespoon Dijon mustard",
-      "2 tablespoons red wine vinegar",
-      "1 tablespoon olive oil",
-      "Salt, pepper, fresh thyme"
+      "2 mahi-mahi fillets (6 oz each)",
+      "1 can black beans, drained and rinsed",
+      "1 cup cooked brown rice or cauliflower rice",
+      "1 ripe avocado",
+      "2 tbsp plain Greek yogurt",
+      "Juice of 1 lime",
+      "1 garlic clove, minced",
+      "1 tsp cumin",
+      "1 tsp smoked paprika",
+      "Salt and pepper to taste",
+      "1 tbsp olive oil",
+      "Fresh cilantro and sliced jalapeño to serve (optional)"
     ],
-    "instructions": "Score the duck skin in a crosshatch pattern and season with salt, pepper, and thyme. Place skin-side down in a cold pan, then bring to medium heat and render for 8 to 10 minutes until the skin is golden and crisp. Flip and cook 3 to 4 more minutes for medium, then rest for 5 minutes. Whisk together Dijon, red wine vinegar, and olive oil to make a quick dressing. Toss lentils, roasted beets, and arugula with the dressing, season to taste. Slice duck and serve over the salad.",
-    "tip": "Starting the duck in a cold pan is the move. It renders the fat slowly and gives you crispy skin without burning. Beets can be roasted the night before to keep this genuinely weeknight-fast.",
+    "instructions": "Pat mahi-mahi dry, season both sides with cumin, smoked paprika, salt, and pepper. Heat olive oil in a skillet over medium-high heat and sear the fish for 3 to 4 minutes per side until golden and cooked through. While the fish rests, warm the black beans in the same pan with a pinch of cumin. Blend or mash the avocado with Greek yogurt, lime juice, and garlic until smooth and drizzle-ready. Build the bowl: rice first, then beans, then the fish. Drizzle the avocado lime sauce over the top and finish with cilantro and jalapeño if you like heat.",
+    "tip": "Make a double batch of the avocado lime drizzle and store it in the fridge for up to two days. It works as a salad dressing, dip, or sauce for tomorrow's lunch.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
