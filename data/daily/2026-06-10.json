@@ -1,0 +1,261 @@
+{
+  "date": "2026-06-10",
+  "dateLabel": "Wednesday, June 10, 2026",
+  "generatedAt": "2026-06-10T10:49:50.639Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "strength training weekly dose mortality risk",
+      "headline": "90 Minutes of Lifting Per Week. That's the Longevity Sweet Spot, According to 30 Years of Data.",
+      "body": "Harvard researchers just published one of the most definitive looks at how much strength training actually buys you more years. They followed 147,374 adults for up to 30 years and found that 90 to 119 minutes of resistance training per week was linked to a 13 percent lower risk of dying from any cause. The benefits for specific diseases were even bigger: 19 percent lower risk of dying from cardiovascular disease and 27 percent lower risk from neurological disease like Alzheimer's. Here is the kicker: doing more than 120 minutes per week offered no additional benefit. The curve flattened out completely.",
+      "takeaway": "Two focused lifting sessions a week hits the sweet spot. You don't need to train like an athlete to get the longevity benefit.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://bjsm.bmj.com/content/early/2026/05/28/bjsports-2025-110503",
+      "pexelsQuery": "dumbbell weights gym workout",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/37887283/pexels-photo-37887283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/37887283/pexels-photo-37887283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Elena  Kravets",
+        "photographerUrl": "https://www.pexels.com/@elena-kravets-1601294419",
+        "photoPageUrl": "https://www.pexels.com/photo/5kg-dumbbell-weights-on-dark-surface-37887283/",
+        "avgColor": "#4D545A"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "men cardiovascular disease risk age 35",
+      "headline": "Men's Heart Risk Starts Rising at 35. Most Screening Programs Miss That Window Entirely.",
+      "body": "A landmark 34-year study tracked over 5,000 adults from young adulthood and found that men and women start out with similar cardiovascular risk. Then something shifts around age 35. From that point, men's risk climbs faster and stays higher through midlife. By the time you hit your early 50s, men have reached a clinically significant level of cardiovascular disease about seven years earlier than women on average. The gap was driven almost entirely by coronary heart disease, not stroke or heart failure. And it couldn't be explained away by smoking, blood pressure, or diabetes alone.",
+      "takeaway": "If you're a man in your 30s or 40s, heart health isn't a future problem. Ask your doctor about getting a baseline cardiovascular risk assessment now.",
+      "source": "Journal of the American Heart Association",
+      "sourceUrl": "https://www.ahajournals.org/doi/10.1161/JAHA.125.044922",
+      "pexelsQuery": "man running outdoors heart health",
+      "photo": {
+        "url": "https://images.pexels.com/photos/17979371/pexels-photo-17979371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17979371/pexels-photo-17979371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pexels LATAM",
+        "photographerUrl": "https://www.pexels.com/@pexels-latam-478514802",
+        "photoPageUrl": "https://www.pexels.com/photo/man-running-on-a-path-17979371/",
+        "avgColor": "#6E7444"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "beyond BMI obesity disease risk tool",
+      "headline": "Two People Can Have the Same BMI and Wildly Different Health Futures. A New Tool Just Proved It.",
+      "body": "Researchers at Queen Mary University of London analyzed health data from 200,000 people and built something that BMI never could: a real picture of who is actually at risk. The tool, called OBSCORE, uses just 20 standard clinical measures like blood test results, waist-to-height ratio, smoking status, and family history to predict a person's 10-year risk of developing 18 different obesity-related diseases. The study, published in Nature Medicine, found that people with the same BMI could have vastly different risk profiles. Many high-risk individuals were overweight, not obese, meaning they would be missed entirely under current guidelines.",
+      "takeaway": "BMI is a starting point, not the full story. If you carry excess weight, ask your doctor about a more complete metabolic risk assessment beyond the scale.",
+      "source": "Nature Medicine",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04353-2",
+      "pexelsQuery": "doctor patient health assessment clinic",
+      "product": {
+        "id": "body-001",
+        "name": "RENPHO Smart Body Scale",
+        "brand": "Renpho",
+        "asin": "B01N1UX8RW",
+        "url": "https://www.amazon.com/dp/B01N1UX8RW?tag=chrisolson04-20",
+        "category": "health",
+        "price_range": "$",
+        "keywords": [
+          "body composition",
+          "weight",
+          "muscle mass",
+          "body fat",
+          "health tracking",
+          "scale",
+          "BMI",
+          "training progress"
+        ],
+        "blurb": "Weight alone lies. Body composition tells the real story of your training progress."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7108350/pexels-photo-7108350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7108350/pexels-photo-7108350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-lying-on-the-bed-7108350/",
+        "avgColor": "#9C9F9E"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "muscle strength women longevity mortality risk",
+      "headline": "For Women Over 60, Muscle Strength Matters More Than How Much You Exercise. A Major Study Just Confirmed It.",
+      "body": "A University at Buffalo team followed 5,472 women between ages 63 and 99 for eight years and found something that challenges everything we assumed about exercise and longevity. Women with the highest grip strength had a 33 percent lower risk of death. Those with the fastest chair stand times had a 37 percent lower risk. The striking part: the benefit held even for women who didn't meet standard aerobic exercise guidelines. Strength mattered independent of how active they were. Published in JAMA Network Open, it is the largest study to ever isolate the effect of muscle strength on longevity in older women.",
+      "takeaway": "Grip strength and the ability to stand from a chair are two of the best longevity signals a woman has. Both improve with regular resistance training.",
+      "source": "JAMA Network Open",
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829820",
+      "pexelsQuery": "woman lifting weights strength training gym",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13822300/pexels-photo-13822300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13822300/pexels-photo-13822300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan",
+        "photographerUrl": "https://www.pexels.com/@jonathan-328310533",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-lifting-a-barbell-13822300/",
+        "avgColor": "#6A6965"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The first wealth is health.",
+    "author": "Ralph Waldo Emerson",
+    "context": "19th-century American essayist and philosopher whose writing on self-reliance and vitality still holds up."
+  },
+  "workout": {
+    "type": "LOWER",
+    "workout_type": "lower",
+    "title": "Squat, Hinge, Lunge: Lower-Body Power in 35",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength",
+      "fat_loss"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "lower_body",
+      "squat_dominant",
+      "hinge_dominant",
+      "under_60_min",
+      "muscle_gain"
+    ],
+    "tip": "If you only have time to focus on one thing today, nail your bracing. Before every rep, take a breath into your belly, hold it, and brace your core like you're about to take a punch. It protects your spine and makes every movement stronger.",
+    "warmup": "2 minutes of bodyweight squats and leg swings to open up the hips. Follow with 10 slow glute bridges on the floor, pausing at the top for two counts each.",
+    "exercises": [
+      {
+        "name": "Goblet Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hold one dumbbell vertically at your chest. Drive knees out, sit deep, and stand tall. Pause one count at the bottom to build control."
+      },
+      {
+        "name": "Romanian Deadlift",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold dumbbells in front of your thighs. Hinge at the hips, keep a soft knee, and lower until you feel a stretch in the hamstrings. Drive hips forward to stand."
+      },
+      {
+        "name": "Reverse Lunge",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Step back, not forward. This is easier on the knees. Keep your front shin vertical and your torso upright. Hold dumbbells at your sides for added load."
+      },
+      {
+        "name": "Sumo Squat with Dumbbell",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Wide stance, toes angled out at 45 degrees. Hold one dumbbell between your legs. Drive through your heels and squeeze your glutes at the top."
+      },
+      {
+        "name": "Single-Leg Glute Bridge",
+        "sets": "3",
+        "reps": "10 each leg",
+        "notes": "Lie on your back, one foot flat on the floor, the other extended. Drive through the heel to lift your hips. Pause one count at the top. No weight needed."
+      }
+    ],
+    "cooldown": "Finish with a 60-second standing quad stretch on each side and a 90-second deep hip flexor stretch in a half-kneeling position. Breathe slowly and let it release.",
+    "product": {
+      "id": "str-002",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "brand": "Bowflex",
+      "asin": "B0FRNG2N5H",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$$$",
+      "keywords": [
+        "strength",
+        "weights",
+        "dumbbells",
+        "home gym",
+        "resistance training",
+        "muscle",
+        "lifting"
+      ],
+      "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+    }
+  },
+  "meal": {
+    "title": "Seared Duck Breast with Roasted Beet and Lentil Salad",
+    "type": "dinner",
+    "mainProtein": "duck",
+    "prepTime": "25 min",
+    "calories": 520,
+    "protein": 38,
+    "carbs": 38,
+    "fat": 18,
+    "ingredients": [
+      "2 duck breasts (skin-on)",
+      "1 cup cooked green or French lentils",
+      "2 medium beets, roasted and sliced",
+      "2 cups arugula",
+      "1 tablespoon Dijon mustard",
+      "2 tablespoons red wine vinegar",
+      "1 tablespoon olive oil",
+      "Salt, pepper, fresh thyme"
+    ],
+    "instructions": "Score the duck skin in a crosshatch pattern and season with salt, pepper, and thyme. Place skin-side down in a cold pan, then bring to medium heat and render for 8 to 10 minutes until the skin is golden and crisp. Flip and cook 3 to 4 more minutes for medium, then rest for 5 minutes. Whisk together Dijon, red wine vinegar, and olive oil to make a quick dressing. Toss lentils, roasted beets, and arugula with the dressing, season to taste. Slice duck and serve over the salad.",
+    "tip": "Starting the duck in a cold pan is the move. It renders the fat slowly and gives you crispy skin without burning. Beets can be roasted the night before to keep this genuinely weeknight-fast.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
