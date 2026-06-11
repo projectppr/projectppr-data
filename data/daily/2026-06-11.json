@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-11",
+  "dateLabel": "Thursday, June 11, 2026",
+  "generatedAt": "2026-06-11T11:10:06.309Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "insomnia sleep apnea combined diabetes risk",
+      "headline": "Having Both Insomnia and Sleep Apnea Multiplies Your Diabetes Risk By More Than Six Times",
+      "body": "Most people know poor sleep is bad for metabolic health. But new research presented at SLEEP 2026 shows the combination of insomnia and obstructive sleep apnea — known as COMISA — is a much bigger problem than either condition alone. Veterans with both disorders faced a diabetes risk more than six times higher than those with neither. Insomnia alone raised risk by 41 percent. Sleep apnea alone pushed it even higher. Having both together created a compounding effect that researchers say clinicians need to start screening for — especially in midlife adults where sleep disorders and metabolic disease often overlap.",
+      "takeaway": "If you have trouble both falling asleep and staying asleep, and you snore or feel unrefreshed in the morning, ask your doctor to screen for both insomnia and sleep apnea together — not just one or the other.",
+      "source": "SLEEP 2026 / Journal Sleep",
+      "sourceUrl": "https://medicalxpress.com/news/2026-06-veterans-insomnia-apnea-elevated-diabetes.html",
+      "pexelsQuery": "person sleeping restless bed night",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6944001/pexels-photo-6944001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6944001/pexels-photo-6944001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/man-lying-on-the-bed-in-the-dark-6944001/",
+        "avgColor": "#36230A"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "menopause hormone therapy usage decline USA",
+      "headline": "Most Women Who Could Benefit From Hormone Therapy Aren't Getting It. A New Mayo Clinic Study Just Showed How Bad the Gap Is.",
+      "body": "Menopause hits more than a million American women every year, and up to 75 percent of them experience hot flashes and night sweats that can drag on for years. But a new Mayo Clinic study in Mayo Clinic Proceedings found that hormone therapy use has dropped from 4.4 percent in 2007 to just 1.7 percent in 2023. Even among women aged 50 to 59 — the group most likely to benefit — only 3.5 percent were using it. Researchers say outdated fears, a lack of clinician training, and widespread misinformation are driving the gap. For many women under 60, the evidence says it is safe and effective.",
+      "takeaway": "If you are navigating perimenopause or menopause and haven't had a real conversation with a doctor about hormone therapy, the current evidence suggests it's worth having one — especially in your 50s.",
+      "source": "Mayo Clinic Proceedings",
+      "sourceUrl": "https://newsnetwork.mayoclinic.org/discussion/hormone-therapy-use-for-menopause-declines-despite-proven-benefits-study-finds/",
+      "pexelsQuery": "woman doctor consultation medical office",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5998440/pexels-photo-5998440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5998440/pexels-photo-5998440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-robe-writing-on-white-paper-5998440/",
+        "avgColor": "#AC9A8F"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "elevated cortisol resistant hypertension hidden link",
+      "headline": "One in Four People With Hard-to-Treat High Blood Pressure May Have a Hidden Cortisol Problem",
+      "body": "If your blood pressure refuses to come down despite medication, the answer might not be in your arteries. A large U.S. study called MOMENTUM found that 27 percent of people with resistant hypertension had elevated cortisol — far more than expected. Cortisol, your body's primary stress hormone, can quietly drive blood pressure up in ways that standard drugs do not address. Researchers say this hidden hormonal condition could explain why millions of people stay stuck on ineffective treatment plans. The finding points toward new testing protocols that could finally crack stubborn high blood pressure cases.",
+      "takeaway": "If your blood pressure is not responding to medication, ask your doctor whether cortisol testing is appropriate — the issue may be hormonal, not just cardiovascular.",
+      "source": "ScienceDaily / Mount Sinai",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260330001131.htm",
+      "pexelsQuery": "blood pressure monitor arm cuff",
+      "photo": {
+        "url": "https://images.pexels.com/photos/33034061/pexels-photo-33034061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33034061/pexels-photo-33034061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tahir Xəlfə",
+        "photographerUrl": "https://www.pexels.com/@tahir",
+        "photoPageUrl": "https://www.pexels.com/photo/healthcare-professional-checking-blood-pressure-outdoors-33034061/",
+        "avgColor": "#867A6E"
+      }
+    },
+    {
+      "category": "MINDSET",
+      "topic": "proactive brain training mental health resilience digital",
+      "headline": "You Don't Have to Wait for a Crisis to Train Your Brain. New Research Says Getting Ahead of It Actually Works.",
+      "body": "Mental health care has always been reactive: wait until something breaks, then try to fix it. A new study in Frontiers in Psychology from the Center for BrainHealth at UT Dallas is challenging that model. Researchers showed that a strategy-based digital brain training program improved mental health outcomes in both healthy adults and those with a history of mental illness. Healthy participants saw cognitive benefits faster, while those with prior mental health struggles showed comparable psychological gains over time. The implication is practical: proactive brain training — not just therapy after the fact — can build genuine resilience before stress hits.",
+      "takeaway": "Spending even a few minutes a day on intentional cognitive strategy work — not passive scrolling or crosswords, but active mental effort — appears to build real psychological resilience over time.",
+      "source": "Frontiers in Psychology",
+      "sourceUrl": "https://medicalxpress.com/news/2026-06-flips-mental-health-paradigm-proactive.html",
+      "pexelsQuery": "person focused thinking laptop mindfulness",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6890186/pexels-photo-6890186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6890186/pexels-photo-6890186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-red-long-sleeves-using-a-laptop-6890186/",
+        "avgColor": "#847E7D"
+      }
+    }
+  ],
+  "quote": {
+    "text": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "context": "Roman Emperor and Stoic philosopher whose writings on resilience and self-discipline have guided leaders for nearly two thousand years."
+  },
+  "workout": {
+    "type": "PULL",
+    "workout_type": "pull",
+    "title": "Dead Hang, Row, and Hollow: Back and Core in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar or sturdy doorframe bar",
+      "resistance band (optional)",
+      "floor space"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "tags": [
+      "minimal_equipment",
+      "pull_dominant",
+      "upper_body",
+      "core",
+      "under_30_min",
+      "beginner_friendly"
+    ],
+    "tip": "If you don't have a pull-up bar, substitute the dead hangs and rows with resistance band pull-aparts and band rows anchored in a doorframe. Quality over quantity every set.",
+    "warmup": "Spend 3 minutes on arm circles, shoulder rolls, and cat-cow spinal waves. Then do 10 scapular shrugs in a relaxed hang or with arms overhead to wake up the muscles around your shoulder blades before pulling anything heavy.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "30-45 seconds",
+        "notes": "Grip a bar with both hands, hang fully with shoulders packed down away from ears — do not let them shrug up. Breathe steadily. If grip fails early, use a resistance band looped around the bar for support."
+      },
+      {
+        "name": "Inverted Row (using a table edge or low bar)",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Lie under a sturdy table or low bar, grip overhand, and pull your chest up to meet it. Keep your body in a rigid plank line — no hips sagging. The lower you position your body, the harder it gets."
+      },
+      {
+        "name": "Band Pull-Apart",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Hold a resistance band at chest height with arms extended in front of you. Pull both ends apart until your arms are wide, squeezing the back of your shoulders together. Control the return — do not let the band snap back."
+      },
+      {
+        "name": "Superman Hold",
+        "sets": "3",
+        "reps": "8, hold 3 seconds each",
+        "notes": "Lie face down, arms extended overhead. Lift arms, chest, and legs off the floor simultaneously and hold for 3 counts. This works the posterior chain and lower back without any equipment at all."
+      },
+      {
+        "name": "Hollow Body Hold",
+        "sets": "3",
+        "reps": "20-30 seconds",
+        "notes": "Lie on your back, press your lower back into the floor, extend arms overhead and legs out low. Hold the position while breathing normally. If your back lifts off the floor, raise your legs higher until you can maintain contact."
+      }
+    ],
+    "cooldown": "Finish with a 90-second doorframe chest stretch on each side and a slow child's pose hold for 60 seconds to decompress the spine and let the back muscles relax after pulling work.",
+    "product": {
+      "id": "str-001",
+      "name": "Gymnastic Rings - Double Circle Wood",
+      "brand": "Double Circle",
+      "asin": "B076X32LFY",
+      "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+      "category": "strength",
+      "price_range": "$",
+      "keywords": [
+        "gymnastics",
+        "rings",
+        "strength",
+        "bodyweight",
+        "upper body",
+        "pull-ups",
+        "dips",
+        "core",
+        "home gym"
+      ],
+      "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+    }
+  },
+  "meal": {
+    "title": "Seared Duck Breast with White Bean Mash and Wilted Kale",
+    "type": "dinner",
+    "mainProtein": "duck",
+    "prepTime": "25 min",
+    "calories": 520,
+    "protein": 42,
+    "carbs": 32,
+    "fat": 22,
+    "ingredients": [
+      "2 duck breasts (skin-on, about 180g each)",
+      "1 can (400g) white cannellini beans, drained and rinsed",
+      "2 cups curly kale, stems removed",
+      "3 garlic cloves, minced",
+      "1 tbsp olive oil",
+      "Juice of half a lemon",
+      "1 tsp smoked paprika",
+      "Salt and black pepper to taste",
+      "1 tbsp fresh flat-leaf parsley, chopped"
+    ],
+    "instructions": "Score the duck skin in a crosshatch pattern and season with smoked paprika, salt, and pepper. Place skin-side down in a cold pan, then turn heat to medium and let the fat render for 8 to 10 minutes until the skin is crispy and golden. Flip and cook for another 4 minutes for medium doneness, then rest for 5 minutes. While duck rests, drain most of the duck fat, add garlic to the pan and cook for 30 seconds, then add kale and toss until just wilted. In a small saucepan, warm the white beans with olive oil and lemon juice, mashing roughly with a fork to a chunky puree. Plate the bean mash, top with wilted kale, slice the duck and fan over the top, and finish with parsley.",
+    "tip": "Starting duck skin-side down in a cold pan — not a hot one — is the key to perfectly rendered, crispy skin without burning. Do not rush the rendering step.",
+    "product": {
+      "id": "body-002",
+      "name": "Greater Goods Digital Food Scale",
+      "brand": "Greater Goods",
+      "asin": "B09QFWXSD8",
+      "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+      "category": "kitchen",
+      "price_range": "$",
+      "keywords": [
+        "nutrition",
+        "calories",
+        "macros",
+        "meal prep",
+        "food tracking",
+        "portion",
+        "weight loss",
+        "protein"
+      ],
+      "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+    }
+  }
+}
