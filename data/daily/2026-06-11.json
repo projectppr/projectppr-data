@@ -1,115 +1,96 @@
 {
   "date": "2026-06-11",
   "dateLabel": "Thursday, June 11, 2026",
-  "generatedAt": "2026-06-11T11:10:06.309Z",
+  "generatedAt": "2026-06-11T18:32:49.550Z",
   "articles": [
     {
-      "category": "SLEEP",
-      "topic": "insomnia sleep apnea combined diabetes risk",
-      "headline": "Having Both Insomnia and Sleep Apnea Multiplies Your Diabetes Risk By More Than Six Times",
-      "body": "Most people know poor sleep is bad for metabolic health. But new research presented at SLEEP 2026 shows the combination of insomnia and obstructive sleep apnea — known as COMISA — is a much bigger problem than either condition alone. Veterans with both disorders faced a diabetes risk more than six times higher than those with neither. Insomnia alone raised risk by 41 percent. Sleep apnea alone pushed it even higher. Having both together created a compounding effect that researchers say clinicians need to start screening for — especially in midlife adults where sleep disorders and metabolic disease often overlap.",
-      "takeaway": "If you have trouble both falling asleep and staying asleep, and you snore or feel unrefreshed in the morning, ask your doctor to screen for both insomnia and sleep apnea together — not just one or the other.",
-      "source": "SLEEP 2026 / Journal Sleep",
-      "sourceUrl": "https://medicalxpress.com/news/2026-06-veterans-insomnia-apnea-elevated-diabetes.html",
-      "pexelsQuery": "person sleeping restless bed night",
-      "product": {
-        "id": "slp-001",
-        "name": "LectroFan White Noise Machine",
-        "brand": "LectroFan",
-        "asin": "B00E6D6LQY",
-        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
-        "category": "sleep",
-        "price_range": "$",
-        "keywords": [
-          "sleep",
-          "white noise",
-          "sound machine",
-          "insomnia",
-          "sleep quality",
-          "recovery",
-          "deep sleep"
-        ],
-        "blurb": "Blocks ambient noise so your sleep is actually restorative."
-      },
+      "category": "LONGEVITY",
+      "topic": "strength training dose mortality risk",
+      "headline": "The Sweet Spot for Lifting Just Got Clearer. A 30-Year Study Found It.",
+      "body": "How much lifting is enough to actually extend your life? A massive new study tracking more than 147,000 adults for up to three decades finally has a solid answer. Researchers found that people doing roughly 90 to 120 minutes of strength training per week had the lowest risk of dying overall. The benefits got even bigger when that lifting was paired with regular aerobic exercise. And the cancer numbers were striking too: even just a few minutes of resistance work per week was linked to meaningfully lower cancer mortality risk. More isn't always more, but some is clearly a lot better than none.",
+      "takeaway": "Aim for two strength sessions a week totaling 90 to 120 minutes, and pair them with cardio. That combination appears to offer the greatest longevity benefit based on three decades of data.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://scitechdaily.com/the-best-exercise-combination-for-longevity-according-to-a-30-year-study/",
+      "pexelsQuery": "person lifting weights gym",
       "photo": {
-        "url": "https://images.pexels.com/photos/6944001/pexels-photo-6944001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6944001/pexels-photo-6944001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "cottonbro studio",
-        "photographerUrl": "https://www.pexels.com/@cottonbro",
-        "photoPageUrl": "https://www.pexels.com/photo/man-lying-on-the-bed-in-the-dark-6944001/",
-        "avgColor": "#36230A"
+        "url": "https://images.pexels.com/photos/4853324/pexels-photo-4853324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853324/pexels-photo-4853324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/young-athletes-lifting-weights-at-gym-with-a-mural-4853324/",
+        "avgColor": "#837657"
       }
     },
     {
-      "category": "HORMONES",
-      "topic": "menopause hormone therapy usage decline USA",
-      "headline": "Most Women Who Could Benefit From Hormone Therapy Aren't Getting It. A New Mayo Clinic Study Just Showed How Bad the Gap Is.",
-      "body": "Menopause hits more than a million American women every year, and up to 75 percent of them experience hot flashes and night sweats that can drag on for years. But a new Mayo Clinic study in Mayo Clinic Proceedings found that hormone therapy use has dropped from 4.4 percent in 2007 to just 1.7 percent in 2023. Even among women aged 50 to 59 — the group most likely to benefit — only 3.5 percent were using it. Researchers say outdated fears, a lack of clinician training, and widespread misinformation are driving the gap. For many women under 60, the evidence says it is safe and effective.",
-      "takeaway": "If you are navigating perimenopause or menopause and haven't had a real conversation with a doctor about hormone therapy, the current evidence suggests it's worth having one — especially in your 50s.",
-      "source": "Mayo Clinic Proceedings",
-      "sourceUrl": "https://newsnetwork.mayoclinic.org/discussion/hormone-therapy-use-for-menopause-declines-despite-proven-benefits-study-finds/",
-      "pexelsQuery": "woman doctor consultation medical office",
+      "category": "HEART HEALTH",
+      "topic": "flavanols fruits heart disease prevention",
+      "headline": "You're Probably Eating Enough Fruit. You're Still Not Getting What Your Heart Needs.",
+      "body": "Eating your five-a-day doesn't automatically mean your heart is covered. A major new study from researchers at Harvard, the University of Reading, and UC Davis tracked more than 30,000 people in the UK and US using actual biomarker measurements, not just diet surveys. The finding: fewer than one in five people hit the 500mg daily flavanol intake that prior research linked to a significantly lower risk of dying from cardiovascular disease. That includes people who regularly ate their recommended fruit and vegetable servings. The problem isn't quantity. It's which fruits and vegetables you're choosing.",
+      "takeaway": "Load up on flavanol-rich foods like blueberries, blackberries, plums, cherries, and green tea. These specific choices, not just total produce volume, appear to drive the heart-protective effect.",
+      "source": "Food and Function (University of Reading / Harvard Medical School)",
+      "sourceUrl": "https://www.reading.ac.uk/news/2026/Research-News/Not-all-five-a-days-are-equal-for-heart-health",
+      "pexelsQuery": "blueberries blackberries fresh fruit bowl",
       "photo": {
-        "url": "https://images.pexels.com/photos/5998440/pexels-photo-5998440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5998440/pexels-photo-5998440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Pavel Danilyuk",
-        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-robe-writing-on-white-paper-5998440/",
-        "avgColor": "#AC9A8F"
+        "url": "https://images.pexels.com/photos/9260608/pexels-photo-9260608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9260608/pexels-photo-9260608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Atlantic Ambience",
+        "photographerUrl": "https://www.pexels.com/@freestockpro",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-cereal-bowl-with-berries-9260608/",
+        "avgColor": "#BABFC2"
       }
     },
     {
-      "category": "STRESS",
-      "topic": "elevated cortisol resistant hypertension hidden link",
-      "headline": "One in Four People With Hard-to-Treat High Blood Pressure May Have a Hidden Cortisol Problem",
-      "body": "If your blood pressure refuses to come down despite medication, the answer might not be in your arteries. A large U.S. study called MOMENTUM found that 27 percent of people with resistant hypertension had elevated cortisol — far more than expected. Cortisol, your body's primary stress hormone, can quietly drive blood pressure up in ways that standard drugs do not address. Researchers say this hidden hormonal condition could explain why millions of people stay stuck on ineffective treatment plans. The finding points toward new testing protocols that could finally crack stubborn high blood pressure cases.",
-      "takeaway": "If your blood pressure is not responding to medication, ask your doctor whether cortisol testing is appropriate — the issue may be hormonal, not just cardiovascular.",
-      "source": "ScienceDaily / Mount Sinai",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260330001131.htm",
-      "pexelsQuery": "blood pressure monitor arm cuff",
-      "photo": {
-        "url": "https://images.pexels.com/photos/33034061/pexels-photo-33034061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/33034061/pexels-photo-33034061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Tahir Xəlfə",
-        "photographerUrl": "https://www.pexels.com/@tahir",
-        "photoPageUrl": "https://www.pexels.com/photo/healthcare-professional-checking-blood-pressure-outdoors-33034061/",
-        "avgColor": "#867A6E"
-      }
-    },
-    {
-      "category": "MINDSET",
-      "topic": "proactive brain training mental health resilience digital",
-      "headline": "You Don't Have to Wait for a Crisis to Train Your Brain. New Research Says Getting Ahead of It Actually Works.",
-      "body": "Mental health care has always been reactive: wait until something breaks, then try to fix it. A new study in Frontiers in Psychology from the Center for BrainHealth at UT Dallas is challenging that model. Researchers showed that a strategy-based digital brain training program improved mental health outcomes in both healthy adults and those with a history of mental illness. Healthy participants saw cognitive benefits faster, while those with prior mental health struggles showed comparable psychological gains over time. The implication is practical: proactive brain training — not just therapy after the fact — can build genuine resilience before stress hits.",
-      "takeaway": "Spending even a few minutes a day on intentional cognitive strategy work — not passive scrolling or crosswords, but active mental effort — appears to build real psychological resilience over time.",
+      "category": "MENTAL PERFORMANCE",
+      "topic": "daily brain training resilience anxiety depression",
+      "headline": "Five Minutes a Day Built a Real Mental Shield. A New Trial Just Showed How.",
+      "body": "Most mental health tools kick in after you're already struggling. A new study from the Center for BrainHealth at UT Dallas flips that model. Researchers put 370 adults through a digital strategy-based brain training program, with sessions as short as five minutes a day over six months. The result: every participant, whether they had a history of mental illness or not, showed measurable improvements in resilience, quality of life, and reduction in symptoms of depression, anxiety, and stress. Healthy adults also saw a boost in executive function. The takeaway isn't that an app replaces therapy. It's that proactive, daily mental reps work.",
+      "takeaway": "Short daily cognitive training, even just five minutes of focused strategy-based practice, can meaningfully reduce psychological distress over time. You don't have to wait for a crisis to train your brain.",
       "source": "Frontiers in Psychology",
       "sourceUrl": "https://medicalxpress.com/news/2026-06-flips-mental-health-paradigm-proactive.html",
-      "pexelsQuery": "person focused thinking laptop mindfulness",
+      "pexelsQuery": "person meditating focusing calm mindfulness",
       "photo": {
-        "url": "https://images.pexels.com/photos/6890186/pexels-photo-6890186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6890186/pexels-photo-6890186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "cottonbro studio",
-        "photographerUrl": "https://www.pexels.com/@cottonbro",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-red-long-sleeves-using-a-laptop-6890186/",
-        "avgColor": "#847E7D"
+        "url": "https://images.pexels.com/photos/34395956/pexels-photo-34395956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34395956/pexels-photo-34395956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Zulfugar Karimov",
+        "photographerUrl": "https://www.pexels.com/@zulfugarkarimov",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-practicing-yoga-outdoors-in-park-34395956/",
+        "avgColor": "#897262"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "workout timing circadian rhythm performance metabolism",
+      "headline": "When You Train Matters. Your Body's Internal Clock Is Paying Attention.",
+      "body": "The science of workout timing just got a rigorous new look. A June 2026 review published in Life Metabolism breaks down how your body's circadian clock actively governs exercise capacity, fuel metabolism, and even mitochondrial growth. Performance in both endurance and power events is time-of-day dependent, and the underlying mechanisms now include how the clock coordinates tissue-specific responses throughout the day. Your hormones, core temperature, and chronotype all factor in. The research doesn't hand you a perfect workout hour, but it makes clear: timing your training to match your biology is a real lever worth pulling.",
+      "takeaway": "Pay attention to when you feel strongest and most alert consistently, that window likely aligns with your circadian peak for performance. Training at the same time each day can also reinforce your body's internal rhythms.",
+      "source": "Life Metabolism (Oxford Academic)",
+      "sourceUrl": "https://academic.oup.com/lifemeta/article/5/3/loag009/8554094",
+      "pexelsQuery": "person running morning sunrise outdoor",
+      "photo": {
+        "url": "https://images.pexels.com/photos/18498712/pexels-photo-18498712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/18498712/pexels-photo-18498712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gaurav Rai",
+        "photographerUrl": "https://www.pexels.com/@gaurav-rai-578232091",
+        "photoPageUrl": "https://www.pexels.com/photo/people-in-a-park-at-sunrise-18498712/",
+        "avgColor": "#523D2C"
       }
     }
   ],
   "quote": {
-    "text": "You have power over your mind, not outside events. Realize this, and you will find strength.",
-    "author": "Marcus Aurelius",
-    "context": "Roman Emperor and Stoic philosopher whose writings on resilience and self-discipline have guided leaders for nearly two thousand years."
+    "text": "It never gets easier. You just get stronger.",
+    "author": "Kelly Slater",
+    "context": "Eleven-time world surfing champion, widely regarded as the greatest competitive surfer of all time."
   },
   "workout": {
     "type": "PULL",
     "workout_type": "pull",
-    "title": "Dead Hang, Row, and Hollow: Back and Core in 30",
+    "title": "Pull Strong: Row, Hang and Brace in 30",
     "difficulty": "Intermediate",
     "duration": "30 min",
     "equipment": [
-      "pull-up bar or sturdy doorframe bar",
-      "resistance band (optional)",
-      "floor space"
+      "pull-up bar",
+      "resistance band",
+      "dumbbells"
     ],
     "goal_affinity": [
       "general_fitness",
@@ -117,47 +98,46 @@
     ],
     "tags": [
       "minimal_equipment",
-      "pull_dominant",
       "upper_body",
+      "pull_dominant",
       "core",
-      "under_30_min",
-      "beginner_friendly"
+      "under_30_min"
     ],
-    "tip": "If you don't have a pull-up bar, substitute the dead hangs and rows with resistance band pull-aparts and band rows anchored in a doorframe. Quality over quantity every set.",
-    "warmup": "Spend 3 minutes on arm circles, shoulder rolls, and cat-cow spinal waves. Then do 10 scapular shrugs in a relaxed hang or with arms overhead to wake up the muscles around your shoulder blades before pulling anything heavy.",
+    "tip": "If you don't have a pull-up bar, a sturdy door frame pull-up bar works fine. For the dead hang, focus on active shoulders, squeeze your shoulder blades down before you hang. That protects your joints and builds the right muscles.",
+    "warmup": "Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders.",
     "exercises": [
       {
         "name": "Dead Hang",
         "sets": "3",
         "reps": "30-45 seconds",
-        "notes": "Grip a bar with both hands, hang fully with shoulders packed down away from ears — do not let them shrug up. Breathe steadily. If grip fails early, use a resistance band looped around the bar for support."
+        "notes": "Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets."
       },
       {
-        "name": "Inverted Row (using a table edge or low bar)",
+        "name": "Dumbbell Bent-Over Row",
         "sets": "3",
-        "reps": "10-12",
-        "notes": "Lie under a sturdy table or low bar, grip overhand, and pull your chest up to meet it. Keep your body in a rigid plank line — no hips sagging. The lower you position your body, the harder it gets."
+        "reps": "10 each side",
+        "notes": "Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable."
       },
       {
-        "name": "Band Pull-Apart",
+        "name": "Resistance Band Face Pull",
         "sets": "3",
         "reps": "15",
-        "notes": "Hold a resistance band at chest height with arms extended in front of you. Pull both ends apart until your arms are wide, squeezing the back of your shoulders together. Control the return — do not let the band snap back."
+        "notes": "Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough."
       },
       {
-        "name": "Superman Hold",
+        "name": "Inverted Row (or Assisted Pull-Up with Band)",
         "sets": "3",
-        "reps": "8, hold 3 seconds each",
-        "notes": "Lie face down, arms extended overhead. Lift arms, chest, and legs off the floor simultaneously and hold for 3 counts. This works the posterior chain and lower back without any equipment at all."
+        "reps": "8-10",
+        "notes": "For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count."
       },
       {
-        "name": "Hollow Body Hold",
+        "name": "Plank to Alternating Shoulder Tap",
         "sets": "3",
-        "reps": "20-30 seconds",
-        "notes": "Lie on your back, press your lower back into the floor, extend arms overhead and legs out low. Hold the position while breathing normally. If your back lifts off the floor, raise your legs higher until you can maintain contact."
+        "reps": "20 total taps",
+        "notes": "Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work."
       }
     ],
-    "cooldown": "Finish with a 90-second doorframe chest stretch on each side and a slow child's pose hold for 60 seconds to decompress the spine and let the back muscles relax after pulling work.",
+    "cooldown": "Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling.",
     "product": {
       "id": "str-001",
       "name": "Gymnastic Rings - Double Circle Wood",
@@ -181,27 +161,27 @@
     }
   },
   "meal": {
-    "title": "Seared Duck Breast with White Bean Mash and Wilted Kale",
+    "title": "Seared Duck Breast with Roasted Asparagus and White Bean Mash",
     "type": "dinner",
     "mainProtein": "duck",
-    "prepTime": "25 min",
-    "calories": 520,
-    "protein": 42,
+    "prepTime": "20 min",
+    "calories": 480,
+    "protein": 38,
     "carbs": 32,
-    "fat": 22,
+    "fat": 18,
     "ingredients": [
-      "2 duck breasts (skin-on, about 180g each)",
-      "1 can (400g) white cannellini beans, drained and rinsed",
-      "2 cups curly kale, stems removed",
-      "3 garlic cloves, minced",
-      "1 tbsp olive oil",
-      "Juice of half a lemon",
-      "1 tsp smoked paprika",
+      "2 duck breasts (skin scored)",
+      "1 bunch asparagus, trimmed",
+      "1 can white beans, drained and rinsed",
+      "2 cloves garlic, minced",
+      "1 lemon (zest and juice)",
+      "2 tbsp olive oil",
+      "1 tsp fresh thyme (or dried)",
       "Salt and black pepper to taste",
-      "1 tbsp fresh flat-leaf parsley, chopped"
+      "1 tsp Dijon mustard"
     ],
-    "instructions": "Score the duck skin in a crosshatch pattern and season with smoked paprika, salt, and pepper. Place skin-side down in a cold pan, then turn heat to medium and let the fat render for 8 to 10 minutes until the skin is crispy and golden. Flip and cook for another 4 minutes for medium doneness, then rest for 5 minutes. While duck rests, drain most of the duck fat, add garlic to the pan and cook for 30 seconds, then add kale and toss until just wilted. In a small saucepan, warm the white beans with olive oil and lemon juice, mashing roughly with a fork to a chunky puree. Plate the bean mash, top with wilted kale, slice the duck and fan over the top, and finish with parsley.",
-    "tip": "Starting duck skin-side down in a cold pan — not a hot one — is the key to perfectly rendered, crispy skin without burning. Do not rush the rendering step.",
+    "instructions": "Score the duck skin in a crosshatch pattern, season generously with salt and pepper. Place duck breasts skin-side down in a cold pan, then bring to medium heat and cook 7-8 minutes until skin is crispy and golden. Flip and cook another 4-5 minutes for medium. Rest for 5 minutes before slicing. While duck rests, toss asparagus in olive oil, salt, and pepper and roast at 425F for 10-12 minutes or cook in a hot grill pan. Warm white beans in a small pan with garlic, a splash of olive oil, lemon zest, and a squeeze of lemon juice. Mash roughly with a fork, leaving some texture. Plate the white bean mash, top with sliced duck, add asparagus on the side, and finish with a drizzle of Dijon-lemon glaze made by whisking the Dijon with remaining lemon juice.",
+    "tip": "Starting duck skin-side down in a cold pan is the key move. It renders the fat out slowly and gives you restaurant-quality crispy skin without burning. Don't rush this step.",
     "product": {
       "id": "body-002",
       "name": "Greater Goods Digital Food Scale",
