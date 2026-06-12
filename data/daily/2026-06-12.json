@@ -1,0 +1,199 @@
+{
+  "date": "2026-06-12",
+  "dateLabel": "Friday, June 12, 2026",
+  "generatedAt": "2026-06-12T11:04:25.843Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "ultra-processed food attention span dementia risk",
+      "headline": "Your Bag of Chips Is Quietly Wrecking Your Ability to Focus",
+      "body": "A Monash University study of more than 2,100 Australian adults aged 40 to 70 found that higher ultra-processed food intake was tied to measurably lower scores on attention and processing speed tests. Every 10 percent increase in UPF calories was linked to lower attention scores and a higher 20-year dementia risk score. The kicker: eating an otherwise healthy diet like the Mediterranean did not cancel out the effect. Researchers think the degree of processing itself, not just nutrient quality, may be doing the damage to the brain.",
+      "takeaway": "You can eat salad at lunch and still take a hit if you are snacking on packaged ultra-processed foods throughout the day. Reducing UPF intake is a separate goal from eating more vegetables.",
+      "source": "Alzheimer's and Dementia: Diagnosis, Assessment and Disease Monitoring",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260608040017.htm",
+      "pexelsQuery": "packaged snack food junk food chips",
+      "photo": {
+        "url": "https://images.pexels.com/photos/13060679/pexels-photo-13060679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13060679/pexels-photo-13060679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Srattha Nualsate",
+        "photographerUrl": "https://www.pexels.com/@srattha-nualsate-2695613",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-photo-of-chips-13060679/",
+        "avgColor": "#C5AD7D"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "vitamin D2 lowers D3 levels meta-analysis",
+      "headline": "The Wrong Form of Vitamin D May Be Working Against You",
+      "body": "A meta-analysis from the University of Surrey reviewed 11 randomized controlled trials including 655 adults and found something nobody expected: taking vitamin D2 supplements can actually reduce the body's levels of vitamin D3, the more potent form your skin naturally makes from sunlight. In some participants, D3 dropped below levels seen in people taking no supplement at all. Only vitamin D3 appeared to support immune gene expression tied to fighting off viruses and bacteria. The two forms have long been treated as interchangeable. This study says they are not.",
+      "takeaway": "Check your supplement label. If it says D2 or ergocalciferol, consider switching to D3 (cholecalciferol). Vegans can find lichen-derived D3 options that skip animal sources entirely.",
+      "source": "Nutrition Reviews",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
+      "pexelsQuery": "vitamin D supplement capsules sunlight",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9742800/pexels-photo-9742800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9742800/pexels-photo-9742800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "SHVETS production",
+        "photographerUrl": "https://www.pexels.com/@shvets-production",
+        "photoPageUrl": "https://www.pexels.com/photo/yellow-capsules-on-a-yellow-surface-9742800/",
+        "avgColor": "#F6CD01"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "tart cherry muscle protein profile exercise damage",
+      "headline": "Tart Cherry Is Doing Something Deeper Than Just Cutting Soreness",
+      "body": "New research published in Frontiers in Nutrition went inside the muscle to figure out how tart cherry actually works. Thirty-four active men supplemented for seven days before a muscle-damaging exercise protocol, then researchers took biopsies. The result: tart cherry significantly altered the balance of structural and contractile muscle proteins and changed how immune cells behaved inside the muscle tissue itself. The molecular signature shifted even though traditional markers of soreness and performance recovery did not improve on schedule. Researchers say this points to a deeper role in how muscles adapt to training stress.",
+      "takeaway": "Tart cherry is not just a soreness pill. The evidence suggests it is shifting how your muscles respond at a cellular level, which could matter more for long-term adaptation than short-term comfort.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1801399/abstract",
+      "pexelsQuery": "tart cherry juice dark red fruit bowl",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8973377/pexels-photo-8973377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8973377/pexels-photo-8973377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Philippa Jean-Mather Brown",
+        "photographerUrl": "https://www.pexels.com/@philippa-jean-mather-brown-2701930",
+        "photoPageUrl": "https://www.pexels.com/photo/cherries-on-white-surface-8973377/",
+        "avgColor": "#5C5A5B"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "drinking water nitrate dementia risk vegetables",
+      "headline": "Where Your Nitrates Come From Matters More Than How Much You Get",
+      "body": "A 27-year study tracking more than 54,000 Danish adults found a sharp split depending on the source of dietary nitrate. People who got more nitrate from vegetables had a lower risk of developing dementia. People who got more from red meat, processed meat, or even drinking water faced a higher risk. Drinking water nitrate at levels well below current safety limits was still linked to more dementia cases. Researchers think plant-based nitrate gets converted to nitric oxide and arrives packaged with protective antioxidants, while nitrate from meat and water does not come with those benefits.",
+      "takeaway": "Spinach and leafy greens are not just fiber sources. The nitrate in them appears to support long-term brain health in a way that tap water or deli meat simply cannot replicate.",
+      "source": "Alzheimer's and Dementia",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260606075852.htm",
+      "pexelsQuery": "fresh spinach leafy greens bowl water glass",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6737544/pexels-photo-6737544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6737544/pexels-photo-6737544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alari Tammsalu",
+        "photographerUrl": "https://www.pexels.com/@alaritammsalu",
+        "photoPageUrl": "https://www.pexels.com/photo/a-sliced-lemon-fruit-on-green-spinach-leaves-6737544/",
+        "avgColor": "#222A1A"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The pain you feel today will be the strength you feel tomorrow.",
+    "author": "Arnold Schwarzenegger",
+    "context": "Seven-time Mr. Olympia, actor, and former Governor of California who has spoken extensively about the discipline behind physical and mental resilience."
+  },
+  "workout": {
+    "type": "RUN",
+    "workout_type": "intervals",
+    "title": "Light Switch: 1-Minute On, 2-Minute Off",
+    "difficulty": "Beginner",
+    "duration": "32 min",
+    "distance": "2.5 to 3 miles",
+    "equipment": [
+      "none"
+    ],
+    "goal_affinity": [
+      "general_fitness",
+      "5k"
+    ],
+    "tags": [
+      "no_equipment",
+      "cardio",
+      "beginner_friendly",
+      "under_60_min",
+      "fat_loss"
+    ],
+    "tip": "Do not look at your watch during the hard minute. Run by feel and focus on lifting your knees slightly higher than normal. That alone will pick up your pace without forcing it.",
+    "warmup": "Walk briskly for 3 minutes, then jog at a very easy conversational pace for 2 minutes. Do 4 quick ankle circles on each foot before you begin the intervals.",
+    "exercises": [
+      {
+        "name": "Easy Jog",
+        "sets": "1",
+        "reps": "5 min",
+        "notes": "Conversational pace before intervals begin. You should be able to say a full sentence without gasping."
+      },
+      {
+        "name": "1-Minute Hard Run",
+        "sets": "6",
+        "reps": "1 min each",
+        "notes": "Run at a comfortably hard effort, around a 7 out of 10. Not a full sprint but noticeably faster than your easy jog."
+      },
+      {
+        "name": "2-Minute Easy Recovery Jog",
+        "sets": "6",
+        "reps": "2 min each",
+        "notes": "Slow right down between every hard minute. This is not wasted time. It is what makes the next hard effort possible."
+      },
+      {
+        "name": "Easy Finishing Jog",
+        "sets": "1",
+        "reps": "5 min",
+        "notes": "Return to conversational pace. Let your breathing settle completely before you stop."
+      }
+    ],
+    "cooldown": "Walk for 3 to 5 minutes at a gentle pace. Shake out your legs and take 5 slow deep breaths before you stretch your calves and hip flexors.",
+    "product": {
+      "id": "run-004",
+      "name": "HOKA Clifton 9",
+      "brand": "HOKA",
+      "asin": "B0CPBZ8668",
+      "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+      "category": "running",
+      "price_range": "$$$",
+      "keywords": [
+        "running",
+        "shoes",
+        "daily trainer",
+        "cushion",
+        "marathon",
+        "recovery run",
+        "easy run"
+      ],
+      "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+    }
+  },
+  "meal": {
+    "title": "Seared Rainbow Trout with Warm White Bean and Kale Salad",
+    "type": "dinner",
+    "mainProtein": "trout",
+    "prepTime": "20 min",
+    "calories": 520,
+    "protein": 42,
+    "carbs": 28,
+    "fat": 22,
+    "ingredients": [
+      "2 rainbow trout fillets (skin-on, about 6 oz each)",
+      "1 can (15 oz) white cannellini beans, drained and rinsed",
+      "2 cups chopped kale, stems removed",
+      "2 cloves garlic, minced",
+      "1 lemon, zested and juiced",
+      "2 tbsp olive oil, divided",
+      "1 tsp smoked paprika",
+      "1 tsp dried oregano",
+      "Salt and black pepper to taste",
+      "Optional: pinch of red pepper flakes"
+    ],
+    "instructions": "1. Pat trout dry and season both sides with smoked paprika, oregano, salt, and pepper. Heat 1 tbsp olive oil in a skillet over medium-high heat. Sear trout skin-side down for 3 to 4 minutes until skin is crisp, then flip and cook 2 more minutes. Remove and rest. 2. In the same pan over medium heat, add remaining olive oil and garlic. Cook 30 seconds, then add kale and toss until just wilted, about 2 minutes. 3. Add white beans, lemon zest, and a squeeze of lemon juice. Stir gently and heat through for 2 minutes. Season with salt, pepper, and red pepper flakes if using. 4. Plate the warm bean and kale salad and lay the trout fillet on top. Finish with a final squeeze of lemon.",
+    "tip": "Keep the skin on the trout and start it skin-side down in a hot dry-ish pan. That is the whole secret to getting it crispy instead of soggy. Do not move the fish for the first 3 minutes.",
+    "productId": null
+  }
+}
