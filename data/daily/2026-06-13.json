@@ -1,96 +1,130 @@
 {
   "date": "2026-06-13",
   "dateLabel": "Saturday, June 13, 2026",
-  "generatedAt": "2026-06-13T16:43:11.026Z",
+  "generatedAt": "2026-06-13T16:48:08.441Z",
   "articles": [
     {
-      "category": "SUPPLEMENTS",
-      "topic": "Collagen skin joints osteoarthritis",
-      "headline": "The Biggest Collagen Study Ever Just Landed. Here's What Actually Works.",
-      "body": "<cite index=\"44-3\">By pooling and systematically analyzing data from 113 clinical trials involving nearly 8,000 participants, this is now the most comprehensive evidence synthesis on collagen supplementation ever conducted.</cite> <cite index=\"44-4\">Collagen supplements produce meaningful, statistically significant improvements in skin elasticity, skin hydration, and skin density when taken consistently for at least eight to twelve weeks.</cite> <cite index=\"44-1\">For joints, the review found consistent evidence of reduced pain and improved function in individuals with activity-related joint discomfort and osteoarthritis, particularly with hydrolyzed collagen peptides and undenatured type II collagen.</cite> <cite index=\"43-3,43-4\">Researchers also found modest benefits for muscle and tendon health. But the results challenge claims that collagen enhances sports performance, as it showed little effect on recovery or post-workout soreness.</cite>",
-      "takeaway": "Collagen works for skin and joint pain—just take it consistently for 8-12 weeks. Don't expect miracles for athletic performance or recovery.",
-      "source": "Aesthetic Surgery Journal Open Forum",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
-      "pexelsQuery": "collagen powder supplement skin joint",
-      "photo": {
-        "url": "https://images.pexels.com/photos/8940738/pexels-photo-8940738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8940738/pexels-photo-8940738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Jellybee",
-        "photographerUrl": "https://www.pexels.com/@jellybee-45758002",
-        "photoPageUrl": "https://www.pexels.com/photo/collagen-gummies-in-plastic-bottle-8940738/",
-        "avgColor": "#D35D17"
-      }
-    },
-    {
-      "category": "GUT HEALTH",
-      "topic": "Intermittent fasting gut brain weight loss",
-      "headline": "Your Gut and Brain Are Rewiring Themselves During Intermittent Fasting",
-      "body": "<cite index=\"37-1,37-2\">Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, and notable shifts in gut bacteria.</cite> <cite index=\"37-5\">Brain scans also revealed changes in regions tied to appetite, cravings, and self-control.</cite> <cite index=\"37-6\">The results suggest the gut microbiome and brain may work together to influence weight-loss success.</cite> <cite index=\"38-1\">Research published in late May 2026 found that intermittent fasting triggers simultaneous, coordinated changes in the gut microbiome and in the brain regions associated with cravings, appetite, and addiction.</cite>",
-      "takeaway": "Intermittent fasting isn't just cutting calories. It rewires the conversation between your gut bacteria and your brain's appetite control center.",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
-      "pexelsQuery": "intermittent fasting food schedule eating",
-      "photo": {
-        "url": "https://images.pexels.com/photos/34729658/pexels-photo-34729658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/34729658/pexels-photo-34729658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "wilson montoya",
-        "photographerUrl": "https://www.pexels.com/@wilson-montoya-551787348",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-enjoying-a-burger-at-a-diner-34729658/",
-        "avgColor": "#905A2B"
-      }
-    },
-    {
-      "category": "BREATHWORK",
-      "topic": "Breathing techniques anxiety stress reduction",
-      "headline": "The Right Breathing Pattern Cuts Anxiety Better Than You'd Think",
-      "body": "<cite index=\"16-5\">Fifty-four of the studies' 72 interventions were effective.</cite> <cite index=\"16-7\">Effective breath practices avoided fast-only breath paces and sessions less than 5 minutes, while including human-guided training, multiple sessions, and long-term practice.</cite> <cite index=\"20-1\">Slow, nasal, diaphragmatic breathing significantly improves vagal tone, heart rate variability, parasympathetic activity, and emotional control, while reducing cortisol, anxiety, stress, and PTSD.</cite> <cite index=\"20-11,20-12\">Anxiety reduction was reported in 10 studies. Additionally, decreased perceived stress was reported in 9 studies across clinical and healthy populations.</cite>",
-      "takeaway": "Five minutes isn't enough. Slow, diaphragmatic breathing works best with multiple sessions and practice. Do it right and it reshapes your nervous system.",
-      "source": "Journal Stress and Health, NCBI",
-      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10741869/",
-      "pexelsQuery": "breathing meditation calm mindfulness",
-      "photo": {
-        "url": "https://images.pexels.com/photos/13865935/pexels-photo-13865935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/13865935/pexels-photo-13865935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "RAY LEI",
-        "photographerUrl": "https://www.pexels.com/@ray-lei-2809836",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-dress-meditating-on-coast-13865935/",
-        "avgColor": "#A8AFB9"
-      }
-    },
-    {
       "category": "TRAINING",
-      "topic": "Caffeine resistance training power velocity",
-      "headline": "Pre-Workout Caffeine Moves the Bar Faster. Science Measured How Much.",
-      "body": "<cite index=\"21-1\">Researchers have confirmed that a pre-workout dose of caffeine can measurably increase movement velocity and power output, especially in men and low-caffeine users, helping athletes fine-tune their training for maximum performance gains.</cite> <cite index=\"22-5\">The intake of 3 mg/kg/BM of caffeine 1 hour before the onset of the workout for 12 sessions increased the number of training-induced adaptations in mean and peak values for both velocity and power.</cite> <cite index=\"26-3,26-4\">Lower doses of caffeine, less than 3 mg/kg body mass (approximately 200 mg), are ergogenic in a wide variety of exercise and sport situations in recreationally and well-trained men and women. Higher doses are associated with altered physiological responses to exercise and additional side effects and do not confer additional benefits.</cite>",
-      "takeaway": "Caffeine boosts power and speed—but only at the right dose. Go too high and you get nothing extra but jitters.",
-      "source": "News-Medical and Frontiers in Nutrition",
-      "sourceUrl": "https://www.news-medical.net/news/20251009/Caffeine-boosts-muscular-power-and-speed-in-resistance-training.aspx",
-      "pexelsQuery": "caffeine coffee pre-workout training",
+      "topic": "Optimal weekly strength training dose",
+      "headline": "90 Minutes of Lifting Per Week Just Became Your Longevity Number",
+      "body": "Forget the gym rat mentality. A sweeping 30-year study of 147,000 people just revealed something elegant: 90 to 120 minutes of strength training weekly cuts your risk of early death, with benefits extending to heart and brain health. More than that? No additional edge. This wasn't just lifting—the study tracked combined resistance training across various forms. When combined with aerobic exercise, the benefits stacked even higher. The message: consistent, moderate strength work beats extremes every time.",
+      "takeaway": "Aim for 90-120 minutes of strength work per week. Consistency beats volume. Combine it with cardio for maximum longevity gains.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
+      "pexelsQuery": "strength training weights dumbbell gym",
       "photo": {
-        "url": "https://images.pexels.com/photos/35033870/pexels-photo-35033870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/35033870/pexels-photo-35033870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Gizem Gökce",
-        "photographerUrl": "https://www.pexels.com/@gizem-gokce-1072613075",
-        "photoPageUrl": "https://www.pexels.com/photo/top-view-of-coffee-cup-with-pink-flowers-35033870/",
-        "avgColor": "#A5806E"
+        "url": "https://images.pexels.com/photos/19025674/pexels-photo-19025674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19025674/pexels-photo-19025674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jason Morrison",
+        "photographerUrl": "https://www.pexels.com/@dubtastic",
+        "photoPageUrl": "https://www.pexels.com/photo/a-row-of-dumbbells-in-a-gym-19025674/",
+        "avgColor": "#605456"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Phosphatidylcholine cellular energy aging",
+      "headline": "One Nutrient May Hold the Key to Slowing Your Cells' Aging Clock",
+      "body": "Scientists just identified a major culprit in how your cells lose energy as you age—and it's fixable. Declining phosphatidylcholine levels trigger mitochondrial decline, essentially starving your cells of power. The breakthrough: boosting this nutrient through diet restored mitochondrial function to more youthful levels in both organisms and human cell cultures. This wasn't a lab curiosity. Researchers tested it across worms, human data, and cell models. The implication? Some aging processes you thought were fixed may be reversible with the right nutrient strategy.",
+      "takeaway": "Phosphatidylcholine supports mitochondrial health and energy production. While supplementation research is emerging, dietary sources matter for cellular aging.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
+      "pexelsQuery": "medicine supplements pills laboratory",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4021819/pexels-photo-4021819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4021819/pexels-photo-4021819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "www.kaboompics.com",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-with-vial-of-drugs-in-hand-4021819/",
+        "avgColor": "#A0AD9C"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Cold water immersion muscle soreness timing",
+      "headline": "Cold Water Recovery Works, But There's a 24-Hour Window You Need to Know About",
+      "body": "Cold water immersion actually works for recovery—but not how most people use it. A new meta-analysis of 30 controlled trials found it meaningfully reduced muscle soreness and muscle damage markers like creatine kinase. The catch: benefits were concentrated in the first 24 hours post-exercise and faded by 48-72 hours. Single sessions aren't a magic fix. If you're icing, do it immediately after your workout. Expecting one cold plunge to carry recovery forward for days? That's not how the physiology works.",
+      "takeaway": "Use cold water within the first hour post-workout for soreness reduction. Don't rely on it beyond 24 hours. Repeat sessions work better than one-offs.",
+      "source": "Frontiers in Sports and Active Living",
+      "sourceUrl": "https://www.wimhofmethod.com/blog/cold-water-immersion-muscle-recovery",
+      "pexelsQuery": "cold water ice bath athlete recovery",
+      "photo": {
+        "url": "https://images.pexels.com/photos/3672647/pexels-photo-3672647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3672647/pexels-photo-3672647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Patrick Case",
+        "photographerUrl": "https://www.pexels.com/@case-originals",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-and-red-swimsuit-idiving-in-water-3672647/",
+        "avgColor": "#2EA3D7"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Stress brain resilience neural plasticity",
+      "headline": "Your Brain Actually Rewires When You Handle Stress Well",
+      "body": "Stress resilience isn't about staying calm—it's about how your brain wires itself in response to challenge. New research from Florida International University reveals that how you perceive stress directly shapes your neural wiring and stress response. Participants who engaged with stressful stimuli showed measurable brain-level adaptations. The takeaway isn't that stress is good. It's that your subjective experience of stress—whether you see it as a threat or a challenge—literally changes your neurobiology. Resilience is built through engagement, not avoidance.",
+      "takeaway": "Reframe stress as adaptive. Directly engaging challenges builds neural resilience better than avoidance strategies.",
+      "source": "Journal of Applied Physiology",
+      "sourceUrl": "https://news.fiu.edu/2026/stress-reshapes-brain-connections-and-boosts-resilience",
+      "pexelsQuery": "person meditating stress relief mental health",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5772283/pexels-photo-5772283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5772283/pexels-photo-5772283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "furkanfdemir",
+        "photographerUrl": "https://www.pexels.com/@furkanfdemir",
+        "photoPageUrl": "https://www.pexels.com/photo/silhouette-of-meditating-man-sitting-on-seacoast-at-sundown-5772283/",
+        "avgColor": "#66615D"
       }
     }
   ],
   "quote": {
-    "text": "I see all the hard work, all the sacrifices. I see the journey that it took to get back to this point of being healthy. And I see beauty in that struggle.",
-    "author": "Kobe Bryant",
-    "context": "NBA legend who built a career on relentless work ethic and recovery"
+    "text": "The more you can engage in activities that make you feel good, the more resilient you become to stress.",
+    "author": "Dr. Andrew Huberman",
+    "context": "Stanford neuroscientist and neurobiology researcher studying stress, resilience, and optimal performance"
   },
-  "workout": null,
+  "workout": {
+    "type": "FULL_BODY",
+    "title": "Foundation Four: Bodyweight Movement Mastery",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "tip": "Prioritize slow, controlled movement over speed. If you can't do a push-up from your toes, use your knees—there's no shame in regression. Nail the pattern first, then add intensity.",
+    "warmup": "3 min: 5 arm circles each direction, 10 cat-cow stretches, 5 inchworms, 10 bodyweight squats, 5 push-ups",
+    "exercises": [
+      {
+        "name": "Goblet-Hold Air Squat",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Clasp hands at chest as if holding a weight. Descend until thighs pass parallel, chest upright. This teaches squat pattern without load."
+      },
+      {
+        "name": "Glute Bridge",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Lie flat, feet flat under knees, drive hips up until body is straight line. Squeeze glutes at top for 1 second. Teaches hip extension hinge pattern."
+      },
+      {
+        "name": "Incline Push-Up",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Hands on a bench, chair, or countertop. Lower chest to surface, elbows at 45°. Scale the movement by raising your hands higher if needed."
+      },
+      {
+        "name": "Dead Hang or Scapular Pull",
+        "sets": "3",
+        "reps": "5 hangs × 15 sec OR 10 scapular pulls",
+        "notes": "If you have a pull-up bar: hang for time, relax shoulders. If no bar: use resistance band around a door frame and practice pulling shoulder blades down and back."
+      }
+    ],
+    "cooldown": "4 min: quad stretch 30 sec each leg, forward fold hamstring 30 sec, child's pose 30 sec, cat-cow 5 reps, standing chest opener 30 sec each side"
+  },
   "meal": {
-    "title": "Lemon Herb Pork Tenderloin Bowl with Quinoa and Roasted Zucchini",
-    "type": "dinner",
-    "prepTime": "20 min",
-    "calories": 520,
-    "protein": 42,
-    "carbs": 38,
-    "fat": 16,
-    "instructions": "Ingredients:\n6 oz pork tenderloin, sliced into medallions\n3/4 cup cooked quinoa\n1 medium zucchini, sliced into half-moons\n1 tbsp olive oil\n2 garlic cloves, minced\nJuice of 1 lemon\n1 tsp dried oregano\n1/2 tsp smoked paprika\nSalt and black pepper to taste\nFresh parsley to garnish\n\nInstructions:\n1. Toss zucchini with half the olive oil, salt, and pepper. Roast at 425F for 15 minutes until golden. 2. Season pork medallions with paprika, oregano, salt, and pepper. Sear in remaining olive oil over medium-high heat, 3 minutes per side, until cooked through. 3. Deglaze the pan with lemon juice and garlic, stirring for 30 seconds to build a quick pan sauce. 4. Build your bowl: quinoa base, roasted zucchini on the side, pork on top, drizzle with pan sauce, and finish with fresh parsley.",
-    "tip": "Pork tenderloin is one of the leanest cuts of meat — nearly as lean as chicken breast — and it cooks fast. Slice it thin before searing to cut your cook time in half on busy weeknights."
+    "title": "Seared Beef Tenderloin with Roasted Potatoes & Green Beans",
+    "type": "race_day",
+    "prepTime": "10 min",
+    "calories": 780,
+    "protein": 52,
+    "carbs": 68,
+    "fat": 22,
+    "instructions": "1. Cube potatoes into 1-inch pieces and toss with 0.5 tbsp olive oil, salt, and pepper.\n2. Roast at 400°F for 12 minutes until golden; add green beans tossed in remaining oil and cook 6 more minutes.\n3. Season beef tenderloin with salt, pepper, and garlic powder.\n4. Sear in a hot skillet over medium-high heat for 3–4 minutes per side (medium-rare).\n5. Rest 2 minutes, slice, and plate alongside potatoes and green beans. Eat 3–4 hours before race start.",
+    "tip": "A more substantial race-day meal for triathletes who prefer a heavier breakfast or brunch 3–4 hours before competition. Lean beef provides heme iron and sustained amino acids without digestive lag."
   }
 }
