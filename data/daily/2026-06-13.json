@@ -1,130 +1,201 @@
 {
   "date": "2026-06-13",
   "dateLabel": "Saturday, June 13, 2026",
-  "generatedAt": "2026-06-13T16:48:08.441Z",
+  "generatedAt": "2026-06-13T16:52:52.012Z",
   "articles": [
     {
-      "category": "TRAINING",
-      "topic": "Optimal weekly strength training dose",
-      "headline": "90 Minutes of Lifting Per Week Just Became Your Longevity Number",
-      "body": "Forget the gym rat mentality. A sweeping 30-year study of 147,000 people just revealed something elegant: 90 to 120 minutes of strength training weekly cuts your risk of early death, with benefits extending to heart and brain health. More than that? No additional edge. This wasn't just lifting—the study tracked combined resistance training across various forms. When combined with aerobic exercise, the benefits stacked even higher. The message: consistent, moderate strength work beats extremes every time.",
-      "takeaway": "Aim for 90-120 minutes of strength work per week. Consistency beats volume. Combine it with cardio for maximum longevity gains.",
-      "source": "British Journal of Sports Medicine",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
-      "pexelsQuery": "strength training weights dumbbell gym",
+      "category": "LONGEVITY",
+      "topic": "Phosphatidylcholine cellular energy mitochondria",
+      "headline": "Your Cells' Power Plants Are Getting Lazy. Scientists Found How to Recharge Them.",
+      "body": "Here's the cruel twist of aging: your cells lose their ability to produce energy, leaving you feeling drained. Scientists at the Leibniz Institute on Aging just cracked why. A membrane lipid called phosphatidylcholine—the stuff that keeps mitochondria functioning—declines with age. When they topped up this nutrient in aging organisms, the mitochondria bounced back. They became more stable, energy production improved, and aging itself seemed reversible. The kicker: you might get it through diet or supplements. This isn't the cure-all yet, but it shows that cellular aging isn't written in stone.",
+      "takeaway": "Maintaining phosphatidylcholine levels through diet or supplements may help preserve mitochondrial function and slow cellular aging.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-71508-7",
+      "pexelsQuery": "mitochondria cells energy microscopy",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/19025674/pexels-photo-19025674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/19025674/pexels-photo-19025674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Jason Morrison",
-        "photographerUrl": "https://www.pexels.com/@dubtastic",
-        "photoPageUrl": "https://www.pexels.com/photo/a-row-of-dumbbells-in-a-gym-19025674/",
-        "avgColor": "#605456"
+        "url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "turek",
+        "photographerUrl": "https://www.pexels.com/@turek3024",
+        "photoPageUrl": "https://www.pexels.com/photo/microscopic-view-of-elements-8932609/",
+        "avgColor": "#867983"
       }
     },
     {
-      "category": "BRAIN HEALTH",
-      "topic": "Phosphatidylcholine cellular energy aging",
-      "headline": "One Nutrient May Hold the Key to Slowing Your Cells' Aging Clock",
-      "body": "Scientists just identified a major culprit in how your cells lose energy as you age—and it's fixable. Declining phosphatidylcholine levels trigger mitochondrial decline, essentially starving your cells of power. The breakthrough: boosting this nutrient through diet restored mitochondrial function to more youthful levels in both organisms and human cell cultures. This wasn't a lab curiosity. Researchers tested it across worms, human data, and cell models. The implication? Some aging processes you thought were fixed may be reversible with the right nutrient strategy.",
-      "takeaway": "Phosphatidylcholine supports mitochondrial health and energy production. While supplementation research is emerging, dietary sources matter for cellular aging.",
-      "source": "Nature Communications",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
-      "pexelsQuery": "medicine supplements pills laboratory",
+      "category": "TRAINING",
+      "topic": "Exercise mental cognition chemo brain cancer",
+      "headline": "A Daily Walk Sharpened Cancer Patients' Minds During Chemotherapy",
+      "body": "Chemo brain is real. Up to 80% of people undergoing chemotherapy experience mental fog, memory slips, and trouble concentrating. A new Phase III trial tested whether a simple home-based exercise program could help. Patients received resistance bands, a pedometer, and a walking plan. The results were clear: those who stuck with daily walking and resistance exercises showed better attention, faster mental processing, and fewer cognitive complaints than those who didn't exercise. Family and friends noticed the difference too. No fancy gym. No expensive equipment. Just movement, done regularly.",
+      "takeaway": "Daily walking and light resistance training can reduce chemo brain symptoms and help maintain mental clarity during cancer treatment.",
+      "source": "ScienceDaily (via Wiley)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260608040019.htm",
+      "pexelsQuery": "cancer patient hospital recovery walking",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/4021819/pexels-photo-4021819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4021819/pexels-photo-4021819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "www.kaboompics.com",
-        "photographerUrl": "https://www.pexels.com/@karola-g",
-        "photoPageUrl": "https://www.pexels.com/photo/doctor-with-vial-of-drugs-in-hand-4021819/",
-        "avgColor": "#A0AD9C"
+        "url": "https://images.pexels.com/photos/6011600/pexels-photo-6011600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6011600/pexels-photo-6011600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photo-of-woman-wearing-a-nasal-cannula-6011600/",
+        "avgColor": "#737373"
+      }
+    },
+    {
+      "category": "BREATHWORK",
+      "topic": "Slow breathing vagus nerve stress paramedic students",
+      "headline": "Five Breaths Per Minute Stopped Paramedic Stress Dead in Its Tracks",
+      "body": "Paramedic students face brutal exam pressure. A randomized trial gave some of them a structured breathing protocol: slow, diaphragmatic breathing at about five breaths per minute, done twice daily. The mechanism is pure physiology. Slow breathing activates your vagus nerve, increases heart-rate variability, and shifts your nervous system from fight-or-flight to rest-and-digest. The control group's stress spiked as exams approached. The breathwork group's didn't. They stayed calm while their peers spiraled. The study adds weight to a growing body of 2026 research showing that protocolized breathwork isn't just wellness noise—it's a deployable mental-health intervention.",
+      "takeaway": "Structured diaphragmatic breathing at five breaths per minute can buffer stress and prevent anxiety spikes during high-pressure periods.",
+      "source": "Stress and Health",
+      "sourceUrl": "https://yogajala.com/breathwork-paramedicine-students-rct-stress-health-2026/",
+      "pexelsQuery": "person breathing meditation calm stress",
+      "product": {
+        "id": "book-010",
+        "name": "Why We Sleep - Matthew Walker Audiobook",
+        "brand": "Matthew Walker",
+        "asin": "B0752XRB5F",
+        "url": "https://www.amazon.com/dp/B0752XRB5F?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "book",
+          "audiobook",
+          "health",
+          "brain",
+          "memory",
+          "insomnia",
+          "recovery",
+          "longevity"
+        ],
+        "blurb": "Read this and you will never deprioritize sleep again."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6648566/pexels-photo-6648566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6648566/pexels-photo-6648566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ivan S",
+        "photographerUrl": "https://www.pexels.com/@ivan-s",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-and-a-woman-breathing-exercise-in-meditation-6648566/",
+        "avgColor": "#989997"
       }
     },
     {
       "category": "RECOVERY",
-      "topic": "Cold water immersion muscle soreness timing",
-      "headline": "Cold Water Recovery Works, But There's a 24-Hour Window You Need to Know About",
-      "body": "Cold water immersion actually works for recovery—but not how most people use it. A new meta-analysis of 30 controlled trials found it meaningfully reduced muscle soreness and muscle damage markers like creatine kinase. The catch: benefits were concentrated in the first 24 hours post-exercise and faded by 48-72 hours. Single sessions aren't a magic fix. If you're icing, do it immediately after your workout. Expecting one cold plunge to carry recovery forward for days? That's not how the physiology works.",
-      "takeaway": "Use cold water within the first hour post-workout for soreness reduction. Don't rely on it beyond 24 hours. Repeat sessions work better than one-offs.",
-      "source": "Frontiers in Sports and Active Living",
-      "sourceUrl": "https://www.wimhofmethod.com/blog/cold-water-immersion-muscle-recovery",
-      "pexelsQuery": "cold water ice bath athlete recovery",
+      "topic": "Collagen supplements joints skin osteoarthritis",
+      "headline": "The Biggest Collagen Study Ever Shows It Actually Works. Here's How Long You Need.",
+      "body": "Collagen supplements fill store shelves. Do they work? Scientists analyzed 113 clinical trials covering nearly 8,000 people and finally delivered a clear answer: yes, but with caveats. Collagen improved skin elasticity, hydration, and joint function in people with osteoarthritis. The catch? Results built gradually. Taking it consistently for eight to twelve weeks matters way more than a short burst. You also got modest benefits for muscle and tendon health, which matters for aging well. Collagen isn't a panacea, but if you're over 40 and dealing with stiff joints or aging skin, the evidence supports it.",
+      "takeaway": "Consistent collagen supplementation for 8-12+ weeks improves skin elasticity and reduces pain in osteoarthritis, but requires ongoing use.",
+      "source": "Aesthetic Surgery Journal Open Forum / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
+      "pexelsQuery": "collagen supplements pills skin health",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/3672647/pexels-photo-3672647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3672647/pexels-photo-3672647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Patrick Case",
-        "photographerUrl": "https://www.pexels.com/@case-originals",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-and-red-swimsuit-idiving-in-water-3672647/",
-        "avgColor": "#2EA3D7"
-      }
-    },
-    {
-      "category": "STRESS",
-      "topic": "Stress brain resilience neural plasticity",
-      "headline": "Your Brain Actually Rewires When You Handle Stress Well",
-      "body": "Stress resilience isn't about staying calm—it's about how your brain wires itself in response to challenge. New research from Florida International University reveals that how you perceive stress directly shapes your neural wiring and stress response. Participants who engaged with stressful stimuli showed measurable brain-level adaptations. The takeaway isn't that stress is good. It's that your subjective experience of stress—whether you see it as a threat or a challenge—literally changes your neurobiology. Resilience is built through engagement, not avoidance.",
-      "takeaway": "Reframe stress as adaptive. Directly engaging challenges builds neural resilience better than avoidance strategies.",
-      "source": "Journal of Applied Physiology",
-      "sourceUrl": "https://news.fiu.edu/2026/stress-reshapes-brain-connections-and-boosts-resilience",
-      "pexelsQuery": "person meditating stress relief mental health",
-      "photo": {
-        "url": "https://images.pexels.com/photos/5772283/pexels-photo-5772283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5772283/pexels-photo-5772283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "furkanfdemir",
-        "photographerUrl": "https://www.pexels.com/@furkanfdemir",
-        "photoPageUrl": "https://www.pexels.com/photo/silhouette-of-meditating-man-sitting-on-seacoast-at-sundown-5772283/",
-        "avgColor": "#66615D"
+        "url": "https://images.pexels.com/photos/3683047/pexels-photo-3683047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3683047/pexels-photo-3683047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/white-round-capsule-on-pink-background-close-up-photography-3683047/",
+        "avgColor": "#F5D2E5"
       }
     }
   ],
   "quote": {
-    "text": "The more you can engage in activities that make you feel good, the more resilient you become to stress.",
-    "author": "Dr. Andrew Huberman",
-    "context": "Stanford neuroscientist and neurobiology researcher studying stress, resilience, and optimal performance"
+    "text": "I'm brilliant at pushing myself, but often less good at slowing down. In 2026, I want to be intentional about sleep, stretching, and taking rest without guilt – because that's when the real adaptation happens.",
+    "author": "Helen Glover",
+    "context": "British Olympic rower and multi-medal champion athlete on prioritizing recovery alongside training."
   },
   "workout": {
     "type": "FULL_BODY",
-    "title": "Foundation Four: Bodyweight Movement Mastery",
-    "difficulty": "Beginner",
-    "duration": "30 min",
-    "tip": "Prioritize slow, controlled movement over speed. If you can't do a push-up from your toes, use your knees—there's no shame in regression. Nail the pattern first, then add intensity.",
-    "warmup": "3 min: 5 arm circles each direction, 10 cat-cow stretches, 5 inchworms, 10 bodyweight squats, 5 push-ups",
+    "title": "Kettlebell Swing & Burpee Sprint: Work-Rest Metabolic Density",
+    "difficulty": "Intermediate",
+    "duration": "38 min",
+    "tip": "Kettlebell swings are hip-driven, not arm-driven—load your glutes at the bottom and explode through the hips. Rest periods are just as important as work: use them to catch your breath and reset posture before the next round.",
+    "warmup": "5 min: 10 cat-cows, 10 glute bridges, 8 kettlebell figure-8s each direction, 5 light kettlebell swings, 5 burpees at 50% intensity",
     "exercises": [
       {
-        "name": "Goblet-Hold Air Squat",
-        "sets": "3",
-        "reps": "10",
-        "notes": "Clasp hands at chest as if holding a weight. Descend until thighs pass parallel, chest upright. This teaches squat pattern without load."
+        "name": "Kettlebell Swing (Double)",
+        "sets": "8",
+        "reps": "20",
+        "notes": "40 sec work / 40 sec rest. Hip hinge with flat back, drive through heels, explosive hip snap at top. Perfect form over speed—loose swings kill fat loss gains."
       },
       {
-        "name": "Glute Bridge",
-        "sets": "3",
-        "reps": "12",
-        "notes": "Lie flat, feet flat under knees, drive hips up until body is straight line. Squeeze glutes at top for 1 second. Teaches hip extension hinge pattern."
-      },
-      {
-        "name": "Incline Push-Up",
-        "sets": "3",
+        "name": "Burpee Broad Jump",
+        "sets": "8",
         "reps": "8",
-        "notes": "Hands on a bench, chair, or countertop. Lower chest to surface, elbows at 45°. Scale the movement by raising your hands higher if needed."
-      },
-      {
-        "name": "Dead Hang or Scapular Pull",
-        "sets": "3",
-        "reps": "5 hangs × 15 sec OR 10 scapular pulls",
-        "notes": "If you have a pull-up bar: hang for time, relax shoulders. If no bar: use resistance band around a door frame and practice pulling shoulder blades down and back."
+        "notes": "40 sec work / 40 sec rest. Full push-up + broad jump each rep. Land soft, reset posture before next rep. These build explosive lower-body power essential for Hyrox sled work."
       }
     ],
-    "cooldown": "4 min: quad stretch 30 sec each leg, forward fold hamstring 30 sec, child's pose 30 sec, cat-cow 5 reps, standing chest opener 30 sec each side"
+    "cooldown": "5 min: walking in place 1 min, quad stretch 30 sec each leg, forward fold 45 sec, child's pose 30 sec, deep breathing",
+    "description": "A pure metabolic conditioning circuit alternating explosive kettlebell swings with burpee broad jumps in 1:1 work-to-rest intervals. This session builds posterior chain power, cardiovascular capacity, and fat loss through compound movement complexity without requiring a barbell or rack setup."
   },
   "meal": {
-    "title": "Seared Beef Tenderloin with Roasted Potatoes & Green Beans",
-    "type": "race_day",
-    "prepTime": "10 min",
-    "calories": 780,
-    "protein": 52,
-    "carbs": 68,
-    "fat": 22,
-    "instructions": "1. Cube potatoes into 1-inch pieces and toss with 0.5 tbsp olive oil, salt, and pepper.\n2. Roast at 400°F for 12 minutes until golden; add green beans tossed in remaining oil and cook 6 more minutes.\n3. Season beef tenderloin with salt, pepper, and garlic powder.\n4. Sear in a hot skillet over medium-high heat for 3–4 minutes per side (medium-rare).\n5. Rest 2 minutes, slice, and plate alongside potatoes and green beans. Eat 3–4 hours before race start.",
-    "tip": "A more substantial race-day meal for triathletes who prefer a heavier breakfast or brunch 3–4 hours before competition. Lean beef provides heme iron and sustained amino acids without digestive lag."
+    "title": "Teriyaki Salmon Onigiri (Japanese Rice Balls)",
+    "type": "pre_workout",
+    "prepTime": "15 min",
+    "calories": 324,
+    "protein": 30,
+    "carbs": 38,
+    "fat": 6,
+    "instructions": "1. Pan-sear salmon over medium heat for 5–6 minutes per side until cooked through; flake into small pieces.\n2. In a small bowl, mix soy sauce and mirin; toss flaked salmon in the glaze.\n3. Divide warm sushi rice into two portions (makes 2 rice balls).\n4. Press one portion of rice into a wet hand, create a small indent, fill with 1 tbsp teriyaki salmon, top with another layer of rice, and gently shape into a ball.\n5. Repeat with second portion.\n6. Sprinkle with sesame seeds and a pinch of salt.",
+    "tip": "Flaked teriyaki-glazed salmon folded into warm sushi rice and shaped into portable rice balls—an authentic, carb-rich pre-workout fuel with 30g protein that travels well and sits light in your stomach before a brick session or long run."
   }
 }
