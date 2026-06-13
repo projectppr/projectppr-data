@@ -1,178 +1,96 @@
 {
   "date": "2026-06-13",
   "dateLabel": "Saturday, June 13, 2026",
-  "generatedAt": "2026-06-13T14:59:32.750Z",
+  "generatedAt": "2026-06-13T16:43:11.026Z",
   "articles": [
     {
+      "category": "SUPPLEMENTS",
+      "topic": "Collagen skin joints osteoarthritis",
+      "headline": "The Biggest Collagen Study Ever Just Landed. Here's What Actually Works.",
+      "body": "<cite index=\"44-3\">By pooling and systematically analyzing data from 113 clinical trials involving nearly 8,000 participants, this is now the most comprehensive evidence synthesis on collagen supplementation ever conducted.</cite> <cite index=\"44-4\">Collagen supplements produce meaningful, statistically significant improvements in skin elasticity, skin hydration, and skin density when taken consistently for at least eight to twelve weeks.</cite> <cite index=\"44-1\">For joints, the review found consistent evidence of reduced pain and improved function in individuals with activity-related joint discomfort and osteoarthritis, particularly with hydrolyzed collagen peptides and undenatured type II collagen.</cite> <cite index=\"43-3,43-4\">Researchers also found modest benefits for muscle and tendon health. But the results challenge claims that collagen enhances sports performance, as it showed little effect on recovery or post-workout soreness.</cite>",
+      "takeaway": "Collagen works for skin and joint pain—just take it consistently for 8-12 weeks. Don't expect miracles for athletic performance or recovery.",
+      "source": "Aesthetic Surgery Journal Open Forum",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
+      "pexelsQuery": "collagen powder supplement skin joint",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8940738/pexels-photo-8940738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8940738/pexels-photo-8940738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jellybee",
+        "photographerUrl": "https://www.pexels.com/@jellybee-45758002",
+        "photoPageUrl": "https://www.pexels.com/photo/collagen-gummies-in-plastic-bottle-8940738/",
+        "avgColor": "#D35D17"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Intermittent fasting gut brain weight loss",
+      "headline": "Your Gut and Brain Are Rewiring Themselves During Intermittent Fasting",
+      "body": "<cite index=\"37-1,37-2\">Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, and notable shifts in gut bacteria.</cite> <cite index=\"37-5\">Brain scans also revealed changes in regions tied to appetite, cravings, and self-control.</cite> <cite index=\"37-6\">The results suggest the gut microbiome and brain may work together to influence weight-loss success.</cite> <cite index=\"38-1\">Research published in late May 2026 found that intermittent fasting triggers simultaneous, coordinated changes in the gut microbiome and in the brain regions associated with cravings, appetite, and addiction.</cite>",
+      "takeaway": "Intermittent fasting isn't just cutting calories. It rewires the conversation between your gut bacteria and your brain's appetite control center.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
+      "pexelsQuery": "intermittent fasting food schedule eating",
+      "photo": {
+        "url": "https://images.pexels.com/photos/34729658/pexels-photo-34729658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34729658/pexels-photo-34729658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "wilson montoya",
+        "photographerUrl": "https://www.pexels.com/@wilson-montoya-551787348",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-enjoying-a-burger-at-a-diner-34729658/",
+        "avgColor": "#905A2B"
+      }
+    },
+    {
+      "category": "BREATHWORK",
+      "topic": "Breathing techniques anxiety stress reduction",
+      "headline": "The Right Breathing Pattern Cuts Anxiety Better Than You'd Think",
+      "body": "<cite index=\"16-5\">Fifty-four of the studies' 72 interventions were effective.</cite> <cite index=\"16-7\">Effective breath practices avoided fast-only breath paces and sessions less than 5 minutes, while including human-guided training, multiple sessions, and long-term practice.</cite> <cite index=\"20-1\">Slow, nasal, diaphragmatic breathing significantly improves vagal tone, heart rate variability, parasympathetic activity, and emotional control, while reducing cortisol, anxiety, stress, and PTSD.</cite> <cite index=\"20-11,20-12\">Anxiety reduction was reported in 10 studies. Additionally, decreased perceived stress was reported in 9 studies across clinical and healthy populations.</cite>",
+      "takeaway": "Five minutes isn't enough. Slow, diaphragmatic breathing works best with multiple sessions and practice. Do it right and it reshapes your nervous system.",
+      "source": "Journal Stress and Health, NCBI",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10741869/",
+      "pexelsQuery": "breathing meditation calm mindfulness",
+      "photo": {
+        "url": "https://images.pexels.com/photos/13865935/pexels-photo-13865935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13865935/pexels-photo-13865935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RAY LEI",
+        "photographerUrl": "https://www.pexels.com/@ray-lei-2809836",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-dress-meditating-on-coast-13865935/",
+        "avgColor": "#A8AFB9"
+      }
+    },
+    {
       "category": "TRAINING",
-      "topic": "Optimal strength training dose for longevity",
-      "headline": "Sweet Spot Found: 90 Minutes of Strength Training Per Week Cuts Mortality Risk by 13%",
-      "body": "A landmark 30-year study tracking nearly 150,000 people found that roughly 90 to 120 minutes of resistance training per week delivers the biggest longevity benefits. The research, published by Harvard in early June 2026, showed this moderate dose was linked to lower risks of death from all causes, particularly from cardiovascular and neurological diseases. When combined with aerobic exercise, the protection got even stronger. The takeaway: you don't need hours grinding away—consistency at a reasonable volume is what actually works.",
-      "takeaway": "Aim for 90-120 minutes of strength training weekly. That's the evidence-backed sweet spot for living longer.",
-      "source": "Harvard T.H. Chan School of Public Health / British Journal of Sports Medicine",
-      "sourceUrl": "https://hsph.harvard.edu/news/moderate-amount-of-strength-training-each-week-could-boost-longevity/",
-      "pexelsQuery": "person lifting weights dumbbell strength training gym",
-      "product": {
-        "id": "str-001",
-        "name": "Gymnastic Rings - Double Circle Wood",
-        "brand": "Double Circle",
-        "asin": "B076X32LFY",
-        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
-        "category": "strength",
-        "price_range": "$",
-        "keywords": [
-          "gymnastics",
-          "rings",
-          "strength",
-          "bodyweight",
-          "upper body",
-          "pull-ups",
-          "dips",
-          "core",
-          "home gym"
-        ],
-        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
-      },
+      "topic": "Caffeine resistance training power velocity",
+      "headline": "Pre-Workout Caffeine Moves the Bar Faster. Science Measured How Much.",
+      "body": "<cite index=\"21-1\">Researchers have confirmed that a pre-workout dose of caffeine can measurably increase movement velocity and power output, especially in men and low-caffeine users, helping athletes fine-tune their training for maximum performance gains.</cite> <cite index=\"22-5\">The intake of 3 mg/kg/BM of caffeine 1 hour before the onset of the workout for 12 sessions increased the number of training-induced adaptations in mean and peak values for both velocity and power.</cite> <cite index=\"26-3,26-4\">Lower doses of caffeine, less than 3 mg/kg body mass (approximately 200 mg), are ergogenic in a wide variety of exercise and sport situations in recreationally and well-trained men and women. Higher doses are associated with altered physiological responses to exercise and additional side effects and do not confer additional benefits.</cite>",
+      "takeaway": "Caffeine boosts power and speed—but only at the right dose. Go too high and you get nothing extra but jitters.",
+      "source": "News-Medical and Frontiers in Nutrition",
+      "sourceUrl": "https://www.news-medical.net/news/20251009/Caffeine-boosts-muscular-power-and-speed-in-resistance-training.aspx",
+      "pexelsQuery": "caffeine coffee pre-workout training",
       "photo": {
-        "url": "https://images.pexels.com/photos/3839310/pexels-photo-3839310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3839310/pexels-photo-3839310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Andrea Piacquadio",
-        "photographerUrl": "https://www.pexels.com/@olly",
-        "photoPageUrl": "https://www.pexels.com/photo/man-in-white-tank-top-and-grey-shorts-lifting-weights-3839310/",
-        "avgColor": "#837F7D"
-      }
-    },
-    {
-      "category": "GENETICS",
-      "topic": "Environmental stress impacts gene expression patterns",
-      "headline": "Your Genes Listen: Study Shows How Stress Literally Rewires Your DNA",
-      "body": "Researchers at the University of South Florida just published evidence that environmental stress doesn't just hurt your feelings—it changes your genetic expression. The study, published in Nature Mental Health on June 8, 2026, found that social adversity and financial pressure directly affect micro-RNA levels, which regulate cellular function. This means the stress you're under right now is actively influencing which genes get activated in your body. It's not destiny, though. Understanding this link opens the door to targeted interventions that could help reverse stress-related genetic changes.",
-      "takeaway": "Stress physically alters your gene expression. Managing stress isn't just mental health—it's genetic health.",
-      "source": "University of South Florida / Nature Mental Health",
-      "sourceUrl": "https://www.usf.edu/health/public-health/news/2026/usf-study-shines-light-on-the-effect-of-environmental-stress-on-genetic-expression.aspx",
-      "pexelsQuery": "dna molecule genetic code science laboratory",
-      "product": {
-        "id": "sup-001",
-        "name": "Thorne Creatine Monohydrate",
-        "brand": "Thorne",
-        "asin": "B0013OQGO6",
-        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "creatine",
-          "strength",
-          "muscle",
-          "performance",
-          "supplement",
-          "brain",
-          "cognitive",
-          "aging",
-          "endurance"
-        ],
-        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/7722527/pexels-photo-7722527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7722527/pexels-photo-7722527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Tara Winstead",
-        "photographerUrl": "https://www.pexels.com/@tara-winstead",
-        "photoPageUrl": "https://www.pexels.com/photo/blue-and-white-polka-dot-textile-7722527/",
-        "avgColor": "#85B9D5"
-      }
-    },
-    {
-      "category": "MENTAL PERFORMANCE",
-      "topic": "Brain structure in panic disorder and anxiety",
-      "headline": "Your Anxiety Isn't Weakness—It's Wired Differently. New Brain Imaging Explains Why",
-      "body": "A massive international study of nearly 5,000 brain scans, published in Molecular Psychiatry in early June, finally gives us a concrete look at what's happening in anxious brains. Researchers found that panic disorder is linked to structural differences in the brain—specifically larger ventricles (fluid-filled spaces) when the disorder started early. The relief: genetics loads the gun, but environment and lifestyle pull the trigger. The study identified 58 genetic locations that influence anxiety, proving it's polygenic and not your fault. More importantly, the brain remains responsive to therapy, breathwork, and lifestyle changes throughout your life.",
-      "takeaway": "Anxiety has a neurobiological basis, but your brain is plastic and responsive to training. You can rewire it.",
-      "source": "Molecular Psychiatry / ENIGMA-Anxiety Working Group",
-      "sourceUrl": "https://www.potentialz.com.au/post/this-week-in-mental-health-anxiety-panic-june-2026/",
-      "pexelsQuery": "brain mri scan neuroscience medical imaging",
-      "product": {
-        "id": "sup-004",
-        "name": "Pure Encapsulations Magnesium Glycinate",
-        "brand": "Pure Encapsulations",
-        "asin": "B0058HWV9S",
-        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "sleep",
-          "magnesium",
-          "recovery",
-          "muscle cramps",
-          "relaxation",
-          "insomnia",
-          "stress",
-          "supplement"
-        ],
-        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/7089631/pexels-photo-7089631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7089631/pexels-photo-7089631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "MART  PRODUCTION",
-        "photographerUrl": "https://www.pexels.com/@mart-production",
-        "photoPageUrl": "https://www.pexels.com/photo/photo-of-radiotech-looking-through-patient-s-diagnosis-7089631/",
-        "avgColor": "#ACA499"
-      }
-    },
-    {
-      "category": "BRAIN HEALTH",
-      "topic": "Music therapy improves cognitive function in aging",
-      "headline": "Playing Music Keeps Your Brain Sharp. New Study Shows How Much It Matters",
-      "body": "Fresh research published in June 2026 in the Journals of Gerontology found that music therapy—whether one-on-one, in small groups, or large group sessions—improved cognitive function and psychological well-being in healthy older adults. The study tested three formats on 62 participants and found measurable gains in attention, working memory, and mood. Music engages auditory, visual, and somatosensory functions simultaneously, creating a neurological workout that passive activities can't match. This matters for busy adults too: even brief regular music engagement strengthens the neural circuits that protect against cognitive decline.",
-      "takeaway": "Regular music engagement—playing or active listening—is a science-backed cognitive protector. Start now, not later.",
-      "source": "The Journals of Gerontology: Series B / Oxford Academic",
-      "sourceUrl": "https://academic.oup.com/psychsocgerontology/article/81/6/gbag070/8688378",
-      "pexelsQuery": "older adult playing musical instrument piano",
-      "product": {
-        "id": "book-001",
-        "name": "Can't Hurt Me - David Goggins Audiobook",
-        "brand": "David Goggins",
-        "asin": "B07KKP62FW",
-        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
-        "category": "books",
-        "price_range": "$$",
-        "keywords": [
-          "mental toughness",
-          "mindset",
-          "motivation",
-          "endurance",
-          "running",
-          "ultramarathon",
-          "book",
-          "audiobook"
-        ],
-        "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/5562681/pexels-photo-5562681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5562681/pexels-photo-5562681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Jean Ivanki",
-        "photographerUrl": "https://www.pexels.com/@jean-ivanki-3343215",
-        "photoPageUrl": "https://www.pexels.com/photo/a-person-playing-electric-piano-5562681/",
-        "avgColor": "#4D3B41"
+        "url": "https://images.pexels.com/photos/35033870/pexels-photo-35033870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/35033870/pexels-photo-35033870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gizem Gökce",
+        "photographerUrl": "https://www.pexels.com/@gizem-gokce-1072613075",
+        "photoPageUrl": "https://www.pexels.com/photo/top-view-of-coffee-cup-with-pink-flowers-35033870/",
+        "avgColor": "#A5806E"
       }
     }
   ],
   "quote": {
-    "text": "Success isn't always about greatness. It's about consistency. Consistent hard work leads to success.",
-    "author": "Unknown / Attributed to multiple sources",
-    "context": "A foundational principle echoed across elite athletes and coaches—the real competitive advantage comes from showing up repeatedly, not from one-time heroic efforts."
+    "text": "I see all the hard work, all the sacrifices. I see the journey that it took to get back to this point of being healthy. And I see beauty in that struggle.",
+    "author": "Kobe Bryant",
+    "context": "NBA legend who built a career on relentless work ethic and recovery"
   },
   "workout": null,
   "meal": {
-    "title": "Pan-Seared Duck Breast with White Bean Puree and Wilted Spinach",
+    "title": "Lemon Herb Pork Tenderloin Bowl with Quinoa and Roasted Zucchini",
     "type": "dinner",
     "prepTime": "20 min",
-    "calories": 480,
+    "calories": 520,
     "protein": 42,
-    "carbs": 28,
-    "fat": 20,
-    "instructions": "Ingredients:\n2 duck breasts (about 5 oz each), skin scored in crosshatch\n1 can (15 oz) cannellini beans, drained and rinsed\n3 cups fresh spinach\n3 garlic cloves, minced\n1 tablespoon olive oil\nJuice of half a lemon\n1 teaspoon fresh thyme or dried thyme\nSalt and black pepper to taste\nPinch of red pepper flakes (optional)\n\nInstructions:\n1. Score the duck skin, season both sides with salt, pepper, and thyme. Place skin-side down in a cold pan over medium heat. Let the fat render for 8 to 10 minutes until skin is golden and crispy. Flip and cook 3 to 4 more minutes for medium. Rest 5 minutes before slicing. 2. While duck rests, drain most of the rendered fat from the pan (save a teaspoon). Add garlic and cook 30 seconds. Add cannellini beans with a splash of water, lemon juice, and a pinch of salt. Mash roughly with a fork or blend smooth, then keep warm. 3. In the same pan, add spinach and red pepper flakes and wilt for 1 to 2 minutes. 4. Plate the bean puree, top with sliced duck breast and wilted spinach.",
-    "tip": "Starting duck skin-side down in a cold pan instead of a hot one is the key to getting that crackling-crispy skin without burning it. Patience pays off here."
+    "carbs": 38,
+    "fat": 16,
+    "instructions": "Ingredients:\n6 oz pork tenderloin, sliced into medallions\n3/4 cup cooked quinoa\n1 medium zucchini, sliced into half-moons\n1 tbsp olive oil\n2 garlic cloves, minced\nJuice of 1 lemon\n1 tsp dried oregano\n1/2 tsp smoked paprika\nSalt and black pepper to taste\nFresh parsley to garnish\n\nInstructions:\n1. Toss zucchini with half the olive oil, salt, and pepper. Roast at 425F for 15 minutes until golden. 2. Season pork medallions with paprika, oregano, salt, and pepper. Sear in remaining olive oil over medium-high heat, 3 minutes per side, until cooked through. 3. Deglaze the pan with lemon juice and garlic, stirring for 30 seconds to build a quick pan sauce. 4. Build your bowl: quinoa base, roasted zucchini on the side, pork on top, drizzle with pan sauce, and finish with fresh parsley.",
+    "tip": "Pork tenderloin is one of the leanest cuts of meat — nearly as lean as chicken breast — and it cooks fast. Slice it thin before searing to cut your cook time in half on busy weeknights."
   }
 }
