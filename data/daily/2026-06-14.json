@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-14",
+  "dateLabel": "Sunday, June 14, 2026",
+  "generatedAt": "2026-06-14T11:06:08.492Z",
+  "articles": [
+    {
+      "category": "COLD THERAPY",
+      "topic": "Whole-body cryotherapy reduces stress and body composition",
+      "headline": "90-Second Ice Chambers Shrink Waist and Calm Your Nervous System",
+      "body": "Nineteen middle-aged adults (average 52.9 years) completed 18 sessions of whole-body cryotherapy at minus 90 degrees over 9 weeks. Results: waist circumference dropped by 3.6 centimeters on average. Perceived stress scores improved significantly. The mechanism isn't dramatic—extreme cold triggers the body's adaptation systems, temporarily shifting how your nervous system responds. Unlike a single session (which showed minimal immune changes), the repeated dose created measurable shifts in stress hormones and body composition. Worth noting: effects persisted through a 9-week follow-up, suggesting the adaptation sticks around even when you stop.",
+      "takeaway": "Consistent cold exposure appears to reduce both stress and waist measurements, though the effect is modest. Don't expect it to replace diet and training—think of it as something that amplifies what you're already doing.",
+      "source": "Journal of Clinical Medicine (published 2026)",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12898326/",
+      "pexelsQuery": "ice bath cold water therapy",
+      "photo": {
+        "url": "https://images.pexels.com/photos/15814247/pexels-photo-15814247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15814247/pexels-photo-15814247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Olavi Anttila",
+        "photographerUrl": "https://www.pexels.com/@olavi-anttila-264846761",
+        "photoPageUrl": "https://www.pexels.com/photo/two-men-swimming-in-a-sea-in-winter-15814247/",
+        "avgColor": "#8D9298"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Weekly exercise dose for cardiovascular protection",
+      "headline": "Your Heart Needs 560 Minutes a Week. Not 150.",
+      "body": "A new analysis of 17,000 people wearing wrist trackers found that serious heart protection kicks in around 560 to 610 minutes per week of moderate to vigorous activity. That's roughly 10 hours. Current guidelines say 150 minutes weekly—good for basic health, but if you want substantial protection against heart attacks and stroke, you need 3 to 4 times that amount. The good news: less fit people don't need a different amount per se, just need to work slightly harder (higher intensity) to get the same benefit. The bad news is obvious. The study suggests personalized targets based on your current fitness level might be more useful than one-size-fits-all advice.",
+      "takeaway": "If heart disease prevention is your goal, the dose is higher than you've been told. But your baseline fitness matters—start where you are and build gradually.",
+      "source": "British Journal of Sports Medicine (May 2026)",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-real-heart-weekly-climbs-current.html",
+      "pexelsQuery": "running exercise cycling heart rate",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/34690008/pexels-photo-34690008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34690008/pexels-photo-34690008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Thái Trường Giang",
+        "photographerUrl": "https://www.pexels.com/@tieugiang007",
+        "photoPageUrl": "https://www.pexels.com/photo/solitary-jogger-on-a-serene-autumn-road-34690008/",
+        "avgColor": "#6F6E6A"
+      }
+    },
+    {
+      "category": "BREATHWORK",
+      "topic": "Structured breathing protocol for stress and anxiety",
+      "headline": "10 Minutes of Breathing Twice Daily Cut Paramedic Stress in Half",
+      "body": "Paramedicine students live with chronic stress. A new trial tested a simple breathing protocol: inhale through the nose for 5 seconds (belly breath), exhale for 5 seconds, hold for 2 seconds, repeat for 10 minutes. Do it twice daily. Results: at post-intervention, the breathing group reported significantly lower stress, anxiety, and depression scores versus controls. Resilience improved. Notably, during exam season when control stress rose, the breathing group's stress stayed flat. The effect sizes were medium to large. Insomnia didn't change significantly (likely due to dropouts). The method is dead simple—takes a single sitting to learn—and the trial was rigorous (single-blind RCT, registered).",
+      "takeaway": "Specific breathing ratios and consistent practice appear to buffer stress response. This works well for high-stress professions and translates to everyday life.",
+      "source": "Stress and Health journal (March 2026)",
+      "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/smi.70161",
+      "pexelsQuery": "meditation breathing exercise calm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6643394/pexels-photo-6643394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6643394/pexels-photo-6643394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alena Darmel",
+        "photographerUrl": "https://www.pexels.com/@a-darmel",
+        "photoPageUrl": "https://www.pexels.com/photo/women-on-a-yoga-mat-6643394/",
+        "avgColor": "#A5988B"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Muscle stem cell aging and glutaminase protein",
+      "headline": "Why Your Muscles Stop Growing With Age (And How to Flip It Back)",
+      "body": "Aging muscle stem cells have about 50% less of a protein called glutaminase (GLS1), which is crucial for using glutamine—a key amino acid for cell growth and repair. When these cells can't access glutamine effectively, they can't regenerate muscle tissue efficiently. A Nature Aging study found that when researchers genetically restored GLS1 in old cells, the muscle stem cells 'woke up' again, regaining their ability to grow and repair muscle. This isn't about forcing bigger muscles—it's about restoring the metabolic machinery that lets your cells do their job. The finding opens a door: if you can restore this metabolic pathway (through targeted interventions), you might reverse age-related muscle decline at the cellular level.",
+      "takeaway": "Age-related muscle loss isn't inevitable. Targeting the metabolic machinery that powers muscle repair—not just the muscles themselves—could be the key to staying strong longer.",
+      "source": "Nature Aging (May 2026)",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-recharge-aging-muscle-stem-cells.html",
+      "pexelsQuery": "strength training weightlifting muscle",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4720792/pexels-photo-4720792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4720792/pexels-photo-4720792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-blue-tank-top-and-blue-shorts-holding-a-barbell-4720792/",
+        "avgColor": "#615B4F"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Rest is part of the work. Recovery isn't lazy—it's when your body builds strength.",
+    "author": "Serena Williams",
+    "context": "23-time Grand Slam champion and founder of Serena Ventures, speaking on her podcast about training philosophy."
+  },
+  "workout": {
+    "type": "RECOVERY",
+    "title": "Supine Mobility Flow: Hips, Shoulders & Spine",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "tip": "Move slowly and breathe deeply—never force range of motion. If you feel sharp pain, back off immediately. Recovery mobility should feel like relief, not effort. Exhale as you sink deeper into each position.",
+    "warmup": "2 min: 5 cat-cows, 5 thread-the-needle flows each side, 5 gentle spinal twists supine",
+    "exercises": [
+      {
+        "name": "Supine Figure-Four Hip Stretch",
+        "sets": "2",
+        "reps": "45 sec each side",
+        "notes": "Lie on back, cross right ankle over left knee, gently pull left knee toward chest. Keep lower back flat on mat. Breathe into the stretch—this targets the glute and piriformis after lower-body training."
+      },
+      {
+        "name": "Reclined Spinal Twist",
+        "sets": "2",
+        "reps": "45 sec each side",
+        "notes": "Lie on back with knees bent, drop both knees to the right, extend arms in T-position. Keep shoulders relaxed against mat. Restores mobility after running or hard strength sessions."
+      },
+      {
+        "name": "90-90 Hip External Rotation Flow",
+        "sets": "2",
+        "reps": "30 sec each side",
+        "notes": "Lie on back, hip and knee at 90 degrees, gently guide the knee toward your chest while rotating through the hip. Excellent for runners and lifters."
+      },
+      {
+        "name": "Supine Shoulder Stretch & Rotation",
+        "sets": "2",
+        "reps": "30 sec each arm",
+        "notes": "Lie on back, extend one arm across your body at shoulder height, use opposite hand to gently depress the shoulder. Opens the chest and rear shoulder after pressing movements."
+      },
+      {
+        "name": "Dead Bug Flow (Slow & Controlled)",
+        "sets": "1",
+        "reps": "8 reps each side",
+        "notes": "Lie on back, arms extended toward ceiling, knees bent at 90 degrees. Slowly lower opposite arm and leg toward the floor without touching, return. Move deliberately—this is mobility, not strength."
+      }
+    ],
+    "cooldown": "Supine breathing position (knees bent, feet flat) for 2 minutes, focus on 5-second inhales and 7-second exhales to activate parasympathetic nervous system",
+    "description": "A 25-minute guided mobility session performed on your back and side, targeting the hips, shoulders, and thoracic spine—areas that tighten after strength training and running. Gentle, low-intensity movement restores range of motion and reduces soreness without adding fatigue."
+  },
+  "meal": {
+    "title": "Cottage Cheese & Berries with Granola Crunch",
+    "type": "post_workout",
+    "prepTime": "2 min",
+    "calories": 310,
+    "protein": 28,
+    "carbs": 35,
+    "fat": 6,
+    "instructions": "1. Spoon cottage cheese into a bowl.\n2. Top with mixed berries (blueberries, strawberries, raspberries—whatever you have).\n3. Sprinkle granola over the fruit.\n4. Drizzle with a small amount of honey if desired.",
+    "tip": "High-protein cottage cheese layered with fresh berries and a handful of granola—delivers immediate protein and carbs for muscle repair while being light enough to sit well post-training. It's also dairy-based, which research shows aids recovery."
+  }
+}
