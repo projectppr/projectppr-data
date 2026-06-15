@@ -1,0 +1,219 @@
+{
+  "date": "2026-06-15",
+  "dateLabel": "Monday, June 15, 2026",
+  "generatedAt": "2026-06-15T11:08:59.960Z",
+  "articles": [
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Daily training boosts cognitive abilities",
+      "headline": "Five Minutes a Day Improves Brain Performance at Any Age",
+      "body": "A three-year study of nearly 4,000 adults aged 19 to 94 shows that cognitive abilities don't inevitably decline with age. Participants who spent just five to fifteen minutes daily on brain training activities showed measurable improvements in mental acuity. Researchers assessed participants using the BrainHealth Index, which measures memory, attention, and complex thinking skills. The findings challenge the assumption that aging means losing mental sharpness. Remarkably, cognitive gains occurred at every age tested, suggesting it's never too late to sharpen your thinking.",
+      "takeaway": "Spend just 5-15 minutes a day on focused thinking activities to maintain and improve cognitive function throughout your life.",
+      "source": "University of Texas at Dallas / Nature Scientific Reports",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "person thinking working on laptop",
+      "product": {
+        "id": "book-007",
+        "name": "Atomic Habits - James Clear Audiobook",
+        "brand": "James Clear",
+        "asin": "B07RFSSYBH",
+        "url": "https://www.amazon.com/dp/B07RFSSYBH?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "habits",
+          "productivity",
+          "health",
+          "routine",
+          "behavior change",
+          "book",
+          "audiobook",
+          "training"
+        ],
+        "blurb": "The system behind every sustainable health and training habit."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6325938/pexels-photo-6325938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6325938/pexels-photo-6325938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vanessa Garcia",
+        "photographerUrl": "https://www.pexels.com/@vanessa-garcia",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-man-in-deep-thoughts-6325938/",
+        "avgColor": "#A9A5A5"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Fasting reshapes gut and brain together",
+      "headline": "Intermittent Fasting Changes Your Brain and Gut at the Same Time",
+      "body": "New research reveals that weight loss involves more than just eating fewer calories. In a study of obese adults, an intermittent fasting diet triggered significant weight loss plus notable shifts in gut bacteria composition. Brain scans showed changes in regions controlling appetite, cravings, and self-control. The findings suggest your gut microbiome and brain work as partners during weight loss. Rather than the body simply responding to calorie restriction, the gut and brain appear to coordinate through chemical signals. This partnership may explain why some approaches to weight loss succeed while others fail.",
+      "takeaway": "Intermittent fasting may work by rewiring both your gut bacteria and appetite-control brain regions, not just by cutting calories.",
+      "source": "ScienceDaily / Research Study",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
+      "pexelsQuery": "healthy food fresh vegetables intestines digestion",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/33686058/pexels-photo-33686058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33686058/pexels-photo-33686058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "olga Volkovitskaia",
+        "photographerUrl": "https://www.pexels.com/@olga-volkovitskaia-131638009",
+        "photoPageUrl": "https://www.pexels.com/photo/fresh-cucumbers-harvested-in-summer-garden-33686058/",
+        "avgColor": "#8C825E"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Amino acid methionine fights infections",
+      "headline": "A Simple Amino Acid Boosts Survival Against Severe Infections",
+      "body": "A Salk Institute study discovered that methionine, a common dietary amino acid, dramatically improved survival in animals facing severe infections and inflammatory conditions. Remarkably, methionine didn't directly boost the immune system. Instead, it strengthened kidney function, which then supported the body's ability to survive extreme stress. The amino acid is found in everyday foods like meat, eggs, and dairy. The findings suggest that nutritional support for organ function may be just as critical as directly targeting infection. This opens a new perspective on how diet influences your body's ability to handle serious health challenges.",
+      "takeaway": "Ensure adequate dietary amino acid intake, as methionine supports kidney function and survival during severe inflammation and infection.",
+      "source": "ScienceDaily / Salk Institute",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601032407.htm",
+      "pexelsQuery": "amino acids protein powder supplements",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13534594/pexels-photo-13534594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13534594/pexels-photo-13534594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Odin Mcraig",
+        "photographerUrl": "https://www.pexels.com/@eimcraig",
+        "photoPageUrl": "https://www.pexels.com/photo/medicine-capsules-on-the-black-background-13534594/",
+        "avgColor": "#3B3D32"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "The strength training sweet spot revealed",
+      "headline": "90 Minutes of Strength Training Per Week May Be Your Magic Number",
+      "body": "A groundbreaking 30-year study tracking over 147,000 people found a sweet spot for strength training: 90 to 120 minutes per week. This amount was linked to significantly lower risk of death overall, particularly from cardiovascular and neurological disease. The benefits appeared optimal in that range, suggesting more isn't necessarily better. When participants combined strength training with aerobic exercise, the protective benefits became even stronger. The research, published in the British Journal of Sports Medicine, tracked participants for three decades, making it one of the longest investigations into exercise and longevity ever conducted.",
+      "takeaway": "Aim for 90-120 minutes of strength training weekly, and combine it with aerobic exercise for maximum protection against disease and premature death.",
+      "source": "British Journal of Sports Medicine / BMJ Group",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
+      "pexelsQuery": "strength training weights dumbbells gym",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/136410/pexels-photo-136410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/136410/pexels-photo-136410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Scott Webb",
+        "photographerUrl": "https://www.pexels.com/@scottwebb",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-holding-dumbbells-136410/",
+        "avgColor": "#2B2828"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Scientists have found ways to 'polish' the biological system and restore cellular function. Aging could soon be treated as a medical condition rather than an inevitable part of life.",
+    "author": "David Sinclair",
+    "context": "Harvard Medical School genetics professor and leading longevity researcher speaking at the World Governments Summit 2026"
+  },
+  "workout": {
+    "type": "PUSH",
+    "title": "Push-Up Progression Mastery: Foundation to Strength",
+    "difficulty": "Beginner",
+    "duration": "35 min",
+    "tip": "Focus on scapular control at the top of each rep—pack your shoulders down and back before lowering. Quality reps beat volume; stop a set when form breaks, not when you fail.",
+    "warmup": "3 min: 10 arm circles forward, 10 arm circles backward, 5 cat-cow stretches, 10 scapular wall slides, 5 inchworms with a 2-sec hold at the bottom",
+    "exercises": [
+      {
+        "name": "Wall Push-Up",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hands at shoulder width on wall, step feet back slightly, lower chest toward wall with elbows at 45°. This teaches hand placement and body tension before gravity increases load."
+      },
+      {
+        "name": "Incline Push-Up (Hands Elevated)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hands on a bench or low table, body in plank, lower until chest nearly touches surface. Maintain rigid core and neutral spine throughout—no sagging hips."
+      },
+      {
+        "name": "Knee Push-Up",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Knees on ground, hands at shoulder width, lower with control until chest approaches floor. Keep core braced and neck neutral; this is a valid strength builder, not a 'easier' alternative to dismiss."
+      },
+      {
+        "name": "Eccentric-Focus Push-Up (Negatives)",
+        "sets": "2",
+        "reps": "5",
+        "notes": "Start at the top of a push-up position, lower yourself for a slow 3-second count, then use legs or knees to return to top. This builds eccentric strength and bridges toward full push-ups."
+      },
+      {
+        "name": "Push-Up Hold (Isometric)",
+        "sets": "2",
+        "reps": "30 sec",
+        "notes": "Hold the bottom position of a push-up (chest 1–2 inches off floor) without moving. Builds lockout control and shoulder stability; take 60 sec rest between sets."
+      }
+    ],
+    "cooldown": "5 min: 30 sec chest stretch (cross arms over body, lean into doorframe), 30 sec shoulder stretch (pull elbow across body), 30 sec tricep stretch (reach arm overhead and bend elbow), 30 sec child's pose with shoulder emphasis",
+    "description": "A structured progression through multiple push-up variations, building scapular stability and pressing strength from ground-based to elevated positions. Perfect for beginners establishing core pressing mechanics without equipment, with clear progression pathways to increase difficulty over weeks."
+  },
+  "meal": {
+    "title": "Cotija & Black Bean Crispy Tortilla Stack",
+    "type": "snack",
+    "prepTime": "5 min",
+    "calories": 205,
+    "protein": 9,
+    "carbs": 24,
+    "fat": 8,
+    "instructions": "1. Slice tortillas into quarters and toss with olive oil, salt, and a pinch of cumin.\n2. Spread on a baking sheet and bake at 375°F for 10–12 minutes until golden and crispy.\n3. Warm black beans in a small pan with chili powder and remaining cumin (2 minutes).\n4. Layer cooled tortilla chips with warm beans and top with cotija cheese.\n5. Eat immediately while chips are crispy.",
+    "tip": "Crispy baked tortilla chips layered with seasoned black beans and crumbly cotija cheese—a handheld Mexican-inspired snack with serious plant-based protein and fiber. No greasy frying, all satisfying crunch."
+  }
+}
