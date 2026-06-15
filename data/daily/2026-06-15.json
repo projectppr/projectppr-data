@@ -1,219 +1,151 @@
 {
   "date": "2026-06-15",
   "dateLabel": "Monday, June 15, 2026",
-  "generatedAt": "2026-06-15T11:08:59.960Z",
+  "generatedAt": "2026-06-15T14:21:59.246Z",
   "articles": [
     {
-      "category": "BRAIN HEALTH",
-      "topic": "Daily training boosts cognitive abilities",
-      "headline": "Five Minutes a Day Improves Brain Performance at Any Age",
-      "body": "A three-year study of nearly 4,000 adults aged 19 to 94 shows that cognitive abilities don't inevitably decline with age. Participants who spent just five to fifteen minutes daily on brain training activities showed measurable improvements in mental acuity. Researchers assessed participants using the BrainHealth Index, which measures memory, attention, and complex thinking skills. The findings challenge the assumption that aging means losing mental sharpness. Remarkably, cognitive gains occurred at every age tested, suggesting it's never too late to sharpen your thinking.",
-      "takeaway": "Spend just 5-15 minutes a day on focused thinking activities to maintain and improve cognitive function throughout your life.",
-      "source": "University of Texas at Dallas / Nature Scientific Reports",
-      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
-      "pexelsQuery": "person thinking working on laptop",
-      "product": {
-        "id": "book-007",
-        "name": "Atomic Habits - James Clear Audiobook",
-        "brand": "James Clear",
-        "asin": "B07RFSSYBH",
-        "url": "https://www.amazon.com/dp/B07RFSSYBH?tag=chrisolson04-20",
-        "category": "books",
-        "price_range": "$$",
-        "keywords": [
-          "habits",
-          "productivity",
-          "health",
-          "routine",
-          "behavior change",
-          "book",
-          "audiobook",
-          "training"
-        ],
-        "blurb": "The system behind every sustainable health and training habit."
-      },
+      "category": "HORMONES",
+      "topic": "GLP-1 drugs reduce breast cancer risk",
+      "headline": "The Ozempic-Class Drug Showing an Unexpected Cancer Connection",
+      "body": "A Penn Medicine study of 111,000 women found that those taking GLP-1 medications like Ozempic and Wegovy were about 30 percent less likely to develop breast cancer. The analysis examined women ages 45 to 80 with a BMI of 25 or above who had breast imaging between January 2022 and June 2025. Researchers cautioned the study was observational and doesn't prove GLP-1 medications prevent breast cancer, but the findings suggest these weight-loss drugs may affect cancer-related pathways worth investigating as potential cancer prevention tools.",
+      "takeaway": "If you're using or considering GLP-1 drugs for weight loss or diabetes management, the emerging evidence suggests potential protective effects beyond metabolic benefits.",
+      "source": "University of Pennsylvania School of Medicine / JCO Oncology Practice",
+      "sourceUrl": "https://www.pennmedicine.org/news/glp-1-use-linked-to-lower-breast-cancer-incidence",
+      "pexelsQuery": "medicine prescription medication bottle",
       "photo": {
-        "url": "https://images.pexels.com/photos/6325938/pexels-photo-6325938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6325938/pexels-photo-6325938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Vanessa Garcia",
-        "photographerUrl": "https://www.pexels.com/@vanessa-garcia",
-        "photoPageUrl": "https://www.pexels.com/photo/photo-of-man-in-deep-thoughts-6325938/",
-        "avgColor": "#A9A5A5"
+        "url": "https://images.pexels.com/photos/15525818/pexels-photo-15525818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15525818/pexels-photo-15525818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Lance  Reis",
+        "photographerUrl": "https://www.pexels.com/@lance-reis-255748881",
+        "photoPageUrl": "https://www.pexels.com/photo/pills-in-bottle-15525818/",
+        "avgColor": "#3C4349"
       }
     },
     {
       "category": "NUTRITION",
-      "topic": "Fasting reshapes gut and brain together",
-      "headline": "Intermittent Fasting Changes Your Brain and Gut at the Same Time",
-      "body": "New research reveals that weight loss involves more than just eating fewer calories. In a study of obese adults, an intermittent fasting diet triggered significant weight loss plus notable shifts in gut bacteria composition. Brain scans showed changes in regions controlling appetite, cravings, and self-control. The findings suggest your gut microbiome and brain work as partners during weight loss. Rather than the body simply responding to calorie restriction, the gut and brain appear to coordinate through chemical signals. This partnership may explain why some approaches to weight loss succeed while others fail.",
-      "takeaway": "Intermittent fasting may work by rewiring both your gut bacteria and appetite-control brain regions, not just by cutting calories.",
-      "source": "ScienceDaily / Research Study",
+      "topic": "Complete sugar elimination backfires on gut",
+      "headline": "Your All-Or-Nothing Approach to Sugar Could Backfire",
+      "body": "Completely eliminating sugar from your diet may do more harm than good, according to research from the Dasman Diabetes Institute. Mice on a sugar-free, low-fat diet developed worse blood sugar control, increased inflammation, and disrupted gut bacteria compared to mice eating some sugar. The researchers found that a balanced diet supporting a healthy gut microbiome matters more than cutting sugar entirely. The findings challenge the popular idea that removing all sugar is the key to better health.",
+      "takeaway": "Focus on dietary balance and gut health rather than complete sugar elimination. Moderation beats restriction when it comes to sustainable eating patterns.",
+      "source": "Dasman Diabetes Institute / ENDO 2026",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260614011843.htm",
+      "pexelsQuery": "fruits vegetables balanced diet plate",
+      "photo": {
+        "url": "https://images.pexels.com/photos/28647052/pexels-photo-28647052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/28647052/pexels-photo-28647052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Atakan Tok",
+        "photographerUrl": "https://www.pexels.com/@atakan-tok-479640700",
+        "photoPageUrl": "https://www.pexels.com/photo/colorful-fresh-salad-with-vegetables-and-cheese-28647052/",
+        "avgColor": "#696156"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Intermittent fasting rewires gut and brain together",
+      "headline": "Your Gut and Brain Team Up to Make Weight Loss Stick",
+      "body": "A new study shows weight loss isn't just about calories—it's about your gut and brain working together. When obese adults followed an intermittent fasting-style diet, they experienced significant weight loss alongside notable shifts in gut bacteria. Brain scans revealed changes in regions tied to appetite, cravings, and self-control. The research suggests that successful, lasting weight loss happens when the gut microbiome and brain rewire simultaneously, creating shifts that support each other.",
+      "takeaway": "If you're considering intermittent fasting, understand that the real magic happens when your gut bacteria change alongside your brain's appetite regulation centers—a dual rewiring that supports lasting results.",
+      "source": "ScienceDaily / Health Management Institute of the PLA General Hospital",
       "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
-      "pexelsQuery": "healthy food fresh vegetables intestines digestion",
-      "product": {
-        "id": "nut-001",
-        "name": "Skratch Labs Hydration Mix",
-        "brand": "Skratch Labs",
-        "asin": "B075NDRY1C",
-        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
-        "category": "nutrition",
-        "price_range": "$$",
-        "keywords": [
-          "hydration",
-          "electrolytes",
-          "running",
-          "cycling",
-          "triathlon",
-          "endurance",
-          "sports drink",
-          "fueling"
-        ],
-        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
-      },
+      "pexelsQuery": "person eating healthy meal intermittent fasting",
       "photo": {
-        "url": "https://images.pexels.com/photos/33686058/pexels-photo-33686058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/33686058/pexels-photo-33686058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "olga Volkovitskaia",
-        "photographerUrl": "https://www.pexels.com/@olga-volkovitskaia-131638009",
-        "photoPageUrl": "https://www.pexels.com/photo/fresh-cucumbers-harvested-in-summer-garden-33686058/",
-        "avgColor": "#8C825E"
+        "url": "https://images.pexels.com/photos/5810663/pexels-photo-5810663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5810663/pexels-photo-5810663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "AI25.Studio  Studio",
+        "photographerUrl": "https://www.pexels.com/@ai25studioai",
+        "photoPageUrl": "https://www.pexels.com/photo/person-holding-spoon-putting-green-vegetable-on-round-ceramic-plate-5810663/",
+        "avgColor": "#8B7451"
       }
     },
     {
-      "category": "SUPPLEMENTS",
-      "topic": "Amino acid methionine fights infections",
-      "headline": "A Simple Amino Acid Boosts Survival Against Severe Infections",
-      "body": "A Salk Institute study discovered that methionine, a common dietary amino acid, dramatically improved survival in animals facing severe infections and inflammatory conditions. Remarkably, methionine didn't directly boost the immune system. Instead, it strengthened kidney function, which then supported the body's ability to survive extreme stress. The amino acid is found in everyday foods like meat, eggs, and dairy. The findings suggest that nutritional support for organ function may be just as critical as directly targeting infection. This opens a new perspective on how diet influences your body's ability to handle serious health challenges.",
-      "takeaway": "Ensure adequate dietary amino acid intake, as methionine supports kidney function and survival during severe inflammation and infection.",
-      "source": "ScienceDaily / Salk Institute",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601032407.htm",
-      "pexelsQuery": "amino acids protein powder supplements",
-      "product": {
-        "id": "sup-001",
-        "name": "Thorne Creatine Monohydrate",
-        "brand": "Thorne",
-        "asin": "B0013OQGO6",
-        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "creatine",
-          "strength",
-          "muscle",
-          "performance",
-          "supplement",
-          "brain",
-          "cognitive",
-          "aging",
-          "endurance"
-        ],
-        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
-      },
+      "category": "SLEEP",
+      "topic": "Brain's waste-clearing system has two speeds",
+      "headline": "Your Brain Has a Janitor. Here's How It Works During Sleep",
+      "body": "AI analysis has revealed how your brain's glymphatic system clears metabolic waste during sleep—and it works at two different speeds. Waterlike fluid moves quickly around the brain's surface at a few microns per second, but moves about 50 times slower through deep brain tissue. This waste-clearing process is linked to removing harmful proteins like amyloid beta, associated with Alzheimer's disease. Understanding how this system functions could unlock new ways to prevent cognitive decline and neurodegenerative diseases.",
+      "takeaway": "Your brain actively cleans itself during sleep. Prioritizing consistent, quality sleep isn't optional for brain health—it's essential maintenance that directly impacts your long-term cognitive function.",
+      "source": "University of Rochester / Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-ai-brain-revealing-deep.html",
+      "pexelsQuery": "person sleeping deep sleep rest",
       "photo": {
-        "url": "https://images.pexels.com/photos/13534594/pexels-photo-13534594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/13534594/pexels-photo-13534594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Odin Mcraig",
-        "photographerUrl": "https://www.pexels.com/@eimcraig",
-        "photoPageUrl": "https://www.pexels.com/photo/medicine-capsules-on-the-black-background-13534594/",
-        "avgColor": "#3B3D32"
-      }
-    },
-    {
-      "category": "TRAINING",
-      "topic": "The strength training sweet spot revealed",
-      "headline": "90 Minutes of Strength Training Per Week May Be Your Magic Number",
-      "body": "A groundbreaking 30-year study tracking over 147,000 people found a sweet spot for strength training: 90 to 120 minutes per week. This amount was linked to significantly lower risk of death overall, particularly from cardiovascular and neurological disease. The benefits appeared optimal in that range, suggesting more isn't necessarily better. When participants combined strength training with aerobic exercise, the protective benefits became even stronger. The research, published in the British Journal of Sports Medicine, tracked participants for three decades, making it one of the longest investigations into exercise and longevity ever conducted.",
-      "takeaway": "Aim for 90-120 minutes of strength training weekly, and combine it with aerobic exercise for maximum protection against disease and premature death.",
-      "source": "British Journal of Sports Medicine / BMJ Group",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
-      "pexelsQuery": "strength training weights dumbbells gym",
-      "product": {
-        "id": "str-001",
-        "name": "Gymnastic Rings - Double Circle Wood",
-        "brand": "Double Circle",
-        "asin": "B076X32LFY",
-        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
-        "category": "strength",
-        "price_range": "$",
-        "keywords": [
-          "gymnastics",
-          "rings",
-          "strength",
-          "bodyweight",
-          "upper body",
-          "pull-ups",
-          "dips",
-          "core",
-          "home gym"
-        ],
-        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/136410/pexels-photo-136410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/136410/pexels-photo-136410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Scott Webb",
-        "photographerUrl": "https://www.pexels.com/@scottwebb",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-holding-dumbbells-136410/",
-        "avgColor": "#2B2828"
+        "url": "https://images.pexels.com/photos/8591471/pexels-photo-8591471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8591471/pexels-photo-8591471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-woman-lying-on-bed-8591471/",
+        "avgColor": "#502304"
       }
     }
   ],
   "quote": {
-    "text": "Scientists have found ways to 'polish' the biological system and restore cellular function. Aging could soon be treated as a medical condition rather than an inevitable part of life.",
-    "author": "David Sinclair",
-    "context": "Harvard Medical School genetics professor and leading longevity researcher speaking at the World Governments Summit 2026"
+    "text": "The quality, not the longevity, of one's life is what is important.",
+    "author": "Martin Luther King, Jr.",
+    "context": "Civil rights leader and advocate for meaningful living over mere existence."
   },
   "workout": {
     "type": "PUSH",
-    "title": "Push-Up Progression Mastery: Foundation to Strength",
-    "difficulty": "Beginner",
-    "duration": "35 min",
-    "tip": "Focus on scapular control at the top of each rep—pack your shoulders down and back before lowering. Quality reps beat volume; stop a set when form breaks, not when you fail.",
-    "warmup": "3 min: 10 arm circles forward, 10 arm circles backward, 5 cat-cow stretches, 10 scapular wall slides, 5 inchworms with a 2-sec hold at the bottom",
+    "title": "Dip Strength Circuit: Bodyweight + Weighted Hypertrophy Density",
+    "difficulty": "Intermediate",
+    "duration": "45 min",
+    "tip": "On weighted dips, lean forward slightly and keep elbows tucked to 45 degrees—this shifts load to chest and triceps. Lower until elbows are 90 degrees, pause briefly, and drive up through your hands and legs. Avoid shrugging at the top.",
+    "warmup": "5 min: 12 band pull-aparts, 10 scapular dips (bodyweight, slow and controlled), 8 arm circles, 10 pushups",
     "exercises": [
       {
-        "name": "Wall Push-Up",
-        "sets": "3",
-        "reps": "12",
-        "notes": "Hands at shoulder width on wall, step feet back slightly, lower chest toward wall with elbows at 45°. This teaches hand placement and body tension before gravity increases load."
+        "name": "Weighted Dips (Dip Belt)",
+        "sets": "4",
+        "reps": "6",
+        "notes": "Add 15–25 lbs depending on baseline strength. Lower for 2 seconds, drive up explosively. Rest 2.5 min between sets. This is your strength anchor."
       },
       {
-        "name": "Incline Push-Up (Hands Elevated)",
+        "name": "Bodyweight Dips (Tempo)",
         "sets": "3",
         "reps": "10",
-        "notes": "Hands on a bench or low table, body in plank, lower until chest nearly touches surface. Maintain rigid core and neutral spine throughout—no sagging hips."
+        "notes": "After the heavy work, drop weight and perform 10 reps with 3-second negatives. Metabolic stress phase. Rest 90 sec."
       },
       {
-        "name": "Knee Push-Up",
+        "name": "Dumbbell Floor Press",
         "sets": "3",
-        "reps": "8",
-        "notes": "Knees on ground, hands at shoulder width, lower with control until chest approaches floor. Keep core braced and neck neutral; this is a valid strength builder, not a 'easier' alternative to dismiss."
+        "reps": "12",
+        "notes": "Lying on the floor limits leg drive, forcing triceps and chest to work harder. Press dumbbells above chest, squeeze at the top. Rest 75 sec."
       },
       {
-        "name": "Eccentric-Focus Push-Up (Negatives)",
-        "sets": "2",
-        "reps": "5",
-        "notes": "Start at the top of a push-up position, lower yourself for a slow 3-second count, then use legs or knees to return to top. This builds eccentric strength and bridges toward full push-ups."
-      },
-      {
-        "name": "Push-Up Hold (Isometric)",
-        "sets": "2",
-        "reps": "30 sec",
-        "notes": "Hold the bottom position of a push-up (chest 1–2 inches off floor) without moving. Builds lockout control and shoulder stability; take 60 sec rest between sets."
+        "name": "Tricep Rope Pushdown (Cable Machine)",
+        "sets": "3",
+        "reps": "15",
+        "notes": "High-rep, short rest. Split the rope and push down hard, squeeze triceps. Use lighter weight and focus on the muscle. Rest 45 sec."
       }
     ],
-    "cooldown": "5 min: 30 sec chest stretch (cross arms over body, lean into doorframe), 30 sec shoulder stretch (pull elbow across body), 30 sec tricep stretch (reach arm overhead and bend elbow), 30 sec child's pose with shoulder emphasis",
-    "description": "A structured progression through multiple push-up variations, building scapular stability and pressing strength from ground-based to elevated positions. Perfect for beginners establishing core pressing mechanics without equipment, with clear progression pathways to increase difficulty over weeks."
+    "cooldown": "5 min: chest stretch on foam roller 60 sec, tricep overhead stretch 30 sec each arm, doorway pec stretch 45 sec each side, deep breathing in child's pose 30 sec",
+    "description": "A hybrid strength-hypertrophy block that uses dips as the primary driver of chest, shoulder, and tricep development. The circuit alternates heavy weighted dips with higher-rep assistance work, creating accumulated tension and metabolic stress—the dual pathway to muscle growth. Perfect for intermediate athletes seeking functional pressing strength and upper-body mass.",
+    "equipment": [
+      "dip_station",
+      "dumbbells",
+      "dip_belt",
+      "resistance_band"
+    ]
   },
   "meal": {
-    "title": "Cotija & Black Bean Crispy Tortilla Stack",
-    "type": "snack",
-    "prepTime": "5 min",
-    "calories": 205,
-    "protein": 9,
-    "carbs": 24,
-    "fat": 8,
-    "instructions": "1. Slice tortillas into quarters and toss with olive oil, salt, and a pinch of cumin.\n2. Spread on a baking sheet and bake at 375°F for 10–12 minutes until golden and crispy.\n3. Warm black beans in a small pan with chili powder and remaining cumin (2 minutes).\n4. Layer cooled tortilla chips with warm beans and top with cotija cheese.\n5. Eat immediately while chips are crispy.",
-    "tip": "Crispy baked tortilla chips layered with seasoned black beans and crumbly cotija cheese—a handheld Mexican-inspired snack with serious plant-based protein and fiber. No greasy frying, all satisfying crunch."
+    "title": "Soft Polenta with Poached Eggs, Spinach & Roasted Cherry Tomatoes",
+    "type": "breakfast",
+    "prepTime": "10 min",
+    "calories": 495,
+    "protein": 22,
+    "carbs": 50,
+    "fat": 17,
+    "instructions": "1. Toss cherry tomatoes with ½ tbsp olive oil, salt, and pepper. Spread on a sheet pan and roast at 400°F for 12–15 minutes until blistered and caramelized.\n2. While tomatoes roast, bring milk and stock to a simmer in a medium saucepan over medium heat.\n3. Slowly whisk in polenta cornmeal, stirring constantly to avoid lumps. Reduce heat to low and cook for 8–10 minutes, stirring frequently, until creamy and thick.\n4. Stir in butter, Parmesan, salt, and pepper. Taste and adjust seasoning.\n5. Heat ½ tbsp olive oil in a separate skillet over medium heat. Add garlic and fresh spinach, sautéing for 2 minutes until wilted. Season with salt and pepper.\n6. To poach eggs: bring a pot of water to a gentle simmer, add vinegar. Create a gentle whirlpool and slide one egg into the center; cook 3 minutes for runny yolk. Repeat with second egg.\n7. Divide polenta between bowls, top with wilted spinach and roasted tomatoes, and carefully place one poached egg on each. Garnish with red pepper flakes.",
+    "ingredients": [
+      "¾ cup whole milk",
+      "¾ cup low-sodium vegetable stock",
+      "¼ cup polenta cornmeal (or cornmeal)",
+      "1 tbsp butter",
+      "¼ cup grated Parmesan cheese",
+      "2 cups fresh spinach (or 1 cup frozen, thawed)",
+      "1 cup cherry tomatoes, halved",
+      "1 tbsp olive oil",
+      "2 large eggs",
+      "1 tbsp white vinegar (for poaching)",
+      "1 garlic clove, minced",
+      "Sea salt, black pepper, and red pepper flakes to taste"
+    ],
+    "tip": "Make polenta ahead on Sunday—it keeps 4 days refrigerated and reheats beautifully with a splash of milk. Roast the tomatoes the night before, and simply wilt fresh spinach and poach eggs the morning of for a restaurant-quality 8-minute finish."
   }
 }
