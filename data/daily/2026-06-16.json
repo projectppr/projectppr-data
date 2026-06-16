@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-16",
+  "dateLabel": "Tuesday, June 16, 2026",
+  "generatedAt": "2026-06-16T11:03:49.252Z",
+  "articles": [
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "wearable sensors continuous health monitoring",
+      "headline": "Wearable Sensors Are Becoming Real Clinical Tools. Here's What They Can Track",
+      "body": "Smartwatches and inertial sensors are moving beyond fitness tracking into serious clinical territory. A January 2026 systematic review analyzing 30 studies found wearable sensors can accurately monitor gait, mobility, and disease risk across diverse populations. Wrist-worn devices dominated the research, often paired with machine learning to predict health outcomes. The challenge now isn't whether these devices work—it's standardizing where they sit, how they process data, and whether results hold up in real-world settings outside the lab.",
+      "takeaway": "Wearable sensors show strong potential for monitoring disease risk and rehabilitation, but standardization across platforms remains key to clinical adoption.",
+      "source": "JMIR mHealth and uHealth",
+      "sourceUrl": "https://mhealth.jmir.org/2026/1/e76084",
+      "pexelsQuery": "smartwatch wrist fitness tracker",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5036927/pexels-photo-5036927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5036927/pexels-photo-5036927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/people-looking-at-their-watches-5036927/",
+        "avgColor": "#5B4A3F"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "psilocybin cognitive aging neuroimaging older adults",
+      "headline": "First-Ever Study on Psychedelics and Aging Brains Launches at UC Berkeley",
+      "body": "Scientists just kicked off the first neuroimaging study specifically designed to test whether psilocybin can help aging brains stay sharp. The PLASTICITY study is enrolling healthy adults aged 60 to 85 and measuring how a single psilocybin experience affects memory, perception, emotion, and actual brain structure. Using MRI scans and behavioral testing, researchers hope to understand whether the drug's known effects on neuroplasticity translate into cognitive protection in older adults. Results won't land for years, but the foundational question is clear: could psychedelics be a tool for brain longevity?",
+      "takeaway": "This landmark study will reveal whether psilocybin's effects on brain plasticity can protect cognition in healthy aging adults.",
+      "source": "UC Berkeley Center for the Science of Psychedelics",
+      "sourceUrl": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
+      "pexelsQuery": "brain neural networks cognitive aging",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8791154/pexels-photo-8791154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8791154/pexels-photo-8791154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "AI25.Studio  AI GENERATIVE",
+        "photographerUrl": "https://www.pexels.com/@ai25studio",
+        "photoPageUrl": "https://www.pexels.com/photo/a-couple-playing-a-game-of-jenga-8791154/",
+        "avgColor": "#8E8C91"
+      }
+    },
+    {
+      "category": "COLD THERAPY",
+      "topic": "whole-body cryotherapy immune function stress reduction",
+      "headline": "Extreme Cold Chambers Shrink Waist and Calm Your Nervous System",
+      "body": "A 2026 pilot study had healthy adults sit in a minus-90 degree Celsius chamber for 3 to 6 minutes per session, 18 times over 9 weeks. Waist circumference dropped noticeably—from 83.8 cm down to 80.2 cm. But the real shift was internal: immune markers improved and stress levels fell measurably. Natural killer cells ramped up, inflammation markers dropped, and parasympathetic nervous system activity increased, meaning the body's stress response actually dampened. The effect persisted even after people stopped the protocol.",
+      "takeaway": "Eighteen brief whole-body cryotherapy sessions over 9 weeks reduced belly fat and lowered perceived stress while boosting immune function.",
+      "source": "Journal of Clinical Medicine",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12898326/",
+      "pexelsQuery": "ice cold therapy cryotherapy chamber",
+      "photo": {
+        "url": "https://images.pexels.com/photos/29885473/pexels-photo-29885473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/29885473/pexels-photo-29885473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Raul Ling",
+        "photographerUrl": "https://www.pexels.com/@raulling",
+        "photoPageUrl": "https://www.pexels.com/photo/macro-shot-of-ice-formation-on-frozen-surface-29885473/",
+        "avgColor": "#677077"
+      }
+    },
+    {
+      "category": "MOBILITY",
+      "topic": "joint flexibility range of motion longevity predictor",
+      "headline": "Your Joint Flexibility May Predict How Long You'll Stay Independent",
+      "body": "Research reveals a striking connection: how well your joints move is a major predictor of whether you'll stay active and independent as you age. Mobility isn't just about touching your toes—it includes range of motion, balance, strength, and coordination. All of it helps prevent falls and injuries. The good news: mobility training works. Fourteen weeks of targeted flexibility and multicomponent exercise in older women dramatically improved both mobility and posture. The pattern is clear: joints that move well keep people moving, and people who keep moving tend to stay healthy.",
+      "takeaway": "Joint flexibility is a key marker of long-term health and independence; regular mobility training delivers measurable improvements in weeks.",
+      "source": "Outside Online",
+      "sourceUrl": "https://www.outsideonline.com/health/training-performance/mobility-exercises-longevity-joint-flexibility/",
+      "pexelsQuery": "stretching flexibility older woman exercise",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7927790/pexels-photo-7927790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7927790/pexels-photo-7927790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-pink-leotards-7927790/",
+        "avgColor": "#C7B9B8"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The greatest wealth is health.",
+    "author": "Virgil",
+    "context": "Roman poet whose timeless observation reminds us that longevity and health are our most valuable assets."
+  },
+  "workout": {
+    "type": "RUN",
+    "title": "10K Power: 800m Repeat Threshold Builder",
+    "difficulty": "Intermediate",
+    "duration": "45 min",
+    "tip": "The second and third reps will feel easiest—don't use them as a license to accelerate. Treat every repeat as a time trial. If you're struggling to hold pace on repeat 4–5, dial back to 95% of target pace rather than falling apart completely.",
+    "warmup": "10 min: 3 min easy jog, 4×150m progressive strides (building from 80% to 95% effort) with 75m walk recovery between each",
+    "exercises": [
+      {
+        "name": "5×800m @ 10K Pace",
+        "sets": "5",
+        "reps": "1",
+        "notes": "Run each 800m at your 10K goal pace. Example: if your 10K goal is 45 minutes, that's 4:30/km or 7:15/mile = ~3:40 per 800m. Maintain even pacing; avoid the temptation to surge early. Think 'smooth and strong' rather than all-out."
+      },
+      {
+        "name": "2-Minute Recovery Jog",
+        "sets": "4",
+        "reps": "1",
+        "notes": "Between each 800m, recover at easy conversational pace. This longer recovery window allows heart rate to drop from ~90% max to ~70%, priming you for the next hard effort."
+      }
+    ],
+    "cooldown": "5 min: 2 min easy jog, then 3 min of standing stretches—quad stretch 30 sec each leg, forward fold 60 sec, pigeon pose 45 sec each side",
+    "description": "A structured 800m repeat session that builds aerobic power and 10K race-pace sustainability. Runners complete 5×800m at 10K goal pace with 2-minute jogging recovery, training the body to hold hard efforts for longer stretches. Ideal for half-marathon and 10K athletes who need to build threshold capacity without burning out.",
+    "equipment": []
+  },
+  "meal": {
+    "title": "Al Pastor Turkey Taco Skillet with Pineapple, Peppers & Black Beans",
+    "type": "dinner",
+    "prepTime": "12 min",
+    "calories": 620,
+    "protein": 51,
+    "carbs": 58,
+    "fat": 14,
+    "instructions": "1. Heat olive oil in a large skillet over medium-high heat. Add bell pepper slices and cook 4 minutes until lightly charred and tender. Remove to a plate.\n2. Add ground turkey to the same skillet, breaking it apart as it cooks, until browned (about 5 minutes). Drain excess fat if needed.\n3. Return peppers to skillet. Stir in achiote paste (or paprika and cumin), oregano, garlic powder, cayenne, salt, and black pepper. Add diced pineapple and black beans, stir well, and cook 3 minutes to warm through and caramelize pineapple slightly.\n4. Warm tortillas directly over a gas flame or in a dry skillet for 30 seconds per side.\n5. Fill warm tortillas with turkey mixture, top with diced onion and cilantro, and serve with lime wedges.",
+    "ingredients": [
+      "240g ground turkey (93/7 lean)",
+      "½ red bell pepper, sliced",
+      "½ yellow bell pepper, sliced",
+      "½ cup diced fresh pineapple (or frozen, thawed)",
+      "½ cup cooked black beans",
+      "1 tbsp olive oil",
+      "1 tsp achiote paste (or 1 tsp smoked paprika + ½ tsp cumin)",
+      "½ tsp dried oregano",
+      "½ tsp garlic powder",
+      "¼ tsp cayenne pepper",
+      "Salt and black pepper to taste",
+      "3 small corn tortillas (6-inch)",
+      "¼ cup fresh cilantro, chopped",
+      "1 lime, cut into wedges",
+      "¼ cup diced white onion"
+    ],
+    "tip": "This recipe scales easily for meal prep—make a double batch on Sunday and portion into containers. It stays fresh for 4 days and tastes even better as flavors meld."
+  }
+}
