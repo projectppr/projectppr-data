@@ -1,0 +1,195 @@
+{
+  "date": "2026-06-17",
+  "dateLabel": "Wednesday, June 17, 2026",
+  "generatedAt": "2026-06-17T11:08:18.878Z",
+  "articles": [
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "SuperAgers 80-year-old memory resilience",
+      "headline": "These 80-Year-Olds Have Memory Like 50-Year-Olds. Here's Why.",
+      "body": "Northwestern researchers have been studying \"SuperAgers\"—people over 80 whose memories perform like people 30 years younger. The breakthrough: these folks don't just happen to be sharp. They actively maintain strong social connections, stay physically active, and their brains actually resist the buildup of Alzheimer's plaques that typically cause memory loss. After examining 77 donated brains, scientists found something remarkable. Your brain doesn't have an expiration date if you keep using it and staying connected.",
+      "takeaway": "Strong relationships, physical activity, and mental engagement are the real secret to maintaining memory as you age.",
+      "source": "Northwestern Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2025/10/251018102118.htm",
+      "pexelsQuery": "older adult brain MRI scan",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4226123/pexels-photo-4226123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4226123/pexels-photo-4226123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-pointing-to-an-mri-scan-4226123/",
+        "avgColor": "#B6B5B9"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Emotional intelligence and college student resilience",
+      "headline": "This Skill Shields Your Brain From Academic Stress Better Than Willpower",
+      "body": "A new study on college students reveals that emotional intelligence—the ability to recognize and manage feelings—is a stronger predictor of mental health than pure determination. Students with higher emotional intelligence better navigated academic pressure, social stress, and anxiety. What makes this practical: emotional intelligence isn't fixed. You can develop it through awareness of your own emotions and how you respond to setbacks. For busy professionals juggling work and family, this skill translates directly to stress resilience.",
+      "takeaway": "Building emotional awareness gives you better protection against stress than relying on discipline alone.",
+      "source": "Scientific Reports, Nature",
+      "sourceUrl": "https://www.nature.com/articles/s41598-025-33601-7",
+      "pexelsQuery": "person meditating mindfulness",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6945081/pexels-photo-6945081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6945081/pexels-photo-6945081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
+        "photoPageUrl": "https://www.pexels.com/photo/asian-woman-with-stone-practicing-meditation-6945081/",
+        "avgColor": "#646760"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "At-home cortisol testing salivary samples",
+      "headline": "You Can Now Test Your Stress Hormone at Home. Should You?",
+      "body": "A new $8 at-home saliva test called the Hormometer lets you measure cortisol levels without a doctor's visit. You collect a sample, scan it with your phone app, and get results immediately. The company is expanding beyond cortisol—testosterone and progesterone testing are coming soon. The appeal is obvious: real-time feedback on how your body's stress response is performing. But here's the reality check: a single reading isn't the full story. Cortisol naturally fluctuates throughout the day. What matters more is the pattern over weeks.",
+      "takeaway": "Home hormone tests are now accessible, but trending your results over time tells you more than any single measurement.",
+      "source": "Tom's Guide",
+      "sourceUrl": "https://www.tomsguide.com/wellness/fitness-trackers/i-just-tried-the-hormometer-at-ces-2026-to-measure-my-cortisol-levels-and-testosterone-is-coming-next",
+      "pexelsQuery": "technology smartphone health app",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4524369/pexels-photo-4524369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4524369/pexels-photo-4524369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Markus Winkler",
+        "photographerUrl": "https://www.pexels.com/@markus-winkler-1430818",
+        "photoPageUrl": "https://www.pexels.com/photo/a-cellphone-on-a-wooden-surface-4524369/",
+        "avgColor": "#AC9B83"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Amino acid tyrosine and male longevity",
+      "headline": "High Levels of This Amino Acid Could Shorten Your Life",
+      "body": "Men with higher levels of the amino acid tyrosine may actually be trading years for nothing. A large-scale study found that men with elevated tyrosine levels had shorter lifespans—potentially losing close to a year. It's a counterintuitive finding because tyrosine is found in protein-rich foods and even used in some supplements for energy and focus. The researchers don't yet know the mechanism, but the pattern is clear in the data. This doesn't mean avoid protein. It means the pursuit of more isn't always better. Your body's baseline needs are probably lower than you think.",
+      "takeaway": "More of a nutrient isn't always better—sometimes your genetics and metabolism know the optimal level better than marketing claims do.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/news/health_medicine/",
+      "pexelsQuery": "protein food meat eggs",
+      "photo": {
+        "url": "https://images.pexels.com/photos/16149475/pexels-photo-16149475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/16149475/pexels-photo-16149475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Natali Yakovleva",
+        "photographerUrl": "https://www.pexels.com/@natali-yakovleva-501836818",
+        "photoPageUrl": "https://www.pexels.com/photo/eggs-and-milk-breakfast-preparation-16149475/",
+        "avgColor": "#675042"
+      }
+    }
+  ],
+  "quote": {
+    "text": "I've been in a poor physical shape many times in my career and I've had some of my best results. My best performances happened because my mind was in the right place. The mind is definitely stronger than the body.",
+    "author": "Arnold Schwarzenegger",
+    "context": "Austrian-American actor, former bodybuilder, and politician reflecting on the power of mental resilience over physical condition."
+  },
+  "workout": {
+    "id": "08f2b7cf-2867-4663-b16a-342d4063d912",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Lunge Matrix & Single-Leg Strength Ladder: Balance & Power for Trail & Obstacle",
+    "difficulty": "Intermediate",
+    "duration": "44 min",
+    "equipment": [
+      "dumbbell"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "functional",
+      "gym_required",
+      "lower_body",
+      "minimal_equipment",
+      "muscle_gain",
+      "squat_dominant",
+      "under_60_min"
+    ],
+    "tip": "Lunge depth and knee alignment prevent injury in runners and OCR athletes. Keep your front knee stacked over ankle, and drive through the front heel to stand—never push off the back leg. Maintain an upright torso; don't lean forward. Quality over speed here; a controlled lunge transfers stability to technical terrain better than a rushed rep.",
+    "warmup": "5 min: 10 bodyweight lunges per leg, 10 side lunges per leg, 10 glute bridges, 10 air squats, 5 inchworms, leg swings 10 per leg",
+    "exercises": [
+      {
+        "name": "Dumbbell Forward Lunge Ladder",
+        "sets": "4",
+        "reps": "12-10-8-6",
+        "notes": "Ascending weight, descending reps per round. Drive through front heel, controlled descent, stand powerfully. Quad and glute dominant. Rest 75 sec between rounds. Build single-leg pressing power for uphill running and Hyrox obstacles."
+      },
+      {
+        "name": "Reverse Dumbbell Lunge",
+        "sets": "3",
+        "reps": "10 per leg",
+        "notes": "Step back, lower back knee toward floor, drive forward through front heel. Eccentric-heavy, reduces knee stress. Perfect for runners rehabbing or reinforcing knee stability. Rest 60 sec."
+      },
+      {
+        "name": "Lateral Dumbbell Lunge",
+        "sets": "3",
+        "reps": "10 per side",
+        "notes": "Step laterally, shift hips, load the stepping leg. Adductors and abductors activate. Often-neglected plane of motion critical for changing direction on trail or navigating Hyrox terrain. Rest 60 sec."
+      },
+      {
+        "name": "Single-Leg Dumbbell Deadlift",
+        "sets": "3",
+        "reps": "8 per leg",
+        "notes": "Stand on one leg, hinge at hip, lower dumbbell toward floor, drive back through standing leg. Posterior chain and balance. High carryover to downhill running and single-leg stability. Rest 75 sec."
+      },
+      {
+        "name": "Wall Sit",
+        "sets": "2",
+        "reps": "40 seconds",
+        "notes": "Back against wall, knees at 90°, weight in heels. Isometric quad and glute endurance. Finisher that builds mental toughness and metabolic resilience. Rest 45 sec between holds."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: quad stretch 30 sec each leg, deep pigeon pose 45 sec each side, child's pose 30 sec, standing hamstring fold 30 sec",
+    "description": "A lower-body unilateral focus designed for athletes navigating uneven terrain, hills, and Hyrox obstacles. Forward, reverse, and lateral lunge variations build single-leg strength, stability, and proprioception—critical for runners on technical ground and OCR-style movement."
+  },
+  "meal": {
+    "id": "f3388272-779f-4e7f-b812-ca36cc9f8883",
+    "title": "Cottage Cheese & Berries with Granola Crunch",
+    "description": "High-protein cottage cheese layered with fresh berries and a handful of granola—delivers immediate protein and carbs for muscle repair while being light enough to sit well post-training. It's also dairy-based, which research shows aids recovery.",
+    "meal_type": "post_workout",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "scandinavian",
+    "calories": 310,
+    "protein_g": 28,
+    "carbs_g": 35,
+    "fat_g": 6,
+    "fiber_g": 5,
+    "prep_minutes": 2,
+    "cook_minutes": 0,
+    "ingredients": [
+      "200g low-fat cottage cheese",
+      "100g mixed fresh berries",
+      "35g granola",
+      "½ tsp raw honey"
+    ],
+    "instructions": "1. Spoon cottage cheese into a bowl.\n2. Top with mixed berries (blueberries, strawberries, raspberries—whatever you have).\n3. Sprinkle granola over the fruit.\n4. Drizzle with a small amount of honey if desired.",
+    "tip": "Buy pre-portioned berries (frozen or fresh) to eliminate prep. Cottage cheese is a recovery powerhouse and keeps for 2 weeks—stock it in the fridge for grab-and-go meals anytime.",
+    "goal_affinity": [
+      "recovery",
+      "general_fitness",
+      "fat_loss"
+    ],
+    "image_url": ""
+  }
+}
