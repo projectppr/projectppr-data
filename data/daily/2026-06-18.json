@@ -1,0 +1,185 @@
+{
+  "date": "2026-06-18",
+  "dateLabel": "Thursday, June 18, 2026",
+  "generatedAt": "2026-06-18T11:04:24.576Z",
+  "articles": [
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Brain improvement stays possible into 90s",
+      "headline": "Your Brain Never Stops Getting Better. This 3-Year Study Just Proved It.",
+      "body": "A three-year study of nearly 4,000 adults aged 19 to 94 found something most people assume is false: mental sharpness doesn't decline with age automatically. Participants who spent just 5 to 15 minutes daily on strategic brain exercises showed measurable gains across clarity, emotional balance, and social engagement. The key wasn't intensity or complexity. It was consistency combined with the right type of cognitive training. Even people in their 80s and 90s improved their overall brain health when they stuck with the program.",
+      "takeaway": "Small, consistent cognitive training works at any age. Five minutes a day matters more than waiting for the perfect complex routine.",
+      "source": "Scientific Reports / University of Texas at Dallas",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "older adult thinking concentration reading",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8949840/pexels-photo-8949840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8949840/pexels-photo-8949840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-man-using-a-tablet-8949840/",
+        "avgColor": "#A2A29A"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Strength training weekly dose for longevity",
+      "headline": "This Much Strength Training Actually Changes Your Lifespan",
+      "body": "A 30-year study tracking 147,000 people found the sweet spot: 90 to 120 minutes of strength training per week cuts your risk of early death significantly. No need for six-hour weeks at the gym. The research was published in the British Journal of Sports Medicine and tracked how much resistance work actually moved the needle on mortality risk. What matters is that you do it consistently, not that you crush it daily. Combine that moderate dose with some aerobic work and you're hitting the formula most people miss.",
+      "takeaway": "Aim for 90 to 120 minutes of strength training weekly. This dose delivered measurable mortality benefits across 30 years of data.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
+      "pexelsQuery": "strength training weights resistance exercise",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4720573/pexels-photo-4720573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4720573/pexels-photo-4720573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-blue-tank-top-and-shorts-exercising-with-a-dumbbell-on-bench-4720573/",
+        "avgColor": "#504A39"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Probiotics reduce depression and anxiety",
+      "headline": "Your Gut Bacteria Could Be Quietly Helping Your Mood",
+      "body": "A clinical trial just published in June showed something surprising: older adults who added a daily probiotic to their antidepressant treatment experienced greater improvements in depression and anxiety than those on medication alone. The effect wasn't huge but it was real and measurable. Researchers profiled the participants' gut bacteria and tracked specific biomarkers of brain health alongside psychological scores. The gut-brain connection is no longer theoretical. This trial is the first direct evidence that targeting your microbiome can boost mental health outcomes.",
+      "takeaway": "A daily probiotic alongside standard depression treatment showed measurable improvements in mood and anxiety—a simple addition worth discussing with your doctor.",
+      "source": "ScienceDaily / Journal of the American Geriatrics Society",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260617032149.htm",
+      "pexelsQuery": "probiotic supplements gut bacteria health",
+      "photo": {
+        "url": "https://images.pexels.com/photos/806427/pexels-photo-806427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/806427/pexels-photo-806427.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Miguel Á. Padriñán",
+        "photographerUrl": "https://www.pexels.com/@padrinan",
+        "photoPageUrl": "https://www.pexels.com/photo/white-and-blue-health-pill-and-tablet-letter-cutout-on-yellow-surface-806427/",
+        "avgColor": "#E7CD1E"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Cartilage regeneration without joint surgery",
+      "headline": "Stanford Scientists Just Rewrote the Playbook on Joint Repair",
+      "body": "For the first time, researchers at Stanford discovered a way to actually regenerate lost cartilage by blocking a single aging-related protein called 15-PGDH. In older mice, blocking this protein restored worn-out knee cartilage. In injured young mice, it prevented arthritis from developing. Human cartilage samples from knee replacement surgeries showed the same regenerative response. Instead of needing joint replacement surgery, future patients might get an injection or pill that tells your own cartilage cells to behave like younger ones again. Phase 1 trials in humans already showed the approach is safe.",
+      "takeaway": "A single protein blocker regenerated cartilage in mice and human samples. Human clinical trials could start within months, potentially changing everything about joint injury treatment.",
+      "source": "ScienceDaily / Stanford Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
+      "pexelsQuery": "joint pain knee arthritis recovery",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7298431/pexels-photo-7298431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7298431/pexels-photo-7298431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kindel Media",
+        "photographerUrl": "https://www.pexels.com/@kindelmedia",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-having-lower-back-paint-7298431/",
+        "avgColor": "#9E8B79"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Champions aren't made in the gyms. Champions are made from something they have deep inside them—a desire, a dream, a vision.",
+    "author": "Muhammad Ali",
+    "context": "Legendary boxer who redefined mental toughness and the power of belief in athletic performance."
+  },
+  "workout": {
+    "id": "3b8feec6-4299-4888-9e60-472afa794eb7",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Back to Basics: Row, Hang & Brace",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar or sturdy overhead beam",
+      "resistance band (optional)"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "core",
+      "minimal_equipment",
+      "pull_dominant",
+      "under_30_min",
+      "upper_body"
+    ],
+    "tip": "If you do not have a pull-up bar, a resistance band anchored over a door works for rows and pull-downs. Keep your shoulders packed down away from your ears on every rep.",
+    "warmup": "Spend 2 minutes doing arm circles, shoulder rolls, and slow cat-cow stretches on the floor. Finish with 10 scapular shrugs hanging from the bar to activate your upper back before loading.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "30 seconds",
+        "notes": "Hang from the bar with a full grip. Let your shoulders decompress and breathe slowly. Progress to 45 seconds when this feels easy."
+      },
+      {
+        "name": "Inverted Row (using a table edge or low bar)",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Body straight like a plank, heels on the floor. Pull your chest to the bar and lower with control. Bend your knees to reduce difficulty."
+      },
+      {
+        "name": "Band-Assisted Pull-Up or Negative Pull-Up",
+        "sets": "3",
+        "reps": "5-6",
+        "notes": "For negatives, jump to the top and lower yourself over 4 counts. For band-assisted, place one foot in a looped band. Focus on squeezing your lats, not just bending your arms."
+      },
+      {
+        "name": "Plank with Scapular Retraction",
+        "sets": "3",
+        "reps": "45 seconds",
+        "notes": "Hold a forearm plank. Every 5 seconds, squeeze your shoulder blades together and release. This trains the back and core together as a unit."
+      },
+      {
+        "name": "Single-Arm Band Row",
+        "sets": "3",
+        "reps": "10 per side",
+        "notes": "Anchor a band at waist height. Pull your elbow back past your hip and hold for a 1-second squeeze. Avoid rotating your torso."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Hang passively from the bar for 20-30 seconds to decompress your spine, then spend 60 seconds in a doorframe chest stretch to open the front of your shoulders after all the pulling.",
+    "description": "Warmup: Spend 2 minutes doing arm circles, shoulder rolls, and slow cat-cow stretches on the floor. Finish with 10 scapular shrugs hanging from the bar to activate your upper back before loading. Dead Hang: 3 sets x 30 seconds — Hang from the bar with a full grip. Let your shoulders decompress and breathe slowly. Progress to 45 seconds when this feels easy. Inverted Row (using a table edge or low bar): 3 sets x 10-12 — Body straight like a plank, heels on the floor. Pull your chest to the bar and lower with control. Bend your knees to reduce difficulty. Band-Assisted Pull-Up or Negative Pull-Up: 3 sets x 5-6 — For negatives, jump to the top and lower yourself over 4 counts. For band-assisted, place one foot in a looped band. Focus on squeezing your lats, not just bending your arms. Plank with Scapular Retraction: 3 sets x 45 seconds — Hold a forearm plank. Every 5 seconds, squeeze your shoulder blades together and release. This trains the back and core together as a unit. Single-Arm Band Row: 3 sets x 10 per side — Anchor a band at waist height. Pull your elbow back past your hip and hold for a 1-second squeeze. Avoid rotating your torso. Cooldown: Hang passively from the bar for 20-30 seconds to decompress your spine, then spend 60 seconds in a doorframe chest stretch to open the front of your shoulders after all the pulling."
+  },
+  "meal": {
+    "id": "e723a522-57e1-4b92-b665-eb2893997c41",
+    "title": "Seared Duck Breast and Lentil-Free Warm Grain Bowl with Ginger Sesame Glaze",
+    "description": "Starting duck in a cold pan and slowly rendering the fat gives you crispy skin every time without burning. No special skills required.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 530,
+    "protein_g": 38,
+    "carbs_g": 42,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 duck breasts (skin-on)\n1 cup cooked farro or barley\n1 cup baby spinach\n1/2 cup shredded purple cabbage\n1/2 cup edamame (shelled)\n1 tbsp low-sodium soy sauce\n1 tsp fresh grated ginger\n1 tsp sesame oil\n1 tbsp rice vinegar\n1 tsp honey\n1 tsp sesame seeds\nSalt and black pepper\n\nInstructions:\n1. Score the duck skin in a crosshatch pattern, season with salt and pepper. Place skin-side down in a cold pan, then turn heat to medium. Cook for 8-10 minutes until the skin is golden and crisp, then flip and cook 4-5 more minutes. Rest for 5 minutes, then slice thin. 2. Whisk together soy sauce, ginger, sesame oil, rice vinegar, and honey to make the glaze. 3. Build bowls with farro, spinach, cabbage, and edamame. Lay sliced duck on top, drizzle glaze over everything. 4. Finish with sesame seeds.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
