@@ -1,0 +1,252 @@
+{
+  "date": "2026-06-20",
+  "dateLabel": "Saturday, June 20, 2026",
+  "generatedAt": "2026-06-20T11:08:52.960Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "strength training weekly dose mortality risk",
+      "headline": "90 Minutes of Lifting a Week Could Give You Years Back",
+      "body": "<cite index=\"97-4\">A Harvard T.H. Chan School of Public Health study of 147,000 adults over 30 years found that 90–119 minutes of weekly strength training reduces all-cause mortality by 13%, CVD death by 19%, and neurological death by 27%.</cite> The sweet spot isn't more—it's consistency. <cite index=\"100-5\">Adding aerobic exercise to the weekly mix increased the longevity benefit.</cite> You don't need a fancy gym. <cite index=\"103-7\">Dumbbells, resistance bands, or household items like full water bottles work; so do bodyweight moves.</cite> The data suggests that for most busy professionals, three to four sessions of 20–30 minutes hits the longevity jackpot without demanding your entire week.",
+      "takeaway": "Hit 90 to 120 minutes of strength training per week—split however you want—and combine it with walking or cycling for maximum lifespan benefit.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
+      "pexelsQuery": "person lifting weights dumbbell strength training",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/3839310/pexels-photo-3839310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3839310/pexels-photo-3839310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-white-tank-top-and-grey-shorts-lifting-weights-3839310/",
+        "avgColor": "#837F7D"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "heart-healthy dietary patterns cardiovascular disease",
+      "headline": "The American Heart Association Just Updated What 'Eating for Your Heart' Really Means",
+      "body": "<cite index=\"109-2,109-3\">The American Heart Association's 2026 guidance emphasizes that lifelong healthy eating patterns can significantly reduce the risk of cardiovascular disease. The guidance notes that a heart-healthy diet centers on fruits, vegetables, whole grains, plant-based proteins, and unsaturated fats, while limiting sugar, sodium, and ultraprocessed foods.</cite> This isn't about counting calories or following rigid rules. <cite index=\"109-4\">The update reflects stronger scientific evidence and shifts focus toward overall dietary patterns and sustainable habits rather than strict nutrient rules.</cite> <cite index=\"109-5\">Early and consistent adoption of healthy eating, alongside other healthy lifestyle behaviors, could help prevent up to 80% of heart disease and stroke.</cite>",
+      "takeaway": "Stop obsessing over individual nutrients. Focus on consistent whole-food patterns: vegetables, fruits, whole grains, and lean proteins. That's the real game-changer for your heart.",
+      "source": "American Heart Association / Circulation",
+      "sourceUrl": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001435",
+      "pexelsQuery": "fresh vegetables fruits healthy salad meal",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8759163/pexels-photo-8759163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8759163/pexels-photo-8759163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alberta Studios",
+        "photographerUrl": "https://www.pexels.com/@iamabdullahsheik",
+        "photoPageUrl": "https://www.pexels.com/photo/salad-fruit-and-bread-8759163/",
+        "avgColor": "#B9B0A9"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "iron deficiency female athletes endurance performance",
+      "headline": "If You're a Woman Who Trains Hard, Your Iron Levels Might Be Silently Tanking",
+      "body": "<cite index=\"36-2\">Up to 60% of female athletes experience iron deficiency.</cite> And here's what matters: <cite index=\"36-1,36-10\">iron deficiency negatively affects endurance performance by 3%-4%, but endurance performance improved by 2%-20% when iron-deficient athletes were treated with 100 mg/day of elemental iron for up to 56 days via oral supplementation, or bi-daily via parenteral administration over 8–10 days.</cite> The catch is that low iron can hide in plain sight—you feel flat, your pace slips, but blood work might initially look normal. <cite index=\"43-8\">54% of female athletes exhibited prelatent iron deficiency and 16% presented with latent iron deficiency.</cite>",
+      "takeaway": "If you're a female athlete and your endurance has mysteriously dropped, get iron tested—serum ferritin AND full iron panel. Supplementation can unlock real performance gains.",
+      "source": "Journal of Sport and Health Science",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S2095254624001674",
+      "pexelsQuery": "woman runner athletic training female sport",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/2403045/pexels-photo-2403045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/2403045/pexels-photo-2403045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RUN 4 FFWPU",
+        "photographerUrl": "https://www.pexels.com/@runffwpu",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-running-marathon-2403045/",
+        "avgColor": "#DCD2CA"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "resistance training muscle strength adaptations effectiveness",
+      "headline": "The Resistance Training Update That Changes How You Should Be Lifting",
+      "body": "<cite index=\"21-1\">The first major update to resistance-training guidelines in 17 years delivers one clear message: any amount of resistance training improves strength, muscle size, power and physical function.</cite> What's revolutionary? <cite index=\"26-3,26-4\">The most meaningful gains come from a simple shift: moving from no resistance training to any form of resistance training. While specific training variables can be tweaked, the primary goal for most adults should be regular participation in any form of resistance training.</cite> <cite index=\"26-7,26-8\">Traditional gym settings are not needed to see results. Utilizing tools such as elastic bands, bodyweight exercises, and home-based routines yield marked benefits in strength, hypertrophy, and physical function.</cite>",
+      "takeaway": "Consistency beats perfection. Resistance bands at home, bodyweight work, or light dumbbells—done regularly—build muscle and strength just as well as a loaded barbell.",
+      "source": "American College of Sports Medicine",
+      "sourceUrl": "https://medicalxpress.com/news/2026-03-guidelines-small-amounts-resistance-muscle.html",
+      "pexelsQuery": "woman doing push-ups bodyweight exercise home fitness",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/20500865/pexels-photo-20500865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/20500865/pexels-photo-20500865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vika Glitter",
+        "photographerUrl": "https://www.pexels.com/@vika-glitter-392079",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-sportswear-exercising-outside-20500865/",
+        "avgColor": "#9A8D7C"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Strength is the fountain of youth. Everything else is negotiable.",
+    "author": "Dan John",
+    "context": "Legendary strength coach and author on the primacy of muscle and functional fitness in aging well"
+  },
+  "workout": {
+    "id": "8124ba87-b83d-4d72-af59-f8f0eb48b985",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Push-Up Progression Mastery: Foundation to Strength",
+    "difficulty": "Beginner",
+    "duration": "35 min",
+    "equipment": [],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "hotel_friendly",
+      "no_equipment",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Focus on scapular control at the top of each rep—pack your shoulders down and back before lowering. Quality reps beat volume; stop a set when form breaks, not when you fail.",
+    "warmup": "3 min: 10 arm circles forward, 10 arm circles backward, 5 cat-cow stretches, 10 scapular wall slides, 5 inchworms with a 2-sec hold at the bottom",
+    "exercises": [
+      {
+        "name": "Wall Push-Up",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hands at shoulder width on wall, step feet back slightly, lower chest toward wall with elbows at 45°. This teaches hand placement and body tension before gravity increases load."
+      },
+      {
+        "name": "Incline Push-Up (Hands Elevated)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hands on a bench or low table, body in plank, lower until chest nearly touches surface. Maintain rigid core and neutral spine throughout—no sagging hips."
+      },
+      {
+        "name": "Knee Push-Up",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Knees on ground, hands at shoulder width, lower with control until chest approaches floor. Keep core braced and neck neutral; this is a valid strength builder, not a 'easier' alternative to dismiss."
+      },
+      {
+        "name": "Eccentric-Focus Push-Up (Negatives)",
+        "sets": "2",
+        "reps": "5",
+        "notes": "Start at the top of a push-up position, lower yourself for a slow 3-second count, then use legs or knees to return to top. This builds eccentric strength and bridges toward full push-ups."
+      },
+      {
+        "name": "Push-Up Hold (Isometric)",
+        "sets": "2",
+        "reps": "30 sec",
+        "notes": "Hold the bottom position of a push-up (chest 1–2 inches off floor) without moving. Builds lockout control and shoulder stability; take 60 sec rest between sets."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: 30 sec chest stretch (cross arms over body, lean into doorframe), 30 sec shoulder stretch (pull elbow across body), 30 sec tricep stretch (reach arm overhead and bend elbow), 30 sec child's pose with shoulder emphasis",
+    "description": "A structured progression through multiple push-up variations, building scapular stability and pressing strength from ground-based to elevated positions. Perfect for beginners establishing core pressing mechanics without equipment, with clear progression pathways to increase difficulty over weeks."
+  },
+  "meal": {
+    "id": "f3388272-779f-4e7f-b812-ca36cc9f8883",
+    "title": "Cottage Cheese & Berries with Granola Crunch",
+    "description": "High-protein cottage cheese layered with fresh berries and a handful of granola—delivers immediate protein and carbs for muscle repair while being light enough to sit well post-training. It's also dairy-based, which research shows aids recovery.",
+    "meal_type": "post_workout",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "scandinavian",
+    "calories": 310,
+    "protein_g": 28,
+    "carbs_g": 35,
+    "fat_g": 6,
+    "fiber_g": 5,
+    "prep_minutes": 2,
+    "cook_minutes": 0,
+    "ingredients": [
+      "200g low-fat cottage cheese",
+      "100g mixed fresh berries",
+      "35g granola",
+      "½ tsp raw honey"
+    ],
+    "instructions": "1. Spoon cottage cheese into a bowl.\n2. Top with mixed berries (blueberries, strawberries, raspberries—whatever you have).\n3. Sprinkle granola over the fruit.\n4. Drizzle with a small amount of honey if desired.",
+    "tip": "Buy pre-portioned berries (frozen or fresh) to eliminate prep. Cottage cheese is a recovery powerhouse and keeps for 2 weeks—stock it in the fridge for grab-and-go meals anytime.",
+    "goal_affinity": [
+      "recovery",
+      "general_fitness",
+      "fat_loss"
+    ],
+    "image_url": ""
+  }
+}
