@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-21",
+  "dateLabel": "Sunday, June 21, 2026",
+  "generatedAt": "2026-06-21T11:03:40.579Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "Your mindset about aging actually changes outcomes",
+      "headline": "What You Believe About Getting Older Directly Changes Your Body's Performance",
+      "body": "Yale researchers found that older adults with positive beliefs about aging didn't just feel better—they actually improved. In a study tracking adults over time, those who held more favorable views of aging showed improvements in both cognitive performance and walking speed. The effect was significant and stayed strong even after accounting for age, health conditions, and other factors. Your internal narrative about aging isn't just mental—it shapes whether your body maintains or improves its capabilities. The mechanism likely works through behavior: optimistic people follow health advice more consistently and stay more physically active.",
+      "takeaway": "If you're 50 or older, consciously adopting a positive view of aging correlates with measurable improvements in memory and physical function over the next decade.",
+      "source": "Yale University / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260620100428.htm",
+      "pexelsQuery": "older adults exercising walking outdoor",
+      "photo": {
+        "url": "https://images.pexels.com/photos/30917540/pexels-photo-30917540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/30917540/pexels-photo-30917540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Roman Biernacki",
+        "photographerUrl": "https://www.pexels.com/@szafran",
+        "photoPageUrl": "https://www.pexels.com/photo/senior-adults-participating-in-nordic-walking-event-30917540/",
+        "avgColor": "#767676"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "Carbs and electrolytes extend your high-intensity performance",
+      "headline": "This Simple Addition to Your Workout Drink Extends Your Time to Exhaustion",
+      "body": "A new meta-analysis of 26 studies shows that combining carbohydrates with electrolytes during exercise does more than just quench thirst. The research found that carb-electrolyte supplementation meaningfully reduces fatigue and preserves endurance in physically active people. The effect works because maintaining both fluid volume and electrolyte balance allows your muscles to contract efficiently and your brain to stay sharp. For efforts longer than 60-90 minutes, or when you're sweating heavily, plain water alone isn't enough. Sodium and potassium are the critical minerals—they regulate the electrical signals your muscles need to fire.",
+      "takeaway": "For workouts over 90 minutes, add electrolytes and carbs to your hydration strategy, not just water. It's the difference between steady performance and a late-race collapse.",
+      "source": "Applied Sciences / MDPI",
+      "sourceUrl": "https://www.mdpi.com/2076-3417/16/6/2967",
+      "pexelsQuery": "sports drinks electrolyte hydration bottle athlete",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4853700/pexels-photo-4853700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853700/pexels-photo-4853700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-couple-drinking-from-bottles-in-a-gym-4853700/",
+        "avgColor": "#A38676"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Cold water beats whole-body chambers for muscle soreness",
+      "headline": "If You're Choosing Between Ice Baths and Cryo Chambers, Cold Water Wins—At Least Early On",
+      "body": "A 2026 meta-analysis comparing cold water immersion directly to whole-body cryotherapy found a clear winner for the first 24 hours after hard training. Cold water immersion produced significantly greater reductions in muscle soreness than cryo chambers. The difference was meaningful and held across diverse athlete types. That said, the advantage shrinks by 48 hours. The mechanism is straightforward: cold exposure triggers vasoconstriction, limiting swelling and inflammation. The catch is timing—use cold therapy within the first day of intense exercise when inflammation control matters more than adaptation. After that window, prioritize sleep and nutrition instead.",
+      "takeaway": "Ice baths work better than expensive cryo chambers for the first day after hard workouts. Don't use cold therapy if building muscle is your main goal—it can blunt hypertrophy.",
+      "source": "Medicine / Wim Hof Method Analysis",
+      "sourceUrl": "https://www.wimhofmethod.com/blog/cold-water-immersion-vs-cryotherapy",
+      "pexelsQuery": "ice bath cold water recovery athlete",
+      "photo": {
+        "url": "https://images.pexels.com/photos/15636576/pexels-photo-15636576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15636576/pexels-photo-15636576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Patrick Nizan",
+        "photographerUrl": "https://www.pexels.com/@patrick-nizan-115343504",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-bubbles-15636576/",
+        "avgColor": "#778CA1"
+      }
+    },
+    {
+      "category": "MOBILITY",
+      "topic": "How well you can move predicts how long you'll stay independent",
+      "headline": "Your Joint Mobility Is a Longevity Signal—More Predictive Than You Think",
+      "body": "Recent research confirms what functional medicine practitioners have long observed: joint mobility is one of the strongest predictors of whether you'll maintain independence in your 70s and beyond. Structured mobility work—especially targeting major joints like hips, knees, and shoulders—protects against falls, reduces injury risk, and preserves the ability to perform everyday tasks. The research doesn't just show correlation; it shows causation. Three times per week of targeted mobility exercises produced measurable gains in joint flexibility and gait stability within 12 weeks. The bonus: mobility training also improves balance and coordination, which directly reduce fall risk. Unlike pure flexibility, mobility is about control and strength through a range of motion.",
+      "takeaway": "Mobility work three times weekly is higher-leverage than flexibility stretching alone. It's the difference between being able to pick something off the floor at 75 and not being able to.",
+      "source": "Outside Online / Research Review",
+      "sourceUrl": "https://www.outsideonline.com/health/training-performance/mobility-exercises-longevity-joint-flexibility/",
+      "pexelsQuery": "older adult stretching mobility exercise flexibility",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6975780/pexels-photo-6975780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6975780/pexels-photo-6975780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
+        "photoPageUrl": "https://www.pexels.com/photo/a-couple-doing-yoga-at-home-6975780/",
+        "avgColor": "#A99C92"
+      }
+    }
+  ],
+  "quote": {
+    "text": "We don't stop playing because we grow old; we grow old because we stop playing.",
+    "author": "George Bernard Shaw",
+    "context": "Irish playwright and critic who lived to 94, emphasizing movement and engagement as drivers of vitality."
+  },
+  "workout": {
+    "id": "e26d8b29-6b6a-4422-b04d-31d8c34a9d93",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "mobility",
+    "title": "Single-Leg & Rotational Stability Matrix: Movement Integrity for OCR & Hyrox Athletes",
+    "difficulty": "Intermediate",
+    "duration": "45 min",
+    "equipment": [],
+    "trainingZone": "z1",
+    "tags": [
+      "full_body",
+      "functional",
+      "joint_friendly",
+      "low_impact",
+      "lower_body",
+      "mobility_focused",
+      "no_equipment",
+      "under_60_min"
+    ],
+    "tip": "Keep your eyes fixed on a single focal point during single-leg holds to activate your vestibular system and enhance proprioceptive feedback. This trains the same neural pathway used during sled work and uneven ground traversal.",
+    "warmup": "4 min: 10 bodyweight squats, 8 leg swings each leg (forward-back and lateral), 5 single-leg stands 10 sec each, 5 arm circles",
+    "exercises": [
+      {
+        "name": "Single-Leg Stance with Hip Opener Integration",
+        "sets": "2",
+        "reps": "45 sec each leg",
+        "notes": "Stand on one leg, opposite knee to chest, gently pull knee across body. Challenges ankle stability and hip external rotation simultaneously. Mirrors the single-leg demands of farmer carries and obstacle navigation."
+      },
+      {
+        "name": "Half-Kneeling Anti-Rotation Hold with Breathing",
+        "sets": "3",
+        "reps": "30 sec each side",
+        "notes": "Half kneel, interlace hands at chest, resist rotation by bracing. Exhale and relax slightly deeper into position each breath. Teaches rotational control during loaded carries—critical for Hyrox sled and farmer work."
+      },
+      {
+        "name": "Single-Leg Deadlift Mobility Touch",
+        "sets": "2",
+        "reps": "8 reps each leg (slow, no weight)",
+        "notes": "Stand on one leg, hinge forward to touch ground, return. Builds ankle, knee, and hip stability in a hinge pattern. Functional preparation for terrain and obstacle demands. Move slowly and focus on control."
+      },
+      {
+        "name": "Lateral Lunge with Rotation Hold",
+        "sets": "2",
+        "reps": "6 reps each side, hold 3 sec each",
+        "notes": "Step wide, sink hips, rotate torso toward leading knee. Addresses lateral ankle mobility and adductor tightness. Athletes report improved stability on uneven ground and during sled transitions."
+      },
+      {
+        "name": "Supine Glute & Hip Flexor Bridge Stretch Combo",
+        "sets": "2",
+        "reps": "45 sec glute, 45 sec hip flexor hold",
+        "notes": "Bridge position, pull one knee to chest (glute). Switch legs and lower one leg off edge to stretch hip flexor. Restores anterior-posterior balance after running and carries. Essential for OCR and Hyrox athletes."
+      },
+      {
+        "name": "Tall-Kneeling Ankle Dorsiflexion & Balance",
+        "sets": "2",
+        "reps": "30 sec each side (15 sec dorsi-flexion, 15 sec lift-off balance)",
+        "notes": "Tall kneel, one foot flat and lifted slightly off ground. Feel anterior shin working. Then lift that side onto toes only, balancing on tall knees. Restores ankle dorsiflexion and proprioception for uneven terrain."
+      },
+      {
+        "name": "Dead Bug to Single-Leg Hold Transition",
+        "sets": "2",
+        "reps": "8 reps, then 20 sec single-leg hold each side",
+        "notes": "Dead bug (supine, opposite arm-leg extends), then transition to lying on one side, top leg extended. Teaches spinal stability and anti-rotation under reduced load. Bridge to loaded carries and sled work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min: supine figure-4 stretch 45 sec each side, prone child's pose 60 sec, 5 conscious breaths",
+    "description": "This 45-minute intermediate mobility and movement-control session integrates single-leg balance progressions with rotational demands specific to obstacle and hybrid fitness events. Combining dynamic stretching, anti-rotation breathing work, and proprioceptive challenges, this session restores ankle dorsiflexion, hip stability, and spinal neutrality under unilateral load—essential for sled pushing, farmer carries, and traversing uneven terrain."
+  },
+  "meal": {
+    "id": "eab4d4fd-d1c1-4adb-9327-cde89cbbf4e3",
+    "title": "Risotto ai Funghi with Roasted Chicken Thigh & Garlic Greens",
+    "description": "Creamy arborio rice with sautéed mushrooms paired with juicy roasted chicken thigh—a sophisticated endurance dinner that delivers quick-absorbing carbs from risotto, lean protein, and B vitamins for sustained energy and recovery.",
+    "meal_type": "dinner",
+    "macro_profile": "high_carb",
+    "difficulty": "hard",
+    "cuisine": "italian",
+    "calories": 680,
+    "protein_g": 42,
+    "carbs_g": 76,
+    "fat_g": 16,
+    "fiber_g": 4,
+    "prep_minutes": 15,
+    "cook_minutes": 35,
+    "ingredients": [
+      "150g chicken thigh, skin-on",
+      "0.75 cup arborio rice",
+      "4 oz mixed mushrooms, sliced",
+      "2 cups low-sodium chicken stock, warmed",
+      "0.5 small onion, finely diced",
+      "2 cloves garlic, minced",
+      "2 oz fresh spinach",
+      "1 tbsp olive oil",
+      "1 tbsp butter",
+      "0.25 cup dry white wine",
+      "1 oz Parmigiano-Reggiano, grated",
+      "Salt and pepper to taste",
+      "Fresh thyme for garnish"
+    ],
+    "instructions": "1. Preheat oven to 425°F. Season chicken thigh with salt, pepper, and thyme. Place skin-side up on a sheet pan and roast for 25–30 minutes until skin is crispy and internal temp reaches 165°F. Rest 5 minutes.\n2. While chicken roasts, heat 1 tbsp olive oil in a large, heavy-bottomed pan over medium-high heat. Sauté mushrooms until golden, about 5 minutes. Remove and set aside.\n3. In the same pan, add butter and remaining oil. Sauté diced onion until translucent, about 3 minutes. Add garlic and cook 1 minute.\n4. Add arborio rice and stir constantly for 2 minutes—you'll hear it click against the pan. This is essential.\n5. Deglaze with white wine, stirring until absorbed, about 1 minute.\n6. Add warm stock one ladle (about 0.75 cup) at a time, stirring frequently. Wait until liquid is mostly absorbed before adding the next ladle. This takes about 18–20 minutes total. Rice should be creamy and tender but still have a slight firmness in the center.\n7. Fold in mushrooms, spinach, and Parmigiano-Reggiano. Cook 1 minute until spinach wilts. Taste and adjust salt/pepper.\n8. Serve risotto with chicken thigh on top, drizzle of any pan juices, and fresh thyme.",
+    "tip": "Keep your stock warm in a separate pot—cold stock stops the cooking process and breaks the creamy emulsion. If risotto seems dry at the end, add a splash of warm water or stock, not cold liquid. Chicken thigh is superior to breast for athletes: it's more forgiving and delivers more iron and B vitamins.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
