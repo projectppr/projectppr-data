@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-24",
+  "dateLabel": "Wednesday, June 24, 2026",
+  "generatedAt": "2026-06-24T11:01:30.408Z",
+  "articles": [
+    {
+      "category": "RECOVERY",
+      "topic": "infrared sauna neuromuscular performance",
+      "headline": "20 Minutes of Heat After Your Workout Speeds Recovery More Than Rest Alone",
+      "body": "After resistance training, a single 20-minute infrared sauna session at 110°F meaningfully improved neuromuscular recovery compared to passive rest. Male basketball players who used the sauna showed better jump performance and faster strength recovery 14 hours post-workout, plus reduced muscle soreness. The heat triggers vasodilation, flooding muscles with oxygen and nutrients while activating cellular repair proteins. One session makes a difference. Consistent use over three to four sessions per week compounds the benefit.",
+      "takeaway": "Post-workout infrared sauna sessions preserve your neuromuscular power and reduce soreness—no extreme heat needed.",
+      "source": "Biology of Sport",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10286597/",
+      "pexelsQuery": "sauna heat therapy relaxation spa",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/33517858/pexels-photo-33517858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33517858/pexels-photo-33517858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "HUUM  │sauna heaters",
+        "photographerUrl": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoPageUrl": "https://www.pexels.com/photo/relaxing-sauna-experience-with-heated-stones-33517858/",
+        "avgColor": "#BA9873"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "urine color hydration status athletes",
+      "headline": "Your Pee Color Is a Surprisingly Reliable Hydration Meter",
+      "body": "Scientists have validated urine color as a practical, non-invasive way to track your hydration status in real time. The darker your urine, the more dehydrated you are. Pale yellow means you're well-hydrated. Researchers developed objective measurement systems using color analysis, confirming what coaches have known for years: you can check hydration without expensive labs. The relationship holds across athletic populations and stays consistent even with diet variations. It's not perfect—caffeine or certain foods complicate the signal—but it's surprisingly accurate for immediate feedback during training.",
+      "takeaway": "Check your urine color before and after training. Pale yellow is your target. Dark yellow means drink more.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9399725/",
+      "pexelsQuery": "hydration water bottle athlete training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4164764/pexels-photo-4164764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4164764/pexels-photo-4164764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ivan S",
+        "photographerUrl": "https://www.pexels.com/@ivan-s",
+        "photoPageUrl": "https://www.pexels.com/photo/man-sitting-on-the-floor-and-drinking-water-4164764/",
+        "avgColor": "#21211F"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "aerobic exercise cardiovascular disease prevention",
+      "headline": "14% Fewer Heart Events Starting With Just 7.5 Hours of Weekly Movement",
+      "body": "Exercise training reduces cardiovascular mortality by 20–30% in people with existing heart disease, and prevents major cardiac events by around 25% versus standard care alone. Even below-guideline activity volumes drop your risk significantly. New research shows the biggest protective gains come from moving from zero activity to 7.5 metabolic equivalent task hours per week—roughly 2.5 hours of moderate walking or 90 minutes of vigorous work. The benefit plateaus after that, but there's no threshold where more exercise becomes harmful. Combined aerobic and resistance training beats either alone.",
+      "takeaway": "You don't need elite fitness to protect your heart. Consistent moderate activity—150 minutes weekly—cuts your cardiovascular risk substantially.",
+      "source": "Frontiers in Cardiovascular Medicine",
+      "sourceUrl": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2026.1746819/full",
+      "pexelsQuery": "running exercise cardio fitness outdoors",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4803919/pexels-photo-4803919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4803919/pexels-photo-4803919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/shirtless-man-running-in-the-city-side-4803919/",
+        "avgColor": "#8A9593"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "mind-body interventions cognitive aging adults",
+      "headline": "Yoga and Tai Chi Beat Sitting Around for Brain Health in Your 60s and Beyond",
+      "body": "Eleven high-quality studies show mind-body interventions—yoga, tai chi, qigong, and brain gym—improve memory, global cognition, attention, and executive function in older adults. These practices often outperformed passive controls and showed comparable benefits to brisk walking for some cognitive markers. Participants stuck with the interventions too: adherence and retention rates were consistently high with minimal side effects. The gains involved both immediate and cumulative benefits. Brain Gym and tai chi showed particularly strong feasibility in both community and institutional settings across diverse populations worldwide.",
+      "takeaway": "Twenty to thirty minutes of structured movement like yoga or tai chi three times weekly protects cognitive function as you age.",
+      "source": "Cureus",
+      "sourceUrl": "https://www.cureus.com/articles/466837-mapping-evidence-on-the-effectiveness-of-mind-body-interventions-and-brain-gym-on-cognitive-function-in-older-adults-a-scoping-review.pdf",
+      "pexelsQuery": "yoga tai chi meditation older adults",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8899520/pexels-photo-8899520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8899520/pexels-photo-8899520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "SHVETS production",
+        "photographerUrl": "https://www.pexels.com/@shvets-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-setting-up-his-yoga-mat-8899520/",
+        "avgColor": "#8D8884"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Sleep is the foundation of mental and physical health and performance in all endeavors.",
+    "author": "Dr. Andrew Huberman",
+    "context": "Neuroscientist and Stanford professor specializing in brain health and human performance."
+  },
+  "workout": {
+    "id": "4bba45ab-9821-41f8-9b27-04cc0214d76e",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Squat, Hinge, Lunge: Lower-Body Power in 35",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "hinge_dominant",
+      "lower_body",
+      "minimal_equipment",
+      "muscle_gain",
+      "squat_dominant",
+      "under_60_min"
+    ],
+    "tip": "If you only have time to focus on one thing today, nail your bracing. Before every rep, take a breath into your belly, hold it, and brace your core like you're about to take a punch. It protects your spine and makes every movement stronger.",
+    "warmup": "2 minutes of bodyweight squats and leg swings to open up the hips. Follow with 10 slow glute bridges on the floor, pausing at the top for two counts each.",
+    "exercises": [
+      {
+        "name": "Goblet Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hold one dumbbell vertically at your chest. Drive knees out, sit deep, and stand tall. Pause one count at the bottom to build control."
+      },
+      {
+        "name": "Romanian Deadlift",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold dumbbells in front of your thighs. Hinge at the hips, keep a soft knee, and lower until you feel a stretch in the hamstrings. Drive hips forward to stand."
+      },
+      {
+        "name": "Reverse Lunge",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Step back, not forward. This is easier on the knees. Keep your front shin vertical and your torso upright. Hold dumbbells at your sides for added load."
+      },
+      {
+        "name": "Sumo Squat with Dumbbell",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Wide stance, toes angled out at 45 degrees. Hold one dumbbell between your legs. Drive through your heels and squeeze your glutes at the top."
+      },
+      {
+        "name": "Single-Leg Glute Bridge",
+        "sets": "3",
+        "reps": "10 each leg",
+        "notes": "Lie on your back, one foot flat on the floor, the other extended. Drive through the heel to lift your hips. Pause one count at the top. No weight needed."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with a 60-second standing quad stretch on each side and a 90-second deep hip flexor stretch in a half-kneeling position. Breathe slowly and let it release.",
+    "description": "Warmup: 2 minutes of bodyweight squats and leg swings to open up the hips. Follow with 10 slow glute bridges on the floor, pausing at the top for two counts each. Goblet Squat: 3 sets x 12 — Hold one dumbbell vertically at your chest. Drive knees out, sit deep, and stand tall. Pause one count at the bottom to build control. Romanian Deadlift: 3 sets x 10 — Hold dumbbells in front of your thighs. Hinge at the hips, keep a soft knee, and lower until you feel a stretch in the hamstrings. Drive hips forward to stand. Reverse Lunge: 3 sets x 8 each leg — Step back, not forward. This is easier on the knees. Keep your front shin vertical and your torso upright. Hold dumbbells at your sides for added load. Sumo Squat with Dumbbell: 3 sets x 12 — Wide stance, toes angled out at 45 degrees. Hold one dumbbell between your legs. Drive through your heels and squeeze your glutes at the top. Single-Leg Glute Bridge: 3 sets x 10 each leg — Lie on your back, one foot flat on the floor, the other extended. Drive through the heel to lift your hips. Pause one count at the top. No weight needed. Cooldown: Finish with a 60-second standing quad stretch on each side and a 90-second deep hip flexor stretch in a half-kneeling position. Breathe slowly and let it release."
+  },
+  "meal": {
+    "id": "efb9898b-7a32-4c52-a799-a93409bcfc41",
+    "title": "Seared Tuna and Edamame Rice Bowl",
+    "description": "Canned solid albacore works just as well as fresh for this bowl on a busy weekday. Keep a few cans in your pantry and this goes from zero to done in under ten minutes.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 46,
+    "carbs_g": 42,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "prep_minutes": 15,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 sushi-grade or canned solid albacore tuna steaks (6 oz total) OR 2 cans solid white albacore tuna in water, drained\n1 cup cooked brown rice or jasmine rice\n1/2 cup shelled edamame (frozen and thawed)\n1/4 cucumber, thinly sliced\n1/4 avocado, sliced\n2 tbsp low-sodium soy sauce or tamari\n1 tsp sesame oil\n1 tsp rice vinegar\n1/2 tsp grated ginger (fresh or jarred)\n1 tsp sesame seeds\nOptional: red pepper flakes, sliced green onion\n\nInstructions:\n1. If using fresh tuna: pat dry and season lightly with salt. Heat a dry skillet over high heat, sear tuna 60 to 90 seconds per side until just opaque on the outside. Slice. If using canned tuna: drain well and flake. 2. Whisk together soy sauce, sesame oil, rice vinegar, and ginger in a small bowl to make the dressing. 3. Build the bowl: rice on the bottom, then tuna, edamame, cucumber, and avocado arranged on top. 4. Drizzle dressing over everything, finish with sesame seeds and optional toppings.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
