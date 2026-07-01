@@ -1,0 +1,241 @@
+{
+  "date": "2026-07-01",
+  "dateLabel": "Wednesday, July 1, 2026",
+  "generatedAt": "2026-07-01T11:07:59.861Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Creatine brain energy depression treatment",
+      "headline": "Your Brain Might Be Hungry. Creatine Could Help.",
+      "body": "Creatine is famous for building muscle, but scientists just discovered it might boost your brain's energy production too. A new review of five clinical trials found that adding creatine to depression treatment worked best in women with major depressive disorder, improving symptoms faster than medication alone. The brain uses 20 percent of your body's total energy despite being only 2 percent of body mass. When depressed brains run low on energy, they struggle. Creatine helps restore that cellular fuel. The evidence is still early and mixed, but it's one of the few supplements where the mechanism, brain biomarkers, and trial results all align. Talk to your doctor before adding it to antidepressants.",
+      "takeaway": "If you're already taking an antidepressant and symptoms are slow to improve, creatine supplementation (3-5g daily) is worth discussing with your prescriber, especially if you're a woman.",
+      "source": "ScienceDaily / Brain Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
+      "pexelsQuery": "brain neurons synapses neural network",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Google DeepMind",
+        "photographerUrl": "https://www.pexels.com/@googledeepmind",
+        "photoPageUrl": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-machine-learning-is-inspired-by-neuroscience-and-the-human-brain-it-was-created-by-novoto-studio-as-par-17483867/",
+        "avgColor": "#D3D6DD"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Cold water immersion soreness timing windows",
+      "headline": "Ice Baths Work. But You're Using Them At The Wrong Time.",
+      "body": "Cold water immersion reduces muscle soreness, but only in a narrow window. A 2026 meta-analysis of 30 randomized trials found that the benefits peak within the first 24 hours after exercise then fade by 48-72 hours. The deeper you go and the longer you stay, the bigger the effect, but short immersions still help immediately. A single ice bath won't change your recovery trajectory over days, but repeated sessions or combining cold water with other recovery tools extends the benefit. Temperature matters too: 5-10°C for 10-15 minutes gives the best bang for your time. The takeaway? Ice baths work best on the same day as hard training, not three days later.",
+      "takeaway": "Use cold water immersion within 24 hours post-workout, especially after intense leg work. Aim for 10-15 minutes at 5-10°C for measurable soreness reduction.",
+      "source": "Frontiers in Sports and Active Living",
+      "sourceUrl": "https://www.wimhofmethod.com/blog/cold-water-immersion-muscle-recovery",
+      "pexelsQuery": "ice bath athlete recovery cold water",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13947316/pexels-photo-13947316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13947316/pexels-photo-13947316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Edward Eyer",
+        "photographerUrl": "https://www.pexels.com/@edwardeyer",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-woman-wearing-a-swim-cap-smiling-in-a-blue-pool-13947316/",
+        "avgColor": "#263D4F"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Yoga cortisol reduction psychological distress",
+      "headline": "This One Exercise Type Beats Everything Else For Stress.",
+      "body": "If you're stressed, yoga is your move. A new network meta-analysis of 44 studies found that yoga reduced cortisol more effectively than running, strength training, qigong, or multicomponent exercise in people with anxiety, depression, and chronic stress. The effect was significant: yoga showed the strongest cortisol-lowering effect, followed distantly by qigong and mixed-modality exercise. Mindfulness and meditation practices also worked well, reducing cortisol by measurable amounts. The research controlled for duration and frequency, so the advantage wasn't just because people did yoga longer. Something about the combination of movement, breath work, and mental focus in yoga targets the nervous system more effectively than other modalities.",
+      "takeaway": "If lowering stress hormones is your goal, yoga beats cardio and strength training. Even 20-30 minutes twice weekly shows cortisol improvements in research.",
+      "source": "Frontiers in Public Health (systematic review & network meta-analysis)",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12736704/",
+      "pexelsQuery": "yoga class meditation stretching peaceful",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8436632/pexels-photo-8436632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8436632/pexels-photo-8436632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yan Krukau",
+        "photographerUrl": "https://www.pexels.com/@yankrukov",
+        "photoPageUrl": "https://www.pexels.com/photo/shallow-focus-photo-of-a-woman-in-activewear-doing-yoga-8436632/",
+        "avgColor": "#A89A8F"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Teen cannabis psychosis bipolar mental illness",
+      "headline": "Teens Using Cannabis Face Double The Risk Of Serious Mental Illness.",
+      "body": "A massive study of 463,000 teens found that cannabis use in adolescence doubled the risk of developing psychotic and bipolar disorders within one to three years. The data came from real medical records, not self-reported surveys, making the timing connection strong. Teens who reported cannabis use within the previous year faced higher risks of psychosis, bipolar disorder, depression, and anxiety. As cannabis products become more potent and widely available, the research suggests adolescent exposure is linked to serious mental health consequences. The vulnerable period is real: the brain continues developing into the mid-20s, and cannabis appears to interfere with that process in ways that increase psychiatric risk.",
+      "takeaway": "If you have teens, this is a conversation worth having. Cannabis isn't harmless in developing brains, particularly for those with family history of mental illness.",
+      "source": "ScienceDaily / JAMA Health Forum (June 27, 2026)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260622091515.htm",
+      "pexelsQuery": "teenager mental health concern serious discussion",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4100661/pexels-photo-4100661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4100661/pexels-photo-4100661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-black-suit-jacket-sitting-on-brown-wooden-armchair-4100661/",
+        "avgColor": "#887F79"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The only way out is through.",
+    "author": "Robert Frost",
+    "context": "Poet who believed that growth and strength come from facing challenges directly, not avoiding them—the foundation of resilience."
+  },
+  "workout": {
+    "id": "08f2b7cf-2867-4663-b16a-342d4063d912",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Lunge Matrix & Single-Leg Strength Ladder: Balance & Power for Trail & Obstacle",
+    "difficulty": "Intermediate",
+    "duration": "44 min",
+    "equipment": [
+      "dumbbell"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "functional",
+      "gym_required",
+      "lower_body",
+      "minimal_equipment",
+      "muscle_gain",
+      "squat_dominant",
+      "under_60_min"
+    ],
+    "tip": "Lunge depth and knee alignment prevent injury in runners and OCR athletes. Keep your front knee stacked over ankle, and drive through the front heel to stand—never push off the back leg. Maintain an upright torso; don't lean forward. Quality over speed here; a controlled lunge transfers stability to technical terrain better than a rushed rep.",
+    "warmup": "5 min: 10 bodyweight lunges per leg, 10 side lunges per leg, 10 glute bridges, 10 air squats, 5 inchworms, leg swings 10 per leg",
+    "exercises": [
+      {
+        "name": "Dumbbell Forward Lunge Ladder",
+        "sets": "4",
+        "reps": "12-10-8-6",
+        "notes": "Ascending weight, descending reps per round. Drive through front heel, controlled descent, stand powerfully. Quad and glute dominant. Rest 75 sec between rounds. Build single-leg pressing power for uphill running and Hyrox obstacles."
+      },
+      {
+        "name": "Reverse Dumbbell Lunge",
+        "sets": "3",
+        "reps": "10 per leg",
+        "notes": "Step back, lower back knee toward floor, drive forward through front heel. Eccentric-heavy, reduces knee stress. Perfect for runners rehabbing or reinforcing knee stability. Rest 60 sec."
+      },
+      {
+        "name": "Lateral Dumbbell Lunge",
+        "sets": "3",
+        "reps": "10 per side",
+        "notes": "Step laterally, shift hips, load the stepping leg. Adductors and abductors activate. Often-neglected plane of motion critical for changing direction on trail or navigating Hyrox terrain. Rest 60 sec."
+      },
+      {
+        "name": "Single-Leg Dumbbell Deadlift",
+        "sets": "3",
+        "reps": "8 per leg",
+        "notes": "Stand on one leg, hinge at hip, lower dumbbell toward floor, drive back through standing leg. Posterior chain and balance. High carryover to downhill running and single-leg stability. Rest 75 sec."
+      },
+      {
+        "name": "Wall Sit",
+        "sets": "2",
+        "reps": "40 seconds",
+        "notes": "Back against wall, knees at 90°, weight in heels. Isometric quad and glute endurance. Finisher that builds mental toughness and metabolic resilience. Rest 45 sec between holds."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: quad stretch 30 sec each leg, deep pigeon pose 45 sec each side, child's pose 30 sec, standing hamstring fold 30 sec",
+    "description": "A lower-body unilateral focus designed for athletes navigating uneven terrain, hills, and Hyrox obstacles. Forward, reverse, and lateral lunge variations build single-leg strength, stability, and proprioception—critical for runners on technical ground and OCR-style movement."
+  },
+  "meal": {
+    "id": "d8791862-275d-439f-b0bf-daa95cc898ce",
+    "title": "Herb-Roasted Chicken Thighs with Bulgur Tabbouleh & Roasted Zucchini",
+    "description": "Chicken thighs deliver sustained energy and are far more forgiving than breast meat, paired with light-yet-filling bulgur that absorbs Middle Eastern flavors. This is classic endurance-athlete fuel—nutrient-dense, filling, and stores beautifully for meal prep.",
+    "meal_type": "dinner",
+    "macro_profile": "balanced",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 620,
+    "protein_g": 42,
+    "carbs_g": 58,
+    "fat_g": 18,
+    "fiber_g": 7,
+    "prep_minutes": 12,
+    "cook_minutes": 28,
+    "ingredients": [
+      "400g chicken thighs, skin-on",
+      "1 cup bulgur",
+      "2 medium zucchini, cut into batons",
+      "1/4 cup fresh parsley, chopped",
+      "2 tbsp fresh mint, chopped",
+      "1/4 cup cherry tomatoes, halved",
+      "2 tbsp lemon juice",
+      "3 tbsp olive oil",
+      "2 cloves garlic, minced",
+      "1 tsp dried thyme",
+      "Salt and pepper to taste"
+    ],
+    "instructions": "1. Preheat oven to 425°F. Season chicken thighs with salt, pepper, thyme, and minced garlic. Place on a sheet pan skin-side up and roast 20–24 minutes until skin is crispy and internal temp reaches 165°F.\n2. While chicken cooks, bring 2 cups water to a boil, add bulgur and 1/2 tsp salt, reduce heat, and simmer covered 12–15 minutes until tender.\n3. Toss zucchini batons with 1 tbsp olive oil, salt, and pepper. Spread on a second sheet pan and roast alongside chicken for final 15 minutes until lightly caramelized.\n4. Fluff cooked bulgur and fold in parsley, mint, cherry tomatoes, lemon juice, and remaining 2 tbsp olive oil.\n5. Divide bulgur tabbouleh and roasted zucchini between plates; top each with chicken thighs.",
+    "tip": "Chicken thighs can be prepped Sunday and eaten cold for lunch or reheated gently on Monday–Wednesday; bulgur tabbouleh actually tastes better the next day as flavors meld.",
+    "goal_affinity": [
+      "endurance",
+      "general_fitness",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
