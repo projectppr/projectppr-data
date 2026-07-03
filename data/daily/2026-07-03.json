@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-03",
+  "dateLabel": "Friday, July 3, 2026",
+  "generatedAt": "2026-07-03T11:04:02.346Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "Strength training reduces women's heart disease risk",
+      "headline": "Women Who Lift Weights Have Lower Heart Disease Risk",
+      "body": "A new study published in JACC found that women who regularly lift weights may reduce their major heart disease risk, especially when combined with aerobic exercise. The research shows that heart health improves by looking at overall movement habits rather than focusing on single behaviors. Resistance training delivers additional health benefits when incorporated into an active lifestyle. The study highlights that cardiovascular disease remains the leading cause of death worldwide, making accessible prevention strategies crucial for busy adults.",
+      "takeaway": "Add strength training to your routine. Combined with aerobic activity, resistance work offers real heart protection for women.",
+      "source": "American College of Cardiology (JACC)",
+      "sourceUrl": "https://www.acc.org/about-acc/press-releases/2026/06/17/15/23/strength-training-linked-to-lower-heart-disease-risk-in-women",
+      "pexelsQuery": "woman lifting weights strength training",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13219986/pexels-photo-13219986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13219986/pexels-photo-13219986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jordan Bergendahl",
+        "photographerUrl": "https://www.pexels.com/@jordan-bergendahl-2628960",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-lifting-barbell-13219986/",
+        "avgColor": "#070A11"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Hidden gut bacteria linked to good health",
+      "headline": "Scientists Find Mystery Bacteria That Thrives in Healthy People",
+      "body": "Researchers at Cambridge University identified a previously hidden group of gut bacteria called CAG-170 that appears far more often in healthy individuals worldwide. The team analyzed more than 11,000 human gut samples from 39 countries and found these microbes were less common in people with chronic diseases. Genetic clues suggest CAG-170 helps digest food and supports the broader gut ecosystem while producing vitamin B12. The discovery could reshape how we measure and maintain gut health through targeted probiotics.",
+      "takeaway": "Your gut bacteria matter more than you think. Support them with diverse whole foods and fermented options.",
+      "source": "University of Cambridge / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260211204210.htm",
+      "pexelsQuery": "microscope bacteria microbiome sample",
+      "photo": {
+        "url": "https://images.pexels.com/photos/9574415/pexels-photo-9574415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9574415/pexels-photo-9574415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-in-white-robe-using-a-microscope-9574415/",
+        "avgColor": "#9F9EA3"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Fermented foods reshape oral and gut microbiota",
+      "headline": "Fermented Foods Are Reshaping Your Microbiome in Ways Scientists Just Mapped Out",
+      "body": "A major review published in Nature Reviews Microbiology in June 2026 examined how fermented foods influence both your oral and gut microbiota. The analysis looked at how fermentation creates unique microbial communities that interact with your digestive system and mouth health. Researchers found that regularly consuming fermented foods like yogurt, kefir, sauerkraut, and kimchi establishes beneficial microbial patterns that support broader health outcomes. The findings suggest that food fermentation is far more sophisticated than previously understood.",
+      "takeaway": "Include fermented foods daily. They're not just probiotics in a bottle—they're live cultures reshaping your entire microbiome.",
+      "source": "Nature Reviews Microbiology",
+      "sourceUrl": "https://www.nature.com/articles/s41579-026-01333-8",
+      "pexelsQuery": "fermented foods kimchi yogurt kefir",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8954381/pexels-photo-8954381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8954381/pexels-photo-8954381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "makafood",
+        "photographerUrl": "https://www.pexels.com/@makafood-82669418",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-side-dish-in-a-white-plate-8954381/",
+        "avgColor": "#897E68"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Mental toughness predicts athletic running performance",
+      "headline": "What Elite Soccer Players Teach Us About Mental Toughness and Performance",
+      "body": "A 2026 study of 76 professional U21 male soccer players found strong correlations between mental toughness and actual on-field performance. Mental toughness subscales showed moderate to strong correlations with laboratory measures like VO2 max and on-field metrics including running speed and sprinting distance. The overall mental toughness score strongly predicted high-speed running and the ability to change direction repeatedly. The research demonstrates that mental toughness isn't just psychological—it translates directly into measurable physical performance.",
+      "takeaway": "Build mental toughness like you build muscle. It directly impacts your ability to perform when it matters most.",
+      "source": "Humanities and Social Sciences Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41599-026-07365-y",
+      "pexelsQuery": "soccer player sprinting intense athletic performance",
+      "product": {
+        "id": "book-001",
+        "name": "Can't Hurt Me - David Goggins Audiobook",
+        "brand": "David Goggins",
+        "asin": "B07KKP62FW",
+        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "mindset",
+          "motivation",
+          "endurance",
+          "running",
+          "ultramarathon",
+          "book",
+          "audiobook"
+        ],
+        "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17955133/pexels-photo-17955133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17955133/pexels-photo-17955133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Israel Torres",
+        "photographerUrl": "https://www.pexels.com/@israwmx",
+        "photoPageUrl": "https://www.pexels.com/photo/football-player-running-with-ball-17955133/",
+        "avgColor": "#8E9A6C"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The mind is what makes the body.",
+    "author": "Bill Parcells",
+    "context": "Former NFL coach and two-time Super Bowl winner, known for building championship-level mental toughness in his teams."
+  },
+  "workout": {
+    "id": "b1c69610-9dd3-4066-9236-99e806192c61",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "intervals",
+    "title": "5K Pace Track Ladder: 400m Repeat Pyramid",
+    "difficulty": "Intermediate",
+    "duration": "40 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "cardio",
+      "lactate_work",
+      "no_equipment",
+      "outdoor",
+      "race_prep",
+      "under_60_min"
+    ],
+    "tip": "Aim for even splits on each 400m repeat—don't chase the first one. Your quads will feel the fatigue on repeats 4–6; use shorter, quicker strides to maintain cadence rather than grinding with long strides.",
+    "warmup": "8 min: 2 min easy jog, 6×100m stride-outs with 50m walk recovery between each",
+    "exercises": [
+      {
+        "name": "6×400m @ 5K Pace",
+        "sets": "6",
+        "reps": "1",
+        "notes": "Run each 400m at your 5K goal pace (e.g., if 5K goal is 20 min, that's ~6:25/km or 10:20/mile = ~90 sec per 400m). Focus on controlled acceleration in the first 100m, hold steady in the middle, kick slightly in the final 100m."
+      },
+      {
+        "name": "90-Second Recovery Jog",
+        "sets": "5",
+        "reps": "1",
+        "notes": "Between each 400m repeat, jog at conversational pace (about 65–70% max heart rate). This active recovery clears lactate and keeps your heart rate elevated for the next effort."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: easy jog at conversational pace, followed by 3 min of standing quad stretch (30 sec each leg), hamstring fold (60 sec), and calf stretch against a wall (30 sec each side)",
+    "description": "A classic pyramid structure that builds speed sustainability at 5K race pace. Athletes run 400m repeats at progressively harder efforts (6×400m with 90-second recovery jogs), teaching the body to maintain turnover under fatigue. Perfect for 5K and 10K runners who need to sharpen leg speed before race season."
+  },
+  "meal": {
+    "id": "f7026987-eff4-4128-b193-7c5d79b145d7",
+    "title": "Bagel with Honey Cream Cheese & Cinnamon",
+    "description": "A lightly toasted plain bagel spread with honey-sweetened cream cheese and dusted with cinnamon delivers a hit of carbs and just enough fat for sustained blood sugar during your endurance training. Simple, familiar, and proven for athletes.",
+    "meal_type": "pre_workout",
+    "macro_profile": "high_carb",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 205,
+    "protein_g": 7,
+    "carbs_g": 34,
+    "fat_g": 5,
+    "fiber_g": 2,
+    "prep_minutes": 2,
+    "cook_minutes": 4,
+    "ingredients": [
+      "1 plain bagel",
+      "3 tbsp cream cheese",
+      "2 tsp raw honey",
+      "1/4 tsp ground cinnamon"
+    ],
+    "instructions": "1. Slice the bagel in half and toast lightly until the surface is just warm and slightly crisp.\n2. Spread cream cheese evenly on both halves.\n3. Drizzle honey over the cream cheese.\n4. Dust generously with cinnamon on both halves and serve immediately.",
+    "tip": "Toast only until warm, not hard—you want it to be easy on the stomach. Eat 30–50 minutes before a run; the refined carbs digest quickly while the cream cheese's fat keeps energy stable.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon"
+    ],
+    "image_url": ""
+  }
+}
