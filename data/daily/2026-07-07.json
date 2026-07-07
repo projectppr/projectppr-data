@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-07",
+  "dateLabel": "Tuesday, July 7, 2026",
+  "generatedAt": "2026-07-07T11:06:31.421Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "Deep sleep triggers muscle building growth hormone",
+      "headline": "Your Brain Has a Hidden Switch That Builds Muscle While You Sleep",
+      "body": "UC Berkeley researchers just mapped the exact brain circuit that controls your most powerful hormonal event: deep sleep. They found a feedback loop where deep sleep triggers growth hormone release, which then rebuilds muscle, burns fat, and sharpens your brain. The discovery explains why poor sleep doesn't just make you tired. It sabotages muscle repair, metabolism, immune function, and recovery. When that circuit breaks down, everything suffers. Now scientists understand the mechanism, which could lead to new treatments for sleep disorders and the metabolic problems they cause.",
+      "takeaway": "Your sleep architecture directly controls whether you build or lose muscle. Fragmented sleep isn't just uncomfortable—it's a nightly disruption to your body's repair machinery.",
+      "source": "UC Berkeley, Cell",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
+      "pexelsQuery": "person sleeping peacefully bed",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7445144/pexels-photo-7445144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7445144/pexels-photo-7445144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "KATRIN  BOLOVTSOVA",
+        "photographerUrl": "https://www.pexels.com/@ekaterina-bolovtsova",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-sleeping-on-the-bead-7445144/",
+        "avgColor": "#BAB8B6"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Exercise flips molecular aging switch in muscles",
+      "headline": "Exercise Hits a Biological Reset Button Inside Your Muscles",
+      "body": "Scientists at Duke-NUS Medical School found the exact molecular switch that makes muscles weaker with age. It's a gene called DEAF1. When DEAF1 levels get too high, muscles lose their ability to repair themselves. Here's the good news: exercise reduces DEAF1, allowing older muscles to clear out damage and restore strength. This explains why people who stay active maintain muscle function while sedentary people decline rapidly. It's not that exercise prevents aging—it restores the muscle's native repair systems that decline with inactivity. The mechanism is now clear. The path forward is actionable.",
+      "takeaway": "Exercise doesn't just build muscle. It reactivates the cellular repair systems that naturally weaken with age, essentially giving muscles a biological reset.",
+      "source": "Proceedings of the National Academy of Sciences",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260623014026.htm",
+      "pexelsQuery": "person lifting weights dumbbells strength training",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4164773/pexels-photo-4164773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4164773/pexels-photo-4164773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ivan S",
+        "photographerUrl": "https://www.pexels.com/@ivan-s",
+        "photoPageUrl": "https://www.pexels.com/photo/man-exercising-with-dumbbells-4164773/",
+        "avgColor": "#767B7D"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Vigorous activity reduces eight major diseases",
+      "headline": "A Few Minutes of Hard Breathing Cuts Your Disease Risk",
+      "body": "European researchers tracked 96,000 people and found something striking: short bursts of vigorous activity—the kind that makes you breathless—protect against eight major diseases. We're talking heart disease, stroke, arthritis, dementia, diabetes, and more. The key word is vigorous. Your body responds to intense effort in ways that easier activity can't replicate. Vigorous exercise changes your cardiovascular system at a fundamental level. It reduces inflammation. It improves how your blood vessels function. It even triggers brain chemicals that protect against neurological decline. You don't need long workouts. You need occasional hard efforts.",
+      "takeaway": "Intensity matters more than duration. A few breathless minutes scattered through your week provides substantial disease protection that steady easy movement alone cannot match.",
+      "source": "European Heart Journal",
+      "sourceUrl": "https://www.escardio.org/news/press/press-releases/exercise-harder-not-just-longer-to-reduce-risk-of-disease-and-death/",
+      "pexelsQuery": "person sprinting running fast effort",
+      "product": {
+        "id": "run-001",
+        "name": "Saucony Endorphin Speed 5",
+        "brand": "Saucony",
+        "asin": "B0DJWMR6YY",
+        "url": "https://www.amazon.com/dp/B0DJWMR6YY?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "shoes",
+          "marathon",
+          "5k",
+          "10k",
+          "half marathon",
+          "race",
+          "speed",
+          "carbon"
+        ],
+        "blurb": "The shoe Chris trains and races in. Fast, light, built for people who take running seriously."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/3764163/pexels-photo-3764163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3764163/pexels-photo-3764163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-red-sports-bra-jumping-on-white-and-black-obstacle-3764163/",
+        "avgColor": "#C1B2A5"
+      }
+    },
+    {
+      "category": "BREATHWORK",
+      "topic": "Structured breathing accelerates post-exercise nervous system recovery",
+      "headline": "Your Breath Controls How Fast Your Body Recovers After Hard Effort",
+      "body": "A new study with tactical athletes found that structured breathing techniques after maximal exertion significantly accelerated parasympathetic recovery. Both box breathing and cyclic sighing worked. The mechanism is simple: controlled breathing activates the vagus nerve, which shifts your nervous system from fight-or-flight back to rest-and-recover mode. This isn't theoretical. Athletes who used these techniques recovered faster heart rate variability and readiness metrics than those who breathed normally. For busy professionals doing hard workouts in limited time, this matters. Three minutes of deliberate breathing post-training can meaningfully improve your recovery trajectory. Your breath is a tool you already have.",
+      "takeaway": "Five minutes of box breathing or cyclic sighing after intense exercise triggers parasympathetic activation, speeding recovery without equipment or supplements.",
+      "source": "Medicine & Science in Sports & Exercise",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41839180/",
+      "pexelsQuery": "person breathing outdoors fresh air calm",
+      "product": {
+        "id": "book-005",
+        "name": "How Bad Do You Want It - Matt Fitzgerald Audiobook",
+        "brand": "Matt Fitzgerald",
+        "asin": "B01B6KWGFE",
+        "url": "https://www.amazon.com/dp/B01B6KWGFE?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "endurance",
+          "running",
+          "triathlon",
+          "mindset",
+          "book",
+          "audiobook",
+          "performance"
+        ],
+        "blurb": "The psychology of champions. Why mental fitness is the real limiter."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11846526/pexels-photo-11846526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11846526/pexels-photo-11846526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Darya Grey_Owl",
+        "photographerUrl": "https://www.pexels.com/@darya-grey_owl-132130036",
+        "photoPageUrl": "https://www.pexels.com/photo/girl-in-white-hoodie-standing-on-green-grass-field-11846526/",
+        "avgColor": "#8B877E"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Enthusiasm is common. Endurance is rare.",
+    "author": "Angela Duckworth",
+    "context": "Psychologist and researcher on grit, resilience, and sustained effort"
+  },
+  "workout": {
+    "id": "81df3c9e-6f6e-44ed-8f6b-e4e0cc8eb361",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "intervals",
+    "title": "Hill Repeat Foundation: Gradual Intensity Climbing",
+    "difficulty": "Beginner",
+    "duration": "32 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "lower_body",
+      "no_equipment",
+      "outdoor",
+      "under_60_min"
+    ],
+    "tip": "Lean slightly into the hill and shorten your stride—don't overstride uphill. Use your arms to drive forward and up. Downhill should be a true recovery jog, not a sprint, so your legs don't accumulate extra fatigue.",
+    "warmup": "5 min: easy jog on flat ground, then 4 x 15 sec gradual accelerations (building effort) with 45 sec walk recovery between each",
+    "exercises": [
+      {
+        "name": "Hill Repeat Block",
+        "sets": "5",
+        "reps": "60–90 sec uphill at hard effort / jog down easy recovery",
+        "notes": "Find a hill with a 4–6% grade (noticeable but not steep). Run up at a pace where you're breathing hard but can still say a word or two. Jog down slowly to recover. Each repeat should feel manageable; you should finish feeling like you could do one more."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min easy jog on flat, then 1 min walk. Calf stretch against wall 20 sec each leg, quad stretch 20 sec each leg, glute figure-four stretch 20 sec each side.",
+    "description": "A controlled hill-repeat session designed for beginners to build leg strength and running power without excessive impact. By running uphill at moderate intensity with downhill recovery, you safely introduce lactate work while improving 5K and 10K race capability."
+  },
+  "meal": {
+    "id": "fc0be9e0-ea5b-4722-9d81-198f551a0d4a",
+    "title": "Beef Jerky & Sharp Cheddar Snack Pack",
+    "description": "Portable, shelf-stable protein and fat combo designed to fuel strength athletes between workouts or as a quick desk snack. The combination of beef jerky's concentrated protein and aged cheddar's calcium supports muscle maintenance and bone density.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 180,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 9,
+    "fiber_g": 0,
+    "prep_minutes": 0,
+    "cook_minutes": 0,
+    "ingredients": [
+      "50g beef jerky (3-4 strips)",
+      "30g sharp aged cheddar (1 oz)"
+    ],
+    "instructions": "1. Open jerky package.\n2. Portion cheddar into a small container or wrap in parchment.\n3. Pack together for a grab-and-go snack.",
+    "tip": "Buy jerky in bulk from Costco or online to cut costs. Choose low-sugar varieties (under 4g per serving) to avoid unnecessary carbs between meals.",
+    "goal_affinity": [
+      "strength",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
