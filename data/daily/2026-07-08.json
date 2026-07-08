@@ -1,0 +1,258 @@
+{
+  "date": "2026-07-08",
+  "dateLabel": "Wednesday, July 8, 2026",
+  "generatedAt": "2026-07-08T11:08:46.860Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "eccentric exercise builds strength",
+      "headline": "You Don't Need to Destroy Yourself to Get Stronger",
+      "body": "<cite index=\"16-1,16-2\">Researchers found that slow, controlled lowering movements can boost strength more efficiently while requiring less effort. Even five minutes a day of simple exercises like chair squats or wall push-ups can make a real difference.</cite> The secret is eccentric training—focusing on the lowering phase of an exercise where muscles lengthen. <cite index=\"16-36\">Muscles can produce greater force during these lengthening movements while using less energy than they would during lifting, pulling, or climbing actions.</cite> This matters because busy professionals don't need hours in the gym. A few minutes of intentional, controlled movement each day rewires your strength faster than traditional grinding.",
+      "takeaway": "Forget exhausting workouts. Eccentric training—slow lowering movements—builds strength with half the effort. Five minutes daily works.",
+      "source": "ScienceDaily / Edith Cowan University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260501052830.htm",
+      "pexelsQuery": "person doing chair squats strength training",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6539867/pexels-photo-6539867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6539867/pexels-photo-6539867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-squatting-while-holding-a-kettle-bell-6539867/",
+        "avgColor": "#948170"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "brain training improves cognition adults",
+      "headline": "Your Brain Gets Sharper, Not Duller, With Age",
+      "body": "<cite index=\"67-2\">A three-year study suggests that mental acuity does not inevitably diminish with age, and cognitive abilities can improve at any stage of life.</cite> Researchers followed nearly 4,000 adults aged 19 to 94 who spent just 5-15 minutes daily on targeted brain training exercises. <cite index=\"70-1\">Every brain is as unique as a fingerprint and has potential for growth.</cite> The data proves that cognitive decline isn't destiny. Whether you're 35 or 75, your brain can keep improving if you give it the right stimulus. This flips the script on aging—you're not fighting an inevitable decline; you're building something.",
+      "takeaway": "Brain training works at any age. Just 5-15 minutes daily improves cognition well into your 90s.",
+      "source": "University of Texas at Dallas / Scientific Reports",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "focused adult reading learning concentration",
+      "product": {
+        "id": "book-009",
+        "name": "Lifespan - David Sinclair Audiobook",
+        "brand": "David Sinclair",
+        "asin": "B07QGH1Q43",
+        "url": "https://www.amazon.com/dp/B07QGH1Q43?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "longevity",
+          "aging",
+          "genetics",
+          "book",
+          "audiobook",
+          "science",
+          "health"
+        ],
+        "blurb": "The science of why we age and what we can actually do about it."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7545183/pexels-photo-7545183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7545183/pexels-photo-7545183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "SHVETS production",
+        "photographerUrl": "https://www.pexels.com/@shvets-production",
+        "photoPageUrl": "https://www.pexels.com/photo/an-elderly-man-with-gray-hair-reading-a-book-7545183/",
+        "avgColor": "#A6A7B1"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "tendon injury prevention breakthrough",
+      "headline": "The Hidden Trigger Behind Jumper's Knee Is Finally Found",
+      "body": "<cite index=\"64-2\">February 2026 research identified HIF1 as a potential trigger behind painful tendon injuries like jumper's knee and tennis elbow, opening new avenues for targeted prevention and treatment.</cite> This discovery shifts how sports medicine approaches chronic overuse injuries. Instead of just rest and ice, clinicians now understand the molecular mechanism driving tendon breakdown. For active parents balancing work and training, this means smarter prevention strategies are on the horizon. You won't have to guess whether that nagging knee pain is serious—targeted interventions will address the root cause.",
+      "takeaway": "HIF1 protein is the culprit in tendon injuries. This breakthrough opens new prevention strategies beyond rest and ice.",
+      "source": "TopDoctorMagazine / Sports Medicine 2026",
+      "sourceUrl": "https://topdoctormagazine.com/doctor/sports-medicine-injury-prevention-athletes/",
+      "pexelsQuery": "knee pain athlete sports injury",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/18075363/pexels-photo-18075363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/18075363/pexels-photo-18075363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Israel Torres",
+        "photographerUrl": "https://www.pexels.com/@israwmx",
+        "photoPageUrl": "https://www.pexels.com/photo/player-lies-with-pain-on-football-pitch-18075363/",
+        "avgColor": "#8D9473"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "hormone replacement therapy safer modern",
+      "headline": "HRT Safety Update Changes Everything for Women at Midlife",
+      "body": "<cite index=\"52-1,52-3\">In analysis of estrogen-based HRT use from 2018 to early 2026, there was a substantial and sustained increase in prescribing rates. Estrogen-based HRT prescribing more than doubled over the study period and continued to rise after the FDA expert panel on HRT safety in July 2025.</cite> <cite index=\"58-7,58-8\">For healthy women in early menopause with bothersome symptoms, the data in 2026 is reassuring: the absolute risks are small—generally less than 1 adverse event per 1,000 women per year for those who start HRT early.</cite> The landscape has shifted. Modern body-identical hormones have real safety data behind them, and timing matters. This isn't your mother's hormone therapy.",
+      "takeaway": "Modern HRT is safer than decades-old warnings suggested. Real evidence shows minimal risk for healthy women in early menopause.",
+      "source": "Truveta / Radiant Health for Women",
+      "sourceUrl": "https://www.truveta.com/blog/research/estrogen-based-hormone-replacement-therapy/",
+      "pexelsQuery": "woman midlife vitality wellness energy",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/36917061/pexels-photo-36917061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/36917061/pexels-photo-36917061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kari Alfonso",
+        "photographerUrl": "https://www.pexels.com/@kari-alfonso-2151442665",
+        "photoPageUrl": "https://www.pexels.com/photo/middle-aged-woman-exercising-with-dumbbells-36917061/",
+        "avgColor": "#474642"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The best motivation always comes from within.",
+    "author": "Michael Johnson",
+    "context": "Gold medal sprinter and Olympic legend on what truly drives peak performance"
+  },
+  "workout": {
+    "id": "ff0b0419-dc67-4594-915e-1ce6d8636e4e",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Barbell Back Squat Strength Block: Power & Endurance Integration",
+    "difficulty": "Intermediate",
+    "duration": "50 min",
+    "equipment": [
+      "barbell",
+      "power_rack",
+      "dumbbell"
+    ],
+    "trainingZone": "z4",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "lower_body",
+      "muscle_gain",
+      "power_rack_required",
+      "squat_dominant",
+      "under_60_min"
+    ],
+    "tip": "Squat depth matters for runners—drive below parallel to load the posterior chain fully. This deeper squat strength transfers directly to hill running and Hyrox sled pull power. Rest 2–3 min between heavy sets to preserve CNS quality.",
+    "warmup": "5 min: 10 arm circles, 10 hip circles, 10 air squats, 10 bodyweight lunges per leg, 5 inchworms, 8 glute bridges",
+    "exercises": [
+      {
+        "name": "Barbell Back Squat",
+        "sets": "5",
+        "reps": "5",
+        "notes": "Work to RPE 8 (challenging but controlled). Tempo: 2 sec down, explosive up. Full depth below parallel. Rest 3 min between sets. This anchors lower-body power and builds the strength foundation runners need for sustained incline work."
+      },
+      {
+        "name": "Bulgarian Split Squat (Dumbbell)",
+        "sets": "3",
+        "reps": "8 per leg",
+        "notes": "Rear foot elevated on bench. Drive through front heel, control descent. Unilateral work exposes imbalances critical for runners. Rest 90 sec between sets. Targets single-leg stability for Hyrox sled mechanics."
+      },
+      {
+        "name": "Paused Goblet Squat",
+        "sets": "2",
+        "reps": "10",
+        "notes": "Hold dumbbell at chest, squat to depth, pause 2 sec at bottom, drive up hard. Pause teaches tension and glute engagement. Low rest (45 sec) shifts this into strength-endurance—perfect for marathon pacing discipline."
+      },
+      {
+        "name": "Sled Push (or Leg Press)",
+        "sets": "2",
+        "reps": "12",
+        "notes": "Heavy sled or machine leg press at moderate load. 12 reps forces time under tension while maintaining explosive intent. Direct carryover to Hyrox sled push. Rest 90 sec."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "6 min: quad stretch 30 sec each leg, deep lunge hip flexor stretch 45 sec each side, pigeon pose 45 sec each side, child's pose 30 sec",
+    "description": "A barbell squat-focused strength session designed for runners and Hyrox athletes who need lower-body power without sacrificing aerobic capacity. Heavy compound work pairs with single-leg accessory movements to build unilateral strength and resilience for long-distance running and obstacle racing."
+  },
+  "meal": {
+    "id": "f292227e-fba8-4d8c-b420-24e385e6f918",
+    "title": "Al Pastor Turkey Taco Skillet with Pineapple, Peppers & Black Beans",
+    "description": "Lean ground turkey seasoned with warm spices, caramelized pineapple, and charred bell peppers in one skillet. Served in corn tortillas with fresh cilantro and lime, this delivers 50+ grams of protein with minimal fat—perfect for athletes focused on lean muscle and general fitness.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "mexican",
+    "calories": 620,
+    "protein_g": 51,
+    "carbs_g": 58,
+    "fat_g": 14,
+    "fiber_g": 9,
+    "prep_minutes": 12,
+    "cook_minutes": 15,
+    "ingredients": [
+      "240g ground turkey (93/7 lean)",
+      "½ red bell pepper, sliced",
+      "½ yellow bell pepper, sliced",
+      "½ cup diced fresh pineapple (or frozen, thawed)",
+      "½ cup cooked black beans",
+      "1 tbsp olive oil",
+      "1 tsp achiote paste (or 1 tsp smoked paprika + ½ tsp cumin)",
+      "½ tsp dried oregano",
+      "½ tsp garlic powder",
+      "¼ tsp cayenne pepper",
+      "Salt and black pepper to taste",
+      "3 small corn tortillas (6-inch)",
+      "¼ cup fresh cilantro, chopped",
+      "1 lime, cut into wedges",
+      "¼ cup diced white onion"
+    ],
+    "instructions": "1. Heat olive oil in a large skillet over medium-high heat. Add bell pepper slices and cook 4 minutes until lightly charred and tender. Remove to a plate.\n2. Add ground turkey to the same skillet, breaking it apart as it cooks, until browned (about 5 minutes). Drain excess fat if needed.\n3. Return peppers to skillet. Stir in achiote paste (or paprika and cumin), oregano, garlic powder, cayenne, salt, and black pepper. Add diced pineapple and black beans, stir well, and cook 3 minutes to warm through and caramelize pineapple slightly.\n4. Warm tortillas directly over a gas flame or in a dry skillet for 30 seconds per side.\n5. Fill warm tortillas with turkey mixture, top with diced onion and cilantro, and serve with lime wedges.",
+    "tip": "This recipe scales easily for meal prep—make a double batch on Sunday and portion into containers. It stays fresh for 4 days and tastes even better as flavors meld.",
+    "goal_affinity": [
+      "general_fitness",
+      "fat_loss"
+    ],
+    "image_url": ""
+  }
+}
