@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-09",
+  "dateLabel": "Thursday, July 9, 2026",
+  "generatedAt": "2026-07-09T11:02:39.325Z",
+  "articles": [
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Intermittent fasting versus calorie counting",
+      "headline": "Intermittent Fasting Feels Easier Than Counting Calories for Weight Loss",
+      "body": "A new study from the University of Adelaide found that intermittent fasting helped people lose as much weight as traditional calorie restriction, but with a crucial difference: far less mental effort. Researchers examined not just weight loss, but also how different dieting approaches affected eating habits, mood, sleep, and quality of life. People who struggle with the constant monitoring required by calorie counting may find time-restricted eating more sustainable long-term. The key finding: same results, less psychological burden. For busy parents and professionals constantly juggling demands, the mental relief alone could be the difference between a diet you stick with and one you abandon.",
+      "takeaway": "If traditional dieting feels exhausting, intermittent fasting delivers the same weight loss without the constant mental effort of tracking.",
+      "source": "University of Adelaide / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260701015247.htm",
+      "pexelsQuery": "person eating breakfast time restricted window",
+      "photo": {
+        "url": "https://images.pexels.com/photos/3906954/pexels-photo-3906954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3906954/pexels-photo-3906954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-gray-sweater-holding-clear-drinking-glass-3906954/",
+        "avgColor": "#6D6259"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Creatine boosts cancer-fighting immune cells",
+      "headline": "Creatine Does More Than Build Muscle. It Fuels Your Immune System's Cancer Defense",
+      "body": "Scientists at UCLA discovered that creatine—the supplement athletes take for strength—may have another superpower: strengthening your immune system's ability to fight cancer. The research shows creatine energizes dendritic cells, specialized immune cells that activate killer T cells to attack tumors. In laboratory studies with mice and human cells, creatine boosted the activation and tumor-fighting functions of these critical immune cells. While these findings haven't been tested in human patients yet, the results suggest creatine could eventually enhance cancer immunotherapy effectiveness. Researchers emphasize this is preclinical work, but it opens a new frontier for understanding how supplements might support immune health beyond the gym.",
+      "takeaway": "Creatine may strengthen your body's cancer-fighting immune response, though human trials are still needed to confirm the effect.",
+      "source": "UCLA Health Sciences / iScience",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260701015237.htm",
+      "pexelsQuery": "supplement powder creatine capsules",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/3850749/pexels-photo-3850749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3850749/pexels-photo-3850749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ready made",
+        "photographerUrl": "https://www.pexels.com/@readymade",
+        "photoPageUrl": "https://www.pexels.com/photo/vitamins-and-drugs-of-different-sizes-on-various-tableware-on-marble-board-3850749/",
+        "avgColor": "#9E9383"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "Water intake controls your stress hormone",
+      "headline": "Skip the Water, Spike Your Cortisol. Here's How Hydration Tames Stress",
+      "body": "Researchers at Liverpool John Moores University discovered something remarkable: people who drink less water have cortisol spikes 50% higher during stressful moments than those staying hydrated. In a study of healthy adults, participants who habitually drank less than 1.5 liters daily showed significantly greater stress hormone reactivity to the same challenging situations as well-hydrated peers. The mechanism is surprisingly elegant—when your body detects dehydration, it releases vasopressin, a hormone that conserves water but also amplifies your brain's stress-response system. For midlife professionals managing tight deadlines, family pressure, and chronic demands, this means staying hydrated is literally a stress-management tool. It's not about fancy optimization. Just drink enough water.",
+      "takeaway": "Staying hydrated directly reduces how aggressively your body responds to stress, potentially lowering long-term health risks tied to chronic cortisol elevation.",
+      "source": "Liverpool John Moores University / Journal of Applied Physiology",
+      "sourceUrl": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00408.2025",
+      "pexelsQuery": "water bottle hydration athlete drinking",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8381799/pexels-photo-8381799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8381799/pexels-photo-8381799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-blue-long-sleeve-shirt-drinking-water-in-a-plastic-bottle-8381799/",
+        "avgColor": "#8CA5BB"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "High-intensity interval training preserves muscle",
+      "headline": "HIIT Wins Again: The Only Workout That Burns Fat Without Sacrificing Muscle",
+      "body": "A six-month study of adults in their 70s delivered striking results: high-intensity interval training proved to be the only workout type that helped them lose fat while preserving valuable muscle mass. Researchers tracked over 120 older adults through different training approaches and found HIIT's unique advantage—it triggers metabolic changes that preferentially target fat while protecting the lean tissue your body needs for strength, mobility, and independence. As you age, keeping muscle becomes critical for staying functional and reducing fall risk. Most cardio burns both fat and muscle. Most strength training takes time you don't have. HIIT does the rare thing: it delivers both body composition change and muscle preservation in less time. For busy people over 40 who want results, the data is clear.",
+      "takeaway": "HIIT is the rare workout that reduces body fat while preserving muscle—the exact outcome most people actually want.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260628000000.htm",
+      "pexelsQuery": "person doing high intensity interval training workout",
+      "photo": {
+        "url": "https://images.pexels.com/photos/13896073/pexels-photo-13896073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13896073/pexels-photo-13896073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-black-tank-top-exercising-at-the-gym-13896073/",
+        "avgColor": "#241F19"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Discipline beats motivation every time.",
+    "author": "Jay Cutler",
+    "context": "Four-time Mr. Olympia champion and bodybuilding legend known for his relentless consistency in training and nutrition."
+  },
+  "workout": {
+    "id": "7d5c9fab-e23e-46ea-b833-47651866c912",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Row, Hang, and Brace: Upper-Back Starter",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "equipment": [
+      "resistance band",
+      "pull-up bar or sturdy door frame"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "beginner_friendly",
+      "core",
+      "minimal_equipment",
+      "pull_dominant",
+      "under_30_min",
+      "upper_body"
+    ],
+    "tip": "No pull-up bar? Use a resistance band anchored in a door for all row variations. Focus on squeezing your shoulder blades together at the end of each rep, not just pulling with your arms.",
+    "warmup": "Start with 60 seconds of arm circles (forward and back), 10 slow cat-cows on all fours, and 30 seconds of dead bug holds lying on your back. This wakes up the spine and activates the shoulder girdle before any pulling.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "20-40 seconds hold",
+        "notes": "Hang from a bar with a shoulder-width grip, arms straight, shoulders packed down away from your ears. Breathe steadily. If a full hang is too hard, bend your knees and put light pressure through your feet on a chair."
+      },
+      {
+        "name": "Resistance Band Seated Row",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Anchor a band at mid-torso height. Sit tall, pull the band to your lower ribs, elbows close to your sides. Pause for one second at the end, then control the return. Do not round your back."
+      },
+      {
+        "name": "Scapular Pull-Up",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Hang from the bar with arms straight. Without bending your elbows, shrug your shoulder blades down and together to elevate your chest a few inches. Lower slowly. This builds the foundation for full pull-ups."
+      },
+      {
+        "name": "Resistance Band Face Pull",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Anchor the band at face height. Hold both ends with palms facing in, pull toward your forehead while flaring your elbows wide. Great for shoulder health and posture. Keep your core braced."
+      },
+      {
+        "name": "Plank with Alternating Shoulder Tap",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Hold a forearm or high plank. Tap one shoulder at a time while keeping your hips completely still. Slow and controlled beats fast and wobbly every time. Widen your feet if you need more stability."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with a 60-second doorway chest opener stretch and a 60-second child's pose with arms extended. Let your shoulders fully drop and breathe into your upper back.",
+    "description": "Warmup: Start with 60 seconds of arm circles (forward and back), 10 slow cat-cows on all fours, and 30 seconds of dead bug holds lying on your back. This wakes up the spine and activates the shoulder girdle before any pulling. Dead Hang: 3 sets x 20-40 seconds hold — Hang from a bar with a shoulder-width grip, arms straight, shoulders packed down away from your ears. Breathe steadily. If a full hang is too hard, bend your knees and put light pressure through your feet on a chair. Resistance Band Seated Row: 3 sets x 12 — Anchor a band at mid-torso height. Sit tall, pull the band to your lower ribs, elbows close to your sides. Pause for one second at the end, then control the return. Do not round your back. Scapular Pull-Up: 3 sets x 8 — Hang from the bar with arms straight. Without bending your elbows, shrug your shoulder blades down and together to elevate your chest a few inches. Lower slowly. This builds the foundation for full pull-ups. Resistance Band Face Pull: 3 sets x 15 — Anchor the band at face height. Hold both ends with palms facing in, pull toward your forehead while flaring your elbows wide. Great for shoulder health and posture. Keep your core braced. Plank with Alternating Shoulder Tap: 3 sets x 10 each side — Hold a forearm or high plank. Tap one shoulder at a time while keeping your hips completely still. Slow and controlled beats fast and wobbly every time. Widen your feet if you need more stability. Cooldown: Finish with a 60-second doorway chest opener stretch and a 60-second child's pose with arms extended. Let your shoulders fully drop and breathe into your upper back."
+  },
+  "meal": {
+    "id": "ef9cdd2f-ccf9-4ff2-af86-8e71e5b0bfc2",
+    "title": "Seared Beef Tenderloin with Roasted Potatoes & Green Beans",
+    "description": "A more substantial race-day meal for triathletes who prefer a heavier breakfast or brunch 3–4 hours before competition. Lean beef provides heme iron and sustained amino acids without digestive lag.",
+    "meal_type": "race_day",
+    "macro_profile": "performance",
+    "difficulty": "medium",
+    "cuisine": "american",
+    "calories": 780,
+    "protein_g": 52,
+    "carbs_g": 68,
+    "fat_g": 22,
+    "fiber_g": 4,
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "ingredients": [
+      "150g beef tenderloin steak",
+      "150g Yukon gold potatoes",
+      "80g fresh green beans",
+      "1 tbsp olive oil",
+      "1 tsp kosher salt",
+      "0.5 tsp black pepper",
+      "1 tsp garlic powder"
+    ],
+    "instructions": "1. Cube potatoes into 1-inch pieces and toss with 0.5 tbsp olive oil, salt, and pepper.\n2. Roast at 400°F for 12 minutes until golden; add green beans tossed in remaining oil and cook 6 more minutes.\n3. Season beef tenderloin with salt, pepper, and garlic powder.\n4. Sear in a hot skillet over medium-high heat for 3–4 minutes per side (medium-rare).\n5. Rest 2 minutes, slice, and plate alongside potatoes and green beans. Eat 3–4 hours before race start.",
+    "tip": "Beef tenderloin is leaner than other steaks and easier to digest than fattier cuts. Cook everything the morning of; don't rely on reheating, as warm proteins are gentler on race-morning digestion.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
