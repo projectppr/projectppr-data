@@ -1,124 +1,137 @@
 {
   "date": "2026-07-10",
   "dateLabel": "Friday, July 10, 2026",
-  "generatedAt": "2026-07-10T07:37:12.666Z",
+  "generatedAt": "2026-07-10T11:08:40.314Z",
   "articles": [
     {
-      "category": "WEIGHT MANAGEMENT",
-      "topic": "16:8 intermittent fasting long-term weight loss",
-      "headline": "12 Weeks of Intermittent Fasting Keeps Weight Off a Full Year Later",
-      "body": "A new study shows that 16:8 time-restricted eating—where you squeeze all your eating into an eight-hour window—maintains weight loss long-term. Researchers found that overweight and obese adults who did the diet for just 12 weeks combined with Mediterranean eating principles lost more weight than those with a typical eating schedule, and most kept it off a full year later. The best part: early and late eating windows worked about equally well, giving you flexibility to pick what fits your life.",
-      "takeaway": "Short bursts of structured eating can reset your weight for lasting results. You don't need to overhaul forever—12 weeks can create a year of change.",
-      "source": "Medical Xpress / University of Granada",
-      "sourceUrl": "https://medicalxpress.com/news/2026-07-intermittent-fasting-term-weight-loss.html",
-      "pexelsQuery": "intermittent fasting meal prep clock schedule",
+      "category": "BRAIN HEALTH",
+      "topic": "Video gaming boosts memory attention reasoning",
+      "headline": "Your Brain Might Actually Love Gaming More Than You Think",
+      "body": "A massive review of 133 studies found that video game players consistently outperform non-gamers across multiple cognitive abilities. Memory showed the strongest improvements in controlled trials, while spatial reasoning and mental flexibility also improved. The pattern held regardless of age, sex, or game type. Researchers think the neuroplasticity benefits come from practicing impulse control and sustained attention while gaming. It's not about flashy scores—it's serious cognitive training disguised as play.",
+      "takeaway": "Regular gaming improves memory, attention, and reasoning. If gaming feels productive for your brain, that's because it actually is.",
+      "source": "Acta Psychologica (July 2026 meta-analysis)",
+      "sourceUrl": "https://www.emjreviews.com/neurology/news/video-games-linked-to-modest-gains-in-cognitive-ability/",
+      "pexelsQuery": "person playing video game controller",
       "photo": {
-        "url": "https://images.pexels.com/photos/7054547/pexels-photo-7054547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7054547/pexels-photo-7054547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Kindel Media",
-        "photographerUrl": "https://www.pexels.com/@kindelmedia",
-        "photoPageUrl": "https://www.pexels.com/photo/an-alarm-clock-with-yellow-background-7054547/",
-        "avgColor": "#CBAC2F"
+        "url": "https://images.pexels.com/photos/5207241/pexels-photo-5207241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5207241/pexels-photo-5207241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "www.kaboompics.com",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/person-sitting-holding-a-playstation-controller-5207241/",
+        "avgColor": "#76665C"
       }
     },
     {
       "category": "GUT HEALTH",
-      "topic": "probiotics GERD symptom relief microbiome",
-      "headline": "Probiotics Beat Expectations at Stopping Acid Reflux",
-      "body": "Forget thinking probiotics are just for digestion. New research shows that adding probiotic therapy on top of standard GERD treatment actually solves the root problem. The study found that probiotics reshape your gut microbiome in ways that keep reflux symptoms away, not just mask them. Patients got real relief that stuck around—their microbiota composition actually shifted to one that prevents reflux from returning. It's the difference between turning off the symptom and fixing the mechanism.",
-      "takeaway": "If antacids are your routine, probiotics might be the missing piece. They work by rebuilding your gut's natural defense, not by suppressing acid.",
-      "source": "Nucleic Acids Research / Inner Mongolia Agricultural University",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41609355/",
-      "pexelsQuery": "probiotic foods yogurt fermented vegetables",
+      "topic": "Hidden bacteria CAG-170 linked to good health",
+      "headline": "Scientists Just Found a Mystery Bacteria That Thrives in Healthy People",
+      "body": "A Cambridge-led study of over 11,000 gut samples across 39 countries identified a previously unknown bacteria called CAG-170 that appears far more often in healthy individuals. People with chronic diseases had significantly lower levels. This bacteria produces vitamin B12 and helps support the broader gut ecosystem. The discovery could reshape how we understand what makes a gut truly healthy. Researchers are now working to develop new methods to grow and study these beneficial microbes.",
+      "takeaway": "A mystery gut bacteria shows up consistently in healthy people worldwide. This finding could lead to better probiotic strategies.",
+      "source": "University of Cambridge (February 2026)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/02/260211204210.htm",
+      "pexelsQuery": "microscope bacteria lab",
       "photo": {
-        "url": "https://images.pexels.com/photos/8954371/pexels-photo-8954371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8954371/pexels-photo-8954371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "makafood",
-        "photographerUrl": "https://www.pexels.com/@makafood-82669418",
-        "photoPageUrl": "https://www.pexels.com/photo/korean-kimchi-8954371/",
-        "avgColor": "#8C8072"
+        "url": "https://images.pexels.com/photos/9574340/pexels-photo-9574340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9574340/pexels-photo-9574340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/man-technology-white-zoom-9574340/",
+        "avgColor": "#C0C7CF"
       }
     },
     {
       "category": "MENTAL PERFORMANCE",
-      "topic": "caffeine brain complexity sleep neuroscience",
-      "headline": "Your Afternoon Coffee Actually Changes Your Brain at Night",
-      "body": "Here's something coffee addicts don't expect: caffeine consumed hours before bed shifts your brain's wiring during sleep itself. New research on brain activity shows caffeine increases neural complexity and pushes your brain toward a more excitable state, especially during deep sleep. Younger adults (20-27) felt this effect more during REM sleep, but the pattern held across ages. It's not just that coffee keeps you wired—it literally alters how your brain fires and recovers while you're unconscious.",
-      "takeaway": "Caffeine doesn't just stay in your system; it restructures your brain's activity pattern during sleep. Cut it off by 2 PM if deep recovery matters to you.",
-      "source": "Communications Biology / Nature",
-      "sourceUrl": "https://www.nature.com/articles/s42003-025-08090-z",
-      "pexelsQuery": "brain sleep neural activity rest recovery",
+      "topic": "Brain training improves cognition at any age",
+      "headline": "You Can Get Sharper. A Three-Year Study Proves It Works at Any Age.",
+      "body": "A landmark study of 4,000 adults aged 19 to 94 shows that cognitive decline is not inevitable. Participants who spent 5 to 15 minutes daily on targeted brain training improved measurably over three years. The research used the BrainHealth Index, a first-of-its-kind metric measuring executive function, learning, and emotional regulation. Even during major life stressors, participants demonstrated recovery through cognitive strategies. The takeaway: your brain remains trainable and rewireable at every stage of life.",
+      "takeaway": "Regular brain training works. Small daily habits can improve cognition measurably, even for people in their 90s.",
+      "source": "Nature Scientific Reports (May 2026)",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "older adults learning computer class",
       "photo": {
-        "url": "https://images.pexels.com/photos/8263051/pexels-photo-8263051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8263051/pexels-photo-8263051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ron Lach",
-        "photographerUrl": "https://www.pexels.com/@ron-lach",
-        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-woman-s-face-while-sleeping-8263051/",
-        "avgColor": "#457A99"
+        "url": "https://images.pexels.com/photos/7983604/pexels-photo-7983604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7983604/pexels-photo-7983604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-wearing-a-headphone-attached-to-a-computer-tablet-7983604/",
+        "avgColor": "#A19891"
       }
     },
     {
-      "category": "RECOVERY",
-      "topic": "aerobic exercise knee osteoarthritis pain management",
-      "headline": "Walking and Cycling Beat Everything Else for Knee Pain",
-      "body": "A massive review of over 200 studies settles the debate: aerobic exercise—walking, cycling, swimming—outperforms every other type of training for knee arthritis pain and mobility. Researchers analyzed data on thousands of participants and found aerobic activity showed the strongest evidence for both short and long-term relief. Other exercises help, but none matched the consistent gains from steady cardio. All forms of exercise were safe, but experts now recommend aerobic training as the foundation of any knee arthritis treatment plan.",
-      "takeaway": "You don't need fancy equipment or high intensity. Steady aerobic work—especially the kind you'll actually stick with—wins every time for joint pain.",
-      "source": "The BMJ",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2025/10/251019120521.htm",
-      "pexelsQuery": "walking cycling swimming exercise outdoor activity",
+      "category": "HORMONES",
+      "topic": "Hormone therapy protects postmenopausal bone health",
+      "headline": "Hormone Therapy Cuts Bone Loss Risk By Two-Thirds. Here's What That Means.",
+      "body": "New research shows women taking menopausal hormone therapy had a 69% lower risk of low bone mineral density compared to those without treatment. This matters because bone loss accelerates sharply after menopause. The study examined data from thousands of women and found hormone therapy, especially low-dose transdermal or vaginal formulations, can meaningfully preserve bone strength. While bone health wasn't previously a top selling point of HRT, it's emerging as a significant benefit for women choosing treatment during and after menopause.",
+      "takeaway": "Menopausal hormone therapy significantly protects bone density, a major predictor of long-term independence and quality of life.",
+      "source": "Medical News Today (June 2026)",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/menopause-hormone-therapy-slashes-risk-low-bone-density-fractures-new-data",
+      "pexelsQuery": "postmenopausal woman strength bone health",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/35903239/pexels-photo-35903239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/35903239/pexels-photo-35903239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "wal_ 172619",
-        "photographerUrl": "https://www.pexels.com/@wal_-172619-2156618639",
-        "photoPageUrl": "https://www.pexels.com/photo/children-cycling-and-scooting-by-the-lakeside-35903239/",
-        "avgColor": "#788EA3"
+        "url": "https://images.pexels.com/photos/36626648/pexels-photo-36626648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/36626648/pexels-photo-36626648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Patricia Bozan",
+        "photographerUrl": "https://www.pexels.com/@patricia-bozan-2151752743",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-exercising-with-dumbbells-at-home-36626648/",
+        "avgColor": "#343025"
       }
     }
   ],
   "quote": {
-    "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-    "author": "James Clear",
-    "context": "Bestselling author of Atomic Habits and expert on habit formation and continuous improvement."
+    "text": "Spontaneity is great but life is just easier and everything goes far better when we have protocols.",
+    "author": "Andrew Huberman",
+    "context": "Neuroscientist and Stanford professor specializing in brain plasticity and performance optimization."
   },
   "workout": {
-    "id": "b1c69610-9dd3-4066-9236-99e806192c61",
+    "id": "fd9bf2d6-b9b4-42c2-9dd2-5ca63f8b3080",
     "todayType": "RUN",
     "type": "RUN",
     "sport": "run",
     "workoutType": "intervals",
-    "title": "5K Pace Track Ladder: 400m Repeat Pyramid",
-    "difficulty": "Intermediate",
-    "duration": "40 min",
+    "title": "Progressive Stride Ladder: Build Speed with Recovery Anchors",
+    "difficulty": "Beginner",
+    "duration": "30 min",
     "equipment": [],
-    "trainingZone": "z4",
+    "trainingZone": "mixed",
     "tags": [
+      "beginner_friendly",
       "cardio",
-      "lactate_work",
       "no_equipment",
       "outdoor",
-      "race_prep",
       "under_60_min"
     ],
-    "tip": "Aim for even splits on each 400m repeat—don't chase the first one. Your quads will feel the fatigue on repeats 4–6; use shorter, quicker strides to maintain cadence rather than grinding with long strides.",
-    "warmup": "8 min: 2 min easy jog, 6×100m stride-outs with 50m walk recovery between each",
+    "tip": "Treat each fast segment as a separate effort—don't carry fatigue from one repeat into the next. If you feel sluggish, extend the recovery jog by 15 seconds. It's better to nail fewer repeats cleanly than to grind through tired ones.",
+    "warmup": "4 min: easy jog, then 5 x 20m striders with 40m walk recovery (focus on form, not speed)",
     "exercises": [
       {
-        "name": "6×400m @ 5K Pace",
-        "sets": "6",
-        "reps": "1",
-        "notes": "Run each 400m at your 5K goal pace (e.g., if 5K goal is 20 min, that's ~6:25/km or 10:20/mile = ~90 sec per 400m). Focus on controlled acceleration in the first 100m, hold steady in the middle, kick slightly in the final 100m."
-      },
-      {
-        "name": "90-Second Recovery Jog",
-        "sets": "5",
-        "reps": "1",
-        "notes": "Between each 400m repeat, jog at conversational pace (about 65–70% max heart rate). This active recovery clears lactate and keeps your heart rate elevated for the next effort."
+        "name": "Stride Ladder: 3-min, 2-min, 1-min Repeats",
+        "sets": "3",
+        "reps": "3 min hard / 2 min easy jog / 2 min hard / 2 min easy jog / 1 min hard / 2 min easy jog",
+        "notes": "Work at 80–85% max effort on each hard segment (a pace you could hold for maybe 5–6 minutes). Easy jogs should genuinely feel easy—your heart rate should drop noticeably. The 'ladder down' format lets your nervous system recover between efforts while building stamina."
       }
     ],
     "exerciseText": "",
-    "cooldown": "4 min: easy jog at conversational pace, followed by 3 min of standing quad stretch (30 sec each leg), hamstring fold (60 sec), and calf stretch against a wall (30 sec each side)",
-    "description": "A classic pyramid structure that builds speed sustainability at 5K race pace. Athletes run 400m repeats at progressively harder efforts (6×400m with 90-second recovery jogs), teaching the body to maintain turnover under fatigue. Perfect for 5K and 10K runners who need to sharpen leg speed before race season."
+    "cooldown": "3 min easy jog, then 2 min walk. Standing hamstring fold 25 sec, quad stretch 20 sec each leg, hip flexor lunge stretch 20 sec each side.",
+    "description": "An interval session that mixes short, fast strides with consistent easy-jog recovery periods to introduce speed training without fatigue overload. This format teaches pacing rhythm and is ideal for beginners prepping for 5K and 10K races."
   },
   "meal": {
     "id": "ddfe4560-0f8e-4cd6-b592-57e590938556",
