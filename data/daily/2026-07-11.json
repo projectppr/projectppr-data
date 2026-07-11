@@ -1,214 +1,172 @@
 {
   "date": "2026-07-11",
   "dateLabel": "Saturday, July 11, 2026",
-  "generatedAt": "2026-07-11T08:01:33.806Z",
+  "generatedAt": "2026-07-11T11:10:15.515Z",
   "articles": [
     {
-      "category": "MOBILITY",
-      "topic": "Walking speed preserves brain and memory",
-      "headline": "Super Movers: How Walking Faster Cuts Cognitive Decline Risk in Half",
-      "body": "A new study of nearly 4,000 adults over 80 found something surprising: those who maintained an exceptionally fast walking pace were about 50% less likely to develop cognitive decline than their slower-moving peers. The fastest 9% of walkers, dubbed \"super movers,\" showed significantly better brain health on multiple measures. Researchers found these fast walkers also preserved hippocampal volume—the brain region critical for memory and navigation. The study suggests gait speed could serve as a simple, low-cost marker to identify older adults at higher risk of cognitive decline, potentially allowing for earlier intervention.",
-      "takeaway": "Keep moving fast. Walking speed at 80+ is a powerful signal of brain health and cognitive resilience.",
-      "source": "Neurology / George Washington University",
-      "sourceUrl": "https://mediarelations.gwu.edu/media-tip-sheet-fast-walkers-their-80s-cut-cognitive-decline-risk-50-new-study-finds",
-      "pexelsQuery": "senior man walking fast outdoors",
-      "product": {
-        "id": "rec-001",
-        "name": "TriggerPoint GRID Foam Roller",
-        "brand": "TriggerPoint",
-        "asin": "B0040EGNIU",
-        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
-        "category": "recovery",
-        "price_range": "$",
-        "keywords": [
-          "foam roller",
-          "recovery",
-          "muscle soreness",
-          "flexibility",
-          "mobility",
-          "IT band",
-          "running",
-          "triathlon"
-        ],
-        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
-      },
+      "category": "BRAIN HEALTH",
+      "topic": "Mediterranean diet and psychological well-being",
+      "headline": "What You Eat Shapes Your Mood. New Data Proves It.",
+      "body": "A new study shows that sticking to a Mediterranean diet—rich in vegetables, fish, and olive oil—is linked to better psychological well-being in older adults. Researchers analyzed data on diet and mental health, finding that people who closely followed this eating pattern reported higher life satisfaction and lower depression rates. The connection likely comes from anti-inflammatory compounds in plant-based foods and omega-3 fatty acids in fish, which support brain health. It's not about perfection. Small, consistent shifts toward more plants and less processed food can matter for how you feel mentally.",
+      "takeaway": "Eating more plants, fish, and whole foods isn't just good for your heart—it's measurably linked to better mood and emotional resilience.",
+      "source": "Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-07-mediterranean-diet-psychological.html",
+      "pexelsQuery": "fresh vegetables Mediterranean salad olive oil",
       "photo": {
-        "url": "https://images.pexels.com/photos/33787225/pexels-photo-33787225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/33787225/pexels-photo-33787225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Nikolass Graff",
-        "photographerUrl": "https://www.pexels.com/@nikgr",
-        "photoPageUrl": "https://www.pexels.com/photo/elderly-man-runs-with-dog-in-urban-setting-33787225/",
-        "avgColor": "#979893"
+        "url": "https://images.pexels.com/photos/111134/olive-oil-tomatoes-basil-eat-111134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/111134/olive-oil-tomatoes-basil-eat-111134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/clear-glass-bottle-near-bowl-with-tomatoes-111134/",
+        "avgColor": "#4E522D"
       }
     },
     {
-      "category": "MENTAL PERFORMANCE",
-      "topic": "Dark chocolate scent boosts strength training",
-      "headline": "The Smell of Dark Chocolate Adds 18 Reps to Your Lift—Without Extra Effort",
-      "body": "A new study found that smelling dark chocolate before and during strength training improved performance in a surprising way. Young men performing leg extensions after a 10-hour fast completed approximately 18 more repetitions when exposed to the aroma of 90% cocoa dark chocolate, compared to a control group. The trick worked by suppressing hunger—participants reported less hunger, greater fullness, and weaker desire to eat after inhaling the dark chocolate scent. Remarkably, the increased reps came without any rise in perceived exertion, suggesting the brain's appetite centers can enhance physical output. Milk chocolate aroma provided a smaller boost without affecting appetite.",
-      "takeaway": "Use scent as a performance tool: sniff dark chocolate before fasted training to add real reps without feeling harder effort.",
-      "source": "Frontiers in Physiology",
-      "sourceUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1834757/full",
-      "pexelsQuery": "dark chocolate bar scent smell",
-      "product": {
-        "id": "sup-001",
-        "name": "Thorne Creatine Monohydrate",
-        "brand": "Thorne",
-        "asin": "B0013OQGO6",
-        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "creatine",
-          "strength",
-          "muscle",
-          "performance",
-          "supplement",
-          "brain",
-          "cognitive",
-          "aging",
-          "endurance"
-        ],
-        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
-      },
+      "category": "BREATHWORK",
+      "topic": "Structured breathing accelerates post-exercise recovery",
+      "headline": "Two Minutes of Breathing Cuts Your Recovery Time in Half",
+      "body": "A new study on tactical athletes shows that structured breathwork after intense exercise dramatically speeds up physical recovery. Two methods stood out: box breathing (equal inhale, hold, exhale, hold) and cyclic sighing (longer exhales). Both techniques activated the parasympathetic nervous system—your body's recovery mode—faster than letting breathing happen naturally. Heart rate variability improved significantly, meaning the nervous system shifted from fight-or-flight to rest-and-digest quicker. The takeaway: five minutes of intentional breathing after hard work isn't fluff. It's physiology.",
+      "takeaway": "Two simple breathing patterns—box breathing or cyclic sighing—can speed parasympathetic reactivation and cut recovery time after intense training.",
+      "source": "Medicine & Science in Sports & Exercise",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41839180/",
+      "pexelsQuery": "person breathing fresh air outdoor training recovery",
       "photo": {
-        "url": "https://images.pexels.com/photos/4113288/pexels-photo-4113288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4113288/pexels-photo-4113288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "alleksana",
-        "photographerUrl": "https://www.pexels.com/@alleksana",
-        "photoPageUrl": "https://www.pexels.com/photo/chocolate-bars-on-a-white-surface-4113288/",
-        "avgColor": "#ABA4A2"
+        "url": "https://images.pexels.com/photos/9004270/pexels-photo-9004270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9004270/pexels-photo-9004270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "olia danilevich",
+        "photographerUrl": "https://www.pexels.com/@olia-danilevich",
+        "photoPageUrl": "https://www.pexels.com/photo/pretty-woman-sitting-doing-yoga-9004270/",
+        "avgColor": "#8B8E6F"
       }
     },
     {
-      "category": "HEART HEALTH",
-      "topic": "Upper body muscle quality reduces heart attack risk",
-      "headline": "Strong Back and Chest Muscles Cut Heart Attack Risk by 31 Percent",
-      "body": "A groundbreaking study using AI to analyze cardiac scans found that people with higher-quality chest and back muscles had significantly lower heart attack risk. Researchers analyzed scans from 1,722 patients and tracked them over a decade. Those with stronger, denser torso muscles showed a 31% lower risk of heart attack and a 39% lower risk of premature death. The key finding: muscle quality matters more than size. Researchers found that people with below-average muscle density had an 85% higher death risk and 58% higher heart attack risk. The study suggests upper-body strength is a powerful marker of cardiovascular resilience that doctors should monitor.",
-      "takeaway": "Build chest and back strength. Upper-body muscle quality predicts heart health better than most standard tests.",
-      "source": "Radiology Journal / University of Edinburgh",
-      "sourceUrl": "https://www.healthline.com/health-news/heart-attack-risk-lower-strong-chest-back-muscles",
-      "pexelsQuery": "muscular back and chest strength training",
-      "product": {
-        "id": "str-001",
-        "name": "Gymnastic Rings - Double Circle Wood",
-        "brand": "Double Circle",
-        "asin": "B076X32LFY",
-        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
-        "category": "strength",
-        "price_range": "$",
-        "keywords": [
-          "gymnastics",
-          "rings",
-          "strength",
-          "bodyweight",
-          "upper body",
-          "pull-ups",
-          "dips",
-          "core",
-          "home gym"
-        ],
-        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
-      },
+      "category": "WEARABLES & TECH",
+      "topic": "Cardiac patch detects heart arrhythmias with clinical precision",
+      "headline": "A Patch the Size of a Postage Stamp Just Beat Hospital Equipment",
+      "body": "Researchers at the University of Chicago developed a flexible computing patch that detects life-threatening heart arrhythmias with 99.6% accuracy—matching clinical-grade electrocardiograms. Unlike older wearables that send data to the cloud, this patch processes everything on your skin. It's thinner than a sticker, stays on for days, and works without needing constant phone connectivity. The implications are massive: early detection of cardiac events before symptoms appear, continuous monitoring for at-risk populations, and the ability to catch dangerous rhythms in real time. This is the frontier of wearable medicine moving from fitness tracking to actual disease prevention.",
+      "takeaway": "New wearable patches can now detect dangerous heart rhythms with hospital-grade accuracy, putting clinical-level monitoring directly on your skin.",
+      "source": "MarketScale Digital Health",
+      "sourceUrl": "https://www.marketscale.com/industries/healthcare/digital-healths-july-2026-signal-ai-wearables-a-new-cms-office-and-the-telehealth-billing-fight",
+      "pexelsQuery": "wearable technology patch skin medical device",
       "photo": {
-        "url": "https://images.pexels.com/photos/8044964/pexels-photo-8044964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8044964/pexels-photo-8044964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Wes McKeehan",
-        "photographerUrl": "https://www.pexels.com/@wes-mckeehan-61080041",
-        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-red-tank-top-sitting-while-looking-at-his-muscles-8044964/",
-        "avgColor": "#2C1912"
+        "url": "https://images.pexels.com/photos/437038/pexels-photo-437038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/437038/pexels-photo-437038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Torsten Dettlaff",
+        "photographerUrl": "https://www.pexels.com/@tdcat",
+        "photoPageUrl": "https://www.pexels.com/photo/silver-aluminum-case-apple-watch-437038/",
+        "avgColor": "#4B4E4D"
       }
     },
     {
-      "category": "STRESS",
-      "topic": "Alcohol and stress permanently rewire the brain",
-      "headline": "Drinking to Cope With Stress When Young Rewires Your Brain for Decades",
-      "body": "New research from the University of Massachusetts Amherst reveals that using alcohol to manage stress in early adulthood produces lasting brain changes that don't fade with years of sobriety. The study found that neither alcohol nor stress alone causes the same damage—but the combination is especially potent. Young adults who drink heavily to cope with stress become more likely to turn back to alcohol in middle age, even after prolonged abstinence. By midlife, the damage appears as reduced mental flexibility and difficulty adapting to new challenges. Researchers also found signs of oxidative stress in the brain, the kind of damage linked to Alzheimer's disease.",
-      "takeaway": "Deal with stress without alcohol. The brain effects of stress-drinking in your 30s show up as cognitive decline and relapse risk by your 50s.",
-      "source": "Alcohol, Clinical and Experimental Research / University of Massachusetts Amherst",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260626030437.htm",
-      "pexelsQuery": "man stressed thinking indoor quiet",
+      "category": "NUTRITION",
+      "topic": "Ultra-processed foods impair attention and mental processing",
+      "headline": "Your Brain Takes a Hit Every Time You Choose Convenience",
+      "body": "A study of over 2,100 adults found something sobering: people eating more ultra-processed foods showed measurably slower mental processing and worse attention, even if their overall diet quality was otherwise reasonable. It wasn't about calories or general nutrition. The processing itself—all the additives, emulsifiers, and refined ingredients—seemed to matter. The effect was dose-dependent: more processed food correlated with worse cognitive performance. This aligns with other research showing how ultra-processed foods trigger inflammation and disrupt gut bacteria, both of which affect brain function. The practical takeaway isn't about being perfect. It's about noticing which convenience foods you reach for repeatedly and making one or two swaps.",
+      "takeaway": "Eating heavily processed foods is linked to slower thinking and worse attention, independent of overall diet quality.",
+      "source": "Science Daily",
+      "sourceUrl": "https://www.sciencedaily.com/news/health_medicine/nutrition/",
+      "pexelsQuery": "junk food processed snacks unhealthy fast food",
       "photo": {
-        "url": "https://images.pexels.com/photos/7255264/pexels-photo-7255264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7255264/pexels-photo-7255264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "MART  PRODUCTION",
-        "photographerUrl": "https://www.pexels.com/@mart-production",
-        "photoPageUrl": "https://www.pexels.com/photo/tired-man-touching-his-eyes-7255264/",
-        "avgColor": "#C2B4A5"
+        "url": "https://images.pexels.com/photos/6643709/pexels-photo-6643709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6643709/pexels-photo-6643709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alena Darmel",
+        "photographerUrl": "https://www.pexels.com/@a-darmel",
+        "photoPageUrl": "https://www.pexels.com/photo/black-controllers-near-pizza-and-burgers-6643709/",
+        "avgColor": "#9F8061"
       }
     }
   ],
   "quote": {
-    "text": "Exercise is by far the most potent longevity drug. No other intervention does nearly as much to prolong our lifespan and preserve our cognitive and physical function.",
-    "author": "Peter Attia, MD",
-    "context": "Longevity medicine physician and author of Outlive"
+    "text": "The greatest wealth is health.",
+    "author": "Virgil",
+    "context": "Roman poet whose wisdom on health and well-being remains foundational to how we think about longevity."
   },
   "workout": {
-    "id": "4ae3ba39-58df-45f1-a5c1-a54736053e2f",
+    "id": "13e877ff-629f-40f6-a528-cf5a7ada484e",
     "todayType": "FULL_BODY",
     "type": "STRENGTH",
     "sport": "strength",
     "workoutType": "full_body",
-    "title": "Ladder Logic: Progressive Squat & Push Circuit",
-    "difficulty": "Beginner",
-    "duration": "32 min",
-    "equipment": [],
+    "title": "Alternating Dumbbell Heavy-Light: Strength Endurance Ladder",
+    "difficulty": "Intermediate",
+    "duration": "50 min",
+    "equipment": [
+      "dumbbells"
+    ],
     "trainingZone": "z4",
     "tags": [
-      "beginner_friendly",
       "circuit",
       "fat_loss",
       "full_body",
       "functional",
-      "hotel_friendly",
-      "no_equipment",
-      "under_30_min"
+      "minimal_equipment",
+      "muscle_gain",
+      "under_60_min"
     ],
-    "tip": "The ladder format means you start fresh each round—don't chase speed. Stop any set when form breaks; it's better to do 6 clean reps than 10 sloppy ones. Quality over volume at this level.",
-    "warmup": "3 min: 8 arm circles each direction, 10 bodyweight squats, 5 inchworms, 10 glute bridges, 5 push-ups",
+    "tip": "Use the heavy-to-light structure to maintain strength on early sets. When fatigue builds on the final round, lighter dumbbells still feel heavy—this is intentional metabolic work.",
+    "warmup": "5 min: arm swings, 10 air squats, 10 push-ups, 10 bird dogs each side, 5 burpees",
     "exercises": [
       {
-        "name": "Ladder Circuit: Bodyweight Squat + Push-Up Descending",
-        "sets": "1 round",
-        "reps": "10 squat + 10 push-up → 8 squat + 8 push-up → 6 squat + 6 push-up → 4 squat + 4 push-up → 2 squat + 2 push-up",
-        "notes": "Complete all reps of squats, immediately move to push-ups. Rest 60 sec after each pairing. Teaches work capacity and movement integrity under fatigue."
+        "name": "Dumbbell Sumo Deadlift (Heavy Anchor)",
+        "sets": "5",
+        "reps": "6",
+        "notes": "Wider stance, toes out, pull straight up. Heavy sumo work builds posterior chain and glute strength. Rest 45 sec between sets."
       },
       {
-        "name": "Finisher: Glute Bridge Holds",
+        "name": "Dumbbell Push Press (Heavy Anchor Superset)",
+        "sets": "5",
+        "reps": "6",
+        "notes": "Dip from legs then explosively press. Combines lower-body drive with upper-body power. Minimal rest between sumo and press (15 sec)."
+      },
+      {
+        "name": "Dumbbell Burpee with Rows (Metabolic Finisher)",
         "sets": "3",
-        "reps": "20 sec hold",
-        "notes": "Hold top position, glutes maximally squeezed. Rest 30 sec between holds. This teaches isometric posterior chain stability and aids fat loss via metabolic demand."
+        "reps": "15",
+        "notes": "Drop into plank, row one dumbbell then the other, perform burpee, stand. High-rep metabolic finisher after heavy compounds."
+      },
+      {
+        "name": "Dumbbell Alternating Reverse Lunges (Metabolic Finisher)",
+        "sets": "3",
+        "reps": "20 total",
+        "notes": "Step backward, alternate legs, keep dumbbells at sides. Unilateral single-leg work under fatigue builds stability and mental toughness."
+      },
+      {
+        "name": "Dumbbell Farmer Carry & Overhead Reach (Finisher)",
+        "sets": "2",
+        "reps": "20 meters forward, 20 meters backward",
+        "notes": "Carry heavy dumbbells, pause every 5 meters to reach overhead on each side. Integrates grip, core, and shoulder stability under fatigue."
       }
     ],
     "exerciseText": "",
-    "cooldown": "3 min: quad stretch 30 sec each leg, forward fold 30 sec, low lunge hip flexor 30 sec each side, standing shoulder opener 30 sec",
-    "description": "A descending-rep ladder format that builds strength endurance while maintaining perfect movement quality under fatigue—the ideal introductory system for fat loss and functional fitness. Combines compound lower and upper patterns in a format that keeps beginners engaged and prevents monotony."
+    "cooldown": "5 min: standing forward fold 40 sec, hip flexor lunge 30 sec each leg, lat stretch 20 sec each side, lying spinal twist 20 sec each side",
+    "description": "A ladder-based structure alternating heavy compound moves with high-rep metabolic work to build strength and work capacity in 50 minutes. Designed for intermediate athletes balancing strength gains with fat loss for general fitness and Hyrox readiness."
   },
   "meal": {
-    "id": "dfaca06c-6368-4331-9da9-5240276ce3dd",
-    "title": "Roasted Chickpea & Rosemary Cluster",
-    "description": "A crunchy, herb-forward snack with plant-based protein and fiber—great for general fitness athletes seeking a savory alternative to typical processed snacks.",
+    "id": "d8b9603b-49e1-45a3-a0a5-e83fd63d31ba",
+    "title": "Cottage Cheese & Pepperoni Bowl with Everything Crackers",
+    "description": "A savory, high-protein snack combining creamy cottage cheese with salty pepperoni and crunchy crackers—designed to fuel strength training recovery and muscle repair.",
     "meal_type": "snack",
-    "macro_profile": "balanced",
+    "macro_profile": "high_protein",
     "difficulty": "easy",
-    "cuisine": "mediterranean",
-    "calories": 155,
-    "protein_g": 5,
-    "carbs_g": 17,
-    "fat_g": 7,
-    "fiber_g": 4,
-    "prep_minutes": 5,
-    "cook_minutes": 25,
+    "cuisine": "american",
+    "calories": 215,
+    "protein_g": 20,
+    "carbs_g": 12,
+    "fat_g": 10,
+    "fiber_g": 1,
+    "prep_minutes": 2,
+    "cook_minutes": 0,
     "ingredients": [
-      "1 can (400g) chickpeas, drained and patted dry",
-      "1.5 tbsp olive oil",
-      "1 tsp fresh rosemary leaves",
-      "0.5 tsp sea salt",
-      "0.25 tsp black pepper"
+      "150g full-fat cottage cheese",
+      "20g pepperoni slices, roughly chopped",
+      "¼ tsp black pepper",
+      "8 everything seasoning crackers",
+      "¼ tsp hot sauce (optional)"
     ],
-    "instructions": "1. Preheat oven to 400°F (200°C).\n2. Toss drained chickpeas with olive oil, rosemary, salt, and pepper.\n3. Spread on a sheet pan in a single layer.\n4. Roast for 25 minutes, shaking the pan halfway through, until golden and crispy.\n5. Cool slightly before eating; they'll continue to crisp up as they cool.",
-    "tip": "Make a batch on Sunday and store in an airtight container for up to 4 days—perfect for grab-and-go all week.",
+    "instructions": "1. Scoop cottage cheese into a small bowl.\n2. Top with chopped pepperoni and a crack of black pepper.\n3. Add hot sauce if you like heat.\n4. Serve crackers on the side for dipping or crumbling on top.\n5. Eat standing or sitting—works either way.",
+    "tip": "Buy full-fat cottage cheese, not low-fat—it tastes better and keeps you fuller longer. The salt and fat from pepperoni makes this snack naturally satisfying and requires zero cooking.",
     "goal_affinity": [
+      "strength",
       "general_fitness"
     ],
     "image_url": ""
