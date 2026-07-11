@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-11",
+  "dateLabel": "Saturday, July 11, 2026",
+  "generatedAt": "2026-07-11T08:01:33.806Z",
+  "articles": [
+    {
+      "category": "MOBILITY",
+      "topic": "Walking speed preserves brain and memory",
+      "headline": "Super Movers: How Walking Faster Cuts Cognitive Decline Risk in Half",
+      "body": "A new study of nearly 4,000 adults over 80 found something surprising: those who maintained an exceptionally fast walking pace were about 50% less likely to develop cognitive decline than their slower-moving peers. The fastest 9% of walkers, dubbed \"super movers,\" showed significantly better brain health on multiple measures. Researchers found these fast walkers also preserved hippocampal volume—the brain region critical for memory and navigation. The study suggests gait speed could serve as a simple, low-cost marker to identify older adults at higher risk of cognitive decline, potentially allowing for earlier intervention.",
+      "takeaway": "Keep moving fast. Walking speed at 80+ is a powerful signal of brain health and cognitive resilience.",
+      "source": "Neurology / George Washington University",
+      "sourceUrl": "https://mediarelations.gwu.edu/media-tip-sheet-fast-walkers-their-80s-cut-cognitive-decline-risk-50-new-study-finds",
+      "pexelsQuery": "senior man walking fast outdoors",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/33787225/pexels-photo-33787225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33787225/pexels-photo-33787225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nikolass Graff",
+        "photographerUrl": "https://www.pexels.com/@nikgr",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-man-runs-with-dog-in-urban-setting-33787225/",
+        "avgColor": "#979893"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Dark chocolate scent boosts strength training",
+      "headline": "The Smell of Dark Chocolate Adds 18 Reps to Your Lift—Without Extra Effort",
+      "body": "A new study found that smelling dark chocolate before and during strength training improved performance in a surprising way. Young men performing leg extensions after a 10-hour fast completed approximately 18 more repetitions when exposed to the aroma of 90% cocoa dark chocolate, compared to a control group. The trick worked by suppressing hunger—participants reported less hunger, greater fullness, and weaker desire to eat after inhaling the dark chocolate scent. Remarkably, the increased reps came without any rise in perceived exertion, suggesting the brain's appetite centers can enhance physical output. Milk chocolate aroma provided a smaller boost without affecting appetite.",
+      "takeaway": "Use scent as a performance tool: sniff dark chocolate before fasted training to add real reps without feeling harder effort.",
+      "source": "Frontiers in Physiology",
+      "sourceUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1834757/full",
+      "pexelsQuery": "dark chocolate bar scent smell",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4113288/pexels-photo-4113288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4113288/pexels-photo-4113288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "alleksana",
+        "photographerUrl": "https://www.pexels.com/@alleksana",
+        "photoPageUrl": "https://www.pexels.com/photo/chocolate-bars-on-a-white-surface-4113288/",
+        "avgColor": "#ABA4A2"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Upper body muscle quality reduces heart attack risk",
+      "headline": "Strong Back and Chest Muscles Cut Heart Attack Risk by 31 Percent",
+      "body": "A groundbreaking study using AI to analyze cardiac scans found that people with higher-quality chest and back muscles had significantly lower heart attack risk. Researchers analyzed scans from 1,722 patients and tracked them over a decade. Those with stronger, denser torso muscles showed a 31% lower risk of heart attack and a 39% lower risk of premature death. The key finding: muscle quality matters more than size. Researchers found that people with below-average muscle density had an 85% higher death risk and 58% higher heart attack risk. The study suggests upper-body strength is a powerful marker of cardiovascular resilience that doctors should monitor.",
+      "takeaway": "Build chest and back strength. Upper-body muscle quality predicts heart health better than most standard tests.",
+      "source": "Radiology Journal / University of Edinburgh",
+      "sourceUrl": "https://www.healthline.com/health-news/heart-attack-risk-lower-strong-chest-back-muscles",
+      "pexelsQuery": "muscular back and chest strength training",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8044964/pexels-photo-8044964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8044964/pexels-photo-8044964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Wes McKeehan",
+        "photographerUrl": "https://www.pexels.com/@wes-mckeehan-61080041",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-red-tank-top-sitting-while-looking-at-his-muscles-8044964/",
+        "avgColor": "#2C1912"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Alcohol and stress permanently rewire the brain",
+      "headline": "Drinking to Cope With Stress When Young Rewires Your Brain for Decades",
+      "body": "New research from the University of Massachusetts Amherst reveals that using alcohol to manage stress in early adulthood produces lasting brain changes that don't fade with years of sobriety. The study found that neither alcohol nor stress alone causes the same damage—but the combination is especially potent. Young adults who drink heavily to cope with stress become more likely to turn back to alcohol in middle age, even after prolonged abstinence. By midlife, the damage appears as reduced mental flexibility and difficulty adapting to new challenges. Researchers also found signs of oxidative stress in the brain, the kind of damage linked to Alzheimer's disease.",
+      "takeaway": "Deal with stress without alcohol. The brain effects of stress-drinking in your 30s show up as cognitive decline and relapse risk by your 50s.",
+      "source": "Alcohol, Clinical and Experimental Research / University of Massachusetts Amherst",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260626030437.htm",
+      "pexelsQuery": "man stressed thinking indoor quiet",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7255264/pexels-photo-7255264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7255264/pexels-photo-7255264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/tired-man-touching-his-eyes-7255264/",
+        "avgColor": "#C2B4A5"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Exercise is by far the most potent longevity drug. No other intervention does nearly as much to prolong our lifespan and preserve our cognitive and physical function.",
+    "author": "Peter Attia, MD",
+    "context": "Longevity medicine physician and author of Outlive"
+  },
+  "workout": {
+    "id": "4ae3ba39-58df-45f1-a5c1-a54736053e2f",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "full_body",
+    "title": "Ladder Logic: Progressive Squat & Push Circuit",
+    "difficulty": "Beginner",
+    "duration": "32 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "beginner_friendly",
+      "circuit",
+      "fat_loss",
+      "full_body",
+      "functional",
+      "hotel_friendly",
+      "no_equipment",
+      "under_30_min"
+    ],
+    "tip": "The ladder format means you start fresh each round—don't chase speed. Stop any set when form breaks; it's better to do 6 clean reps than 10 sloppy ones. Quality over volume at this level.",
+    "warmup": "3 min: 8 arm circles each direction, 10 bodyweight squats, 5 inchworms, 10 glute bridges, 5 push-ups",
+    "exercises": [
+      {
+        "name": "Ladder Circuit: Bodyweight Squat + Push-Up Descending",
+        "sets": "1 round",
+        "reps": "10 squat + 10 push-up → 8 squat + 8 push-up → 6 squat + 6 push-up → 4 squat + 4 push-up → 2 squat + 2 push-up",
+        "notes": "Complete all reps of squats, immediately move to push-ups. Rest 60 sec after each pairing. Teaches work capacity and movement integrity under fatigue."
+      },
+      {
+        "name": "Finisher: Glute Bridge Holds",
+        "sets": "3",
+        "reps": "20 sec hold",
+        "notes": "Hold top position, glutes maximally squeezed. Rest 30 sec between holds. This teaches isometric posterior chain stability and aids fat loss via metabolic demand."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min: quad stretch 30 sec each leg, forward fold 30 sec, low lunge hip flexor 30 sec each side, standing shoulder opener 30 sec",
+    "description": "A descending-rep ladder format that builds strength endurance while maintaining perfect movement quality under fatigue—the ideal introductory system for fat loss and functional fitness. Combines compound lower and upper patterns in a format that keeps beginners engaged and prevents monotony."
+  },
+  "meal": {
+    "id": "dfaca06c-6368-4331-9da9-5240276ce3dd",
+    "title": "Roasted Chickpea & Rosemary Cluster",
+    "description": "A crunchy, herb-forward snack with plant-based protein and fiber—great for general fitness athletes seeking a savory alternative to typical processed snacks.",
+    "meal_type": "snack",
+    "macro_profile": "balanced",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 155,
+    "protein_g": 5,
+    "carbs_g": 17,
+    "fat_g": 7,
+    "fiber_g": 4,
+    "prep_minutes": 5,
+    "cook_minutes": 25,
+    "ingredients": [
+      "1 can (400g) chickpeas, drained and patted dry",
+      "1.5 tbsp olive oil",
+      "1 tsp fresh rosemary leaves",
+      "0.5 tsp sea salt",
+      "0.25 tsp black pepper"
+    ],
+    "instructions": "1. Preheat oven to 400°F (200°C).\n2. Toss drained chickpeas with olive oil, rosemary, salt, and pepper.\n3. Spread on a sheet pan in a single layer.\n4. Roast for 25 minutes, shaking the pan halfway through, until golden and crispy.\n5. Cool slightly before eating; they'll continue to crisp up as they cool.",
+    "tip": "Make a batch on Sunday and store in an airtight container for up to 4 days—perfect for grab-and-go all week.",
+    "goal_affinity": [
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
