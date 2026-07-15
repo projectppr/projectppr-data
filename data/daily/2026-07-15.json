@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-15",
+  "dateLabel": "Wednesday, July 15, 2026",
+  "generatedAt": "2026-07-15T11:04:02.839Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "Gum disease bacteria links to heart valve disease",
+      "headline": "Your Dentist Matters More Than You Think. Gum Disease Now Linked to Heart Valves",
+      "body": "New research from the American Heart Association found that bacteria from gum disease may trigger calcium buildup in your heart's aortic valve, potentially leading to a common heart condition called calcific aortic valve stenosis. The study used lab models and human tissue to show the link. While the findings are preliminary, they suggest that treating gum disease and reducing inflammation could eventually help prevent this serious heart condition. No medications currently exist to stop or slow this type of valve disease, making prevention through oral health a critical first line of defense.",
+      "takeaway": "Keep your teeth and gums healthy as part of your heart health strategy. Regular dental care isn't just about your smile—it protects your cardiovascular system.",
+      "source": "American Heart Association",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260713000751.htm",
+      "pexelsQuery": "dentist teeth gum examination dental care",
+      "photo": {
+        "url": "https://images.pexels.com/photos/12148417/pexels-photo-12148417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12148417/pexels-photo-12148417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Arvind Philomin",
+        "photographerUrl": "https://www.pexels.com/@arvind-philomin-187831830",
+        "photoPageUrl": "https://www.pexels.com/photo/dentist-checking-teeth-of-a-person-12148417/",
+        "avgColor": "#937865"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Standard earbuds detect heart valve movement with accuracy",
+      "headline": "Your Earbuds Are Now a Cardiac Monitoring Device",
+      "body": "Carnegie Mellon researchers proved that everyday earbuds can monitor heart health nearly as well as medical-grade chest sensors. The team used machine learning to detect heart vibrations that travel through your body to the ear, reconstructing detailed cardiac signals with 88-95% accuracy compared to clinical equipment. The breakthrough means continuous heart monitoring could eventually happen during normal daily activities—while listening to music, taking calls, or working out. This technology could someday help detect valve disorders and atrial fibrillation without requiring clinical visits or special equipment.",
+      "takeaway": "The earbuds you already own could become a powerful health monitoring tool. This bridges the gap between convenience and clinical-grade cardiac data.",
+      "source": "Carnegie Mellon University / MedicalXpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-earbuds-heart-health.html",
+      "pexelsQuery": "wireless earbuds white audio technology",
+      "product": {
+        "id": "tech-001",
+        "name": "Ray-Ban Meta Smart Glasses",
+        "brand": "Ray-Ban",
+        "asin": "B0FLYDJHB4",
+        "url": "https://www.amazon.com/dp/B0FLYDJHB4?tag=chrisolson04-20",
+        "category": "tech",
+        "price_range": "$$$",
+        "keywords": [
+          "smart glasses",
+          "wearable",
+          "tech",
+          "audio",
+          "lifestyle",
+          "hands-free",
+          "daily carry"
+        ],
+        "blurb": "Sunglasses that play music, take calls, and keep you present. Chris uses these daily."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7812322/pexels-photo-7812322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7812322/pexels-photo-7812322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "SpotwizardLee",
+        "photographerUrl": "https://www.pexels.com/@spotwizardlee-35777904",
+        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photo-of-a-wireless-earphone-7812322/",
+        "avgColor": "#CACACA"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Dark chocolate aroma boosts strength reps without extra effort",
+      "headline": "The Weirdest Gym Hack: Sniff Chocolate, Add 18 Reps",
+      "body": "A study in Frontiers in Physiology found something unexpected: smelling dark chocolate before and between sets of leg exercises led men to complete about 18 more repetitions compared to a control group—without feeling like they were working any harder. The mechanism is psychological, not physical. Dark chocolate's aroma suppressed hunger and increased feelings of fullness, shifting how the brain processes effort during strength training. The effect was strongest with 90% cocoa dark chocolate and worked even when participants had fasted for at least 10 hours. Milk chocolate worked too, but only added about 9 extra reps.",
+      "takeaway": "Simple sensory cues can enhance training output. Try bringing dark chocolate to smell during your next strength session—your brain might get you more reps than your muscles thought possible.",
+      "source": "Frontiers in Physiology",
+      "sourceUrl": "https://www.frontiersin.org/news/2026/07/09/sniffing-chocolate-workout-easier",
+      "pexelsQuery": "dark chocolate cocoa bar brown",
+      "photo": {
+        "url": "https://images.pexels.com/photos/12378830/pexels-photo-12378830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12378830/pexels-photo-12378830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Юлия Зяблова",
+        "photographerUrl": "https://www.pexels.com/@foyu",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-photo-of-confectionery-ingredients-12378830/",
+        "avgColor": "#DECBBD"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "Chest and back muscle quality reduces heart attack risk",
+      "headline": "Strong Muscles in Your 50s Predict Your Heart's Future",
+      "body": "A study published in Radiology analyzed over 1,700 people in their fifties and found a striking correlation: those with higher-quality muscle density in their chest and back were 31% less likely to have a heart attack in the following decade and 39% less likely to die. The key finding: muscle quality matters far more than muscle size. Using AI to analyze routine heart scans, researchers discovered that denser, higher-quality skeletal muscle—the kind you build through consistent strength training—appears to be a powerful biomarker for cardiovascular resilience. The researchers believe this reflects a broader lifestyle of regular exercise and functional strength.",
+      "takeaway": "Strength training isn't vanity—it's longevity insurance. Focus on building quality muscle in your upper body now; it's one of your best defenses against cardiac events decades from now.",
+      "source": "University of Edinburgh / Radiology",
+      "sourceUrl": "https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2026/june/strong-muscles-linked-to-lower-heart-attack-risk",
+      "pexelsQuery": "man strength training dumbbell weights upper body",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4720772/pexels-photo-4720772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4720772/pexels-photo-4720772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/man-lifting-dumbbell-4720772/",
+        "avgColor": "#554E40"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Resilience is not simply about toughness, nor is it a fixed trait that some athletes possess and others do not. Resilience appears to arise from a set of underlying psychological processes that can be strengthened through intentional, evidence-based approaches.",
+    "author": "Dr. Tiffany Stewart, Pennington Biomedical Research Center",
+    "context": "Leading researcher in athlete psychological resilience and mental health, based on longitudinal studies of female athletes"
+  },
+  "workout": {
+    "id": "066102c3-541b-4479-b520-8402a2818866",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Goblet Squat Mastery: Depth & Control Foundation",
+    "difficulty": "Beginner",
+    "duration": "32 min",
+    "equipment": [
+      "dumbbell"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "functional",
+      "joint_friendly",
+      "lower_body",
+      "squat_dominant",
+      "under_60_min"
+    ],
+    "tip": "Keep the dumbbell close to your chest and elbows pointing down. This cue keeps your torso upright and prevents excessive forward lean—let your hips and knees do the work.",
+    "warmup": "4 min: 10 arm circles, 15 leg swings each leg, 10 bodyweight squats (slow and controlled), 5 glute bridges",
+    "exercises": [
+      {
+        "name": "Goblet Squat",
+        "sets": "4",
+        "reps": "10",
+        "notes": "Hold dumbbell at chest with both hands. Descend to full depth (hip crease below parallel), keep knees tracking over toes, pause 1 sec at bottom. Focus on controlled ascent without bouncing."
+      },
+      {
+        "name": "Glute Bridge Hold & Pulse",
+        "sets": "3",
+        "reps": "8 pulses + 5 sec hold",
+        "notes": "Lie on back, feet flat, drive through heels to lift hips. Pulse up 1 inch for 8 reps, then hold top position for 5 sec. Squeeze glutes hard—this teaches hip extension and posterior chain activation."
+      },
+      {
+        "name": "Supported Split Squat (Dumbbell in One Hand)",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Stagger stance, hold dumbbell in right hand at shoulder. Step back, lower until rear knee nearly touches ground. Front knee stays stacked over ankle. This unilateral work exposes and corrects imbalances."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: quad stretch 40 sec each leg (standing or lunge position), hamstring stretch 40 sec, figure-4 hip stretch 40 sec each side",
+    "description": "A focused lower-body session building squat pattern fundamentals through goblet squats, glute bridges, and supported split squats. This workout teaches proper knee tracking, hip depth, and posterior chain engagement—essential for strength development and injury prevention in busy professionals."
+  },
+  "meal": {
+    "id": "d1ff5452-2ccd-4956-9286-b9c78f4d061a",
+    "title": "Seared Tuna and Farro Bowl with Avocado and Lemon Herb Dressing",
+    "description": "Cook farro in bulk on Sunday and refrigerate. This bowl comes together in under 10 minutes when the grain is already done.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 x 5 oz tuna steaks\n1 cup cooked farro\n1 ripe avocado, sliced\n2 cups baby spinach\n1 cup cherry tomatoes, halved\n2 tbsp olive oil\nJuice of 1 lemon\n1 tbsp fresh parsley, chopped\n1 tsp Dijon mustard\nSalt, black pepper, and chili flakes to taste\n\nInstructions:\n1. Season tuna steaks with salt, pepper, and chili flakes. Heat 1 tbsp olive oil in a pan over high heat and sear tuna for 90 seconds per side. Remove and slice. 2. Whisk remaining olive oil, lemon juice, Dijon mustard, parsley, salt, and pepper into a dressing. 3. Build bowls with farro as the base, then spinach, cherry tomatoes, and avocado. 4. Lay sliced tuna on top and drizzle with lemon herb dressing.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
