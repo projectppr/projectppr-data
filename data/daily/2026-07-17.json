@@ -1,0 +1,208 @@
+{
+  "date": "2026-07-17",
+  "dateLabel": "Friday, July 17, 2026",
+  "generatedAt": "2026-07-17T11:09:02.989Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "lactate brain mood regulation",
+      "headline": "Your Muscles Release Your Brain's Anti-Depressant. Here's Why.",
+      "body": "Scientists have been quietly discovering that lactate—the compound your muscles produce during tough workouts—is far more than a metabolic waste product. When you push hard, lactate floods into your bloodstream and crosses the blood-brain barrier where it triggers mood-regulating pathways. Research shows lactate regulates neurogenesis, neuroplasticity, and microglia function, essentially rebuilding your brain's resilience architecture. Exercise-induced lactate production now ranks alongside medication as a serious therapeutic intervention for depression and anxiety. Translation: the harder you work, the more anti-depressant fuel your brain gets.",
+      "takeaway": "Vigorous exercise increases brain lactate uptake—the harder you push, the more depression-fighting molecules your brain produces naturally.",
+      "source": "Journal of Advanced Research",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12869207/",
+      "pexelsQuery": "athlete running intense workout sweat",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5961849/pexels-photo-5961849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5961849/pexels-photo-5961849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RUN 4 FFWPU",
+        "photographerUrl": "https://www.pexels.com/@runffwpu",
+        "photoPageUrl": "https://www.pexels.com/photo/men-running-on-running-track-5961849/",
+        "avgColor": "#8C6C65"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "women muscle growth capacity hypertrophy",
+      "headline": "Women Build Muscle at the Same Rate Men Do. Period.",
+      "body": "A 2025 meta-analysis published in PeerJ just demolished one of fitness's most persistent myths: that women build muscle differently or more slowly than men. The data is clear—women have nearly identical capacity for muscle hypertrophy when they follow progressive resistance training. While men start with more baseline muscle mass, the relative gains are virtually identical. What matters isn't testosterone levels. It's progressive overload, volume, and consistency. Your hormonal cycle doesn't impair your ability to gain muscle tissue. The old advice to train around your hormones? Time to retire it. Focus instead on the fundamentals that work for everyone: moving heavy things regularly.",
+      "takeaway": "Women gain muscle at comparable rates to men when training with progressive resistance—hormonal differences matter far less than consistent progressive overload.",
+      "source": "National Geographic",
+      "sourceUrl": "https://www.nationalgeographic.com/health/article/women-strength-training-hormones-muscle-growth",
+      "pexelsQuery": "woman lifting weights strength training gym",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4854262/pexels-photo-4854262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4854262/pexels-photo-4854262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-picking-dumbbells-at-the-gym-4854262/",
+        "avgColor": "#826B31"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "vitamin K2 bone density postmenopausal",
+      "headline": "Vitamin K2 Quietly Rebuilds Your Spine. The Data is Solid.",
+      "body": "For years, calcium and vitamin D got all the attention while vitamin K2 stayed in the shadows. New evidence shows this was a mistake. A 3-year randomized trial of 244 postmenopausal women taking 180 mcg of MK-7 daily showed significantly slowed bone loss at the spine and hip while improving bone strength markers. The mechanism is elegant: K2 activates osteocalcin, the protein that binds calcium directly into bone matrix. Women in the K2 group reduced uncarboxylated osteocalcin by over 50%—proof the supplement was working at a biochemical level. Results take time, emerging after 2-3 years, but this is the kind of boring, testable benefit that actually prevents fractures.",
+      "takeaway": "Daily MK-7 supplementation (180 mcg) slows age-related bone loss and improves bone strength in postmenopausal women—results peak at 2-3 years.",
+      "source": "HealthyMag",
+      "sourceUrl": "https://healthymag.org/2026/07/02/vitamin-k2-benefits-heart-bones/",
+      "pexelsQuery": "vitamin supplement pill bottle health",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4492113/pexels-photo-4492113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4492113/pexels-photo-4492113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Artem Podrez",
+        "photographerUrl": "https://www.pexels.com/@artempodrez",
+        "photoPageUrl": "https://www.pexels.com/photo/crop-woman-putting-scattered-pills-back-in-jar-4492113/",
+        "avgColor": "#DFC7AB"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "cognitive training amyloid biomarkers Alzheimer's",
+      "headline": "Speed Training Just Reduced Alzheimer's Markers in Your Brain.",
+      "body": "Researchers presented unexpected results at the Alzheimer's Association conference this week: 20 hours of speed-focused cognitive training produced measurable improvements in beta-amyloid biomarkers—the hallmark pathology of Alzheimer's disease. The training targeted attention and processing speed. Participants showed significant improvements in Aβ42/Aβ40 ratios, suggesting the intervention influenced biological pathways directly involved in neurodegeneration. This adds to growing evidence from the ACTIVE and INHANCE studies showing cognitive training reduces dementia incidence and restores acetylcholine production. The implication is seismic: your brain's protective capacity may be more trainable than we thought, and targeted mental exercises might function as preventive medicine.",
+      "takeaway": "Focused speed-training cognitive exercises improved amyloid biomarkers in people at risk, suggesting cognitive training may have disease-modifying potential for neurodegeneration.",
+      "source": "Globe Newswire",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/07/13/3326065/0/en/Brain-Training-Shown-to-Reduce-Amyloid-Indicative-of-Alzheimer-s.html",
+      "pexelsQuery": "brain anatomy cognitive training puzzle game",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6210327/pexels-photo-6210327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6210327/pexels-photo-6210327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yan Krukau",
+        "photographerUrl": "https://www.pexels.com/@yankrukov",
+        "photoPageUrl": "https://www.pexels.com/photo/child-playing-with-puzzle-on-floor-6210327/",
+        "avgColor": "#A88D73"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Adversity causes some men to break; others to break records.",
+    "author": "William Arthur Ward",
+    "context": "An inspirational writer whose words on resilience have become foundational in sports psychology and performance coaching."
+  },
+  "workout": {
+    "id": "123801cd-0a8c-4741-8fd4-0f934f17f77d",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "easy",
+    "title": "Breathing & Pace Flow: Extended Run-Walk Progression",
+    "difficulty": "Beginner",
+    "duration": "28 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "no_equipment",
+      "outdoor",
+      "under_30_min"
+    ],
+    "tip": "Practice 'box breathing' during walking segments: inhale for 4 steps, hold for 4, exhale for 4, hold for 4. This primes a rhythmic breath pattern for running blocks.",
+    "warmup": "2 min easy walk, 10 arm swings forward-back each side, 10 lateral lunges each side, 5 glute bridges",
+    "exercises": [
+      {
+        "name": "Progressive Run-Walk Block A",
+        "sets": "1",
+        "reps": "1 min walk + 2 min run",
+        "notes": "Walk to settle, then run at easy conversational pace. Breathe rhythmically: inhale for 2 steps, exhale for 2. Keep shoulders relaxed, eyes forward."
+      },
+      {
+        "name": "Recovery Walk",
+        "sets": "1",
+        "reps": "1 min walk",
+        "notes": "Shake out legs, reset breathing."
+      },
+      {
+        "name": "Progressive Run-Walk Block B",
+        "sets": "1",
+        "reps": "1 min walk + 3 min run",
+        "notes": "Extended run block. If breathing becomes shallow or fast, slow your pace—maintain conversation ability. This is adaptation, not struggle."
+      },
+      {
+        "name": "Recovery Walk",
+        "sets": "1",
+        "reps": "1 min walk",
+        "notes": "Easy pace, full recovery."
+      },
+      {
+        "name": "Progressive Run-Walk Block C",
+        "sets": "1",
+        "reps": "1 min walk + 3 min run",
+        "notes": "Repeat the 3-minute block. By the second extended run, you should feel more settled and rhythmic."
+      },
+      {
+        "name": "Final Walk-Down",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Slow walking, intentional breathing, mental reset."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "1 min quad stretch each leg, 1 min standing forward fold, 30 sec each hip flexor lunge, 1 min seated breathing (4–4–4–4 box pattern)",
+    "description": "A second-stage beginner session progressing to longer run blocks (2–3 minutes) with structured breathing drills to deepen aerobic capacity. This workout focuses on nasal breathing cues and maintaining conversational pace across increasing continuous running blocks, building confidence for the 20-minute target. Ideal for runners building 5K fitness and fat-loss base with body-awareness emphasis."
+  },
+  "meal": {
+    "id": "f582c32f-6e00-4e34-abd9-613e6f06c1d4",
+    "title": "Smoky Red Lentil and Roasted Pepper Bowl",
+    "description": "Red lentils cook fast and don't need soaking, making this genuinely weeknight-ready. Double the batch and refrigerate up to 4 days. The Greek yogurt adds about 6g of extra protein and works like a cooling raita.",
+    "meal_type": "dinner",
+    "macro_profile": "high_carb",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 480,
+    "protein_g": 28,
+    "carbs_g": 58,
+    "fat_g": 12,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n1 cup dry red lentils\n1 red bell pepper, halved\n1 can (14 oz) diced fire-roasted tomatoes\n1/2 cup plain Greek yogurt\n3 cloves garlic, minced\n1 tsp smoked paprika\n1 tsp cumin\n1/2 tsp turmeric\n1/2 tsp chili flakes (optional)\n2 cups vegetable broth\n1 tbsp olive oil\nSalt and pepper to taste\nFresh parsley or cilantro to serve\nSqueeze of lemon juice\n\nInstructions:\n1. Roast the halved bell pepper under a broiler for 10 minutes until charred, then peel and slice. 2. Heat olive oil in a pan, saute garlic for 1 minute, then add spices and toast for 30 seconds. Add lentils, broth, and tomatoes, and simmer on medium for 15 to 18 minutes until lentils are soft. 3. Season with salt, pepper, and a squeeze of lemon. 4. Serve in bowls topped with roasted pepper strips, a dollop of Greek yogurt, and fresh herbs.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
