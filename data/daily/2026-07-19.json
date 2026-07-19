@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-19",
+  "dateLabel": "Sunday, July 19, 2026",
+  "generatedAt": "2026-07-19T11:08:00.748Z",
+  "articles": [
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "AI-powered wearable detects heart arrhythmias",
+      "headline": "A Postage Stamp Patch Just Spotted Heart Arrhythmias With Scary Accuracy",
+      "body": "Researchers at the University of Chicago developed a thin, flexible computing patch that detects life-threatening heart arrhythmias with 99.6% accuracy. Unlike traditional wearables that send data to the cloud, this patch runs AI directly on your body, delivering results in milliseconds. It's the frontier of on-device medical AI: clinical-grade monitoring without needing to phone home. This matters because faster detection could mean faster intervention.",
+      "takeaway": "Wearable patches that process AI locally on the skin could enable real-time cardiac detection without cloud dependence.",
+      "source": "MarketScale",
+      "sourceUrl": "https://www.marketscale.com/industries/healthcare/digital-healths-july-2026-signal-ai-wearables-a-new-cms-office-and-the-telehealth-billing-fight",
+      "pexelsQuery": "medical patch skin technology",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9486092/pexels-photo-9486092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9486092/pexels-photo-9486092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vika Glitter",
+        "photographerUrl": "https://www.pexels.com/@vika-glitter-392079",
+        "photoPageUrl": "https://www.pexels.com/photo/a-hand-with-band-aid-holding-a-medicine-9486092/",
+        "avgColor": "#3D3331"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Artificial sweeteners alter gut bacteria growth",
+      "headline": "Your Sweetener Might Be Changing Your Gut Bacteria More Than You Think",
+      "body": "Cambridge researchers tested 39 common sweeteners against 25 species of gut bacteria in the lab. About three-quarters of them changed bacterial growth. The real kicker: when sweeteners mix with medications or caffeine, the effects intensify or disappear entirely. One sweetener—isosteviol—combined with the antidepressant duloxetine severely suppressed bacteria linked to blood sugar regulation. The study suggests sweeteners don't just pass through your body passively. They interact with your gut ecosystem, and those interactions vary wildly based on what else you're consuming.",
+      "takeaway": "Artificial sweeteners affect individual bacterial species differently, with effects amplified or reduced depending on medications or other substances you consume.",
+      "source": "ScienceDaily / University of Cambridge",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
+      "pexelsQuery": "sweetener sugar substitute food",
+      "photo": {
+        "url": "https://images.pexels.com/photos/21582446/pexels-photo-21582446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/21582446/pexels-photo-21582446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kenneth Surillo",
+        "photographerUrl": "https://www.pexels.com/@kenzero14",
+        "photoPageUrl": "https://www.pexels.com/photo/plastic-bags-of-sugar-on-shelf-in-store-21582446/",
+        "avgColor": "#AE9291"
+      }
+    },
+    {
+      "category": "COLD THERAPY",
+      "topic": "Whole-body cryotherapy research shows immune modulation",
+      "headline": "Cold Chambers Might Actually Train Your Immune System",
+      "body": "New 2026 research shows that whole-body cryotherapy at -90°C over nine weeks modulated immune markers and body composition. The extreme cold triggers your sympathetic nervous system, releasing noradrenaline and endorphins, which reduces pain signals and influences mood. The evidence is strongest for inflammation reduction and athletic recovery. But here's the catch: whole-body cryotherapy isn't FDA-cleared for medical use. The science is real, but the field is still moving from fringe to frontier. Cold water immersion and localized ice therapy have better evidence than chamber exposure.",
+      "takeaway": "Cold therapy modulates immune markers and inflammation, but evidence quality varies significantly between different cold therapy types.",
+      "source": "Top Doctor Magazine / Mayo Clinic",
+      "sourceUrl": "https://topdoctormagazine.com/doctor/cryotherapy-health-benefits-cold-therapy/",
+      "pexelsQuery": "ice cold water immersion recovery",
+      "photo": {
+        "url": "https://images.pexels.com/photos/30429930/pexels-photo-30429930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/30429930/pexels-photo-30429930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Francesco Ungaro",
+        "photographerUrl": "https://www.pexels.com/@francesco-ungaro",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-ice-formations-on-a-winter-lake-30429930/",
+        "avgColor": "#426779"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Regular coffee consumption reduces chronic disease risk",
+      "headline": "Your Morning Coffee Might Add Years to Your Life",
+      "body": "A review of large-scale studies shows that moderate coffee consumption—three to five cups daily—correlates with reduced overall mortality and lower risk of cardiovascular disease, type 2 diabetes, stroke, cognitive decline, and certain cancers. Both caffeinated and decaffeinated coffee show benefits. Caffeine appears to reduce amyloid-beta accumulation, the toxic protein linked to Alzheimer's. But coffee's benefits aren't just about caffeine. It contains over 1,000 compounds including chlorogenic acids and melanoidins that act as antioxidants and anti-inflammatories. One caveat: adding sugar and cream diminishes the positive effects.",
+      "takeaway": "Moderate daily coffee intake is associated with reduced mortality and lower disease risk across multiple chronic conditions.",
+      "source": "Medical News Today / Nature Reviews",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/roundup-coffee-and-longevity-3-studies-explore-how-coffee-may-benefit-healthy-aging",
+      "pexelsQuery": "coffee cup morning beverage",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5599/sunglasses-hands-coffee-cup.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5599/sunglasses-hands-coffee-cup.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Karolina Grabowska www.kaboompics.com",
+        "photographerUrl": "https://www.pexels.com/@karola-g2",
+        "photoPageUrl": "https://www.pexels.com/photo/hands-with-cup-of-coffee-5599/",
+        "avgColor": "#8A585B"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Every day is a new chance to rewrite your story. Age might slow you down, but it doesn't have to stop you.",
+    "author": "Retired U.S. Army Lieutenant Colonel, National Senior Games competitor",
+    "context": "Masters athlete competing in triathlons and road races in their 50s, redefining what aging and longevity look like through consistent daily movement."
+  },
+  "workout": {
+    "id": "74bd572e-a35e-4726-bcf0-77abcc6089be",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "yoga",
+    "title": "Sun Salutation Flow: Breath & Body Awareness Foundation",
+    "difficulty": "Beginner",
+    "duration": "35 min",
+    "equipment": [
+      "yoga_mat"
+    ],
+    "trainingZone": "z1",
+    "tags": [
+      "beginner_friendly",
+      "full_body",
+      "indoor",
+      "joint_friendly",
+      "low_impact",
+      "mobility_focused",
+      "under_60_min"
+    ],
+    "tip": "Sync each movement to one full breath cycle—inhale on upward transitions, exhale on forward folds. This calms the nervous system and prevents rushing through poses.",
+    "warmup": "3 min: seated cross-legged breathing (5 deep belly breaths), 10 gentle neck rolls (5 each direction), 5 shoulder shrugs with exhales, 8 cat-cow stretches",
+    "exercises": [
+      {
+        "name": "Sun Salutation A (Surya Namaskar A) - Slow Tempo",
+        "sets": "5",
+        "reps": "1 full cycle per set",
+        "notes": "Flow: mountain pose → forward fold → halfway lift → plank → lower to belly → upward dog → downward dog → step forward → forward fold → rise to mountain. Take 5-6 breaths per cycle. Focus on spinal extension and hip hinge mechanics."
+      },
+      {
+        "name": "Mountain Pose (Tadasana) - Grounding Hold",
+        "sets": "3",
+        "reps": "8 breaths each",
+        "notes": "Stand feet hip-width apart, press all four corners of feet into mat, engage thighs, lengthen spine. Root down through feet to feel stability—this builds proprioception and posture awareness critical for injury prevention."
+      },
+      {
+        "name": "Forward Fold with Shoulder Opener",
+        "sets": "2",
+        "reps": "8 breaths per variation",
+        "notes": "Hold forward fold, clasp hands behind back, gently lift chest toward thighs. Opens shoulders and hamstrings; let gravity do the work rather than forcing depth. Release hands, relax forward for 8 more breaths."
+      },
+      {
+        "name": "Warrior I (Virabhadrasana I) - Standing Strength",
+        "sets": "2",
+        "reps": "8 breaths each side",
+        "notes": "Front foot forward, back foot 45°, sink hips into front thigh, reach arms overhead. Builds single-leg stability and hip opener; critical for maintaining running form and preventing hip imbalances in endurance athletes."
+      },
+      {
+        "name": "Triangle Pose (Trikonasana) - Lateral Stretch",
+        "sets": "2",
+        "reps": "8 breaths each side",
+        "notes": "Wide stance, turn front foot out, extend torso over front leg, bottom hand to shin or block. Stretches hamstrings, obliques, and chest; improves spinal rotation mobility for dynamic movement."
+      },
+      {
+        "name": "Child's Pose (Balasana) - Spinal Decompression",
+        "sets": "1",
+        "reps": "12 breaths",
+        "notes": "Knees wide, big toes together, forehead to mat, arms extended or by sides. Releases lower back tension and encourages parasympathetic activation—essential for recovery-focused practice."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: seated forward fold 60 sec, reclined pigeon 45 sec each side, supine twist 30 sec each side, final savasana (corpse pose) 2 min with eyes closed focusing on natural breath",
+    "description": "A gentle, rhythmic introduction to sun salutations paired with deep breathing for beginners. This 35-minute session builds flexibility, spinal mobility, and mind-body connection while establishing a sustainable recovery habit. Perfect for athletes returning from training or preparing the body for the week ahead."
+  },
+  "meal": {
+    "id": "fe8c75c1-40c0-44a2-8f7f-614905f1db1a",
+    "title": "Date & Cashew Butter Energy Bites",
+    "description": "No-bake bites made from Medjool dates, cashew butter, and a pinch of cinnamon—pure carb and fat fuel in handheld form. Endurance athletes love these for reliable energy that's easy to digest 45 minutes before a long effort.",
+    "meal_type": "pre_workout",
+    "macro_profile": "high_carb",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 216,
+    "protein_g": 5,
+    "carbs_g": 30,
+    "fat_g": 10,
+    "fiber_g": 3,
+    "prep_minutes": 10,
+    "cook_minutes": 0,
+    "ingredients": [
+      "8 Medjool dates",
+      "3 tbsp natural cashew butter",
+      "1/4 tsp ground cinnamon",
+      "pinch of sea salt"
+    ],
+    "instructions": "1. Remove pits from dates and chop roughly.\n2. Blend or food-process dates and cashew butter until sticky and well combined.\n3. Fold in cinnamon and salt.\n4. Roll into 6 equal balls (approximately 2 bites per ball).\n5. Store in an airtight container in the fridge for up to 5 days.",
+    "tip": "Make a full batch on Sunday—grab one 30–45 minutes before any endurance session. Dates are nature's performance fuel; the natural sugars digest fast without the artificial taste of most energy gels.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "triathlon"
+    ],
+    "image_url": ""
+  }
+}
