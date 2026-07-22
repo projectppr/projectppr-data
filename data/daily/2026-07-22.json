@@ -1,0 +1,211 @@
+{
+  "date": "2026-07-22",
+  "dateLabel": "Wednesday, July 22, 2026",
+  "generatedAt": "2026-07-22T11:05:59.657Z",
+  "articles": [
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Spermidine boosts aging immune response",
+      "headline": "A Simple Compound in Cheese Supercharged Older Adults' Vaccine Response",
+      "body": "Seniors who took spermidine—a natural compound found in aged cheese, wheat germ, and mushrooms—produced significantly more antibodies after COVID vaccination than those on placebo. In a 13-week study of 40 adults over 65, the supplement specifically helped vaccine non-responders, those who typically struggle to build protective immunity. Their immune cells showed markers of biological aging that spermidine reversed. The results suggest this isn't just about one shot—it's about restoring immune function that declines with time.",
+      "takeaway": "If you're over 50 and concerned about vaccine effectiveness, discuss spermidine with your doctor. This compound shows real promise for aging immune systems.",
+      "source": "Aging Cell",
+      "sourceUrl": "https://onlinelibrary.wiley.com/doi/full/10.1111/acel.70545",
+      "pexelsQuery": "aging hands holding supplement pills",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8395812/pexels-photo-8395812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8395812/pexels-photo-8395812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-person-holding-a-bottle-of-tablets-8395812/",
+        "avgColor": "#7D767D"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "Mediterranean diet activates protective proteins",
+      "headline": "What You Eat Today Signals Your Mitochondria How to Age",
+      "body": "Older adults who closely followed a Mediterranean diet had dramatically higher blood levels of humanin and SHMOOSE—two mitochondrial proteins linked to heart and brain protection. These aren't new nutrients; they're ancient compounds your cells have produced forever. But the diet triggers their release. Olive oil, fish, legumes, and fewer refined carbs appeared especially important. The discovery suggests the Mediterranean diet's legendary longevity benefits work at the cellular level, not just the nutritional one.",
+      "takeaway": "Add more olive oil, fish, and legumes this week. Your mitochondria will respond faster than you might expect.",
+      "source": "ScienceDaily / Frontiers in Nutrition",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
+      "pexelsQuery": "Mediterranean food olive oil fish vegetables",
+      "photo": {
+        "url": "https://images.pexels.com/photos/56019/mediterranean-food-tomatoes-red-56019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/56019/mediterranean-food-tomatoes-red-56019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/tomatoes-beside-shakers-and-olive-oil-bottle-56019/",
+        "avgColor": "#2B1D1B"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Television viewing shrinks memory brain regions",
+      "headline": "Binge-Watching Your Brain Into Smaller Regions",
+      "body": "Adults who watched TV very often during midlife showed measurably smaller volumes in brain regions responsible for memory and decision-making decades later. They also had more white matter damage associated with stroke risk and cognitive decline. The critical finding: sitting at work produced no such effect. Your brain doesn't care that you're sedentary—it cares what you're doing while you sit. The ARIC study tracked 1,712 adults over two decades, making this one of the longest-running investigations into screen time's effect on brain structure.",
+      "takeaway": "Replace one hour of TV daily with reading, conversation, or a hobby. Your future brain will thank you.",
+      "source": "Alzheimer's & Dementia: Journal of the Alzheimer's Association",
+      "sourceUrl": "https://medicalxpress.com/news/2026-07-heavy-tv-smaller-brain.html",
+      "pexelsQuery": "person reading instead of watching television",
+      "photo": {
+        "url": "https://images.pexels.com/photos/23224725/pexels-photo-23224725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/23224725/pexels-photo-23224725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vitaly Gariev",
+        "photographerUrl": "https://www.pexels.com/@silverkblack",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-watching-a-movie-and-eating-popcorn-23224725/",
+        "avgColor": "#7F7E7A"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Light resistance training builds muscle effectively",
+      "headline": "You Don't Need Heavy Weights to Build Muscle and Strength",
+      "body": "One weekly session of lighter-weight resistance training builds both muscle and strength, according to McMaster University research. This matters for busy professionals because it proves you don't need to crush yourself three times a week. Even modest amounts of strength training preserve muscle as insurance against future loss with age and illness. The key isn't the weight on the bar—it's showing up consistently. Starting exercise late in life still works; adults who began in their 50s and 60s improved physical capacity by up to 10 percent.",
+      "takeaway": "One focused resistance session per week is enough to start. If you haven't trained in years, that's your entry point.",
+      "source": "McMaster University / ScienceDaily",
+      "sourceUrl": "https://news.mcmaster.ca/analysis-why-strength-training-matters-at-any-age/",
+      "pexelsQuery": "woman doing resistance training light weights",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8846592/pexels-photo-8846592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8846592/pexels-photo-8846592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-black-sports-bra-and-pink-leggings-holding-blue-ball-8846592/",
+        "avgColor": "#B8B3AF"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The mind is definitely stronger than the body.",
+    "author": "Unknown Elite Athlete",
+    "context": "A reminder that mental consistency beats physical intensity in building lasting fitness."
+  },
+  "workout": {
+    "id": "542ca4a3-1ab7-4e25-a156-de0a25de9720",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Romanian Deadlift Introduction: Posterior Chain Hinge",
+    "difficulty": "Beginner",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbell"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "functional",
+      "hinge_dominant",
+      "joint_friendly",
+      "lower_body",
+      "under_60_min"
+    ],
+    "tip": "Think 'push hips back, not butt down.' The RDL is a hip hinge, not a squat. Keep a slight knee bend and let your torso tilt forward naturally as your hips move behind you.",
+    "warmup": "4 min: 10 cat-cow stretches, 10 leg swings forward/back each leg, 5 bodyweight RDLs (light), 10 glute bridges",
+    "exercises": [
+      {
+        "name": "Dumbbell Romanian Deadlift (RDL)",
+        "sets": "4",
+        "reps": "10",
+        "notes": "Hold dumbbells at thighs, slight knee bend. Hinge at hips, lower dumbbells along legs while maintaining neutral spine. Feel stretch in hamstrings. Return to standing by driving hips forward. No lower-back rounding."
+      },
+      {
+        "name": "Single-Leg RDL (Bodyweight or Light Dumbbell)",
+        "sets": "3",
+        "reps": "6 each leg",
+        "notes": "Stand on one leg, hinge forward, opposite leg extends behind for balance. Lower dumbbell toward ground. This challenges stability and exposes hip mobility/strength asymmetries. Control the movement—balance work is the goal."
+      },
+      {
+        "name": "Dumbbell Step-Up (Rear-Foot Elevated)",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Rear foot on bench/step, front foot on ground. Hold dumbbells at sides. Drive through front heel to stand tall. This builds single-leg strength and complements the RDL's posterior chain work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: standing forward fold 45 sec (let gravity lengthen hamstrings), pigeon pose 40 sec each side, standing quad stretch 40 sec each leg",
+    "description": "A posterior-chain focused session introducing the RDL pattern with single-leg variations and supporting glute work. Perfect for professionals building hip hinge mechanics, strengthening the back of the legs, and developing resilience against lower-back stress."
+  },
+  "meal": {
+    "id": "fb708998-e3b5-47d9-9fe6-d5ce3469c950",
+    "title": "Herb-Brined Pork Chop with Creamed Corn & Roasted Brussels Sprouts",
+    "description": "An underrated protein for strength athletes: pork tenderloin cuts deliver lean amino acids and B vitamins for energy metabolism, while creamed corn provides fast-digesting carbs and the Brussels sprouts offer cruciferous vegetables for joint health.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 680,
+    "protein_g": 50,
+    "carbs_g": 54,
+    "fat_g": 24,
+    "fiber_g": 7,
+    "prep_minutes": 12,
+    "cook_minutes": 22,
+    "ingredients": [
+      "240g pork chop (1.25 inches thick)",
+      "1 cup Brussels sprouts (200g), halved",
+      "0.75 cup corn kernels (fresh or frozen)",
+      "2 tbsp butter, divided",
+      "0.25 cup whole milk or half-and-half",
+      "1 shallot (25g), minced",
+      "2 cloves garlic, minced",
+      "1 tbsp fresh sage, chopped",
+      "0.75 tsp kosher salt, divided",
+      "0.5 tsp black pepper, divided",
+      "0.25 tsp thyme",
+      "1 tsp olive oil"
+    ],
+    "instructions": "1. Preheat oven to 425°F.\n2. Toss Brussels sprouts with olive oil, 0.25 tsp salt, and 0.25 tsp pepper. Spread on a baking sheet and roast for 16–18 minutes until golden and crispy.\n3. While Brussels sprouts roast, pat pork chop dry and season both sides with sage, thyme, remaining salt, and pepper.\n4. Heat 0.5 tbsp butter in a skillet over medium-high heat. Sear pork chop 4 minutes per side until golden and internal temp reaches 145°F. Transfer to a plate and tent with foil to rest.\n5. In the same skillet, melt 1.5 tbsp butter over medium heat. Add shallot and cook for 2 minutes, then add garlic and cook 30 seconds.\n6. Add corn and cook for 2 minutes, stirring occasionally. Pour in milk and simmer gently for 3–4 minutes until slightly thickened. Taste and adjust seasoning.\n7. Slice pork chop and serve with creamed corn and roasted Brussels sprouts.",
+    "tip": "Brine the pork chop in salted water for 2–4 hours before cooking (if you have time) to ensure it stays juicy—it makes a real difference with lean cuts. Creamed corn keeps well for 2–3 days and reheats beautifully. Swap sage for rosemary if you prefer.",
+    "goal_affinity": [
+      "strength",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
