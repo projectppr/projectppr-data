@@ -1,0 +1,227 @@
+{
+  "date": "2026-07-23",
+  "dateLabel": "Thursday, July 23, 2026",
+  "generatedAt": "2026-07-23T11:02:43.144Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Exercise boosts memory and cognition",
+      "headline": "30 Minutes of Exercise Supercharges Your Memory for 24 Hours",
+      "body": "A study of 76 British adults found that moderate-to-vigorous exercise delivers cognitive benefits that extend well beyond the gym. Every additional 30 minutes of activity—whether brisk walking, running, cycling, or resistance training—strengthened memory performance the following day. Researchers tracked participants over eight days using wearable activity and sleep trackers, administering daily cognitive tests. The gains held up even after controlling for sleep quality. Light activity didn't cut it; only moderate-to-vigorous intensity moved the needle.",
+      "takeaway": "A single 30-minute workout improves your memory and attention the next day, giving busy professionals a science-backed reason to prioritize exercise.",
+      "source": "[your]NEWS",
+      "sourceUrl": "https://yournews.com/2026/07/22/7123971/exercise-may-strengthen-memory-and-attention-for-up-to-24/",
+      "pexelsQuery": "person jogging running outdoors",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4429104/pexels-photo-4429104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4429104/pexels-photo-4429104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/faceless-person-jogging-in-empty-park-4429104/",
+        "avgColor": "#53504C"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "HRT prescribing trends surge",
+      "headline": "Women Are Taking Hormone Therapy Like Never Before. Here's Why.",
+      "body": "Estrogen-based hormone replacement therapy prescriptions have more than doubled since 2018, with a dramatic shift toward patches and creams. Among women ages 45-54, prescribing rates jumped 184% by February 2026, hitting one in 20 women in that age group. Patches tripled in use while vaginal creams quadrupled. The trend reflects changing clinical evidence, FDA safety label updates in November 2025 that removed decades-old black box warnings, and growing public awareness that menopause doesn't have to derail quality of life.",
+      "takeaway": "The sharp increase in HRT use reflects both new safety data and a cultural shift—menopause management is becoming standard care rather than a controversial choice.",
+      "source": "Truveta Research",
+      "sourceUrl": "https://www.truveta.com/blog/research/estrogen-based-hormone-replacement-therapy/",
+      "pexelsQuery": "woman in her 50s smiling healthy",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/12719254/pexels-photo-12719254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12719254/pexels-photo-12719254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ROMAN ODINTSOV",
+        "photographerUrl": "https://www.pexels.com/@roman-odintsov",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-holding-an-apple-12719254/",
+        "avgColor": "#535A52"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Cortisol resilience and stress recovery",
+      "headline": "How Your Body Bounces Back From Stress Matters More Than You Think",
+      "body": "New research reveals that resilience isn't about avoiding stress—it's about how your body recovers from it. A July 2026 study in the Journal of Neural Transmission found that non-resilient individuals show cortisol hypo-response, meaning their stress hormone system doesn't activate normally when challenged. This dysregulation appears central to poor stress recovery. Chronic stress, sleep deprivation, and insufficient recovery can rewire the HPA axis (your stress control system), making adaptation harder over time. The finding suggests that building resilience requires addressing sleep, recovery, and life demands holistically.",
+      "takeaway": "Resilience isn't passive. It's built by protecting sleep, scheduling recovery, and managing cumulative stress before your body's stress system shuts down.",
+      "source": "Journal of Neural Transmission",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s00702-026-03218-9",
+      "pexelsQuery": "person meditating breathing peacefully",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7880138/pexels-photo-7880138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7880138/pexels-photo-7880138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-doing-yoga-7880138/",
+        "avgColor": "#9D9B75"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "AI health monitoring advances",
+      "headline": "Your Ring Now Detects Sleep Apnea. Here's What Wearables Can Do Now.",
+      "body": "Wearable health technology has crossed into clinical-grade territory. The Oura Ring Gen 4 earned FDA clearance for sleep apnea detection, while smartwatches now measure blood pressure and continuous glucose. But the real shift is AI. These devices no longer just report data—they analyze patterns, flag anomalies, and predict health risks before symptoms appear. In 2026, wearables are designed as care delivery tools, not fitness toys. Electrochemical biosensors and optical sensing lead patent filings. The challenge: privacy. On-device processing and transparent data practices are becoming competitive differentiators as users demand control over continuous health monitoring.",
+      "takeaway": "Modern wearables can detect serious conditions early, but only if you trust where your data goes—scrutinize privacy practices as carefully as accuracy specs.",
+      "source": "Mindbowser / Sermo Physician Network",
+      "sourceUrl": "https://www.mindbowser.com/future-wearable-tech-healthcare/",
+      "pexelsQuery": "smartwatch fitness tracker on wrist",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/38571414/pexels-photo-38571414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/38571414/pexels-photo-38571414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Eddie O.",
+        "photographerUrl": "https://www.pexels.com/@photoeddieo",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-smartwatch-on-runner-s-wrist-tracking-fitness-38571414/",
+        "avgColor": "#96887B"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Habits are the compound interest of self-improvement.",
+    "author": "James Clear",
+    "context": "Author of Atomic Habits and leading expert on behavior change and habit formation."
+  },
+  "workout": {
+    "id": "a0d8e773-88f3-4798-9906-a7df426f18c0",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Pull Strong: Row, Hang and Brace in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar",
+      "resistance band",
+      "dumbbells"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "core",
+      "minimal_equipment",
+      "pull_dominant",
+      "under_30_min",
+      "upper_body"
+    ],
+    "tip": "If you don't have a pull-up bar, a sturdy door frame pull-up bar works fine. For the dead hang, focus on active shoulders, squeeze your shoulder blades down before you hang. That protects your joints and builds the right muscles.",
+    "warmup": "Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "30-45 seconds",
+        "notes": "Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets."
+      },
+      {
+        "name": "Dumbbell Bent-Over Row",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable."
+      },
+      {
+        "name": "Resistance Band Face Pull",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough."
+      },
+      {
+        "name": "Inverted Row (or Assisted Pull-Up with Band)",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count."
+      },
+      {
+        "name": "Plank to Alternating Shoulder Tap",
+        "sets": "3",
+        "reps": "20 total taps",
+        "notes": "Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling.",
+    "description": "Warmup: Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders. Dead Hang: 3 sets x 30-45 seconds — Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets. Dumbbell Bent-Over Row: 3 sets x 10 each side — Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable. Resistance Band Face Pull: 3 sets x 15 — Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough. Inverted Row (or Assisted Pull-Up with Band): 3 sets x 8-10 — For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count. Plank to Alternating Shoulder Tap: 3 sets x 20 total taps — Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work. Cooldown: Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling."
+  },
+  "meal": {
+    "id": "d64f09df-13ce-44a7-9878-5a1fb1aa95fe",
+    "title": "Cod and Roasted Chickpea Grain Bowl with Lemon Tahini Drizzle",
+    "description": "Double the chickpea batch and store the extras. They stay crispy for 2 days and make an excellent high-protein snack or salad topper.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 490,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 cod fillets (6 oz each)\n1 can (15 oz) chickpeas, drained and rinsed\n1 cup cooked farro or brown rice\n1 cup baby spinach or arugula\n1 tbsp olive oil\n1 tsp smoked paprika\n1/2 tsp garlic powder\nSalt and black pepper to taste\n2 tbsp tahini\nJuice of 1 lemon\n1 tbsp water (to thin tahini dressing)\nFresh parsley to garnish (optional)\n\nInstructions:\n1. Preheat oven to 425F. Toss drained chickpeas with half the olive oil, smoked paprika, garlic powder, salt, and pepper. Spread on a baking sheet and roast 15-18 minutes until crispy, shaking halfway. 2. While chickpeas roast, pat cod dry, season with salt, pepper, and a pinch of paprika. Heat remaining olive oil in a skillet over medium-high. Cook cod 3-4 minutes per side until flaky and golden. 3. Whisk tahini, lemon juice, and water into a smooth dressing. Add more water if too thick. 4. Build bowls: grain base, greens, cod, crispy chickpeas. Drizzle with lemon tahini dressing and garnish with parsley.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
