@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-24",
+  "dateLabel": "Friday, July 24, 2026",
+  "generatedAt": "2026-07-24T11:07:27.052Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Exercise reverses aging in muscles",
+      "headline": "Move More. Your Muscles Remember How to Stay Young.",
+      "body": "Scientists just cracked why exercise is the closest thing to a fountain of youth for aging muscles. Researchers found that physical activity flips a molecular switch—specifically by reducing a gene called DEAF1. When this happens, your older muscles can clear out damage, repair themselves, and stay healthy without accumulating the wear and tear that usually comes with age. This isn't theoretical. Your muscles actively respond to movement by getting better at cleaning house. The takeaway: staying active isn't just maintaining what you have. It's literally reverting your muscles to a younger state.",
+      "takeaway": "Regular exercise activates your body's ability to repair and maintain muscle health at the cellular level, regardless of your age.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260706_exercise_muscle_aging.htm",
+      "pexelsQuery": "older adult strength training weights",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4720761/pexels-photo-4720761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4720761/pexels-photo-4720761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-blue-tank-top-exercising-with-a-dumbbell-4720761/",
+        "avgColor": "#6D6545"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Sleep restoration without clearing amyloid",
+      "headline": "Two Lost Hours of Sleep. Just Got Found.",
+      "body": "Researchers made a surprising discovery about Alzheimer's and sleep. In mice with the disease, scientists removed specific immune cells and watched something remarkable happen: the animals gained more than two hours of sleep per night. The sleep was deep and restorative—the kind where your brain consolidates memories and your body heals. Here's the kicker: this sleep improvement happened without changing the number of amyloid plaques in the brain. That challenges everything we thought we knew about how sleep quality and Alzheimer's connect. For anyone struggling to get quality sleep, this points to new pathways that might help.",
+      "takeaway": "Emerging research suggests sleep quality can be restored through non-traditional paths, offering hope for better recovery regardless of other health markers.",
+      "source": "Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-07-hours-alzheimer-breakthrough.html",
+      "pexelsQuery": "person sleeping peacefully in bed",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5990970/pexels-photo-5990970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5990970/pexels-photo-5990970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-gray-shirt-sleeping-on-bed-5990970/",
+        "avgColor": "#DACEC2"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Brain training reduces Alzheimer's markers",
+      "headline": "Five Minutes a Day. Brain Gets Younger.",
+      "body": "New research is turning brain training from a nice idea into science-backed proof. A study at the Alzheimer's Association International Conference found that speed-of-processing training—the kind you can do in short bursts on your phone or computer—actually changed Alzheimer's biomarkers in the brain. After just 20 hours of focused training, people showed meaningful improvements in amyloid ratios, a key indicator of Alzheimer's disease progression. This wasn't generic brain games. It was targeted cognitive exercises. Even better: the benefit showed up across all ages. Your brain plasticity doesn't shut down. It just needs the right stimulus.",
+      "takeaway": "Structured cognitive training can measurably improve brain health markers associated with cognitive aging and disease risk.",
+      "source": "Globe Newswire",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/07/13/3326065/0/en/Brain-Training-Shown-to-Reduce-Amyloid-Indicative-of-Alzheimer-s.html",
+      "pexelsQuery": "person focused on computer learning",
+      "product": {
+        "id": "book-010",
+        "name": "Why We Sleep - Matthew Walker Audiobook",
+        "brand": "Matthew Walker",
+        "asin": "B0752XRB5F",
+        "url": "https://www.amazon.com/dp/B0752XRB5F?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "book",
+          "audiobook",
+          "health",
+          "brain",
+          "memory",
+          "insomnia",
+          "recovery",
+          "longevity"
+        ],
+        "blurb": "Read this and you will never deprioritize sleep again."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5453930/pexels-photo-5453930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5453930/pexels-photo-5453930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/side-view-of-a-man-using-computer-5453930/",
+        "avgColor": "#928873"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Microbiome species linked to health markers",
+      "headline": "Your Gut Bacteria Just Got Ranked.",
+      "body": "Researchers analyzed the microbiomes of over 34,000 people and created something unprecedented: a ranking of which bacteria species actually support your health. They mapped out the connection between specific microbes, diet choices, and health outcomes—identifying bacteria that work for you and those that work against you. This wasn't a small study. It spanned the US and UK with detailed diet and health data on every participant. The result: the ZOE Microbiome Health Ranking 2025 now gives you specifics instead of vague advice about probiotics. Your gut bacteria matter. Now we know which ones matter most.",
+      "takeaway": "Specific gut bacteria species are now ranked by their association with health markers, offering a precision approach to understanding your microbiome.",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/s41586-025-09854-7",
+      "pexelsQuery": "microscope bacterial cells science",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11198508/pexels-photo-11198508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11198508/pexels-photo-11198508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Fayette Reynolds M.S.",
+        "photographerUrl": "https://www.pexels.com/@fayette-reynolds-m-s-181007507",
+        "photoPageUrl": "https://www.pexels.com/photo/extreme-close-up-of-gem-texture-11198508/",
+        "avgColor": "#9C979D"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Motivation is what gets you started. Habit is what keeps you going.",
+    "author": "Jim Ryun",
+    "context": "American middle-distance runner and Olympic medallist who broke world records in the 1960s and 70s."
+  },
+  "workout": {
+    "id": "50ea45cf-7fe9-43ac-bef5-3461e4c95206",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "intervals",
+    "title": "Short Stride Acceleration: 30/30 Intro to Speed",
+    "difficulty": "Beginner",
+    "duration": "28 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "no_equipment",
+      "outdoor",
+      "under_30_min"
+    ],
+    "tip": "Focus on smooth arm drive and controlled breathing during the 30-second push—don't sprint all-out. Your recovery jog should feel easy; if you can't talk, you're recovering too hard.",
+    "warmup": "5 min: easy jog at conversational pace, then 6 x 20m strides with 40m walk recovery between each (stride should feel controlled, not maximal—build into it)",
+    "exercises": [
+      {
+        "name": "30/30 Interval Block",
+        "sets": "8",
+        "reps": "30 sec hard / 30 sec easy jog",
+        "notes": "Run at a pace you could sustain for about 3-4 minutes (roughly 85–90% max effort). Keep your head still, shoulders relaxed, and cadence quick. Recovery jog should feel genuinely easy—this teaches your body pacing discipline."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min easy jog, then 2 min stationary walk. Standing quad stretch 20 sec each leg, standing hamstring reach 20 sec each leg, open hip stretch 15 sec each side.",
+    "description": "Your first exposure to running speed work using safe, short 30-second efforts followed by 30-second recovery jogs. This session teaches your nervous system to move faster without the injury risk of longer intervals, making it perfect for 5K and 10K beginners building speed foundations."
+  },
+  "meal": {
+    "id": "d6383a12-0afc-4b6d-aae7-f54de5596812",
+    "title": "Smoked Salmon & Dill Scramble with Whole Wheat Toast & Avocado",
+    "description": "Silky scrambled eggs folded with smoked salmon, fresh dill, and capers, served alongside whole wheat toast and creamy avocado—a sophisticated, omega-3 rich breakfast that supports strength recovery and brain health without feeling heavy before a workout.",
+    "meal_type": "breakfast",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 560,
+    "protein_g": 38,
+    "carbs_g": 40,
+    "fat_g": 24,
+    "fiber_g": 7,
+    "prep_minutes": 8,
+    "cook_minutes": 8,
+    "ingredients": [
+      "3 large eggs",
+      "80g smoked salmon, cut into bite-sized pieces",
+      "1 tbsp fresh dill, chopped",
+      "1 tbsp capers, rinsed",
+      "2 slices whole wheat bread",
+      "1/2 ripe avocado, sliced",
+      "1 tbsp butter",
+      "1/4 lemon",
+      "Salt and black pepper to taste",
+      "Optional: 1 tbsp cream cheese or crème fraîche"
+    ],
+    "instructions": "1. Toast the whole wheat bread while you prep other ingredients.\n2. Whisk eggs in a bowl with a pinch of salt and pepper. Add optional cream cheese for extra creaminess.\n3. Melt butter in a nonstick skillet over medium-low heat. Add eggs and stir gently and frequently, cooking until just set but still slightly creamy, about 4–5 minutes.\n4. Fold in smoked salmon, dill, and capers in the last 30 seconds of cooking.\n5. Spread avocado on warm toast and season lightly with salt, pepper, and a squeeze of lemon.\n6. Plate eggs alongside toast and serve immediately.",
+    "tip": "Low-and-slow egg cooking (medium-low heat, constant stirring) creates silky curds instead of rubbery chunks—smoked salmon's delicate flavor deserves that treatment. Buy pre-sliced smoked salmon to save 2 minutes; the cost difference is minimal and it keeps refrigerated for a week.",
+    "goal_affinity": [
+      "strength",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
