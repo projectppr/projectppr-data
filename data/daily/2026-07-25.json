@@ -1,0 +1,172 @@
+{
+  "date": "2026-07-25",
+  "dateLabel": "Saturday, July 25, 2026",
+  "generatedAt": "2026-07-25T11:06:16.919Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "childhood sugary drinks blood pressure risk",
+      "headline": "What You Drink as a Kid Echoes In Your Blood Pressure for Life",
+      "body": "A 25-year study of over 25,000 people found that drinking sugary beverages and fruit juice in childhood was linked to higher blood pressure decades later. The numbers matter: kids who drank 12+ ounces of juice daily had a 35% higher risk of hypertension as adults. Those with 24+ ounces of soda or sports drinks faced 52% higher risk. The good news? Whole fruit showed no such link. Replacing one daily sugary drink with whole fruit, milk, or water lowered risk. The takeaway is simple: the source of sugar matters more than you think.",
+      "takeaway": "Skip the juice box. Swap sugary drinks for whole fruit and water to protect cardiovascular health long-term.",
+      "source": "Circulation (American Heart Association)",
+      "sourceUrl": "https://newsroom.heart.org/news/does-drinking-juice-soda-during-childhood-increase-the-risk-of-high-blood-pressure",
+      "pexelsQuery": "child drinking juice glass unhealthy",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7653307/pexels-photo-7653307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7653307/pexels-photo-7653307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/a-girl-drinking-a-glass-of-juice-7653307/",
+        "avgColor": "#998F83"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "vitamin C blood levels brain structure memory",
+      "headline": "Low Vitamin C Quietly Shrinks Your Brain. Here's Why It Matters.",
+      "body": "A study of over 2,000 older Japanese adults found that lower blood vitamin C levels were linked to reduced gray matter volume and weaker connections in brain networks tied to memory and attention. The researchers measured plasma vitamin C alongside brain MRI scans and discovered clear associations between nutritional status and brain structure. Higher vitamin C correlated with better-preserved brain tissue and stronger neural connectivity in the default mode network, the system that activates during rest and memory retrieval. The study doesn't prove causation, but the signal is clear: vitamin C status is one piece of maintaining brain health as you age.",
+      "takeaway": "Eat citrus, berries, tomatoes, and leafy greens. Keep your vitamin C status optimal through diet, not supplements alone.",
+      "source": "PLOS One",
+      "sourceUrl": "https://sciencedaily.com/releases/2026/06/260626030428.htm",
+      "pexelsQuery": "vitamin C citrus oranges fruits colorful",
+      "photo": {
+        "url": "https://images.pexels.com/photos/38503091/pexels-photo-38503091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/38503091/pexels-photo-38503091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nda Arsa",
+        "photographerUrl": "https://www.pexels.com/@ndaarsa",
+        "photoPageUrl": "https://www.pexels.com/photo/fresh-oranges-piled-for-market-display-38503091/",
+        "avgColor": "#CB823D"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "gut bacteria stress response cortisol diversity",
+      "headline": "Your Microbiome Writes Your Stress Response. You Can Rewrite It.",
+      "body": "New research from the University of Vienna reveals that gut bacteria diversity and the capacity to produce short-chain fatty acids are directly linked to how your body responds to acute stress. In a study where healthy participants underwent a standardized stress test, researchers measured cortisol in saliva and analyzed gut bacteria from stool samples. They found that stronger microbial diversity and higher capacity for short-chain fatty acid production were associated with more resilient stress responses. The implications are broad: diet and lifestyle shape your microbiome, which in turn influences how your nervous system handles pressure. Targeted modulation of gut bacteria through food could represent a new strategy for stress management.",
+      "takeaway": "Feed your gut with fiber-rich foods and fermented products. A diverse microbiome is a resilient stress buffer.",
+      "source": "Neurobiology of Stress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-gut-microbes-reveal-cortisol-spikes.html",
+      "pexelsQuery": "fermented foods kimchi sauerkraut probiotics",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8909131/pexels-photo-8909131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8909131/pexels-photo-8909131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tatyana  Novoselova",
+        "photographerUrl": "https://www.pexels.com/@tanyanovoselova",
+        "photoPageUrl": "https://www.pexels.com/photo/a-chef-putting-salad-in-a-jar-8909131/",
+        "avgColor": "#8C837A"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "sleep immune function white blood cells",
+      "headline": "Your Immune System Works Best When You Sleep. Stop Skipping It.",
+      "body": "The connection between sleep and immunity is a two-way street, not a one-time transaction. During sleep, your body produces cytokines, activates T cell response, and strengthens immunological memory. Deep sleep stages—particularly slow wave sleep characterized by delta brain waves—are when immune regulation peaks. A single short night won't leave you defenseless, but a steady pattern of poor sleep impairs your body's ability to mount effective responses to infection and illness. Research shows that consistent sleep of 7-9 hours supports both immediate immune function and long-term disease prevention. The hours you spend resting are when the body does much of its repair and defense work.",
+      "takeaway": "Prioritize 7-9 hours nightly. Quality sleep is non-negotiable for immune resilience and health longevity.",
+      "source": "Annals of Neurosciences and UCLA Health",
+      "sourceUrl": "https://www.uclahealth.org/news/article/4-ways-poor-sleep-affects-your-immune-system",
+      "pexelsQuery": "person sleeping peaceful bed rest",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7193688/pexels-photo-7193688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7193688/pexels-photo-7193688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Darina Belonogova",
+        "photographerUrl": "https://www.pexels.com/@darina-belonogova",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-lying-on-a-pillow-7193688/",
+        "avgColor": "#746A64"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Discipline equals freedom.",
+    "author": "Jocko Willink",
+    "context": "Former Navy SEAL commander and author who built a platform teaching leadership, mental toughness, and personal accountability."
+  },
+  "workout": {
+    "id": "8124ba87-b83d-4d72-af59-f8f0eb48b985",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Push-Up Progression Mastery: Foundation to Strength",
+    "difficulty": "Beginner",
+    "duration": "35 min",
+    "equipment": [],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "hotel_friendly",
+      "no_equipment",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Focus on scapular control at the top of each rep—pack your shoulders down and back before lowering. Quality reps beat volume; stop a set when form breaks, not when you fail.",
+    "warmup": "3 min: 10 arm circles forward, 10 arm circles backward, 5 cat-cow stretches, 10 scapular wall slides, 5 inchworms with a 2-sec hold at the bottom",
+    "exercises": [
+      {
+        "name": "Wall Push-Up",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hands at shoulder width on wall, step feet back slightly, lower chest toward wall with elbows at 45°. This teaches hand placement and body tension before gravity increases load."
+      },
+      {
+        "name": "Incline Push-Up (Hands Elevated)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hands on a bench or low table, body in plank, lower until chest nearly touches surface. Maintain rigid core and neutral spine throughout—no sagging hips."
+      },
+      {
+        "name": "Knee Push-Up",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Knees on ground, hands at shoulder width, lower with control until chest approaches floor. Keep core braced and neck neutral; this is a valid strength builder, not a 'easier' alternative to dismiss."
+      },
+      {
+        "name": "Eccentric-Focus Push-Up (Negatives)",
+        "sets": "2",
+        "reps": "5",
+        "notes": "Start at the top of a push-up position, lower yourself for a slow 3-second count, then use legs or knees to return to top. This builds eccentric strength and bridges toward full push-ups."
+      },
+      {
+        "name": "Push-Up Hold (Isometric)",
+        "sets": "2",
+        "reps": "30 sec",
+        "notes": "Hold the bottom position of a push-up (chest 1–2 inches off floor) without moving. Builds lockout control and shoulder stability; take 60 sec rest between sets."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: 30 sec chest stretch (cross arms over body, lean into doorframe), 30 sec shoulder stretch (pull elbow across body), 30 sec tricep stretch (reach arm overhead and bend elbow), 30 sec child's pose with shoulder emphasis",
+    "description": "A structured progression through multiple push-up variations, building scapular stability and pressing strength from ground-based to elevated positions. Perfect for beginners establishing core pressing mechanics without equipment, with clear progression pathways to increase difficulty over weeks."
+  },
+  "meal": {
+    "id": "f99f8187-8ea6-4b53-b23c-8df2b477e0a6",
+    "title": "Honey-Cinnamon Rice Cakes with Almond Butter & Banana",
+    "description": "Two crispy rice cakes topped with creamy almond butter, banana slices, and a drizzle of honey—the ultimate grab-and-go pre-workout fuel that hits your carbs and fat sweet spot without sitting heavy before a swim or run.",
+    "meal_type": "pre_workout",
+    "macro_profile": "performance",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 298,
+    "protein_g": 8,
+    "carbs_g": 42,
+    "fat_g": 11,
+    "fiber_g": 3,
+    "prep_minutes": 3,
+    "cook_minutes": 0,
+    "ingredients": [
+      "2 rice cakes",
+      "2 tbsp almond butter",
+      "1 medium banana",
+      "1 tbsp honey",
+      "pinch of cinnamon"
+    ],
+    "instructions": "1. Spread almond butter evenly on both rice cakes.\n2. Slice banana and layer on top.\n3. Drizzle with honey and dust lightly with cinnamon.\n4. Eat immediately or wrap to go.",
+    "tip": "Prep this the night before and wrap in foil—the banana won't brown if kept cool, and you save 3 minutes on race morning. Eat 30–45 minutes before training.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
