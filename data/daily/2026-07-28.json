@@ -1,0 +1,177 @@
+{
+  "date": "2026-07-28",
+  "dateLabel": "Tuesday, July 28, 2026",
+  "generatedAt": "2026-07-28T11:13:59.013Z",
+  "articles": [
+    {
+      "category": "RECOVERY",
+      "topic": "Coffee consumption liver health protection",
+      "headline": "Your Daily Coffee Is Building Liver Insurance. Science Just Proved It.",
+      "body": "A major long-term study linked regular coffee drinking with lower risks of cirrhosis, liver cancer, and death from liver disease. Coffee drinkers showed healthier liver scans and blood protein patterns with less fat and inflammation. The findings suggest a simple daily habit—one you probably already have—actively protects one of your body's hardest-working organs. Whether you're 35 or 55, if you drink coffee, your liver is keeping score. This isn't about adding coffee to your routine. It's about knowing what you're already doing is working.",
+      "takeaway": "Drink your coffee. Your liver isn't just tolerating it—it's getting stronger because of it.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260725182314.htm",
+      "pexelsQuery": "coffee cup morning beverage",
+      "photo": {
+        "url": "https://images.pexels.com/photos/459489/pexels-photo-459489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/459489/pexels-photo-459489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/cup-of-coffee-on-saucer-459489/",
+        "avgColor": "#9E9A8E"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "LASSS sulfur compound aging muscle repair",
+      "headline": "The Sulfur Compound Your Muscles Have Been Waiting For",
+      "body": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. Researchers found that LASSS prevents chemical damage to HGF, a critical muscle repair signal that degrades with age. When HGF gets chemically altered with age, it stops working like a rusted key that no longer fits its lock. LASSS strengthens HGF's ability to connect with repair cells and doubles its binding strength. Early mouse studies show it reduces chemical damage during muscle disuse. While more research is needed in humans, this discovery offers a concrete path toward slowing age-related muscle loss.",
+      "takeaway": "A natural sulfur compound may help preserve muscle repair signals as you age—a potential defense against the muscle loss that starts stealing strength in your 40s and 50s.",
+      "source": "Scientific Reports",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
+      "pexelsQuery": "muscle strength training lifting",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13219986/pexels-photo-13219986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13219986/pexels-photo-13219986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jordan Bergendahl",
+        "photographerUrl": "https://www.pexels.com/@jordan-bergendahl-2628960",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-lifting-barbell-13219986/",
+        "avgColor": "#070A11"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Time-restricted eating maintains long-term weight loss",
+      "headline": "Eight Hours. Twelve Weeks. One Year Later, You're Still Down.",
+      "body": "A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained significantly more weight loss than those who followed their usual longer eating schedule. The good news: it didn't matter whether you ate early or late. An 8am-4pm window worked as well as noon-8pm. Researchers tested 99 adults with overweight or obesity, combining the eating window with Mediterranean diet education. The results held steady across the full year follow-up, making time-restricted eating one of the few weight-loss approaches backed by real long-term data.",
+      "takeaway": "If you've struggled to keep weight off, time-restricted eating works—and the results stick around longer than typical diets.",
+      "source": "Clinical Nutrition",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
+      "pexelsQuery": "meal prep healthy food eating",
+      "photo": {
+        "url": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ella Olsson",
+        "photographerUrl": "https://www.pexels.com/@ella-olsson-572949",
+        "photoPageUrl": "https://www.pexels.com/photo/three-mason-jars-inlined-on-white-surface-1640776/",
+        "avgColor": "#D3C8C5"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Tryptamine molecule regulates sleep quality",
+      "headline": "Scientists Found the Sleep Molecule Your Brain's Been Producing All Along",
+      "body": "Researchers identified a newly discovered molecule in cerebrospinal fluid called tryptamine (TrpA) that tracks and regulates your sleep pressure—the biological signal that tells your brain when you need rest. When you're awake longer, TrpA levels rise independently of light-dark cycles. TrpA then activates sleep-promoting neurons in the brain, triggering sleep rebound and enhancing sleep quality. In mice and pigs, researchers found that activating the GPR139 receptor—which TrpA signals to—increased sleep duration and quality. This molecular pathway could eventually lead to new treatments for insomnia and circadian rhythm disorders without the side effects of current sleep medications.",
+      "takeaway": "Your brain naturally produces a molecule that drives sleep quality. Understanding this mechanism could unlock better treatments for the millions struggling with insomnia.",
+      "source": "Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-07-newly-molecule.html",
+      "pexelsQuery": "person sleeping peacefully bed",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6633573/pexels-photo-6633573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6633573/pexels-photo-6633573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "www.kaboompics.com",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-a-deep-slumber-6633573/",
+        "avgColor": "#6F6763"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "context": "Former Apple CEO and co-founder known for his relentless pursuit of excellence and longevity-focused personal practices."
+  },
+  "workout": {
+    "id": "50ea45cf-7fe9-43ac-bef5-3461e4c95206",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "intervals",
+    "title": "Short Stride Acceleration: 30/30 Intro to Speed",
+    "difficulty": "Beginner",
+    "duration": "28 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "no_equipment",
+      "outdoor",
+      "under_30_min"
+    ],
+    "tip": "Focus on smooth arm drive and controlled breathing during the 30-second push—don't sprint all-out. Your recovery jog should feel easy; if you can't talk, you're recovering too hard.",
+    "warmup": "5 min: easy jog at conversational pace, then 6 x 20m strides with 40m walk recovery between each (stride should feel controlled, not maximal—build into it)",
+    "exercises": [
+      {
+        "name": "30/30 Interval Block",
+        "sets": "8",
+        "reps": "30 sec hard / 30 sec easy jog",
+        "notes": "Run at a pace you could sustain for about 3-4 minutes (roughly 85–90% max effort). Keep your head still, shoulders relaxed, and cadence quick. Recovery jog should feel genuinely easy—this teaches your body pacing discipline."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min easy jog, then 2 min stationary walk. Standing quad stretch 20 sec each leg, standing hamstring reach 20 sec each leg, open hip stretch 15 sec each side.",
+    "description": "Your first exposure to running speed work using safe, short 30-second efforts followed by 30-second recovery jogs. This session teaches your nervous system to move faster without the injury risk of longer intervals, making it perfect for 5K and 10K beginners building speed foundations."
+  },
+  "meal": {
+    "id": "fa01102c-d1f0-41d6-8692-f1f132f10b79",
+    "title": "Seared Cod and Roasted Red Pepper Quinoa Bowl",
+    "description": "Jarred roasted red peppers are the shortcut that makes this weeknight-friendly. They add sweetness and depth with zero extra prep — just drain and slice.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 480,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 cod fillets (6 oz each)\n3/4 cup quinoa, rinsed\n1 cup roasted red peppers, sliced (jarred is fine)\n1 cup baby spinach\n1/4 cup cucumber, diced\n2 tbsp olive oil\n1 tbsp lemon juice\n1 tsp smoked paprika\n1/2 tsp garlic powder\nSalt and black pepper to taste\n2 tbsp plain Greek yogurt (for serving)\n\nInstructions:\nCook quinoa per package instructions, about 15 minutes. While it cooks, pat cod dry and season with smoked paprika, garlic powder, salt, and pepper. Heat olive oil in a non-stick pan over medium-high and sear the cod for 3-4 minutes per side until golden and flaky. Toss cooked quinoa with roasted peppers, spinach, cucumber, lemon juice, and a drizzle of olive oil. Serve cod on top of the quinoa base with a small spoonful of Greek yogurt on the side.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
