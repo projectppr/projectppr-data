@@ -1,0 +1,183 @@
+{
+  "date": "2026-07-30",
+  "dateLabel": "Thursday, July 30, 2026",
+  "generatedAt": "2026-07-30T11:01:42.749Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "Long-lived families reveal genetic clues",
+      "headline": "Your Genes Aren't Your Destiny. What Long-Lived Families Just Taught Us.",
+      "body": "Researchers studying families with exceptional longevity just identified rare genetic variants that may help people stay healthier longer as they age. One standout mutation appears to temper inflammation, a major driver of chronic disease. The real takeaway? Genetics gives you cards to play, but your lifestyle and choices determine how you use them. Environment, behavior and socioeconomic factors matter just as much—sometimes more—than what you inherit.",
+      "takeaway": "You have more control over how you age than your genes suggest. Identify what works for your specific body and circumstances.",
+      "source": "European Society of Human Genetics",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260621060301.htm",
+      "pexelsQuery": "dna helix genetic testing blood",
+      "photo": {
+        "url": "https://images.pexels.com/photos/35967917/pexels-photo-35967917.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/35967917/pexels-photo-35967917.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nicola Narracci",
+        "photographerUrl": "https://www.pexels.com/@nicola-narracci-157460431",
+        "photoPageUrl": "https://www.pexels.com/photo/abstract-visual-representation-of-dna-helix-35967917/",
+        "avgColor": "#090913"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "AI blood test predicts heart disease early",
+      "headline": "Your Blood Just Became Smarter. AI Now Spots Heart Problems 15 Years Early.",
+      "body": "A new AI-powered blood test called CardiOmicScore can predict six major cardiovascular diseases—including heart attack, stroke and heart failure—up to 15 years before symptoms appear. Unlike genetic risk scores, this test captures your current biology: thousands of proteins and metabolites that reflect your health, lifestyle and environment right now. The system adjusts as you change, giving you a moving target to aim at.",
+      "takeaway": "Prevention starts with knowing your real risk. Talk to your doctor about advanced screening if you have family history of heart disease.",
+      "source": "The University of Hong Kong",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm",
+      "pexelsQuery": "blood test vial medical laboratory",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4031504/pexels-photo-4031504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4031504/pexels-photo-4031504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Edward Jenner",
+        "photographerUrl": "https://www.pexels.com/@edward-jenner",
+        "photoPageUrl": "https://www.pexels.com/photo/person-holding-a-covid-19-blood-test-4031504/",
+        "avgColor": "#A9ADBA"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Cognitive decline isn't inevitable with training",
+      "headline": "Your Brain Isn't Getting Older. It's Getting Better.",
+      "body": "A landmark three-year study of nearly 4,000 adults aged 19 to 94 proves what we've been told wrong: cognitive decline isn't inevitable. Using targeted brain training, lifestyle tools, and personalized coaching delivered online, adults across every age group measurably improved their thinking skills, emotional balance, and sense of purpose. The catch? There's no ceiling. People at 80 gained as much ground as people at 30.",
+      "takeaway": "Spend 5-15 minutes daily on brain training strategies. Your brain responds to challenge at any age.",
+      "source": "Center for BrainHealth, University of Texas at Dallas",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "brain neural connections thinking learning",
+      "photo": {
+        "url": "https://images.pexels.com/photos/17483873/pexels-photo-17483873.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17483873/pexels-photo-17483873.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Google DeepMind",
+        "photographerUrl": "https://www.pexels.com/@googledeepmind",
+        "photoPageUrl": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-was-inspired-neural-networks-used-in-deep-learning-it-was-created-by-novoto-studio-as-part-of-the-visualising-ai-proje-17483873/",
+        "avgColor": "#CECFCE"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "AI-powered wearables predict illness before symptoms",
+      "headline": "Your Watch Now Knows You're Getting Sick. Before You Do.",
+      "body": "Wearable technology topped the 2026 fitness trends for good reason: modern devices with advanced biosensors can now predict illness and cardiac events days before symptoms appear. Half of U.S. adults own fitness trackers or smartwatches, and the latest generation uses edge AI to analyze heart rate variability, blood oxygen, respiration, and stress patterns. The real power isn't the data—it's what the algorithms do with it.",
+      "takeaway": "If you own a wearable, learn to read your trends. The raw numbers matter less than the patterns over time.",
+      "source": "American College of Sports Medicine",
+      "sourceUrl": "https://boxlifemagazine.com/fitness-trends-wearable-tech-weight-management-mental-health/",
+      "pexelsQuery": "smartwatch fitness tracker wearable device",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7672094/pexels-photo-7672094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7672094/pexels-photo-7672094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-a-black-armband-and-a-digital-watch-7672094/",
+        "avgColor": "#45342E"
+      }
+    }
+  ],
+  "quote": {
+    "text": "It is health that is real wealth and not pieces of gold and silver.",
+    "author": "Mahatma Gandhi",
+    "context": "Indian freedom fighter and political leader whose philosophy centered on simplicity and well-being."
+  },
+  "workout": {
+    "id": "c6197368-c661-44ec-91ef-43448d7a913d",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Face Pull & Grip Circuit: Shoulder Health & Pulling Endurance",
+    "difficulty": "Beginner",
+    "duration": "28 min",
+    "equipment": [
+      "resistance_bands",
+      "pull-up_bar"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "grip_training",
+      "gym_required",
+      "minimal_equipment",
+      "mobility_focused",
+      "muscle_gain",
+      "pull_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Perform face pulls as a 'set to feel'—aim for 15–20 reps with light-to-moderate band tension. The goal is shoulder health and movement quality, not maximal load. If your shoulders feel pinched or fatigued, add extra face pull volume before heavier pulling work.",
+    "warmup": "3 min: 8 arm circles each direction, 10 band pull-aparts, 8 scapular hangs (5 sec each), 10 shoulder rolls",
+    "exercises": [
+      {
+        "name": "High-Rep Face Pulls (Band)",
+        "sets": "3",
+        "reps": "18",
+        "notes": "Light-to-moderate resistance band, pull to face level, emphasize external rotation at end range. High reps build endurance in rear delts and improve posture. Rest 45 sec between sets."
+      },
+      {
+        "name": "Dead Hang Accumulation",
+        "sets": "4",
+        "reps": "3–5 hangs, 10–15 sec each",
+        "notes": "Grip the bar, depress scapula, hang with rib cage engaged. Rest 15 sec between hangs. Builds grip strength and lat control without pulling complexity. If too difficult, use assisted band."
+      },
+      {
+        "name": "Band Lat Pulldown (Kneeling)",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Anchor band overhead, kneel, pull elbows down to ribs, full scapular depression. Kneeling eliminates leg drive—pure lat and back activation. Slower tempo (2 sec down, 1 sec up)."
+      },
+      {
+        "name": "Doorway Band Pull-Through",
+        "sets": "2",
+        "reps": "15",
+        "notes": "Loop band around pull-up bar at shoulder height, face away, walk forward, row band to chest, walk back with control. Strengthens pulling position and improves thoracic extension."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: dead hang 15 sec, overhead shoulder stretch (clasped hands, gentle lean) 20 sec each side, wall chest stretch 15 sec each side, seated spinal twist 20 sec each side",
+    "description": "A band-and-bodyweight circuit emphasizing rear delt and shoulder resilience through high-rep face pulls, combined with grip and lat engagement via dead hangs and doorway pulls. This workout targets posture correction and builds pulling endurance in a shorter, equipment-light format. Great for office workers and athletes managing desk time."
+  },
+  "meal": {
+    "id": "e6b44083-aa8d-419a-b227-59e33e338adf",
+    "title": "Lemon Herb Pork Tenderloin Bowl with Quinoa and Roasted Zucchini",
+    "description": "Pork tenderloin is one of the leanest cuts of meat — nearly as lean as chicken breast — and it cooks fast. Slice it thin before searing to cut your cook time in half on busy weeknights.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 16,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n6 oz pork tenderloin, sliced into medallions\n3/4 cup cooked quinoa\n1 medium zucchini, sliced into half-moons\n1 tbsp olive oil\n2 garlic cloves, minced\nJuice of 1 lemon\n1 tsp dried oregano\n1/2 tsp smoked paprika\nSalt and black pepper to taste\nFresh parsley to garnish\n\nInstructions:\n1. Toss zucchini with half the olive oil, salt, and pepper. Roast at 425F for 15 minutes until golden. 2. Season pork medallions with paprika, oregano, salt, and pepper. Sear in remaining olive oil over medium-high heat, 3 minutes per side, until cooked through. 3. Deglaze the pan with lemon juice and garlic, stirring for 30 seconds to build a quick pan sauce. 4. Build your bowl: quinoa base, roasted zucchini on the side, pork on top, drizzle with pan sauce, and finish with fresh parsley.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
