@@ -1,0 +1,237 @@
+{
+  "date": "2026-08-01",
+  "dateLabel": "Saturday, August 1, 2026",
+  "generatedAt": "2026-08-01T10:56:19.897Z",
+  "articles": [
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Small movement increases extend lifespan",
+      "headline": "Even Tiny Bursts of Movement Add Years. Your Wearable Now Proves It.",
+      "body": "Want to live longer? You don't need hours at the gym. A massive study tracking over 135,000 people found that remarkably small increases in daily movement—even modest reductions in sitting—were linked to meaningful drops in mortality. The research, published in The Lancet and using wearable device data, showed the effect was consistent across age groups. Your watch is literally tracking one of the most powerful health interventions we know: consistent, accumulated movement throughout the day.",
+      "takeaway": "Small, frequent movement beats inactivity far more than long workout sessions. Aim for movement variety rather than intensity.",
+      "source": "The Lancet, 2026",
+      "sourceUrl": "https://onedayadvisor.com/2026/04/innovations-wearable-technology.html",
+      "pexelsQuery": "smartwatch fitness tracker wearable",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/374673/pexels-photo-374673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/374673/pexels-photo-374673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Burst",
+        "photographerUrl": "https://www.pexels.com/@burst",
+        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-yellow-fitness-band-holding-rock-374673/",
+        "avgColor": "#5F5C51"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Brain health improves at any age",
+      "headline": "Your Brain Gets Better With Age. Here's the Proof.",
+      "body": "Forget the idea that your brain peaks in your 20s and declines from there. A rigorous three-year study of nearly 4,000 adults aged 19 to 94 found something surprising: cognitive abilities improved across all age groups when people engaged in targeted brain training and healthy habits. The research, published in Nature's Scientific Reports, shows that brain health is something you actively build, not something you lose. Five to 15 minutes daily of focused mental work moved the needle measurably on clarity, emotional balance, and social connection.",
+      "takeaway": "Brain improvement isn't age-dependent. Consistent mental engagement works at 35, 55, and 75.",
+      "source": "Nature Scientific Reports / UT Dallas Center for BrainHealth",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "older adult learning brain activity",
+      "product": {
+        "id": "book-010",
+        "name": "Why We Sleep - Matthew Walker Audiobook",
+        "brand": "Matthew Walker",
+        "asin": "B0752XRB5F",
+        "url": "https://www.amazon.com/dp/B0752XRB5F?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "book",
+          "audiobook",
+          "health",
+          "brain",
+          "memory",
+          "insomnia",
+          "recovery",
+          "longevity"
+        ],
+        "blurb": "Read this and you will never deprioritize sleep again."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8185916/pexels-photo-8185916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8185916/pexels-photo-8185916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-man-holding-a-smartphone-8185916/",
+        "avgColor": "#B8A3A8"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Muscle repair timing and fuel strategy",
+      "headline": "Your Muscles Have a Recovery Switch. Scientists Just Found It.",
+      "body": "After intense training, your muscles don't just need protein and rest—they need strategic fuel timing. UC Irvine researchers discovered that immediately after muscle damage, stem cells deliberately slow energy production to reroute glucose toward protective repair processes. They essentially switch modes: less fuel burning, more antioxidant generation to fight inflammation. Once repairs are underway, energy metabolism ramps back up and new muscle fibers form. This metabolic choreography explains why recovery is as much about timing as effort.",
+      "takeaway": "Recovery is a two-phase metabolic process. Feed your muscles smart carbs post-workout, not aggressively.",
+      "source": "Nature Metabolism / UC Irvine School of Pharmacy",
+      "sourceUrl": "https://news.uci.edu/2026/02/27/uc-irvine-scientists-uncover-cellular-mechanism-behind-muscle-repair/",
+      "pexelsQuery": "muscle recovery ice bath stretching",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9617057/pexels-photo-9617057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9617057/pexels-photo-9617057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-red-swimsuit-and-red-swim-cap-9617057/",
+        "avgColor": "#9E9E9E"
+      }
+    },
+    {
+      "category": "GENETICS",
+      "topic": "Personalized nutrition guided by genetics",
+      "headline": "Your Genes Know What You Should Eat. Science Now Listens.",
+      "body": "One-size-fits-all diets are obsolete. A new study of 874 people using genetically informed nutrition reports found that tailoring diet recommendations to individual genetic profiles significantly improved health outcomes. People who changed eating habits based on genetic insights—rather than generic nutritional advice—saw measurable improvements in markers tied to their unique biology. This shifts nutrition from guesswork to precision: your DNA becomes part of your meal plan.",
+      "takeaway": "Genetic testing for nutrition provides actionable dietary changes tailored to your biology.",
+      "source": "BMC Nutrition",
+      "sourceUrl": "https://link.springer.com/article/10.1186/s40795-026-01311-6",
+      "pexelsQuery": "DNA test genetic health personalized nutrition",
+      "product": {
+        "id": "body-002",
+        "name": "Greater Goods Digital Food Scale",
+        "brand": "Greater Goods",
+        "asin": "B09QFWXSD8",
+        "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+        "category": "kitchen",
+        "price_range": "$",
+        "keywords": [
+          "nutrition",
+          "calories",
+          "macros",
+          "meal prep",
+          "food tracking",
+          "portion",
+          "weight loss",
+          "protein"
+        ],
+        "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6285355/pexels-photo-6285355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6285355/pexels-photo-6285355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gustavo Fring",
+        "photographerUrl": "https://www.pexels.com/@gustavo-fring",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-wearing-a-surgical-glove-reaching-for-a-tube-with-a-vaccine-6285355/",
+        "avgColor": "#B3A892"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The key to their success? Longevity. Staying healthy. Very simple.",
+    "author": "Morten Andersen",
+    "context": "Former NFL placekicker known for his record-breaking career longevity in professional sports."
+  },
+  "workout": {
+    "id": "4ae3ba39-58df-45f1-a5c1-a54736053e2f",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "full_body",
+    "title": "Ladder Logic: Progressive Squat & Push Circuit",
+    "difficulty": "Beginner",
+    "duration": "32 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "beginner_friendly",
+      "circuit",
+      "fat_loss",
+      "full_body",
+      "functional",
+      "hotel_friendly",
+      "no_equipment",
+      "under_30_min"
+    ],
+    "tip": "The ladder format means you start fresh each round—don't chase speed. Stop any set when form breaks; it's better to do 6 clean reps than 10 sloppy ones. Quality over volume at this level.",
+    "warmup": "3 min: 8 arm circles each direction, 10 bodyweight squats, 5 inchworms, 10 glute bridges, 5 push-ups",
+    "exercises": [
+      {
+        "name": "Ladder Circuit: Bodyweight Squat + Push-Up Descending",
+        "sets": "1 round",
+        "reps": "10 squat + 10 push-up → 8 squat + 8 push-up → 6 squat + 6 push-up → 4 squat + 4 push-up → 2 squat + 2 push-up",
+        "notes": "Complete all reps of squats, immediately move to push-ups. Rest 60 sec after each pairing. Teaches work capacity and movement integrity under fatigue."
+      },
+      {
+        "name": "Finisher: Glute Bridge Holds",
+        "sets": "3",
+        "reps": "20 sec hold",
+        "notes": "Hold top position, glutes maximally squeezed. Rest 30 sec between holds. This teaches isometric posterior chain stability and aids fat loss via metabolic demand."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min: quad stretch 30 sec each leg, forward fold 30 sec, low lunge hip flexor 30 sec each side, standing shoulder opener 30 sec",
+    "description": "A descending-rep ladder format that builds strength endurance while maintaining perfect movement quality under fatigue—the ideal introductory system for fat loss and functional fitness. Combines compound lower and upper patterns in a format that keeps beginners engaged and prevents monotony."
+  },
+  "meal": {
+    "id": "f7026987-eff4-4128-b193-7c5d79b145d7",
+    "title": "Bagel with Honey Cream Cheese & Cinnamon",
+    "description": "A lightly toasted plain bagel spread with honey-sweetened cream cheese and dusted with cinnamon delivers a hit of carbs and just enough fat for sustained blood sugar during your endurance training. Simple, familiar, and proven for athletes.",
+    "meal_type": "pre_workout",
+    "macro_profile": "high_carb",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 205,
+    "protein_g": 7,
+    "carbs_g": 34,
+    "fat_g": 5,
+    "fiber_g": 2,
+    "prep_minutes": 2,
+    "cook_minutes": 4,
+    "ingredients": [
+      "1 plain bagel",
+      "3 tbsp cream cheese",
+      "2 tsp raw honey",
+      "1/4 tsp ground cinnamon"
+    ],
+    "instructions": "1. Slice the bagel in half and toast lightly until the surface is just warm and slightly crisp.\n2. Spread cream cheese evenly on both halves.\n3. Drizzle honey over the cream cheese.\n4. Dust generously with cinnamon on both halves and serve immediately.",
+    "tip": "Toast only until warm, not hard—you want it to be easy on the stomach. Eat 30–50 minutes before a run; the refined carbs digest quickly while the cream cheese's fat keeps energy stable.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon"
+    ],
+    "image_url": ""
+  }
+}
