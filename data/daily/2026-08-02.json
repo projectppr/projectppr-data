@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-02",
+  "dateLabel": "Sunday, August 2, 2026",
+  "generatedAt": "2026-08-02T11:01:05.162Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "Mediterranean diet and mitochondrial protein protection",
+      "headline": "Mediterranean Diet Just Activated Your Brain and Heart's Tiny Protectors",
+      "body": "New research shows that following a Mediterranean diet triggers production of humanin and SHMOOSE, microscopic proteins your mitochondria use to defend your heart and brain. Higher consumption of olive oil, fish, and legumes significantly boosted these protective proteins. Researchers at USC found these microproteins appear to activate cardioprotective pathways that work even at the cellular level. The effect wasn't just theoretical either. People who stuck closest to the diet showed the strongest activation of these cellular bodyguards. This is what quality nutrition actually does: it speaks directly to your cells.",
+      "takeaway": "Eating Mediterranean-style isn't about complicated rules. Focus on olive oil, fish, and legumes, and you're giving your mitochondria the signals they need to protect themselves.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
+      "pexelsQuery": "Mediterranean food olive oil fish fresh vegetables",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6399849/pexels-photo-6399849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6399849/pexels-photo-6399849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "alleksana",
+        "photographerUrl": "https://www.pexels.com/@alleksana",
+        "photoPageUrl": "https://www.pexels.com/photo/a-healthy-meal-of-bread-with-anchovies-olives-and-vegetables-6399849/",
+        "avgColor": "#D0CBC5"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Poetry and cognitive training brain health improvement",
+      "headline": "Reading Poetry Rewired 35 Brains. Cognitive Clarity Climbed Steadily",
+      "body": "When students read classical Chinese poems for beauty rather than facts, researchers tracked something unexpected: brain regions associated with language processing actually quieted down, while regions linked to emotional and social understanding lit up. Even more striking, people who started with the lowest cognitive scores improved the most. Younger and older adults gained equally. The rebound effect was real too—people maintained or grew their cognitive gains even after job loss or illness. This isn't brain training gimmicks. It's evidence that aesthetic engagement creates measurable mental resilience.",
+      "takeaway": "Spend fifteen minutes with poetry or art that moves you. Your brain's clarity, emotional balance, and social connectedness all track upward.",
+      "source": "Scientific Reports",
+      "sourceUrl": "https://www.beautifulminds-newsletter.com/p/research-roundup-august-2026",
+      "pexelsQuery": "reading book poetry person focus",
+      "product": {
+        "id": "book-001",
+        "name": "Can't Hurt Me - David Goggins Audiobook",
+        "brand": "David Goggins",
+        "asin": "B07KKP62FW",
+        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "mindset",
+          "motivation",
+          "endurance",
+          "running",
+          "ultramarathon",
+          "book",
+          "audiobook"
+        ],
+        "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/15698945/pexels-photo-15698945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15698945/pexels-photo-15698945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Liudmyla Honcharova",
+        "photographerUrl": "https://www.pexels.com/@liudmyla-honcharova-72938428",
+        "photoPageUrl": "https://www.pexels.com/photo/book-in-hand-15698945/",
+        "avgColor": "#586075"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Heat therapy versus cold therapy muscle recovery",
+      "headline": "Heat Beats Cold for Recovery. New Study Says Hot Bath Wins by 30%",
+      "body": "Researchers compared hot water immersion, cold water, and thermoneutral water after inducing muscle damage. Hot water immersion significantly reduced muscle pain, lowered biomarkers of damage, and enhanced molecular repair pathways including IL-10 and HSP proteins. Cold water showed no such benefits and actually blunted some recovery signals. Despite cold therapy's popularity in sports culture, the data suggests a hot bath after heavy training may be your better choice for promoting actual muscle regeneration and strength recovery. This changes the recovery playbook for serious athletes.",
+      "takeaway": "Skip the ice bath after hard training. A warm soak activates your body's repair systems more effectively. You're promoting actual healing, not just managing soreness.",
+      "source": "Evidence Based Muscle",
+      "sourceUrl": "https://evidencebasedmuscle.com/hot-vs-cold-therapy-muscle-recovery/",
+      "pexelsQuery": "hot bath water warm spa relaxation",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8096934/pexels-photo-8096934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8096934/pexels-photo-8096934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Taryn Elliott",
+        "photographerUrl": "https://www.pexels.com/@taryn-elliott",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-taking-a-bath-8096934/",
+        "avgColor": "#B3ADAD"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "New cardiovascular kidney metabolic syndrome guidelines",
+      "headline": "The First-Ever Guidelines for Your Heart, Kidneys, and Metabolism Together",
+      "body": "The American Heart Association and American College of Cardiology released landmark clinical guidelines for cardiovascular-kidney-metabolic syndrome this July—the first unified approach to treating these three interconnected systems. Previous guidance treated them separately, missing how dysfunction in one amplifies problems in the others. The FDA also approved multiple new medications and devices for dyslipidemia and heart failure management. These guidelines mark a shift toward precision treatment that addresses root causes rather than symptoms. For your parents and grandparents, this could mean earlier intervention and better outcomes.",
+      "takeaway": "If you're managing heart health, kidney function, or blood sugar, ask your doctor how these new guidelines apply to your care. The integrated approach catches problems earlier.",
+      "source": "HCPLive",
+      "sourceUrl": "https://www.hcplive.com/view/6-cardiology-headlines-you-missed-in-july-2026",
+      "pexelsQuery": "heartbeat medical health monitor cardiology",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/32292593/pexels-photo-32292593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/32292593/pexels-photo-32292593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marta Branco",
+        "photographerUrl": "https://www.pexels.com/@martabranco",
+        "photoPageUrl": "https://www.pexels.com/photo/digital-blood-pressure-monitor-with-medication-32292593/",
+        "avgColor": "#A7A7A7"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Human connection really seems to drive successful aging—not to mention the motivation to stay alive and vibrant.",
+    "author": "Steven R. Gundry",
+    "context": "Physician and author specializing in nutrition and longevity research"
+  },
+  "workout": {
+    "id": "79e2bf94-e240-48f2-95b1-e620d4611456",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "recovery",
+    "title": "Slow Lane: Full-Body Unwind & Tension Release",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [
+      "yoga mat or soft surface",
+      "none"
+    ],
+    "trainingZone": "mixed",
+    "tags": [],
+    "tip": "",
+    "warmup": "Start lying on your back. Take five slow, deep breaths into your belly, letting each exhale last twice as long as the inhale. On breath four and five, gently rock your knees side to side to wake up the spine.",
+    "exercises": [
+      {
+        "name": "90/90 Hip Switch",
+        "sets": "2",
+        "reps": "6 switches each side",
+        "notes": "Sit with both knees bent at 90 degrees, one in front and one to the side. Slowly rotate hips to switch sides. Keep your torso tall and move from the hips, not the lower back."
+      },
+      {
+        "name": "Child's Pose with Lateral Reach",
+        "sets": "2",
+        "reps": "Hold 30 sec each side",
+        "notes": "From Child's Pose, walk both hands to the right and hold, breathing into the left side of your ribcage. Swap sides. This opens the lats and thoracic spine — tight spots for desk workers and lifters alike."
+      },
+      {
+        "name": "Supine Figure-Four Stretch",
+        "sets": "2",
+        "reps": "45 sec each side",
+        "notes": "Lying on your back, cross one ankle over the opposite knee and gently pull both legs toward your chest. This targets the piriformis and glutes. If your lower back lifts off the floor, back off slightly."
+      },
+      {
+        "name": "Cat-Cow Flow",
+        "sets": "2",
+        "reps": "10 slow reps",
+        "notes": "On hands and knees, alternate arching and rounding your spine with your breath. Inhale to arch (cow), exhale to round (cat). Move at your own pace — this is a spine reset, not a race."
+      },
+      {
+        "name": "Seated Neck and Shoulder Release",
+        "sets": "1",
+        "reps": "5 reps each direction",
+        "notes": "Sit cross-legged or in a chair. Slowly drop your right ear to your right shoulder and hold for three breaths. Add gentle chin tucks and slow head circles. Never force range of motion here."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish lying flat on your back in Savasana for 3 to 5 minutes. Let your arms fall open, close your eyes, and breathe normally. This is not optional — your nervous system needs this transition.",
+    "description": "Warmup: Start lying on your back. Take five slow, deep breaths into your belly, letting each exhale last twice as long as the inhale. On breath four and five, gently rock your knees side to side to wake up the spine. 90/90 Hip Switch: 2 sets x 6 switches each side — Sit with both knees bent at 90 degrees, one in front and one to the side. Slowly rotate hips to switch sides. Keep your torso tall and move from the hips, not the lower back. Child's Pose with Lateral Reach: 2 sets x Hold 30 sec each side — From Child's Pose, walk both hands to the right and hold, breathing into the left side of your ribcage. Swap sides. This opens the lats and thoracic spine — tight spots for desk workers and lifters alike. Supine Figure-Four Stretch: 2 sets x 45 sec each side — Lying on your back, cross one ankle over the opposite knee and gently pull both legs toward your chest. This targets the piriformis and glutes. If your lower back lifts off the floor, back off slightly. Cat-Cow Flow: 2 sets x 10 slow reps — On hands and knees, alternate arching and rounding your spine with your breath. Inhale to arch (cow), exhale to round (cat). Move at your own pace — this is a spine reset, not a race. Seated Neck and Shoulder Release: 1 sets x 5 reps each direction — Sit cross-legged or in a chair. Slowly drop your right ear to your right shoulder and hold for three breaths. Add gentle chin tucks and slow head circles. Never force range of motion here. Cooldown: Finish lying flat on your back in Savasana for 3 to 5 minutes. Let your arms fall open, close your eyes, and breathe normally. This is not optional — your nervous system needs this transition."
+  },
+  "meal": {
+    "id": "e6b44083-aa8d-419a-b227-59e33e338adf",
+    "title": "Lemon Herb Pork Tenderloin Bowl with Quinoa and Roasted Zucchini",
+    "description": "Pork tenderloin is one of the leanest cuts of meat — nearly as lean as chicken breast — and it cooks fast. Slice it thin before searing to cut your cook time in half on busy weeknights.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 16,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n6 oz pork tenderloin, sliced into medallions\n3/4 cup cooked quinoa\n1 medium zucchini, sliced into half-moons\n1 tbsp olive oil\n2 garlic cloves, minced\nJuice of 1 lemon\n1 tsp dried oregano\n1/2 tsp smoked paprika\nSalt and black pepper to taste\nFresh parsley to garnish\n\nInstructions:\n1. Toss zucchini with half the olive oil, salt, and pepper. Roast at 425F for 15 minutes until golden. 2. Season pork medallions with paprika, oregano, salt, and pepper. Sear in remaining olive oil over medium-high heat, 3 minutes per side, until cooked through. 3. Deglaze the pan with lemon juice and garlic, stirring for 30 seconds to build a quick pan sauce. 4. Build your bowl: quinoa base, roasted zucchini on the side, pork on top, drizzle with pan sauce, and finish with fresh parsley.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
