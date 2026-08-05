@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-05",
+  "dateLabel": "Wednesday, August 5, 2026",
+  "generatedAt": "2026-08-05T11:02:23.237Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Explosive power training strengthens older adults",
+      "headline": "90 Minutes a Week of Strength Training Adds Years to Your Life",
+      "body": "New research tracking 147,000 people over 30 years found the sweet spot: roughly 90 to 120 minutes of strength training weekly links to lower mortality risk across all causes. The effect was particularly strong for cardiovascular health. The study, published in the British Journal of Sports Medicine, shows that consistency matters more than intensity. Whether you're lifting heavy or moderate loads, the key is showing up. That's the good news for busy professionals who can't spend hours in the gym.",
+      "takeaway": "Aim for 90-120 minutes of strength training per week to see measurable longevity benefits. Weekend warrior workouts count.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
+      "pexelsQuery": "person lifting weights barbell",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4720780/pexels-photo-4720780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4720780/pexels-photo-4720780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/muscular-man-lifting-barbell-4720780/",
+        "avgColor": "#626160"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Napping boosts afternoon athletic power output",
+      "headline": "A 45-Minute Nap Improves Your Peak Power by Tomorrow Afternoon",
+      "body": "Elite rugby athletes who took a daytime nap of less than one hour between training sessions saw measurable improvements in peak power output during afternoon workouts. They also reported lower perceived exertion, less fatigue, and reduced muscle soreness. The research found that napping improved 6-second peak power performance compared to skipping sleep. For professionals juggling back-to-back meetings or workouts, this suggests a strategic midday nap isn't laziness—it's recovery. Even 30 to 45 minutes can reset your nervous system.",
+      "takeaway": "If you have two demanding sessions in one day, a sub-one-hour nap between them improves power output and reduces how hard work feels.",
+      "source": "SLEEP Journal",
+      "sourceUrl": "https://academic.oup.com/sleep/article/46/12/zsad133/7157067",
+      "pexelsQuery": "person napping resting couch",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8526713/pexels-photo-8526713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8526713/pexels-photo-8526713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-sleeping-8526713/",
+        "avgColor": "#89898B"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Early HRT reduces postmenopausal fracture risk",
+      "headline": "Early Hormone Therapy Cuts Fracture Risk by 13% Over 5 Years",
+      "body": "The largest real-world study to date examined 137,000 postmenopausal women and found that starting hormone replacement therapy early after menopause significantly lowers fracture risk. Women who initiated HRT early faced an 18% lower risk of osteoporosis compared to those who never used it. Fracture protection grew over time: 6% fewer fractures at five years, rising to 13% fewer at extended follow-up. This challenges outdated hesitations about HRT. The data shows early intervention preserves bone density during the critical postmenopausal window when bone loss accelerates.",
+      "takeaway": "If you're recently postmenopausal and concerned about bone health, early HRT initiation offers measurable fracture protection without waiting years to see results.",
+      "source": "American Academy of Orthopaedic Surgeons",
+      "sourceUrl": "https://aaos-annualmeeting-presskit.org/2026/research-news/new-study-finds-early-hormone-replacement-therapy-reduces-risk-of-osteoporosis-and-fractures-for-older-women/",
+      "pexelsQuery": "woman bone health calcium",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/32849865/pexels-photo-32849865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/32849865/pexels-photo-32849865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marta Branco",
+        "photographerUrl": "https://www.pexels.com/@martabranco",
+        "photoPageUrl": "https://www.pexels.com/photo/osteoporosis-treatment-and-medication-overview-32849865/",
+        "avgColor": "#C6C6C6"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Creatine sharpens cognition in aging brains",
+      "headline": "5 Grams of Creatine Daily Improves Memory and Processing Speed",
+      "body": "Healthy older adults (60–80 years) taking 5 grams of creatine daily for 12 weeks showed measurable gains in working memory and processing speed. Advanced brain imaging in 2026 studies revealed that creatine supplementation increased brain phosphocreatine levels by 10-15%, translating to better short-term memory performance. For people with mild cognitive impairment, the cognitive decline slowed by about 30% versus placebo in controlled trials. Creatine works by stabilizing the brain's ATP (energy currency), keeping neurons communicating and repairing themselves. It's one of the most researched supplements with a safety record spanning decades.",
+      "takeaway": "Adding creatine monohydrate (5g daily) is a low-risk, evidence-backed way to support memory and mental speed as you age.",
+      "source": "Nutrition Reviews",
+      "sourceUrl": "https://academic.oup.com/nutritionreviews/article/84/2/333/8253584",
+      "pexelsQuery": "brain cognitive function neuron",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/25626515/pexels-photo-25626515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/25626515/pexels-photo-25626515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Google DeepMind",
+        "photographerUrl": "https://www.pexels.com/@googledeepmind",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-abstract-shapes-25626515/",
+        "avgColor": "#294052"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Muscle strength and power predict our functionality with age. Improving these mechanical biomarkers with strength training provides protection against slips, trips, falls, and the effects of sarcopenia.",
+    "author": "Matt Jordan, PhD, CSCS",
+    "context": "Co-lead of the Integrative Neuromuscular Sport Performance Laboratory at the University of Calgary, expert on longevity and muscle health."
+  },
+  "workout": {
+    "id": "547056a9-3ee0-4762-8a1d-0c80e742cad1",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Squat and Hinge Starter: Bodyweight Lower-Body Foundation",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "equipment": [
+      "none"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "beginner_friendly",
+      "hinge_dominant",
+      "joint_friendly",
+      "lower_body",
+      "no_equipment",
+      "squat_dominant",
+      "under_30_min"
+    ],
+    "tip": "If your knees ache during squats, widen your stance slightly and point your toes out. Focus on sitting back into your hips rather than letting the knees drive forward.",
+    "warmup": "Spend 3 minutes walking in place, then do 10 slow leg swings per side and 10 hip circles per side. Finish with 5 slow bodyweight squats, pausing at the bottom for 2 seconds each rep.",
+    "exercises": [
+      {
+        "name": "Bodyweight Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Stand feet shoulder-width apart, sit back and down as if reaching for a chair. Keep chest tall and heels grounded."
+      },
+      {
+        "name": "Romanian Deadlift (Bodyweight)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Stand tall, soften your knees, and hinge at the hips pushing them back until you feel a stretch in the hamstrings. Return by driving hips forward."
+      },
+      {
+        "name": "Reverse Lunge",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Step one foot back, lower your back knee toward the floor, then push through your front heel to return. Easier on the knees than forward lunges."
+      },
+      {
+        "name": "Glute Bridge",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Lie on your back, feet flat on the floor, drive your hips up squeezing your glutes at the top. Hold 1 second at the top each rep."
+      },
+      {
+        "name": "Wall Sit",
+        "sets": "3",
+        "reps": "30 sec hold",
+        "notes": "Back flat against a wall, thighs parallel to floor. If 30 seconds is too easy, aim for 45. If too hard, raise your hips slightly."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Hold a standing quad stretch for 20 seconds each leg, then a seated hamstring stretch for 20 seconds each side. Finish with 10 slow deep breaths.",
+    "description": "Warmup: Spend 3 minutes walking in place, then do 10 slow leg swings per side and 10 hip circles per side. Finish with 5 slow bodyweight squats, pausing at the bottom for 2 seconds each rep. Bodyweight Squat: 3 sets x 12 — Stand feet shoulder-width apart, sit back and down as if reaching for a chair. Keep chest tall and heels grounded. Romanian Deadlift (Bodyweight): 3 sets x 10 — Stand tall, soften your knees, and hinge at the hips pushing them back until you feel a stretch in the hamstrings. Return by driving hips forward. Reverse Lunge: 3 sets x 8 each leg — Step one foot back, lower your back knee toward the floor, then push through your front heel to return. Easier on the knees than forward lunges. Glute Bridge: 3 sets x 15 — Lie on your back, feet flat on the floor, drive your hips up squeezing your glutes at the top. Hold 1 second at the top each rep. Wall Sit: 3 sets x 30 sec hold — Back flat against a wall, thighs parallel to floor. If 30 seconds is too easy, aim for 45. If too hard, raise your hips slightly. Cooldown: Hold a standing quad stretch for 20 seconds each leg, then a seated hamstring stretch for 20 seconds each side. Finish with 10 slow deep breaths."
+  },
+  "meal": {
+    "id": "f3c8c883-d06f-4dec-ba6e-c7ac7a714283",
+    "title": "Seared Chicken Thighs with Warm Lentil and Roasted Pepper Salad",
+    "description": "Cook a double batch of lentils on Sunday and this meal comes together in under 15 minutes on a weeknight.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 490,
+    "protein_g": 42,
+    "carbs_g": 32,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 bone-in, skin-on chicken thighs\n1 cup cooked green or puy lentils\n1 roasted red pepper (jarred is fine), sliced\n2 cups baby spinach\n1 clove garlic, minced\n1 tablespoon olive oil\n1 tablespoon red wine vinegar\n1 teaspoon smoked paprika\nSalt and black pepper to taste\nFresh parsley to finish\n\nInstructions:\nSeason chicken thighs with smoked paprika, salt, and pepper. Sear skin-side down in an oven-safe pan over medium-high heat for 6-7 minutes until golden, then flip and finish in a 400F oven for 12-15 minutes until cooked through. While chicken rests, warm olive oil in a pan over medium heat and saute garlic for 1 minute. Add lentils, roasted pepper, and spinach. Stir until spinach wilts, then deglaze with red wine vinegar. Serve the lentil salad topped with the chicken thigh and a scatter of fresh parsley.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
