@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-07",
+  "dateLabel": "Friday, August 7, 2026",
+  "generatedAt": "2026-08-07T11:01:20.042Z",
+  "articles": [
+    {
+      "category": "RECOVERY",
+      "topic": "TRF2 protein preserves muscle repair capacity",
+      "headline": "This Hidden Protein Just Became Your Muscle's Best Friend",
+      "body": "Your muscles have a secret weapon they don't tell you about. Researchers at Penn Medicine discovered that a protein called TRF2 does way more than protect chromosome ends. It actually keeps your muscle stem cells ready to repair damage after injury. When TRF2 is working right, your muscles can regenerate efficiently throughout life. When it's not, damaged tissue turns to scar and fat. The breakthrough matters because it could eventually lead to treatments for muscular dystrophy—and it reveals how your muscles stay young at the cellular level. Bottom line: understanding this repair mechanism changes how we think about recovery and lifelong resilience.",
+      "takeaway": "Your muscle's ability to heal after injury depends on this protein maintaining stem cell identity. Protect it by staying active.",
+      "source": "Science Advances (Penn Medicine)",
+      "sourceUrl": "https://www.pennmedicine.org/news/scientists-uncover-how-muscles-preserve-their-repair-cells",
+      "pexelsQuery": "muscle fiber tissue microscope",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11210351/pexels-photo-11210351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11210351/pexels-photo-11210351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Fayette Reynolds M.S.",
+        "photographerUrl": "https://www.pexels.com/@fayette-reynolds-m-s-181007507",
+        "photoPageUrl": "https://www.pexels.com/photo/abstract-stripey-background-11210351/",
+        "avgColor": "#AF698B"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Artificial sweeteners alter gut bacteria differently",
+      "headline": "Your Sweetener Isn't Silent. Your Gut Bacteria Notices.",
+      "body": "You probably thought artificial sweeteners were metabolically invisible. New research from Cambridge proves otherwise. Scientists tested 39 sweeteners on 25 different gut bacteria species and found that about 75% of them changed how bacteria grow. What's worse: when sweeteners combine with common medications or caffeine, their effects amplify. The sweetener isosteviol paired with the antidepressant duloxetine, for example, significantly suppressed beneficial bacteria linked to blood sugar control. This isn't just theory—it's happening in people right now. Your gut responds differently depending on your whole diet, your medications, and even your genetics. One-size-fits-all sweetener advice is outdated.",
+      "takeaway": "Sweetener effects depend on what else you consume. If you're on medication, pay attention to combinations, not just individual ingredients.",
+      "source": "Molecular Systems Biology (University of Cambridge)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
+      "pexelsQuery": "artificial sweetener packets diet soda",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/12284680/pexels-photo-12284680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12284680/pexels-photo-12284680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/sugar-in-metal-spoon-12284680/",
+        "avgColor": "#B2A092"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Once-weekly 75-minute interval walking beats frequency",
+      "headline": "You Don't Need Multiple Workouts. One Long Walk Wins.",
+      "body": "You've been told to exercise most days of the week. Here's what 315 adults with belly fat just proved: one 75-minute session of brisk interval walking per week works about as well as three separate sessions spread across the week. The key is total volume. Both groups completed the same amount of exercise and saw similar drops in body fat, waist circumference, and cardiovascular fitness over four months. This matters for parents and professionals who think they don't have time. You don't need daily trips to the gym. One focused, high-effort session gives you legitimate results. The benefits held even four months after the program ended. Total commitment beats frequency every time.",
+      "takeaway": "If you're time-crunched, consolidate your workout into one 75-minute interval session weekly. Total volume matters more than splits.",
+      "source": "Nature Communications (University of Hong Kong)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+      "pexelsQuery": "brisk walking interval training outdoors",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5319323/pexels-photo-5319323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5319323/pexels-photo-5319323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/people-jogging-on-gray-concrete-bridge-5319323/",
+        "avgColor": "#A4A6A7"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Sleep brain waves predict dementia risk years early",
+      "headline": "Your Brain's Aging Speed Shows Up in Your Sleep",
+      "body": "Your sleeping brain is broadcasting secrets about your future. Researchers analyzed brain waves during sleep in over 7,000 people and used machine learning to calculate a 'brain age' that often differs from actual age. The finding: if your brain appears 10 years older than your real age, your dementia risk jumps by 40%. This isn't about sleep quantity or quality—it's about the microstructure of brain waves themselves. The good news is that this opens a door for early intervention years before memory problems surface. Sleep EEG could become a noninvasive screening tool for cognitive decline. Your brain's overnight rhythm is telling you whether you're aging faster than you should be.",
+      "takeaway": "Protect your sleep quality. Brain wave patterns during sleep are an early signal of cognitive aging—intervene before symptoms appear.",
+      "source": "JAMA Network Open",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "pexelsQuery": "sleeping brain waves EEG monitoring",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/935742/pexels-photo-935742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/935742/pexels-photo-935742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-white-bed-holding-blue-pillow-935742/",
+        "avgColor": "#999B9A"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Joy, collected over time, fuels resilience – ensuring we'll have reservoirs of emotional strength when hard things do happen.",
+    "author": "Brené Brown",
+    "context": "Researcher and author who studies courage, vulnerability, and human connection."
+  },
+  "workout": {
+    "id": "3fa7649c-6ea1-4c13-9d36-2d88207bdfc1",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "treadmill",
+    "title": "Steady State Continuous: The 20-Minute Milestone",
+    "difficulty": "Beginner",
+    "duration": "27 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "indoor",
+      "low_impact",
+      "treadmill_ok",
+      "under_30_min"
+    ],
+    "tip": "Aim for a pace where you can hold a conversation but not sing. If you're gasping, drop your speed by 0.3–0.5 mph. Consistency beats speed at this stage; 20 minutes at 5.2 mph today beats a burnout attempt at 5.8 mph.",
+    "warmup": "2 min @ 3.0 mph / 0% incline (easy walk) + 2 min @ 4.0 mph / 0% incline (brisk walk) + 1 min @ 4.8 mph / 0% incline (light jog to settle into pace)",
+    "exercises": [
+      {
+        "name": "Continuous Steady-State Run",
+        "sets": "1",
+        "reps": "1 × 20 minutes",
+        "notes": "Run continuously @ 5.0–5.3 mph / 0% incline for the full 20-minute block. Stay in zone 2 (easy aerobic)—you should feel like you could extend this run if needed, not like you're sprinting. Focus on rhythmic breathing (e.g., 3 steps in, 2 steps out) and relaxed shoulders. This builds mitochondrial density and teaches your body to sustain aerobic effort."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "2 min @ 3.0 mph / 0% incline (easy walk). Post-run: hamstring stretch 45 sec each leg, quad stretch 45 sec each leg, calf stretch 30 sec each leg, chest and shoulder opener 30 sec.",
+    "description": "A straightforward continuous-run session at conversational pace designed for beginners who can sustain 20 minutes of non-stop treadmill running. This builds aerobic base, improves running economy, and creates the mental toughness needed for 5K racing and consistent fat loss."
+  },
+  "meal": {
+    "id": "f3c8c883-d06f-4dec-ba6e-c7ac7a714283",
+    "title": "Seared Chicken Thighs with Warm Lentil and Roasted Pepper Salad",
+    "description": "Cook a double batch of lentils on Sunday and this meal comes together in under 15 minutes on a weeknight.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 490,
+    "protein_g": 42,
+    "carbs_g": 32,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 bone-in, skin-on chicken thighs\n1 cup cooked green or puy lentils\n1 roasted red pepper (jarred is fine), sliced\n2 cups baby spinach\n1 clove garlic, minced\n1 tablespoon olive oil\n1 tablespoon red wine vinegar\n1 teaspoon smoked paprika\nSalt and black pepper to taste\nFresh parsley to finish\n\nInstructions:\nSeason chicken thighs with smoked paprika, salt, and pepper. Sear skin-side down in an oven-safe pan over medium-high heat for 6-7 minutes until golden, then flip and finish in a 400F oven for 12-15 minutes until cooked through. While chicken rests, warm olive oil in a pan over medium heat and saute garlic for 1 minute. Add lentils, roasted pepper, and spinach. Stir until spinach wilts, then deglaze with red wine vinegar. Serve the lentil salad topped with the chicken thigh and a scatter of fresh parsley.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
