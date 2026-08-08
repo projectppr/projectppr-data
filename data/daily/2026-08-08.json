@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-08",
+  "dateLabel": "Saturday, August 8, 2026",
+  "generatedAt": "2026-08-08T11:00:52.415Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "One-session weekly walking cuts belly fat",
+      "headline": "One Long Weekly Walk Beats Three Shorter Ones for Belly Fat",
+      "body": "Busy? You only need 75 minutes of brisk interval walking once a week. A four-month trial of 315 adults with central obesity found that a single weekly session reduced body fat and improved cardiovascular fitness nearly as well as spreading the same 75 minutes across three days. Researchers alternated three minutes of fast-paced walking with three minutes of recovery. Both groups lost similar fat mass and strengthened their hearts. The key: total volume matters more than frequency.",
+      "takeaway": "If you can only commit to one workout per week, make it 75 minutes of interval walking. You'll see results comparable to three weekly sessions.",
+      "source": "ScienceDaily / Nature Communications / University of Hong Kong",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+      "pexelsQuery": "person walking briskly outdoors trail",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8795587/pexels-photo-8795587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8795587/pexels-photo-8795587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anastasia  Shuraeva",
+        "photographerUrl": "https://www.pexels.com/@anastasia-shuraeva",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-with-a-trekking-pole-walking-8795587/",
+        "avgColor": "#363833"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "First oral cholesterol pill FDA approved",
+      "headline": "New Pill Cuts Bad Cholesterol by 60%. It's Not an Injection Anymore.",
+      "body": "After years as injection-only therapy, PCSK9 inhibitors just got a major upgrade. The FDA approved Lipfendra (enlicitide) in July—the first oral PCSK9 inhibitor. It cuts LDL cholesterol by up to 60% in clinical trials. That's dramatically faster than statins alone. It works by blocking a protein that normally tells your body to hang onto bad cholesterol. For people with stubborn cholesterol despite statins, or those who can't tolerate statins, this daily pill is a game-changer.",
+      "takeaway": "If statins aren't enough and injections feel like a hassle, ask your cardiologist about Lipfendra. One daily pill could get your cholesterol where it needs to be.",
+      "source": "Harvard Health / FDA / NBC News",
+      "sourceUrl": "https://www.health.harvard.edu/heart-health/newly-approved-pill-cuts-ldl-cholesterol-levels-by-more-than-half",
+      "pexelsQuery": "prescription medication pill bottle white",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/15020647/pexels-photo-15020647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15020647/pexels-photo-15020647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/bottles-with-pills-on-table-15020647/",
+        "avgColor": "#82A0AB"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Hormone therapy protects bone density in menopause",
+      "headline": "Hormone Therapy Just Cut Your Bone Loss Risk by 69%",
+      "body": "New research from ENDO 2026 is reshaping the menopause conversation. Women on menopausal hormone therapy had a 69% lower risk of low bone mineral density compared to those who skipped it. A study of 387 postmenopausal women found the protection held up even after accounting for age, vitamin D, smoking, and other health factors. Early hormone therapy also reduced fracture risk by 13% over five years. For decades, women avoided HRT due to safety concerns. This data shows bone protection is a real benefit worth reconsidering.",
+      "takeaway": "If you're postmenopausal and worried about osteoporosis, ask your doctor about hormone therapy early. The bone protection benefit is real.",
+      "source": "Endocrine Society / Medical News Today",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/menopause-hormone-therapy-slashes-risk-low-bone-density-fractures-new-data",
+      "pexelsQuery": "woman middle-aged health wellness mature",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6667741/pexels-photo-6667741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6667741/pexels-photo-6667741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/smiling-woman-in-eyeglasses-holding-box-with-fruit-6667741/",
+        "avgColor": "#B1B1AC"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Sleep apnea detection now FDA-cleared on wearables",
+      "headline": "Your Smartwatch Can Now Detect Sleep Apnea. Here's What That Means.",
+      "body": "<cite index=\"54-1,54-2\">The Apple Watch Series 10 has FDA-cleared Sleep Apnea Notification, with large clinical validation and seamless overnight monitoring.</cite> <cite index=\"54-7\">In 2026, only three consumer devices are FDA-cleared to detect sleep apnea: Apple Watch (Series 9+), Samsung Galaxy Watch (7/8/Ultra), and Withings Sleep Analyzer.</cite> <cite index=\"54-5\">FDA-cleared devices can detect patterns associated with obstructive sleep apnea and alert users to seek testing.</cite> No wearable can diagnose sleep apnea—they flag patterns. But catching the signal early means you can get tested before serious complications like hypertension or heart disease develop.",
+      "takeaway": "If you're fatigued or snoring loudly, an FDA-cleared smartwatch can screen for sleep apnea patterns. That alert is your cue to see a sleep specialist.",
+      "source": "Sleeplay / SleepQuest",
+      "sourceUrl": "https://sleeplay.com/blogs/news/best-sleep-trackers-wearables-sleep-apnea",
+      "pexelsQuery": "smartwatch on wrist health monitoring tech",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4587417/pexels-photo-4587417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4587417/pexels-photo-4587417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/a-short-haired-woman-looking-at-her-watch-4587417/",
+        "avgColor": "#CFB1AC"
+      }
+    }
+  ],
+  "quote": {
+    "text": "I really think a champion is defined not by their wins, but by how they can recover when they fall.",
+    "author": "Serena Williams",
+    "context": "23-time Grand Slam champion and one of the greatest athletes of all time"
+  },
+  "workout": {
+    "id": "1ecb6dd4-763e-4c60-a8ec-b1a6735bcac2",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "hiit",
+    "title": "Lower-Body Squat Sprint: Glute & Quad Burst",
+    "difficulty": "Beginner",
+    "duration": "24 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "fat_loss",
+      "full_body",
+      "hiit",
+      "hotel_friendly",
+      "lower_body",
+      "no_equipment",
+      "squat_dominant",
+      "under_30_min"
+    ],
+    "tip": "Keep your chest upright on air squats and shift weight into your heels. If knees hurt, reduce depth slightly and focus on controlled tempo rather than speed. Quality reps always beat rep count.",
+    "warmup": "3 min: 10 leg swings each leg, 10 glute bridges, 5 bodyweight squats with 2 sec pause at bottom, 10 jumping jacks at easy pace",
+    "exercises": [
+      {
+        "name": "Air Squat",
+        "sets": "6 rounds",
+        "reps": "35 sec work / 70 sec rest",
+        "notes": "Feet shoulder-width apart, descend until thighs are parallel or slightly below. Heels stay down, chest stays upright. Reduce depth if needed to maintain form."
+      },
+      {
+        "name": "Alternating Reverse Lunge",
+        "sets": "5 rounds",
+        "reps": "40 sec work / 80 sec rest",
+        "notes": "Step back, lower until back knee nearly touches ground. Front knee tracks over ankle. Push through front heel to return. Slow and controlled is better than fast."
+      },
+      {
+        "name": "Glute Bridge Hold",
+        "sets": "3 rounds",
+        "reps": "30 sec work / 60 sec rest",
+        "notes": "Lie on back, knees bent, feet flat. Drive hips up, squeeze glutes hard at top. Engage core and hold. Finisher to lock in posterior chain activation."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: lying quad stretch 30 sec each leg, hamstring fold 45 sec, pigeon pose 30 sec each side, figure-4 stretch 30 sec each side",
+    "description": "A 24-minute beginner HIIT session focused on lower-body conditioning using air squats and lunges in short work bursts with double-length recovery. Designed for athletes looking to build fat-loss momentum without complex technique, this low-impact circuit keeps knees safe and heart rate elevated."
+  },
+  "meal": {
+    "id": "e6b44083-aa8d-419a-b227-59e33e338adf",
+    "title": "Lemon Herb Pork Tenderloin Bowl with Quinoa and Roasted Zucchini",
+    "description": "Pork tenderloin is one of the leanest cuts of meat — nearly as lean as chicken breast — and it cooks fast. Slice it thin before searing to cut your cook time in half on busy weeknights.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 16,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n6 oz pork tenderloin, sliced into medallions\n3/4 cup cooked quinoa\n1 medium zucchini, sliced into half-moons\n1 tbsp olive oil\n2 garlic cloves, minced\nJuice of 1 lemon\n1 tsp dried oregano\n1/2 tsp smoked paprika\nSalt and black pepper to taste\nFresh parsley to garnish\n\nInstructions:\n1. Toss zucchini with half the olive oil, salt, and pepper. Roast at 425F for 15 minutes until golden. 2. Season pork medallions with paprika, oregano, salt, and pepper. Sear in remaining olive oil over medium-high heat, 3 minutes per side, until cooked through. 3. Deglaze the pan with lemon juice and garlic, stirring for 30 seconds to build a quick pan sauce. 4. Build your bowl: quinoa base, roasted zucchini on the side, pork on top, drizzle with pan sauce, and finish with fresh parsley.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
