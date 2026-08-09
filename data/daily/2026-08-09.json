@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-09",
+  "dateLabel": "Sunday, August 9, 2026",
+  "generatedAt": "2026-08-09T11:01:03.812Z",
+  "articles": [
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Midlife vascular control prevents dementia",
+      "headline": "Control Blood Pressure Now. Skip 13 Years of Dementia Later.",
+      "body": "Adults who reach middle age free of high blood pressure, diabetes, and smoking live nearly 13 more dementia-free years than those carrying all three conditions. A landmark 26-year study of over 12,000 Americans published in Neurology shows the gap between controlled vascular health and cognitive decline isn't marginal. Managing three specific risk factors in midlife creates measurable decades of protection. The research validates what WHO just prioritized: vascular health is the highest-leverage dementia intervention available.",
+      "takeaway": "If you're in your 40s or 50s without these three conditions, you've already won the biggest dementia bet. If you have them, starting management now compounds into years of cognitive protection.",
+      "source": "Neurology Open Access",
+      "sourceUrl": "https://www.techtimes.com/articles/323651/20260808/midlife-vascular-control-linked-13-more-dementia-free-years-aric-study-finds.htm",
+      "pexelsQuery": "doctor checking blood pressure patient",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14558560/pexels-photo-14558560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14558560/pexels-photo-14558560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Imad Clicks",
+        "photographerUrl": "https://www.pexels.com/@imadclicks",
+        "photoPageUrl": "https://www.pexels.com/photo/a-doctor-taking-a-patient-s-blood-pressure-14558560/",
+        "avgColor": "#818682"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Body composition affects male reproductive health",
+      "headline": "Your Body Fat Matters More Than Your Scale Does",
+      "body": "A study of over 1,000 young Danish men found that body fat percentage predicts reproductive health better than BMI alone. Men with higher body fat percentages had significantly lower sperm counts and altered testosterone levels, even when their BMI appeared normal. Two men with identical BMI could have vastly different fertility outcomes based on actual body composition. The finding matters because BMI doesn't distinguish between muscle and fat, making it possible to look healthy on paper while carrying hidden reproductive risk.",
+      "takeaway": "If you're concerned about reproductive health or general fitness, body composition matters more than what the scale says. Track muscle-to-fat ratio alongside weight.",
+      "source": "Human Reproduction",
+      "sourceUrl": "https://www.healthline.com/health-news/higher-body-fat-percentage-lower-sperm-count-study",
+      "pexelsQuery": "man measuring body fat with caliper",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5714337/pexels-photo-5714337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5714337/pexels-photo-5714337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "https://kaboompics.com/",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/man-measuring-a-woman-s-waistline-holding-a-bowl-of-salad-5714337/",
+        "avgColor": "#A38F80"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Daily avocado reduces harmful cholesterol particles",
+      "headline": "One Avocado a Day Cuts Your Heart Disease Risk by 4%",
+      "body": "Adults with obesity who ate one avocado daily for six months experienced significant reductions in LDL particles circulating in their blood, translating to roughly 4% lower cardiovascular disease risk. The study of 786 participants from Penn State showed this benefit came without weight loss or calorie restriction, just dietary addition. LDL particles matter separately from LDL cholesterol: more particles mean more vessels damage regardless of total cholesterol. The effect held across all demographic groups, suggesting simple food choices compound into real cardiac protection.",
+      "takeaway": "Adding one avocado daily is a friction-free way to reduce cardiovascular risk if you carry abdominal weight. No diet overhaul required.",
+      "source": "Journal of Clinical Lipidology",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+      "pexelsQuery": "fresh avocado cut in half",
+      "product": {
+        "id": "body-001",
+        "name": "RENPHO Smart Body Scale",
+        "brand": "Renpho",
+        "asin": "B01N1UX8RW",
+        "url": "https://www.amazon.com/dp/B01N1UX8RW?tag=chrisolson04-20",
+        "category": "health",
+        "price_range": "$",
+        "keywords": [
+          "body composition",
+          "weight",
+          "muscle mass",
+          "body fat",
+          "health tracking",
+          "scale",
+          "BMI",
+          "training progress"
+        ],
+        "blurb": "Weight alone lies. Body composition tells the real story of your training progress."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11264385/pexels-photo-11264385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11264385/pexels-photo-11264385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/closer-up-shot-of-a-sliced-avocado-on-wooden-chopping-board-11264385/",
+        "avgColor": "#8B705D"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Prenatal beliefs predict postpartum sleep quality",
+      "headline": "Your Thoughts About Sleep Now Shape Your Sleep Later",
+      "body": "Pregnant women's expectations about postpartum sleep predicted their actual sleep quality after delivery better than sleep history, psychiatric background, or number of previous births. A study of 432 women presented at Sleep 2026 found that 70% expected poor sleep, and those expectations became self-fulfilling. What matters: beliefs formed during pregnancy directly shaped objective sleep measured by wrist sensors. Postpartum anxiety amplified the effect for women expecting the worst. The finding suggests intervening on mindset before delivery could protect maternal sleep before problems develop.",
+      "takeaway": "If you're expecting, your beliefs about postpartum sleep matter as much as logistics. Addressing sleep-related anxiety early is preventative.",
+      "source": "Sleep 2026 Conference",
+      "sourceUrl": "https://neurosciencenews.com/prenatal-expectations-postpartum-anxiety-insomnia-30863/",
+      "pexelsQuery": "pregnant woman sleeping peacefully in bed",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6793199/pexels-photo-6793199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6793199/pexels-photo-6793199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yaroslav Shuraev",
+        "photographerUrl": "https://www.pexels.com/@yaroslav-shuraev",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-sitting-on-bed-with-a-sleep-mask-6793199/",
+        "avgColor": "#A0866E"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The quality, not the longevity, of one's life is what is important.",
+    "author": "Martin Luther King, Jr.",
+    "context": "Civil rights leader and visionary thinker"
+  },
+  "workout": {
+    "id": "282eb976-0adc-4b07-aa1a-65fb58a82617",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "active_recovery",
+    "title": "Breathing & Walking Meditation: Z1 Gentle Stride Flow",
+    "difficulty": "Beginner",
+    "duration": "20 min",
+    "equipment": [],
+    "trainingZone": "z1",
+    "tags": [
+      "beginner_friendly",
+      "joint_friendly",
+      "low_impact",
+      "mobility_focused",
+      "no_equipment",
+      "outdoor",
+      "under_30_min"
+    ],
+    "tip": "Maintain a conversational pace where you can speak in full sentences without gasping. Sync your breathing to your stride: 3 steps inhale, 3 steps exhale. If you feel any tension, slow further—this is not about pace, only presence.",
+    "warmup": "2 min: slow walking in place, 5 shoulder rolls forward and backward, 10 gentle arm swings side-to-side, 5 deep breaths with eyes closed",
+    "exercises": [
+      {
+        "name": "Breathing Walk (Minutes 1–5)",
+        "sets": "1",
+        "reps": "5 minutes continuous",
+        "notes": "Walk at easy conversational pace (~2.5–3 mph). Breathe in for 3 steps, exhale for 3 steps. Focus on relaxed shoulders and natural arm swing."
+      },
+      {
+        "name": "Body Scan Walk (Minutes 6–10)",
+        "sets": "1",
+        "reps": "5 minutes continuous",
+        "notes": "Continue walking, but mentally scan from toes to head. Notice any tight spots (calves, hips, shoulders). Do not force stretching; just acknowledge tension and let it soften with each breath."
+      },
+      {
+        "name": "Gratitude & Intention Walk (Minutes 11–15)",
+        "sets": "1",
+        "reps": "5 minutes continuous",
+        "notes": "Maintain easy pace. With each exhale, mentally name one thing your body did well in training this week. Keep breathing anchored to stride."
+      },
+      {
+        "name": "Final Awareness Walk (Minutes 16–20)",
+        "sets": "1",
+        "reps": "5 minutes continuous",
+        "notes": "Gradually reduce pace to a gentle stroll. Notice your heartbeat, the sensation of ground contact, and the ease of breathing. End standing still for 30 seconds of silent breathing."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min: standing quad stretch 20 sec each leg, standing forward fold (hamstring) 30 sec, chest opener against tree or wall 20 sec each side, 5 deep belly breaths",
+    "description": "A 20-minute conversational walk paired with structured breathing cues and body awareness. Perfect for the day after a hard strength or interval session, this active recovery promotes blood flow without metabolic demand while building parasympathetic tone. Ideal for beginners recovering from 5K speed work or strength training."
+  },
+  "meal": {
+    "id": "d8791862-275d-439f-b0bf-daa95cc898ce",
+    "title": "Herb-Roasted Chicken Thighs with Bulgur Tabbouleh & Roasted Zucchini",
+    "description": "Chicken thighs deliver sustained energy and are far more forgiving than breast meat, paired with light-yet-filling bulgur that absorbs Middle Eastern flavors. This is classic endurance-athlete fuel—nutrient-dense, filling, and stores beautifully for meal prep.",
+    "meal_type": "dinner",
+    "macro_profile": "balanced",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 620,
+    "protein_g": 42,
+    "carbs_g": 58,
+    "fat_g": 18,
+    "fiber_g": 7,
+    "prep_minutes": 12,
+    "cook_minutes": 28,
+    "ingredients": [
+      "400g chicken thighs, skin-on",
+      "1 cup bulgur",
+      "2 medium zucchini, cut into batons",
+      "1/4 cup fresh parsley, chopped",
+      "2 tbsp fresh mint, chopped",
+      "1/4 cup cherry tomatoes, halved",
+      "2 tbsp lemon juice",
+      "3 tbsp olive oil",
+      "2 cloves garlic, minced",
+      "1 tsp dried thyme",
+      "Salt and pepper to taste"
+    ],
+    "instructions": "1. Preheat oven to 425°F. Season chicken thighs with salt, pepper, thyme, and minced garlic. Place on a sheet pan skin-side up and roast 20–24 minutes until skin is crispy and internal temp reaches 165°F.\n2. While chicken cooks, bring 2 cups water to a boil, add bulgur and 1/2 tsp salt, reduce heat, and simmer covered 12–15 minutes until tender.\n3. Toss zucchini batons with 1 tbsp olive oil, salt, and pepper. Spread on a second sheet pan and roast alongside chicken for final 15 minutes until lightly caramelized.\n4. Fluff cooked bulgur and fold in parsley, mint, cherry tomatoes, lemon juice, and remaining 2 tbsp olive oil.\n5. Divide bulgur tabbouleh and roasted zucchini between plates; top each with chicken thighs.",
+    "tip": "Chicken thighs can be prepped Sunday and eaten cold for lunch or reheated gently on Monday–Wednesday; bulgur tabbouleh actually tastes better the next day as flavors meld.",
+    "goal_affinity": [
+      "endurance",
+      "general_fitness",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
