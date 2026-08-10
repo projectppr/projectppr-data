@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-10",
+  "dateLabel": "Monday, August 10, 2026",
+  "generatedAt": "2026-08-10T11:00:56.211Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Seven days meditation rewires brain",
+      "headline": "One Week of Intensive Meditation Rewires Your Brain Faster Than You'd Think",
+      "body": "A seven-day meditation retreat produced measurable changes in brain activity and blood chemistry tied to improved focus, immune function, pain relief, and even psychedelic-like experiences. Researchers from UC San Diego found that participants showed striking shifts in neuroplasticity and metabolism. The changes suggest that intensive meditation creates brain connectivity patterns similar to those seen with certain drugs—but without any substances. This isn't about becoming a zen master. It's about what happens when you lock in for a week.",
+      "takeaway": "A concentrated meditation retreat can trigger real biological changes in your brain and body in just seven days, improving focus and resilience.",
+      "source": "ScienceDaily / University of California - San Diego",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807235243.htm",
+      "pexelsQuery": "person meditating peaceful retreat",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6298321/pexels-photo-6298321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6298321/pexels-photo-6298321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kampus Production",
+        "photographerUrl": "https://www.pexels.com/@kampus",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-sports-bra-doing-a-yoga-pose-6298321/",
+        "avgColor": "#8B9195"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Full-fat dairy doesn't raise cholesterol",
+      "headline": "Three Daily Servings of Full-Fat Dairy Won't Hurt Your Heart",
+      "body": "A new Canadian study challenges decades of low-fat dietary advice. Researchers found that adults eating three servings of full-fat dairy daily for 12 weeks showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. In fact, they experienced better blood pressure and consumed more calcium, protein, and vitamin D. The discovery suggests dairy's complex structure matters more than saturated fat content alone. If you've been avoiding whole milk and cheese, this changes the equation.",
+      "takeaway": "Full-fat dairy can fit into a healthy diet without the weight or cholesterol penalties—and may even improve blood pressure.",
+      "source": "ScienceDaily / University of Toronto",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
+      "pexelsQuery": "cheese milk butter dairy products",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5953684/pexels-photo-5953684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5953684/pexels-photo-5953684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-working-in-a-production-plant-5953684/",
+        "avgColor": "#AFB0B8"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "Restricting one amino acid extends lifespan",
+      "headline": "One Dietary Amino Acid Cut Could Add Years to Your Life",
+      "body": "New research shows that restricting valine, a common amino acid found in protein-rich foods, extended both median and maximum lifespan in male mice while improving healthspan in both sexes. The study reveals that the body's amino acid balance matters as much as total protein intake. While this research is early-stage, it points to a precision approach to longevity that goes beyond simple \"eat more protein\" advice. The finding suggests that strategic dietary adjustments—not just calorie counting—influence how long we actually live.",
+      "takeaway": "Moderating specific amino acids like valine may extend lifespan and improve health—a discovery that challenges conventional protein recommendations.",
+      "source": "Lifespan.io",
+      "sourceUrl": "https://lifespan.io/news/",
+      "pexelsQuery": "healthy protein food sources nuts seeds",
+      "photo": {
+        "url": "https://images.pexels.com/photos/11397572/pexels-photo-11397572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11397572/pexels-photo-11397572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-person-holding-a-glass-of-milk-11397572/",
+        "avgColor": "#ACA8A9"
+      }
+    },
+    {
+      "category": "GENETICS",
+      "topic": "Six genes control your inflammation response",
+      "headline": "Your Genes Determine How Inflamed You Get—And What Actually Works",
+      "body": "Six specific genes control how much inflammatory cytokines your body produces, how efficiently you clear oxidative stress, and how quickly your immune system stands down after activation. Variants in genes like GSTM1, GPX1, and NOS1 affect your ability to handle free radicals and dampen inflammation. This matters because two people eating the same diet, exercising the same way, and managing stress identically can have wildly different inflammation levels based on their genetics. Understanding your genetic predisposition to inflammation helps you choose interventions that actually match your biology, not generic advice.",
+      "takeaway": "Your genetic makeup determines your inflammation baseline—test your genes to find interventions that actually work for your specific biology.",
+      "source": "SelfDecode / myDNA",
+      "sourceUrl": "https://selfdecode.com/en/pages/inflammation-genetics-dna-test/",
+      "pexelsQuery": "DNA genetic testing laboratory",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8533136/pexels-photo-8533136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8533136/pexels-photo-8533136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Artem Podrez",
+        "photographerUrl": "https://www.pexels.com/@artempodrez",
+        "photoPageUrl": "https://www.pexels.com/photo/scientist-holding-container-with-vials-8533136/",
+        "avgColor": "#82044B"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Your longevity depends more on the aggregate of what you do most of the time, not being perfect all the time.",
+    "author": "Michael Roizen",
+    "context": "Longevity physician and co-author of RealAge, emphasizing consistency over perfection in health decisions."
+  },
+  "workout": {
+    "id": "1c559e4c-6320-465a-a474-47bd0d1eed49",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Overhead Press Ladder: Vertical Pressing Power & Shoulder Hypertrophy",
+    "difficulty": "Intermediate",
+    "duration": "48 min",
+    "equipment": [
+      "barbell",
+      "dumbbells",
+      "bench"
+    ],
+    "trainingZone": "z4",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "muscle_gain",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Pack your shoulders before each rep—depress the scapula and create tension through your lats. Press in a straight line, not in front of your face. Engage your core as if bracing for a punch.",
+    "warmup": "6 min: 15 band pull-aparts, 10 scapular wall slides, 5 inchworms, 8 empty-bar presses, 3 reps @ 60% working weight",
+    "exercises": [
+      {
+        "name": "Barbell Overhead Press (Strict Form)",
+        "sets": "4",
+        "reps": "3, 5, 7, 10",
+        "notes": "Start @ 82% 1RM for 3 reps, drop to 75% for 5 reps, 70% for 7 reps, 65% for 10 reps. Rest 2 min between sets. Each rep should be a grind—no explosive bouncing."
+      },
+      {
+        "name": "Dumbbell Single-Arm Shoulder Press",
+        "sets": "3",
+        "reps": "8 each side",
+        "notes": "Unilateral pressing builds stabilizer strength and exposes asymmetries. Anti-rotation work—brace obliques hard. Rest 90 sec."
+      },
+      {
+        "name": "Incline Dumbbell Press (Flat Bench, 30-Degree Angle)",
+        "sets": "3",
+        "reps": "9",
+        "notes": "Bridge the gap between flat and incline pressing. Upper-chest and front-delt hypertrophy. Tempo: 2 down, 1 pause, 1 up. Rest 75 sec."
+      },
+      {
+        "name": "Lateral Raise (Dumbbell)",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Isolation for shoulder width. Slight elbow bend, raise to shoulder height, squeeze at the top. Light weight, high control. Rest 60 sec."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: overhead shoulder stretch 45 sec each side, thoracic extension over foam roller or bench 60 sec, wall angel holds 30 sec, neck rolls 30 sec",
+    "description": "This ascending-rep ladder builds shoulder strength and upper-back resilience through varied loading and volume density. Starting heavy and ascending to moderate weight keeps the nervous system engaged while flooding the shoulders with work—ideal for athletes building overhead press strength and chest-shoulder integration. Unilateral and stability work prevents imbalances common in pressing athletes."
+  },
+  "meal": {
+    "id": "f99f8187-8ea6-4b53-b23c-8df2b477e0a6",
+    "title": "Honey-Cinnamon Rice Cakes with Almond Butter & Banana",
+    "description": "Two crispy rice cakes topped with creamy almond butter, banana slices, and a drizzle of honey—the ultimate grab-and-go pre-workout fuel that hits your carbs and fat sweet spot without sitting heavy before a swim or run.",
+    "meal_type": "pre_workout",
+    "macro_profile": "performance",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 298,
+    "protein_g": 8,
+    "carbs_g": 42,
+    "fat_g": 11,
+    "fiber_g": 3,
+    "prep_minutes": 3,
+    "cook_minutes": 0,
+    "ingredients": [
+      "2 rice cakes",
+      "2 tbsp almond butter",
+      "1 medium banana",
+      "1 tbsp honey",
+      "pinch of cinnamon"
+    ],
+    "instructions": "1. Spread almond butter evenly on both rice cakes.\n2. Slice banana and layer on top.\n3. Drizzle with honey and dust lightly with cinnamon.\n4. Eat immediately or wrap to go.",
+    "tip": "Prep this the night before and wrap in foil—the banana won't brown if kept cool, and you save 3 minutes on race morning. Eat 30–45 minutes before training.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
