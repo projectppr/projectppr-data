@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-11",
+  "dateLabel": "Tuesday, August 11, 2026",
+  "generatedAt": "2026-08-11T11:00:43.229Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "Fish hydrolysate boosts memory in aging adults",
+      "headline": "Fish Hydrolysate Just Sharpened Aging Memory in a Controlled Trial",
+      "body": "A double-blind study published in The American Journal of Clinical Nutrition found that fish hydrolysate supplementation improved memory performance in older adults already showing cognitive decline. After just three months of daily dosing, participants performed measurably better on memory tasks. The research doesn't promise reversal of existing decline, but it does suggest that targeted protein hydrolysates can slow the cognitive slide that comes with age. This is the kind of unglamorous nutrition science that works: simple intervention, clear measurement, real results.",
+      "takeaway": "Three months of fish hydrolysate daily improved memory in older adults with early cognitive decline. Start before decline gets worse.",
+      "source": "American Journal of Clinical Nutrition",
+      "sourceUrl": "https://nutritionaloutlook.com/news",
+      "pexelsQuery": "fish oil supplement capsule healthy aging",
+      "photo": {
+        "url": "https://images.pexels.com/photos/17820733/pexels-photo-17820733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17820733/pexels-photo-17820733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/container-of-capsule-pills-17820733/",
+        "avgColor": "#D5CCBB"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Omega-3 reduces inflammation markers in athletes",
+      "headline": "Omega-3 Cuts Your Recovery Inflammation in Half. Here's When It Works.",
+      "body": "A major meta-analysis published in The FASEB Journal analyzed decades of omega-3 research on athletic recovery. The finding: chronic omega-3 supplementation (longer than eight weeks) significantly reduces C-reactive protein, a key inflammation marker tied to muscle damage and slow recovery. The catch: it works best with endurance or mixed training, not for short bursts. High doses matter more than consistency; you need at least one gram of EPA and DHA combined daily. This is useful because it tells you when to supplement and when to save your money.",
+      "takeaway": "Omega-3 supplementation for over eight weeks cuts inflammation markers in endurance athletes. Short-term supplementation doesn't move the needle.",
+      "source": "The FASEB Journal",
+      "sourceUrl": "https://faseb.onlinelibrary.wiley.com/doi/10.1096/fj.202504783R",
+      "pexelsQuery": "omega-3 fish oil supplement bottle",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17820735/pexels-photo-17820735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17820735/pexels-photo-17820735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/multi-colored-capsules-and-bottle-17820735/",
+        "avgColor": "#D19E1F"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Smart rings now predict health problems a week early",
+      "headline": "Smart Rings Just Predicted Health Crises a Week Before You Feel Them",
+      "body": "In 2026, smart rings like Oura Gen 4, Samsung Galaxy Ring, and Ultrahuman Ring Air have evolved from step counters into early warning systems. They track heart rate variability, skin temperature, and sleep patterns to detect irregular rhythms, estimate blood glucose, and predict mental health episodes. A titanium band weighing under six grams now streams data that feeds directly into your doctor's electronic health record. Clinical adoption is accelerating too: post-surgical patients get discharged earlier because physicians monitor vitals remotely. Cardiac patients prefer a thin ring over a bulky Holter monitor. The wearable isn't just tracking your health anymore, it's predicting it.",
+      "takeaway": "Smart rings now detect irregular heart rhythms and predict health crises up to a week early. Clinical adoption is growing fast.",
+      "source": "Haznos Health Technology Trends 2026",
+      "sourceUrl": "https://haznos.org/2026/wearable-health-tech-trends-2026/",
+      "pexelsQuery": "smart ring wearable health technology",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/3912375/pexels-photo-3912375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3912375/pexels-photo-3912375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ThisIsEngineering",
+        "photographerUrl": "https://www.pexels.com/@thisisengineering",
+        "photoPageUrl": "https://www.pexels.com/photo/boxer-wearing-performance-tracker-3912375/",
+        "avgColor": "#352038"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "Low water intake linked to accelerated cognitive aging",
+      "headline": "Your Hydration Status Predicts Cognitive Decline. The Science Is Clear.",
+      "body": "A prospective study found that lower hydration status, measured by blood markers like osmolality, predicted greater cognitive decline over two years in older adults. The kicker: how much water people reported drinking didn't matter. What mattered was actual hydration status, detected by the body's own biomarkers. Even mild chronic dehydration can affect concentration, memory, and clarity. For professionals and parents juggling competing demands, this is a wake-up call. You can't rely on thirst to tell you when to drink. The brain needs steady hydration to function at its best, and you won't know you're deficient until your memory starts slipping.",
+      "takeaway": "Actual hydration status (not perception) predicts cognitive decline over two years. Steady fluid intake throughout the day matters more than volume per drink.",
+      "source": "Hydration Research 2026",
+      "sourceUrl": "https://milkyplant.com/en-us/blogs/the-latest/2026-performance-upgrade-hydration-micronutrients-lifestyle-insights-from-recent-studies",
+      "pexelsQuery": "water bottle hydration person drinking",
+      "photo": {
+        "url": "https://images.pexels.com/photos/9943324/pexels-photo-9943324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9943324/pexels-photo-9943324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/person-pouring-water-on-stainless-steel-mug-9943324/",
+        "avgColor": "#898A82"
+      }
+    }
+  ],
+  "quote": {
+    "text": "A strong sense of purpose is one of the most powerful, and underestimated, predictors of longevity.",
+    "author": "Dr. Shai Efrati",
+    "context": "Brain health expert and director of the Sagol Center for Hyperbaric Medicine, speaking on longevity and resilience in 2026."
+  },
+  "workout": {
+    "id": "b1c69610-9dd3-4066-9236-99e806192c61",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "intervals",
+    "title": "5K Pace Track Ladder: 400m Repeat Pyramid",
+    "difficulty": "Intermediate",
+    "duration": "40 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "cardio",
+      "lactate_work",
+      "no_equipment",
+      "outdoor",
+      "race_prep",
+      "under_60_min"
+    ],
+    "tip": "Aim for even splits on each 400m repeat—don't chase the first one. Your quads will feel the fatigue on repeats 4–6; use shorter, quicker strides to maintain cadence rather than grinding with long strides.",
+    "warmup": "8 min: 2 min easy jog, 6×100m stride-outs with 50m walk recovery between each",
+    "exercises": [
+      {
+        "name": "6×400m @ 5K Pace",
+        "sets": "6",
+        "reps": "1",
+        "notes": "Run each 400m at your 5K goal pace (e.g., if 5K goal is 20 min, that's ~6:25/km or 10:20/mile = ~90 sec per 400m). Focus on controlled acceleration in the first 100m, hold steady in the middle, kick slightly in the final 100m."
+      },
+      {
+        "name": "90-Second Recovery Jog",
+        "sets": "5",
+        "reps": "1",
+        "notes": "Between each 400m repeat, jog at conversational pace (about 65–70% max heart rate). This active recovery clears lactate and keeps your heart rate elevated for the next effort."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: easy jog at conversational pace, followed by 3 min of standing quad stretch (30 sec each leg), hamstring fold (60 sec), and calf stretch against a wall (30 sec each side)",
+    "description": "A classic pyramid structure that builds speed sustainability at 5K race pace. Athletes run 400m repeats at progressively harder efforts (6×400m with 90-second recovery jogs), teaching the body to maintain turnover under fatigue. Perfect for 5K and 10K runners who need to sharpen leg speed before race season."
+  },
+  "meal": {
+    "id": "fa9e0bcc-b65d-4ee4-a5d3-715949cc994c",
+    "title": "Seared Beef Sirloin with Roasted Sweet Potato and Arugula Salad",
+    "description": "Let the steak rest fully before slicing — it keeps the juices in and the meat tender. A cast iron pan gives you the best sear with minimal cleanup.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n6 oz beef sirloin steak\n1 medium sweet potato, diced\n2 cups fresh arugula\n1 tbsp olive oil\n1 tsp garlic powder\n1 tsp smoked paprika\nSalt and black pepper to taste\nJuice of half a lemon\n1 tsp Dijon mustard\n1 tsp red wine vinegar\n2 tbsp crumbled feta (optional)\n\nInstructions:\n1. Toss diced sweet potato with half the olive oil, garlic powder, paprika, salt, and pepper. Roast at 425F for 18-20 minutes until golden. 2. Season steak generously with salt and pepper. Sear in a hot cast iron pan for 3-4 minutes per side for medium. Rest for 5 minutes before slicing. 3. Whisk remaining olive oil with lemon juice, Dijon, vinegar, a pinch of salt, and pepper to make a quick dressing. Toss arugula with the dressing. 4. Plate arugula and roasted sweet potato, top with sliced steak and optional feta. Serve immediately.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
