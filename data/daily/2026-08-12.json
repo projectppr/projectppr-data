@@ -1,0 +1,230 @@
+{
+  "date": "2026-08-12",
+  "dateLabel": "Wednesday, August 12, 2026",
+  "generatedAt": "2026-08-12T11:01:08.110Z",
+  "articles": [
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Heart rate variability training readiness monitoring",
+      "headline": "Your HRV Just Became Your Recovery Predictor. Here's What It's Actually Telling You.",
+      "body": "Heart rate variability—the tiny fluctuations between heartbeats—is emerging as your body's clearest signal of recovery readiness. New research shows that HRV-guided training helps athletes maintain and improve vagal-mediated recovery better than predetermined programs. The catch: HRV doesn't predict performance directly. Instead, it reflects total life stress—training, work, relationships, sleep. Most consumer wearables now measure HRV continuously, but consistency matters more than precision. Your baseline and trends reveal more than a single morning reading. The parasympathetic system controls those variations; when you're stressed or overtrained, variability drops. Smart athletes use HRV to decide when hard sessions work and when recovery days matter most.",
+      "takeaway": "Monitor HRV trends over time, not single readings. Low HRV signals accumulated stress—train lighter that day.",
+      "source": "Frontiers in Sports and Active Living, 2026",
+      "sourceUrl": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1720495/full",
+      "pexelsQuery": "smartwatch wearable fitness tracker",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5036927/pexels-photo-5036927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5036927/pexels-photo-5036927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/people-looking-at-their-watches-5036927/",
+        "avgColor": "#5B4A3F"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Jump training power strength young adults",
+      "headline": "8 Weeks of Jump Training Just Transformed Non-Exercisers. Aerobic Fitness Improved Too.",
+      "body": "Seventy-five inactive adults completed just 15 minutes of jump training, three times per week, for eight weeks. The results surprised even the researchers. Countermovement jump performance improved, balance got better, leg strength increased, and peak oxygen uptake climbed. No equipment needed. No gym membership required. This isn't complicated plyometrics—it's controlled hops and jumps that teach your nervous system and muscles to work together. The gains held even eight weeks after training stopped, suggesting real adaptation happened. For people stuck in sedentary patterns, this matters. Jump training activates more muscle fibers than steady-state cardio and builds both power and aerobic capacity simultaneously. Time is the excuse that doesn't hold anymore.",
+      "takeaway": "15 minutes of jump training, 3x weekly, builds power, strength, and aerobic fitness without specialized equipment.",
+      "source": "Frontiers in Sports and Active Living, 2026",
+      "sourceUrl": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1746624/full",
+      "pexelsQuery": "man jumping athletic training",
+      "product": {
+        "id": "run-001",
+        "name": "Saucony Endorphin Speed 5",
+        "brand": "Saucony",
+        "asin": "B0DJWMR6YY",
+        "url": "https://www.amazon.com/dp/B0DJWMR6YY?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "shoes",
+          "marathon",
+          "5k",
+          "10k",
+          "half marathon",
+          "race",
+          "speed",
+          "carbon"
+        ],
+        "blurb": "The shoe Chris trains and races in. Fast, light, built for people who take running seriously."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6009002/pexels-photo-6009002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6009002/pexels-photo-6009002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mary Taylor",
+        "photographerUrl": "https://www.pexels.com/@mary-taylor",
+        "photoPageUrl": "https://www.pexels.com/photo/young-man-jumping-from-wall-during-extreme-training-6009002/",
+        "avgColor": "#4A4B47"
+      }
+    },
+    {
+      "category": "BREATHWORK",
+      "topic": "Intentional breathing nervous system regulation performance",
+      "headline": "Your Breath Is Your Nervous System's Remote Control. Here's How to Use It.",
+      "body": "Breathing techniques aren't meditation fluff—they're a direct pathway to control your autonomic nervous system. Research confirms that intentional breathwork reduces stress signals, improves focus, and enhances athletic performance. Diaphragmatic breathing, done slowly and through the nose, activates your parasympathetic system and shifts you from fight-or-flight to rest-and-recover. Athletes are using this before competition to manage anxiety and maintain cognitive clarity under pressure. Coaches integrate breathwork into warm-ups because it's simple, trainable, and measurable. Five minutes of coordinated breathing synchronizes your core muscles, improves posture, and steadies your mind. The science is moving faster than the practice—most people still underestimate how powerful this tool actually is.",
+      "takeaway": "Practice slow nasal breathing for 5 minutes daily to regulate stress response and improve performance readiness.",
+      "source": "Global Wellness Institute, 2026",
+      "sourceUrl": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/03/breathe-initiative-trends-for-2026/",
+      "pexelsQuery": "person breathing meditation calm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/17641619/pexels-photo-17641619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17641619/pexels-photo-17641619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "David Kouakou",
+        "photographerUrl": "https://www.pexels.com/@david-kouakou-536418893",
+        "photoPageUrl": "https://www.pexels.com/photo/young-woman-sitting-on-ground-near-old-building-meditating-17641619/",
+        "avgColor": "#6B6660"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Strength training longevity 90 minutes weekly",
+      "headline": "90 Minutes a Week of Strength Training Cuts Your Early Death Risk. Here's the Sweet Spot.",
+      "body": "A Harvard-led study tracking 147,000 adults for 30 years found that people doing up to two hours of strength training weekly had significantly lower mortality risks from heart disease, neurological diseases like dementia, and all-cause death. The sweet spot lands around 90 to 120 minutes per week—not every day, not heavy. This wasn't about muscle size or bodybuilding; it was about preservation of function. Resistance training, whether weights or bodyweight, triggered the same protective effect. The research included people aged 50–70 with normal testosterone levels, showing results are real for midlife adults. The mechanism involves maintaining muscle mass, bone density, metabolic function, and cardiovascular health. This isn't new advice, but now it's backed by decades of hard data.",
+      "takeaway": "Aim for 90–120 minutes of strength training weekly to reduce mortality risk from major causes.",
+      "source": "Harvard Health & British Journal of Sports Medicine, 2026",
+      "sourceUrl": "https://www.health.harvard.edu/exercise-and-fitness/strength-training-over-decades-linked-to-longer-life",
+      "pexelsQuery": "woman lifting weights strength training gym",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/1092885/pexels-photo-1092885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1092885/pexels-photo-1092885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Victor Freitas",
+        "photographerUrl": "https://www.pexels.com/@victorfreitas",
+        "photoPageUrl": "https://www.pexels.com/photo/person-standing-near-black-barbell-1092885/",
+        "avgColor": "#444854"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The difference between who you are and who you want to be is what you do.",
+    "author": "Bill Phillips",
+    "context": "Fitness expert and bestselling author on the power of consistent action over intention."
+  },
+  "workout": {
+    "id": "4464739a-4c39-41e3-9b3a-b8b63ca90617",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Split Squat Symmetry: Single-Leg Strength & Balance Builder",
+    "difficulty": "Beginner",
+    "duration": "36 min",
+    "equipment": [
+      "dumbbell"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "functional",
+      "joint_friendly",
+      "lower_body",
+      "squat_dominant",
+      "under_60_min"
+    ],
+    "tip": "Keep your torso upright and shoulders square to the direction you're facing. Many beginners lean forward or twist—this reduces glute engagement and stresses the knee. Cue: 'Vertical shin on front leg, vertical torso.'",
+    "warmup": "4 min: 10 cat-cow stretches, 15 walking lunges (light), 10 glute bridges, 5 bodyweight split squats each leg",
+    "exercises": [
+      {
+        "name": "Dumbbell Split Squat (Back Foot Elevated)",
+        "sets": "4",
+        "reps": "9 each leg",
+        "notes": "Rear foot on bench, front foot forward. Hold dumbbells at sides or shoulders. Lower until front knee reaches 90°, rear knee almost touches ground. Push through front heel to stand. Tall torso throughout. This isolates each leg and teaches balance."
+      },
+      {
+        "name": "Single-Leg Glute Bridge (Knee Bent)",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Lie on back, one foot planted, opposite knee bent. Drive through standing leg to lift hips. Hold top 2 sec, focusing on glute squeeze. Prevents hamstring dominance and reinforces hip extension."
+      },
+      {
+        "name": "Dumbbell Lateral Lunge",
+        "sets": "3",
+        "reps": "8 each side",
+        "notes": "Stand holding dumbbells at sides. Step wide to one side, load that leg while keeping opposite leg straight. Push off to return to center. This frontal-plane movement strengthens outer hips and adductors, improving knee stability."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: 90/90 hip stretch 40 sec each side, hamstring stretch 40 sec each leg, child's pose 30 sec",
+    "description": "A lower-body session emphasizing split squats and single-leg variations to correct imbalances, build unilateral leg strength, and improve knee/hip tracking under load. Ideal for runners and fitness professionals needing stable, resilient legs."
+  },
+  "meal": {
+    "id": "d6383a12-0afc-4b6d-aae7-f54de5596812",
+    "title": "Smoked Salmon & Dill Scramble with Whole Wheat Toast & Avocado",
+    "description": "Silky scrambled eggs folded with smoked salmon, fresh dill, and capers, served alongside whole wheat toast and creamy avocado—a sophisticated, omega-3 rich breakfast that supports strength recovery and brain health without feeling heavy before a workout.",
+    "meal_type": "breakfast",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 560,
+    "protein_g": 38,
+    "carbs_g": 40,
+    "fat_g": 24,
+    "fiber_g": 7,
+    "prep_minutes": 8,
+    "cook_minutes": 8,
+    "ingredients": [
+      "3 large eggs",
+      "80g smoked salmon, cut into bite-sized pieces",
+      "1 tbsp fresh dill, chopped",
+      "1 tbsp capers, rinsed",
+      "2 slices whole wheat bread",
+      "1/2 ripe avocado, sliced",
+      "1 tbsp butter",
+      "1/4 lemon",
+      "Salt and black pepper to taste",
+      "Optional: 1 tbsp cream cheese or crème fraîche"
+    ],
+    "instructions": "1. Toast the whole wheat bread while you prep other ingredients.\n2. Whisk eggs in a bowl with a pinch of salt and pepper. Add optional cream cheese for extra creaminess.\n3. Melt butter in a nonstick skillet over medium-low heat. Add eggs and stir gently and frequently, cooking until just set but still slightly creamy, about 4–5 minutes.\n4. Fold in smoked salmon, dill, and capers in the last 30 seconds of cooking.\n5. Spread avocado on warm toast and season lightly with salt, pepper, and a squeeze of lemon.\n6. Plate eggs alongside toast and serve immediately.",
+    "tip": "Low-and-slow egg cooking (medium-low heat, constant stirring) creates silky curds instead of rubbery chunks—smoked salmon's delicate flavor deserves that treatment. Buy pre-sliced smoked salmon to save 2 minutes; the cost difference is minimal and it keeps refrigerated for a week.",
+    "goal_affinity": [
+      "strength",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
