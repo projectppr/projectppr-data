@@ -1,0 +1,241 @@
+{
+  "date": "2026-08-15",
+  "dateLabel": "Saturday, August 15, 2026",
+  "generatedAt": "2026-08-15T11:00:50.470Z",
+  "articles": [
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Smart thread sensors for medical monitoring",
+      "headline": "Invisible Electronic Thread Could Replace Wearable Watches",
+      "body": "Researchers at Tufts just broke new ground in wearable health tech. They've developed flexible electronic threads—think of them as threadectronics—that can be woven into clothing and used for medical monitoring. Unlike the bulky watches and rings on your wrist, these threads are so discreet you won't even know you're wearing them. They track the same vital data as traditional wearables but with zero friction. Perfect for people who want continuous health monitoring without the tech stigma.",
+      "takeaway": "Wearable medical monitoring is entering the stealth era. Electronic threads offer clinical-grade data collection without the visual footprint of traditional wearables.",
+      "source": "New Atlas",
+      "sourceUrl": "https://newatlas.com/wearables/thread-ectronic-wearables/",
+      "pexelsQuery": "smart technology fabric wearable",
+      "product": {
+        "id": "tech-001",
+        "name": "Ray-Ban Meta Smart Glasses",
+        "brand": "Ray-Ban",
+        "asin": "B0FLYDJHB4",
+        "url": "https://www.amazon.com/dp/B0FLYDJHB4?tag=chrisolson04-20",
+        "category": "tech",
+        "price_range": "$$$",
+        "keywords": [
+          "smart glasses",
+          "wearable",
+          "tech",
+          "audio",
+          "lifestyle",
+          "hands-free",
+          "daily carry"
+        ],
+        "blurb": "Sunglasses that play music, take calls, and keep you present. Chris uses these daily."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/267391/pexels-photo-267391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/267391/pexels-photo-267391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/person-in-blue-long-sleeve-shirt-using-smart-watch-267391/",
+        "avgColor": "#68919C"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Estrogen therapy reduces dementia risk",
+      "headline": "Estrogen-Only Hormone Therapy Linked to Lower Dementia Risk",
+      "body": "New research shows that estrogen-only hormone therapy is associated with a lower risk of dementia in women. A Stanford study examined medical records from two large datasets and found protective benefits for the brain. The findings matter because they add nuance to decades of confused messaging about HRT. Women taking estrogen-only therapy—separate from combined hormone treatments—showed measurable cognitive benefits. The timing and type of therapy both appear to influence outcomes significantly.",
+      "takeaway": "Estrogen-only hormone therapy shows promise for cognitive protection. Talk to your doctor about whether timing and formulation matter for your specific situation.",
+      "source": "Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-08-estrogen-hormone-therapy-dementia.html",
+      "pexelsQuery": "woman health doctor consultation aging",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5214992/pexels-photo-5214992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5214992/pexels-photo-5214992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Adventure Studio",
+        "photographerUrl": "https://www.pexels.com/@adventurestudio",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-checking-the-heart-of-a-woman-5214992/",
+        "avgColor": "#A6A99E"
+      }
+    },
+    {
+      "category": "COLD THERAPY",
+      "topic": "Cold water immersion restores athletic power",
+      "headline": "Cold Water Immersion Recovers Your Power Output 24 Hours Faster",
+      "body": "Cold water immersion (CWI) just proved its worth for competitive athletes. A new meta-analysis of soccer players found that cold water exposure significantly improved recovery of maximum voluntary contraction and vertical jump power within 24 hours post-match. The mechanism is straightforward: cold reduces inflammation and fluid accumulation in damaged muscle tissue, allowing faster strength restoration. The sweet spot appears to be around 10 minutes at 50°F. If you're competing frequently or training hard multiple times weekly, strategic cold plunges aren't just feel-good recovery—they're performance medicine.",
+      "takeaway": "Cold water immersion measurably restores muscular power by 24 hours post-competition. Use it strategically when tournament frequency or training volume demands rapid recovery.",
+      "source": "Scandinavian Journal of Medicine & Science In Sports",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12767754/",
+      "pexelsQuery": "ice bath cold water immersion recovery athlete",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/31852541/pexels-photo-31852541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/31852541/pexels-photo-31852541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Davide Comunian",
+        "photographerUrl": "https://www.pexels.com/@tuttosfocato",
+        "photoPageUrl": "https://www.pexels.com/photo/underwater-view-of-swimmer-in-blue-ocean-31852541/",
+        "avgColor": "#1D425C"
+      }
+    },
+    {
+      "category": "BREATHWORK",
+      "topic": "Respiratory muscle training builds lung capacity",
+      "headline": "12 Weeks of Breathing Training Just Increased Lung Power in Sedentary Guys",
+      "body": "A recent study took 41 inactive teenage boys and had them do a 12-week breathing training program focused on inspiratory muscle strength. The results were striking: the breathing group showed significantly greater improvements across nearly all respiratory measures compared to controls. The biggest gains showed up in inspiratory muscle strength and airflow variables—meaning participants became more efficient at generating force during inhalation. You don't need a gym or special equipment. Just consistent breathing drills unlock measurable gains in respiratory capacity and oxygen utilization.",
+      "takeaway": "Dedicated breathing training improves respiratory efficiency measurably in 12 weeks. Even sedentary people see rapid gains in inspiratory strength and breathing performance.",
+      "source": "Wim Hof Method",
+      "sourceUrl": "https://www.wimhofmethod.com/blog/new-study-breathing-training",
+      "pexelsQuery": "breathing exercise respiratory health lungs",
+      "product": {
+        "id": "book-001",
+        "name": "Can't Hurt Me - David Goggins Audiobook",
+        "brand": "David Goggins",
+        "asin": "B07KKP62FW",
+        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "mindset",
+          "motivation",
+          "endurance",
+          "running",
+          "ultramarathon",
+          "book",
+          "audiobook"
+        ],
+        "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9004303/pexels-photo-9004303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9004303/pexels-photo-9004303.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "olia danilevich",
+        "photographerUrl": "https://www.pexels.com/@olia-danilevich",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-black-tank-top-sitting-on-green-grass-field-9004303/",
+        "avgColor": "#606547"
+      }
+    }
+  ],
+  "quote": {
+    "text": "I've grown most not from victories, but setbacks.",
+    "author": "Serena Williams",
+    "context": "23-time Grand Slam champion reflecting on career-altering health crises and comebacks across three decades"
+  },
+  "workout": {
+    "id": "8124ba87-b83d-4d72-af59-f8f0eb48b985",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Push-Up Progression Mastery: Foundation to Strength",
+    "difficulty": "Beginner",
+    "duration": "35 min",
+    "equipment": [],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "hotel_friendly",
+      "no_equipment",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Focus on scapular control at the top of each rep—pack your shoulders down and back before lowering. Quality reps beat volume; stop a set when form breaks, not when you fail.",
+    "warmup": "3 min: 10 arm circles forward, 10 arm circles backward, 5 cat-cow stretches, 10 scapular wall slides, 5 inchworms with a 2-sec hold at the bottom",
+    "exercises": [
+      {
+        "name": "Wall Push-Up",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hands at shoulder width on wall, step feet back slightly, lower chest toward wall with elbows at 45°. This teaches hand placement and body tension before gravity increases load."
+      },
+      {
+        "name": "Incline Push-Up (Hands Elevated)",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hands on a bench or low table, body in plank, lower until chest nearly touches surface. Maintain rigid core and neutral spine throughout—no sagging hips."
+      },
+      {
+        "name": "Knee Push-Up",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Knees on ground, hands at shoulder width, lower with control until chest approaches floor. Keep core braced and neck neutral; this is a valid strength builder, not a 'easier' alternative to dismiss."
+      },
+      {
+        "name": "Eccentric-Focus Push-Up (Negatives)",
+        "sets": "2",
+        "reps": "5",
+        "notes": "Start at the top of a push-up position, lower yourself for a slow 3-second count, then use legs or knees to return to top. This builds eccentric strength and bridges toward full push-ups."
+      },
+      {
+        "name": "Push-Up Hold (Isometric)",
+        "sets": "2",
+        "reps": "30 sec",
+        "notes": "Hold the bottom position of a push-up (chest 1–2 inches off floor) without moving. Builds lockout control and shoulder stability; take 60 sec rest between sets."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: 30 sec chest stretch (cross arms over body, lean into doorframe), 30 sec shoulder stretch (pull elbow across body), 30 sec tricep stretch (reach arm overhead and bend elbow), 30 sec child's pose with shoulder emphasis",
+    "description": "A structured progression through multiple push-up variations, building scapular stability and pressing strength from ground-based to elevated positions. Perfect for beginners establishing core pressing mechanics without equipment, with clear progression pathways to increase difficulty over weeks."
+  },
+  "meal": {
+    "id": "e723a522-57e1-4b92-b665-eb2893997c41",
+    "title": "Seared Duck Breast and Lentil-Free Warm Grain Bowl with Ginger Sesame Glaze",
+    "description": "Starting duck in a cold pan and slowly rendering the fat gives you crispy skin every time without burning. No special skills required.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 530,
+    "protein_g": 38,
+    "carbs_g": 42,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 duck breasts (skin-on)\n1 cup cooked farro or barley\n1 cup baby spinach\n1/2 cup shredded purple cabbage\n1/2 cup edamame (shelled)\n1 tbsp low-sodium soy sauce\n1 tsp fresh grated ginger\n1 tsp sesame oil\n1 tbsp rice vinegar\n1 tsp honey\n1 tsp sesame seeds\nSalt and black pepper\n\nInstructions:\n1. Score the duck skin in a crosshatch pattern, season with salt and pepper. Place skin-side down in a cold pan, then turn heat to medium. Cook for 8-10 minutes until the skin is golden and crisp, then flip and cook 4-5 more minutes. Rest for 5 minutes, then slice thin. 2. Whisk together soy sauce, ginger, sesame oil, rice vinegar, and honey to make the glaze. 3. Build bowls with farro, spinach, cabbage, and edamame. Lay sliced duck on top, drizzle glaze over everything. 4. Finish with sesame seeds.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
