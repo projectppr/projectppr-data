@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-16",
+  "dateLabel": "Sunday, August 16, 2026",
+  "generatedAt": "2026-08-16T11:00:52.915Z",
+  "articles": [
+    {
+      "category": "STRESS",
+      "topic": "Resilience boosts physiological stress recovery",
+      "headline": "More Resilient People Recover From Stress Faster. Here's What Science Found.",
+      "body": "Your heart knows when you're truly resilient. A new German study tracked how 60 healthy men responded to repeated stress tests over four sessions. The finding: People with greater resilience bounced back faster after each stressor, with their heart rate variability improving quicker and their heart rate staying lower on subsequent exposures. It's like your nervous system learned that familiar stressors were manageable. Resilient folks also showed stronger parasympathetic activation during recovery, the body's rest-and-repair system. This isn't about avoiding stress—it's about how efficiently you downregulate after it hits.",
+      "takeaway": "Your ability to recover from stress is measurable and improvable. Track your heart rate recovery after difficult moments to gauge your actual resilience.",
+      "source": "Journal of Clinical Practice in Endocrinology & Metabolism",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S2666497626000135",
+      "pexelsQuery": "heart rate monitor wrist training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/19961775/pexels-photo-19961775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19961775/pexels-photo-19961775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ahmed akeri",
+        "photographerUrl": "https://www.pexels.com/@ahmed-akeri-801514718",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-person-looking-at-the-pulse-displayed-on-a-smartwatch-19961775/",
+        "avgColor": "#785C44"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Exercise and fiber boost gut diversity",
+      "headline": "Combine Exercise With Fiber. Your Gut Microbiota—and Inflammation—Will Thank You.",
+      "body": "Sitting around damages your gut health. New research from 140 sedentary adults found that combining home-based moderate exercise (five sessions weekly) with functional dietary fiber (15-20 grams daily of resistant starch, inulin, and beta-glucan) significantly improved microbial diversity and cut systemic inflammation in just 24 weeks. The synergy matters. Exercise alone reshapes your microbiota, but adding fiber creates the conditions for beneficial bacteria to thrive and produce protective compounds. Your gut doesn't just digest food—it orchestrates immune responses and controls inflammation throughout your entire body.",
+      "takeaway": "Movement plus fiber is a one-two punch for gut health. Start with 5 moderate sessions weekly and gradually increase soluble fiber sources like oats, beans, and vegetables.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1769785/full",
+      "pexelsQuery": "whole grain bread vegetables fiber",
+      "product": {
+        "id": "nut-004",
+        "name": "Nathan QuickStart 2.0 Hydration Pack",
+        "brand": "Nathan",
+        "asin": "B0DSZ74R1J",
+        "url": "https://www.amazon.com/dp/B0DSZ74R1J?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "running",
+          "vest",
+          "long run",
+          "trail",
+          "marathon",
+          "water",
+          "pack"
+        ],
+        "blurb": "Carry everything you need on long runs without holding anything in your hands."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/30788083/pexels-photo-30788083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/30788083/pexels-photo-30788083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gaurav  Sinha",
+        "photographerUrl": "https://www.pexels.com/@gaurav-sinha-159587910",
+        "photoPageUrl": "https://www.pexels.com/photo/top-view-of-fresh-brown-sandwich-bread-on-plate-30788083/",
+        "avgColor": "#D4C6AB"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "High-load strength cuts injury risk in half",
+      "headline": "High-Load Strength Training Cut Injury Risk by Half in Young Athletes",
+      "body": "Lighter weights beat heavy ones? Not for injury prevention. A 12-week study of young soccer players assigned half to high-load strength training targeting the glutes and hamstrings while the other half trained normally. The strength group experienced roughly 10 injuries per 1,000 training hours versus nearly 20 in the control group. Even better: the resistance group improved physical fitness across all measures. The mechanism is straightforward—stronger muscles support joints better, prevent imbalances, and stabilize movements under fatigue. This works whether you're a competitive athlete or a busy parent trying to stay healthy.",
+      "takeaway": "Prioritize compound lower-body movements. Squats, deadlifts, and single-leg work are non-negotiable if you want to stay injury-free.",
+      "source": "Sports Medicine via PMC",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12037537/",
+      "pexelsQuery": "woman deadlift barbell strength training",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5837261/pexels-photo-5837261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5837261/pexels-photo-5837261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/man-lifting-a-barbell-5837261/",
+        "avgColor": "#8D7B6A"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Post-workout protein timing window flexibility",
+      "headline": "Your Post-Workout Protein Window Is Wider Than You Think",
+      "body": "You don't need to chug a shake in the parking lot. New research clarifies that the post-exercise window for protein to trigger muscle protein synthesis stays open for four to six hours, not 30 minutes. The timing only matters if you trained fasted (no pre-workout meal). But if you ate protein within two to three hours before training, your muscle already has amino acids circulating, and you can eat a normal meal hours later. The dose matters more than speed: aim for 20-40 grams of protein containing leucine within that wider window. Distribute protein across meals throughout the day rather than dumping it all in one shake.",
+      "takeaway": "Relax about timing if you eat before training. Focus instead on total daily protein (1.6-2.0g per kilogram of body weight) distributed across three to four meals.",
+      "source": "Inspired by Sports",
+      "sourceUrl": "https://www.inspiredbysports.com/en/protein-timing-2026-what-current-research-really-tells-recreational-athlete/",
+      "pexelsQuery": "eggs chicken breast protein food",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/33982117/pexels-photo-33982117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33982117/pexels-photo-33982117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Solé  Gomez",
+        "photographerUrl": "https://www.pexels.com/@itsmeeesole",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-brown-eggs-in-carton-33982117/",
+        "avgColor": "#B56A29"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Resilience is all about being able to overcome the unexpected. The goal of resilience isn't to just survive but thrive.",
+    "author": "Jamais Cascio",
+    "context": "Author and futurist focused on resilience and sustainability"
+  },
+  "workout": {
+    "id": "446e73a2-bb38-4226-ac66-237f814d0e9b",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "yoga",
+    "title": "Standing Sequence Flow: Balance & Hip Opener Integration",
+    "difficulty": "Beginner",
+    "duration": "40 min",
+    "equipment": [
+      "yoga_mat",
+      "yoga_block"
+    ],
+    "trainingZone": "z1",
+    "tags": [
+      "beginner_friendly",
+      "indoor",
+      "joint_friendly",
+      "low_impact",
+      "lower_body",
+      "mobility_focused",
+      "under_60_min"
+    ],
+    "tip": "Press your feet firmly into the mat during standing poses—this activates stabilizer muscles in the arch and ankle, improving proprioceptive feedback that transfers directly to running and trail stability.",
+    "warmup": "4 min: standing march in place (1 min), arm circles forward and back (8 each direction), standing quad stretch 20 sec each leg, 10 gentle hip circles",
+    "exercises": [
+      {
+        "name": "Tree Pose (Vrksasana) - Single-Leg Balance",
+        "sets": "2",
+        "reps": "10 breaths each side",
+        "notes": "Press foot into inner thigh, reach arms overhead or hands to chest. Build focus point (drishti) on eye level. Strengthens ankle stabilizers and proprioception—critical for trail running and preventing ankle injuries."
+      },
+      {
+        "name": "Warrior II (Virabhadrasana II) - Hip Engagement",
+        "sets": "3",
+        "reps": "10 breaths each side",
+        "notes": "Wide stance, front knee stacked over ankle, back foot 45°, arms extended at shoulder height. Square shoulders to side wall. Builds hip external rotator strength and glute engagement while maintaining ankle stability."
+      },
+      {
+        "name": "Extended Side Angle (Utthita Parsvakonasana) - Full-Body Integration",
+        "sets": "2",
+        "reps": "8 breaths each side",
+        "notes": "From Warrior II, extend torso over front thigh, forearm to thigh or hand to block, top arm reaches overhead. Opens hips, obliques, and shoulders; increases single-leg strength endurance for balance and coordination."
+      },
+      {
+        "name": "Low Lunge with Hip Flexor Release",
+        "sets": "2",
+        "reps": "10 breaths each side",
+        "notes": "Drop back knee to mat, front knee stacked over ankle, press hips forward gently. Hold then lean torso forward for deeper hip flexor stretch. Releases tightness from sitting and improves hip extension range of motion."
+      },
+      {
+        "name": "Half-Pigeon Pose (Eka Pada Rajakapotasana Prep) - Deep Hip Opener",
+        "sets": "2",
+        "reps": "12 breaths each side",
+        "notes": "Front shin parallel to mat (or angle toward hip), fold forward over front leg. Releases external hip rotators and piriformis. Use a block under hip if tight. Foundational mobility for runners and cyclists."
+      },
+      {
+        "name": "Seated Forward Fold with Spinal Flexion",
+        "sets": "1",
+        "reps": "15 breaths",
+        "notes": "Legs extended, fold forward from hips. Let head and neck relax. Stretches entire posterior chain—hamstrings, glutes, erector spinae. Activates parasympathetic nervous system to support fat-loss recovery goals."
+      },
+      {
+        "name": "Reclined Figure Four (Supine Pigeon) - Final Hip Release",
+        "sets": "2",
+        "reps": "12 breaths each side",
+        "notes": "Lie on back, one ankle across opposite thigh, pull knee toward chest. Gentler version of pigeon; ideal for deep external hip opener without excessive load on lower back."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: supine twist 30 sec each side, happy baby pose 30 sec, savasana (corpse pose) 2 min with focus on progressive muscle relaxation from toes to crown",
+    "description": "A 40-minute beginner yoga session combining standing poses with gentle hip and hamstring openers. This workout improves proprioception, ankle stability, and lower-body flexibility—essential for runners, cyclists, and anyone building a resilient body. The flow moves systematically from grounding poses to dynamic sequences."
+  },
+  "meal": {
+    "id": "fc0be9e0-ea5b-4722-9d81-198f551a0d4a",
+    "title": "Beef Jerky & Sharp Cheddar Snack Pack",
+    "description": "Portable, shelf-stable protein and fat combo designed to fuel strength athletes between workouts or as a quick desk snack. The combination of beef jerky's concentrated protein and aged cheddar's calcium supports muscle maintenance and bone density.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 180,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 9,
+    "fiber_g": 0,
+    "prep_minutes": 0,
+    "cook_minutes": 0,
+    "ingredients": [
+      "50g beef jerky (3-4 strips)",
+      "30g sharp aged cheddar (1 oz)"
+    ],
+    "instructions": "1. Open jerky package.\n2. Portion cheddar into a small container or wrap in parchment.\n3. Pack together for a grab-and-go snack.",
+    "tip": "Buy jerky in bulk from Costco or online to cut costs. Choose low-sugar varieties (under 4g per serving) to avoid unnecessary carbs between meals.",
+    "goal_affinity": [
+      "strength",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
