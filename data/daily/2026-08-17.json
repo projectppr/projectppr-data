@@ -1,0 +1,235 @@
+{
+  "date": "2026-08-17",
+  "dateLabel": "Monday, August 17, 2026",
+  "generatedAt": "2026-08-17T11:00:46.390Z",
+  "articles": [
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Belly fat and vitamin D deficiency create dual threat",
+      "headline": "When Belly Fat Meets Low Vitamin D, Your Risk Doubles",
+      "body": "A study of over 5,500 adults over 50 revealed a dangerous pairing: abdominal obesity combined with vitamin D deficiency nearly doubled mortality risk over six years. Each condition alone raised risk—belly fat by 47% and low vitamin D by 91%—but together they created a compounding effect. The problem is a feedback loop: excess visceral fat reduces the amount of vitamin D your body can access and use, while low vitamin D worsens inflammation and metabolic dysfunction. It's not just about the numbers on the scale. Your waistline and nutrient status work together to either protect or threaten your longevity.",
+      "takeaway": "Check your vitamin D levels if you're carrying extra belly fat. The combination matters more than either condition alone.",
+      "source": "Diabetes, Obesity and Metabolism",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm",
+      "pexelsQuery": "overweight man measuring waist",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5714315/pexels-photo-5714315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5714315/pexels-photo-5714315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "https://kaboompics.com/",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/man-measuring-his-abdomen-5714315/",
+        "avgColor": "#B29784"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Daily orange juice shifts gene activity toward heart protection",
+      "headline": "A Glass of OJ May Quietly Reprogram Your Heart Health",
+      "body": "Drinking about two cups of orange juice daily for 60 days changed the activity of over 1,700 genes inside immune cells, particularly those controlling inflammation and blood pressure. Genes like NAMPT and IL6—which normally spike during stress—showed significantly reduced activity. The compound hesperidin, naturally found in citrus, appears to be the trigger, signaling your body to relax blood vessels and lower inflammation. This isn't just about vitamin C. The study showed measurable shifts in your body's regulatory systems, with benefits to cholesterol and glucose control. It's one simple habit that might be reshaping your cardiovascular biology.",
+      "takeaway": "Regular orange juice consumption may lower inflammation markers in your blood without the gym membership.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
+      "pexelsQuery": "fresh orange juice glass",
+      "photo": {
+        "url": "https://images.pexels.com/photos/18071816/pexels-photo-18071816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/18071816/pexels-photo-18071816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jaycee300s",
+        "photographerUrl": "https://www.pexels.com/@jaycee300s-3059779",
+        "photoPageUrl": "https://www.pexels.com/photo/fruit-glass-of-juice-and-a-plate-18071816/",
+        "avgColor": "#C5B6A1"
+      }
+    },
+    {
+      "category": "MINDSET",
+      "topic": "Exercise burns extra calories without the body cutting corners",
+      "headline": "Your Workout Actually Counts. Your Body Isn't Sneakily Saving Energy.",
+      "body": "The long-held belief that your body compensates for exercise by cutting energy use elsewhere just got busted. A Virginia Tech study measuring total daily energy expenditure in hundreds of people across the fitness spectrum found that more activity directly equals more calories burned—with no hidden energy conservation happening elsewhere. Researchers used isotope tracers to measure carbon dioxide production and confirmed it: the increase in movement adds directly to your daily calorie burn. Your body doesn't work like a fixed budget where moving more means eating less elsewhere. It works like an open-ended system. This changes how you should think about exercise's metabolic impact.",
+      "takeaway": "Stop assuming your body cancels out your workouts. More movement really does mean more daily energy use.",
+      "source": "Proceedings of the National Academy of Sciences",
+      "sourceUrl": "https://www.pnas.org/doi/10.1073/pnas.2519626122",
+      "pexelsQuery": "woman jogging running outdoors",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6436037/pexels-photo-6436037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6436037/pexels-photo-6436037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ivan S",
+        "photographerUrl": "https://www.pexels.com/@ivan-s",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-red-pullover-jogging-while-listening-to-music-6436037/",
+        "avgColor": "#8C8C8E"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "How you view stress shapes your long-term resilience",
+      "headline": "Your Mindset About Stress Predicts Your Stress Resilience",
+      "body": "New research in Nature Communications found that how you appraise stressful events—whether you view them realistically or with slight optimism—predicts your stress resilience years down the line. People with a positive appraisal style showed significantly better mental health outcomes over several years, even when facing genuine adversity. The study tracked healthcare workers in a behavioral intervention and found that improvements in this positive appraisal style mediated the benefits of other protective factors like social support. Your lens matters. The same stressor hits different people differently based on their interpretive habit. Building this skill is trainable—which means resilience isn't fixed at birth.",
+      "takeaway": "How you frame stress shapes how you recover from it. Realistic optimism about challenges predicts actual long-term resilience.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-025-65147-7",
+      "pexelsQuery": "person meditating calm peaceful",
+      "product": {
+        "id": "book-005",
+        "name": "How Bad Do You Want It - Matt Fitzgerald Audiobook",
+        "brand": "Matt Fitzgerald",
+        "asin": "B01B6KWGFE",
+        "url": "https://www.amazon.com/dp/B01B6KWGFE?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "endurance",
+          "running",
+          "triathlon",
+          "mindset",
+          "book",
+          "audiobook",
+          "performance"
+        ],
+        "blurb": "The psychology of champions. Why mental fitness is the real limiter."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8436720/pexels-photo-8436720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8436720/pexels-photo-8436720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yan Krukau",
+        "photographerUrl": "https://www.pexels.com/@yankrukov",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sitting-on-gray-yoga-mat-while-meditating-8436720/",
+        "avgColor": "#9D9387"
+      }
+    }
+  ],
+  "quote": {
+    "text": "You are either getting better, or you're getting worse. You're not staying the same.",
+    "author": "David Goggins",
+    "context": "Former Navy SEAL, ultramarathon runner, and motivational speaker known for mental toughness and resilience training."
+  },
+  "workout": {
+    "id": "950edd94-ab95-4645-85a7-13e7924eab72",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Press & Carry: Chest, Shoulders, Triceps Burn",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbells",
+      "floor space"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "minimal_equipment",
+      "muscle_gain",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "If you only have one set of dumbbells, slow down the lowering phase of every press to 3 seconds. You will feel it just as much. No excuses on equipment.",
+    "warmup": "Do 10 arm circles forward and backward, 10 shoulder rolls, and 2 sets of 10 push-up negatives (lower slowly for 4 counts, reset, no push up). This primes the shoulder joint and chest before loading.",
+    "exercises": [
+      {
+        "name": "Dumbbell Floor Press",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Keep elbows at 45 degrees to your torso, not flared wide. Drive the weights up and squeeze the chest at the top. Pause for one count at the top of each rep."
+      },
+      {
+        "name": "Standing Dumbbell Overhead Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Brace your core before every rep. Press straight up without arching your lower back. If balance is tricky, sit on the edge of a chair or bench."
+      },
+      {
+        "name": "Push-Up to Shoulder Tap",
+        "sets": "3",
+        "reps": "8 each side",
+        "notes": "Complete a full push-up, then at the top tap your opposite shoulder with control. Keep your hips as still as possible. Drop to knees if needed but keep the tap."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Use lighter weights than you think you need. Lead with your elbows, not your wrists. Stop at shoulder height and control the descent."
+      },
+      {
+        "name": "Triceps Overhead Extension (both arms, one dumbbell)",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Keep your elbows pointing forward and close to your ears. Lower the weight slowly behind your head. This is the triceps long head, often undertrained."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Spend 2 minutes on doorway or floor chest stretches and overhead triceps stretches. Shake out the arms and do 10 slow neck rolls to release any shoulder tension built during pressing.",
+    "description": "Warmup: Do 10 arm circles forward and backward, 10 shoulder rolls, and 2 sets of 10 push-up negatives (lower slowly for 4 counts, reset, no push up). This primes the shoulder joint and chest before loading. Dumbbell Floor Press: 3 sets x 12 — Keep elbows at 45 degrees to your torso, not flared wide. Drive the weights up and squeeze the chest at the top. Pause for one count at the top of each rep. Standing Dumbbell Overhead Press: 3 sets x 10 — Brace your core before every rep. Press straight up without arching your lower back. If balance is tricky, sit on the edge of a chair or bench. Push-Up to Shoulder Tap: 3 sets x 8 each side — Complete a full push-up, then at the top tap your opposite shoulder with control. Keep your hips as still as possible. Drop to knees if needed but keep the tap. Dumbbell Lateral Raise: 3 sets x 12 — Use lighter weights than you think you need. Lead with your elbows, not your wrists. Stop at shoulder height and control the descent. Triceps Overhead Extension (both arms, one dumbbell): 3 sets x 12 — Keep your elbows pointing forward and close to your ears. Lower the weight slowly behind your head. This is the triceps long head, often undertrained. Cooldown: Spend 2 minutes on doorway or floor chest stretches and overhead triceps stretches. Shake out the arms and do 10 slow neck rolls to release any shoulder tension built during pressing."
+  },
+  "meal": {
+    "id": "f99f8187-8ea6-4b53-b23c-8df2b477e0a6",
+    "title": "Honey-Cinnamon Rice Cakes with Almond Butter & Banana",
+    "description": "Two crispy rice cakes topped with creamy almond butter, banana slices, and a drizzle of honey—the ultimate grab-and-go pre-workout fuel that hits your carbs and fat sweet spot without sitting heavy before a swim or run.",
+    "meal_type": "pre_workout",
+    "macro_profile": "performance",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 298,
+    "protein_g": 8,
+    "carbs_g": 42,
+    "fat_g": 11,
+    "fiber_g": 3,
+    "prep_minutes": 3,
+    "cook_minutes": 0,
+    "ingredients": [
+      "2 rice cakes",
+      "2 tbsp almond butter",
+      "1 medium banana",
+      "1 tbsp honey",
+      "pinch of cinnamon"
+    ],
+    "instructions": "1. Spread almond butter evenly on both rice cakes.\n2. Slice banana and layer on top.\n3. Drizzle with honey and dust lightly with cinnamon.\n4. Eat immediately or wrap to go.",
+    "tip": "Prep this the night before and wrap in foil—the banana won't brown if kept cool, and you save 3 minutes on race morning. Eat 30–45 minutes before training.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
