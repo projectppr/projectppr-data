@@ -1,71 +1,53 @@
 {
   "date": "2026-08-18",
   "dateLabel": "Tuesday, August 18, 2026",
-  "generatedAt": "2026-08-18T09:53:52.916Z",
+  "generatedAt": "2026-08-18T11:00:44.730Z",
   "articles": [
     {
-      "category": "NUTRITION",
-      "topic": "Plant-based diet triggers automatic calorie reduction",
-      "headline": "Eat More Food, Lose Weight. Just Switch What's on Your Plate.",
-      "body": "A 16-week study of 224 overweight adults found something counterintuitive: people on a low-fat vegan diet lost an average of 5.9 kg while actually eating the same amount of food by weight. The trick? Plant-based meals are naturally lower in calorie density. When people replaced meat, dairy, and eggs with vegetables, legumes, and whole grains, they consumed about 357 fewer calories per day without feeling deprived. No counting, no portion shrinking. The body adapted to eating foods that deliver fewer calories per bite.",
-      "takeaway": "Swap calorie-dense animal foods for high-volume plant foods. You'll feel full while naturally eating fewer calories.",
-      "source": "JAMA Network Open, Physicians Committee for Responsible Medicine",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
-      "pexelsQuery": "vegetables legumes salad colorful plant-based meal",
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Brain protein controls dietary fat intake",
+      "headline": "Your Brain's Fat-Control Switch May Be Broken. Here's Why",
+      "body": "Scientists found that a mitochondrial protein called OPA1 inside appetite-control neurons directly regulates how much dietary fat you crave and gain. When this protein malfunctions in specific brain cells, people consume more fat, gain more weight with age, and struggle with obesity. The kicker: the effect varies by sex. Women without functional OPA1 showed more pronounced weight gain and didn't respond as well to appetite-suppressing medications. This is why one-size-fits-all weight loss drugs often fail. Your biology isn't broken—the treatment might be.",
+      "takeaway": "If traditional appetite suppression drugs haven't worked, the issue may be neurological energy metabolism, not willpower. Personalized approaches that account for your sex and how your brain processes fat may work better.",
+      "source": "Medical Xpress / The FASEB Journal",
+      "sourceUrl": "https://medicalxpress.com/news/2026-08-impaired-brain-protein-fat-cravings.html",
+      "pexelsQuery": "brain cells neurons microscopy",
       "photo": {
-        "url": "https://images.pexels.com/photos/6978180/pexels-photo-6978180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6978180/pexels-photo-6978180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Heather Brock",
-        "photographerUrl": "https://www.pexels.com/@heather-brock-31614773",
-        "photoPageUrl": "https://www.pexels.com/photo/buddha-bowl-in-close-up-shot-6978180/",
-        "avgColor": "#CFC7A2"
+        "url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "turek",
+        "photographerUrl": "https://www.pexels.com/@turek3024",
+        "photoPageUrl": "https://www.pexels.com/photo/microscopic-view-of-elements-8932609/",
+        "avgColor": "#867983"
       }
     },
     {
-      "category": "BRAIN HEALTH",
-      "topic": "Daily cognitive training improves brain at any age",
-      "headline": "Your Brain Gets Better With Training. Yes, Even at 94.",
-      "body": "A three-year study from The University of Texas at Dallas tracked nearly 4,000 adults ranging from age 19 to 94. Participants spent just 5-15 minutes daily on targeted cognitive training. The results challenged everything we thought about aging: brain health improved at every age. The biggest gains? They came from people who started with the lowest scores. The research shows cognitive decline isn't inevitable, but optional. Brain health spans can be measurably extended through consistent, deliberate practice—no matter your starting point.",
-      "takeaway": "Daily brain training works at any age. The lower you start, the more upside you have.",
-      "source": "Scientific Reports, University of Texas at Dallas",
-      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
-      "pexelsQuery": "older adult learning studying tablet focused concentration",
+      "category": "GUT HEALTH",
+      "topic": "Low fiber gut microbes consume mucus",
+      "headline": "Your Gut Bacteria Are Eating Your Gut Lining. Not Enough Fiber",
+      "body": "When dietary fiber runs low, your gut bacteria shift from breaking down plants to breaking down the protective mucus lining of your intestines. That's a problem. Researchers found that insufficient fiber forces beneficial microbes to consume the barrier that keeps pathogens out and inflammation down. The good news: it's reversible. Fiber isn't just food for you—it's food for the bacteria that protect you. When you skip it, your microbiota turns inward and starts degrading the tissue meant to keep them contained. It's a direct path to increased inflammation and permeability.",
+      "takeaway": "Inconsistent fiber intake damages your gut barrier faster than consistent undereating. Aim for steady, daily fiber from whole plants—not sporadic high doses.",
+      "source": "Science Daily / Ludwig Institute for Cancer Research",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
+      "pexelsQuery": "intestines digestive system health",
       "photo": {
-        "url": "https://images.pexels.com/photos/5971242/pexels-photo-5971242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5971242/pexels-photo-5971242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "cottonbro studio",
-        "photographerUrl": "https://www.pexels.com/@cottonbro",
-        "photoPageUrl": "https://www.pexels.com/photo/elderly-woman-with-gray-hair-holding-papers-5971242/",
-        "avgColor": "#8D8E85"
-      }
-    },
-    {
-      "category": "MOBILITY",
-      "topic": "Movement nourishes joint cartilage, not rest",
-      "headline": "The Biggest Joint Mistake: Avoiding Movement When It Hurts.",
-      "body": "As cartilage and fluid in joints decrease with age, people naturally avoid exercise thinking rest will help. Science says the opposite. Movement keeps synovial fluid circulating, which nourishes cartilage cells. Activity also builds muscle around joints to stabilize and protect them. A major review of 217 trials confirms aerobic exercise—walking, cycling, swimming—outperforms other approaches for managing joint health. The common mistake is immobilization. The better strategy: consistent, low-impact movement that keeps everything lubricated and strong.",
-      "takeaway": "Keep moving. Regular low-impact activity preserves cartilage better than rest.",
-      "source": "ScienceDaily, Gordon Waddington (The Conversation)",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
-      "pexelsQuery": "older woman walking park outdoor exercise movement",
-      "photo": {
-        "url": "https://images.pexels.com/photos/37517396/pexels-photo-37517396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/37517396/pexels-photo-37517396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Cara Denison",
-        "photographerUrl": "https://www.pexels.com/@cara-denison-886614634",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-walking-dog-in-peaceful-park-setting-37517396/",
-        "avgColor": "#686762"
+        "url": "https://images.pexels.com/photos/8183911/pexels-photo-8183911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8183911/pexels-photo-8183911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-brown-crop-top-and-denim-jeans-holding-white-flowers-8183911/",
+        "avgColor": "#A89994"
       }
     },
     {
       "category": "WEARABLES & TECH",
-      "topic": "Continuous biosensors now detect health shifts before symptoms",
-      "headline": "Your Wearable Just Got Smarter Than Your Fitness Tracker.",
-      "body": "Wearable technology has evolved beyond counting steps. In 2026, miniaturized biosensors now measure heart rate variability, blood oxygen, skin temperature, and glucose continuously—streaming data to your phone for real-time analysis. The shift is from activity tracking toward actual health monitoring. AI algorithms learn your patterns and flag anomalies before you feel them. Clinical adoption is accelerating: post-surgical patients recover faster with remote vital monitoring, and cardiac patients prefer discrete chest patches over bulky monitors. These devices feed insights directly into electronic health records, making data actionable for prevention.",
-      "takeaway": "Continuous health sensors are moving from fitness gimmicks to serious clinical tools.",
-      "source": "Haznos, Patsnap, U.S. GAO Report",
-      "sourceUrl": "https://haznos.org/2026/wearable-health-tech-trends-2026/",
-      "pexelsQuery": "smartwatch wearable technology health monitoring device",
+      "topic": "AI wearables personalize recovery coaching",
+      "headline": "Your Wearable Just Got Smarter. It Now Coaches You",
+      "body": "The latest generation of wearables now pair biometric sensors with AI to analyze your sleep, stress, heart rate variability, and breathing patterns in real time. Instead of just showing raw numbers, they deliver personalized recommendations: Skip the hard workout today. Prioritize sleep. Your recovery is down 15 percent. This shift from data collection to interpretation is changing how people train and recover. Devices from WHOOP, Garmin, and Oura now include conversational AI coaches that respond to natural language questions about your data. The result: people using AI-guided wearables report better sleep, faster recovery, and measurably lower stress. Your device now adapts to you—not the other way around.",
+      "takeaway": "Buy a wearable for AI-powered insights, not just for step counts. The coaching layer is where the performance gains actually happen.",
+      "source": "Businessday NG",
+      "sourceUrl": "https://businessday.ng/technology/article/ai-powered-wearables-redefine-relaxation-recovery-in-the-first-half-of-2026/",
+      "pexelsQuery": "smartwatch wearable technology fitness",
       "product": {
         "id": "watch-001",
         "name": "Garmin Forerunner 255",
@@ -88,80 +70,98 @@
         "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/7672094/pexels-photo-7672094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7672094/pexels-photo-7672094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "cottonbro studio",
-        "photographerUrl": "https://www.pexels.com/@cottonbro",
-        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-a-black-armband-and-a-digital-watch-7672094/",
-        "avgColor": "#45342E"
+        "url": "https://images.pexels.com/photos/8032913/pexels-photo-8032913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8032913/pexels-photo-8032913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-smartwatch-8032913/",
+        "avgColor": "#675956"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Female sex hormones and exercise perception",
+      "headline": "Hormones Don't Stop You. They Just Make It Feel Harder",
+      "body": "New research from the University of Oregon challenges the myth that menstrual cycle hormones cripple female athletes. Estrogen and progesterone fluctuations don't reduce your actual capacity to exercise hard. What they do change is how difficult the effort feels. During certain cycle phases, the same workout feels heavier, even though your power output remains identical. This explains why women report increased fatigue some weeks—it's neurological, not physical. The body isn't weaker. The perceived exertion is higher. For performance planning, this matters: you're not losing fitness during your cycle. You're managing perception and pacing. Coaches and athletes who account for this difference train smarter across all four weeks.",
+      "takeaway": "Don't reduce training intensity based on cycle phase. Adjust perceived exertion expectations and pacing strategy instead. Your power stays constant—your perception shifts.",
+      "source": "Medical Xpress / Journal of Applied Physiology",
+      "sourceUrl": "https://medicalxpress.com/news/2026-03-hormones-women-youd.html",
+      "pexelsQuery": "women running athlete fitness",
+      "photo": {
+        "url": "https://images.pexels.com/photos/29132157/pexels-photo-29132157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/29132157/pexels-photo-29132157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "jacky xing",
+        "photographerUrl": "https://www.pexels.com/@jacky-xing-776569260",
+        "photoPageUrl": "https://www.pexels.com/photo/women-exercising-outdoors-by-waterfront-29132157/",
+        "avgColor": "#7F8F8F"
       }
     }
   ],
   "quote": {
-    "text": "For me, it's prioritising recovery as much as training. I'm brilliant at pushing myself, but often less good at slowing down. In 2026, I want to be intentional about sleep, stretching, and taking rest without guilt – because that's when the real adaptation happens.",
-    "author": "Helen Glover",
-    "context": "British Olympic rower and world champion, sharing her 2026 training philosophy"
+    "text": "Resilience is a team sport. You need to have relationships and people to rely on. You don't do it on your own.",
+    "author": "Stephen Gonzalez",
+    "context": "Assistant athletics director for leadership and mental performance at Dartmouth College"
   },
   "workout": {
-    "id": "8e803b3a-eccc-4ea1-9bb3-e7ba0983e265",
+    "id": "f913998b-75a4-4b3c-8429-4e4c7b4e503a",
     "todayType": "RUN",
     "type": "RUN",
     "sport": "run",
-    "workoutType": "easy",
-    "title": "Fartlek Flow: 45-Minute Unstructured Aerobic Play Run",
-    "difficulty": "Intermediate",
-    "duration": "45 min",
+    "workoutType": "treadmill",
+    "title": "Incline Introduction: Gentle Grade Build",
+    "difficulty": "Beginner",
+    "duration": "32 min",
     "equipment": [],
     "trainingZone": "z2",
     "tags": [
+      "beginner_friendly",
       "cardio",
+      "indoor",
       "low_impact",
-      "no_equipment",
-      "outdoor"
+      "treadmill_ok",
+      "under_60_min"
     ],
-    "tip": "Use landmarks (mailbox, tree, lamppost) to define your pick-ups rather than time—fartlek means \"speed play\" in Swedish, so it should feel spontaneous, not regimented. Keep pick-ups at 7–8/10 effort (not maximal), lasting 30–90 seconds. The recovery jog between them should return you fully to Z2 breathing before the next surge.",
-    "warmup": "5 min easy jog + 8 × 20 sec strides at 85% effort (not sprints), 2 min easy walking between each",
+    "tip": "On incline segments, shorten your stride slightly and focus on pushing through the back of your foot. Lean slightly into the hill but keep your chest upright—never slouch forward.",
+    "warmup": "3 min @ 3.0 mph / 0% incline (easy walk) + 2 min @ 3.5 mph / 0% incline (brisk walk)",
     "exercises": [
       {
-        "name": "Fartlek Pick-Ups in Zone 2 Base",
+        "name": "Incline Grade Progression",
         "sets": "1",
-        "reps": "45 min total (approx. 6–8 pick-ups of 30–90 sec at 7–8/10 effort interspersed with easy Z2 running)",
-        "notes": "Start with 3–4 min easy Z2 jog, then insert natural pick-ups: a 60 sec surge to the next corner, 90 sec faster to a visible landmark, etc. Between each pick-up, return to comfortable Z2 pace (conversational) for 2–3 min recovery. The overall session stays aerobic because the surges are moderate and recovery periods are long. This develops speed endurance without the fatigue of threshold work."
+        "reps": "Full circuit",
+        "notes": "Execute the following sequence: 3 min @ 3.5 mph / 2% incline (walk) → 2 min @ 4.0 mph / 2% incline (easy jog) → 2 min @ 3.5 mph / 4% incline (walk) → 2 min @ 4.0 mph / 4% incline (easy jog) → 2 min @ 3.0 mph / 6% incline (walk recovery) → 1 min @ 4.5 mph / 2% incline (moderate run) → 2 min @ 3.0 mph / 0% incline (flat walk recovery). Maintain composure and steady breathing; this builds glute activation and fat oxidation."
       }
     ],
     "exerciseText": "",
-    "cooldown": "4 min easy walking + deep lunge stretch 45 sec each side, torso twist (hands behind head) 30 sec each side, standing calf stretch 30 sec each leg",
-    "description": "A playful Zone 2 run punctuated by natural pick-ups—short surges at perceived effort (not all-out sprints) woven into easy running. This is the antidote to rigid training schedules: intermediate athletes get aerobic base work *and* light central nervous system stimulation without the structure of a true interval session. Perfect for recovery weeks or as a mental refresh during monotonous build phases."
+    "cooldown": "2 min @ 3.0 mph / 0% incline (easy walk). Post-run: hip flexor lunge stretch 30 sec each leg, glute stretch 30 sec each side, lower back twist 20 sec each side.",
+    "description": "A beginner-friendly session introducing terrain variability via steady incline progression on the treadmill. Incline walking and running strengthen the glutes and posterior chain while building fat-loss capacity without high impact, ideal for runners preparing for 5K racing on hilly courses."
   },
   "meal": {
-    "id": "e142f99c-585a-459c-8a47-59372d20ed7d",
-    "title": "Teriyaki Salmon Onigiri (Japanese Rice Balls)",
-    "description": "Flaked teriyaki-glazed salmon folded into warm sushi rice and shaped into portable rice balls—an authentic, carb-rich pre-workout fuel with 30g protein that travels well and sits light in your stomach before a brick session or long run.",
-    "meal_type": "pre_workout",
-    "macro_profile": "performance",
-    "difficulty": "medium",
+    "id": "e1b0b023-7f15-45ba-86ff-7dce66d9d430",
+    "title": "Thinly Sliced Beef, Pickled Radish & Wasabi Cream Cheese on Rice Crackers",
+    "description": "Umami-packed smoked beef paired with peppery pickled radish and a wasabi-spiked cream cheese spread on crispy rice crackers. This Japanese-inspired snack hits protein, carbs, and a bold flavor profile that keeps things interesting.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
     "cuisine": "japanese",
-    "calories": 324,
-    "protein_g": 30,
-    "carbs_g": 38,
-    "fat_g": 6,
-    "fiber_g": 0,
-    "prep_minutes": 15,
-    "cook_minutes": 15,
+    "calories": 210,
+    "protein_g": 12,
+    "carbs_g": 16,
+    "fat_g": 11,
+    "fiber_g": 1,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
     "ingredients": [
-      "120g salmon fillet",
-      "2 tbsp soy sauce",
-      "1 tbsp mirin",
-      "¾ cup cooked sushi rice",
-      "½ tsp wasabi",
-      "1 tsp sesame seeds",
-      "pinch of salt"
+      "70g smoked beef slices (or beef jerky, thinly sliced)",
+      "2 tbsp cream cheese, softened",
+      "1 tsp wasabi paste",
+      "8 rice crackers",
+      "40g pickled radish or daikon (store-bought or quick-pickled)",
+      "1 tsp sesame seeds"
     ],
-    "instructions": "1. Pan-sear salmon over medium heat for 5–6 minutes per side until cooked through; flake into small pieces.\n2. In a small bowl, mix soy sauce and mirin; toss flaked salmon in the glaze.\n3. Divide warm sushi rice into two portions (makes 2 rice balls).\n4. Press one portion of rice into a wet hand, create a small indent, fill with 1 tbsp teriyaki salmon, top with another layer of rice, and gently shape into a ball.\n5. Repeat with second portion.\n6. Sprinkle with sesame seeds and a pinch of salt.",
-    "tip": "Make these the night before and store in plastic wrap at room temperature or cool—they stay fresh for 24 hours and are easy to grab before a long training block. The rice provides fast carbs while the salmon protein prevents stomach upset.",
+    "instructions": "1. Mix softened cream cheese with wasabi paste until smooth.\n2. Spread a thin layer of wasabi cream cheese on each rice cracker.\n3. Top each cracker with a slice of smoked beef and a piece of pickled radish.\n4. Sprinkle with sesame seeds.\n5. Serve immediately or stack between parchment paper for transport.",
+    "tip": "Buy pre-sliced smoked beef or thinly slice beef jerky yourself—this takes the assembly time down to 5 minutes, and the acid in pickled radish keeps everything fresh-tasting all day.",
     "goal_affinity": [
-      "triathlon",
-      "endurance",
+      "general_fitness",
       "strength"
     ],
     "image_url": ""
