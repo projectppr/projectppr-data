@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-18",
+  "dateLabel": "Tuesday, August 18, 2026",
+  "generatedAt": "2026-08-18T09:53:52.916Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "Plant-based diet triggers automatic calorie reduction",
+      "headline": "Eat More Food, Lose Weight. Just Switch What's on Your Plate.",
+      "body": "A 16-week study of 224 overweight adults found something counterintuitive: people on a low-fat vegan diet lost an average of 5.9 kg while actually eating the same amount of food by weight. The trick? Plant-based meals are naturally lower in calorie density. When people replaced meat, dairy, and eggs with vegetables, legumes, and whole grains, they consumed about 357 fewer calories per day without feeling deprived. No counting, no portion shrinking. The body adapted to eating foods that deliver fewer calories per bite.",
+      "takeaway": "Swap calorie-dense animal foods for high-volume plant foods. You'll feel full while naturally eating fewer calories.",
+      "source": "JAMA Network Open, Physicians Committee for Responsible Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
+      "pexelsQuery": "vegetables legumes salad colorful plant-based meal",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6978180/pexels-photo-6978180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6978180/pexels-photo-6978180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Heather Brock",
+        "photographerUrl": "https://www.pexels.com/@heather-brock-31614773",
+        "photoPageUrl": "https://www.pexels.com/photo/buddha-bowl-in-close-up-shot-6978180/",
+        "avgColor": "#CFC7A2"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Daily cognitive training improves brain at any age",
+      "headline": "Your Brain Gets Better With Training. Yes, Even at 94.",
+      "body": "A three-year study from The University of Texas at Dallas tracked nearly 4,000 adults ranging from age 19 to 94. Participants spent just 5-15 minutes daily on targeted cognitive training. The results challenged everything we thought about aging: brain health improved at every age. The biggest gains? They came from people who started with the lowest scores. The research shows cognitive decline isn't inevitable, but optional. Brain health spans can be measurably extended through consistent, deliberate practice—no matter your starting point.",
+      "takeaway": "Daily brain training works at any age. The lower you start, the more upside you have.",
+      "source": "Scientific Reports, University of Texas at Dallas",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "older adult learning studying tablet focused concentration",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5971242/pexels-photo-5971242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5971242/pexels-photo-5971242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-woman-with-gray-hair-holding-papers-5971242/",
+        "avgColor": "#8D8E85"
+      }
+    },
+    {
+      "category": "MOBILITY",
+      "topic": "Movement nourishes joint cartilage, not rest",
+      "headline": "The Biggest Joint Mistake: Avoiding Movement When It Hurts.",
+      "body": "As cartilage and fluid in joints decrease with age, people naturally avoid exercise thinking rest will help. Science says the opposite. Movement keeps synovial fluid circulating, which nourishes cartilage cells. Activity also builds muscle around joints to stabilize and protect them. A major review of 217 trials confirms aerobic exercise—walking, cycling, swimming—outperforms other approaches for managing joint health. The common mistake is immobilization. The better strategy: consistent, low-impact movement that keeps everything lubricated and strong.",
+      "takeaway": "Keep moving. Regular low-impact activity preserves cartilage better than rest.",
+      "source": "ScienceDaily, Gordon Waddington (The Conversation)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
+      "pexelsQuery": "older woman walking park outdoor exercise movement",
+      "photo": {
+        "url": "https://images.pexels.com/photos/37517396/pexels-photo-37517396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/37517396/pexels-photo-37517396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Cara Denison",
+        "photographerUrl": "https://www.pexels.com/@cara-denison-886614634",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-walking-dog-in-peaceful-park-setting-37517396/",
+        "avgColor": "#686762"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Continuous biosensors now detect health shifts before symptoms",
+      "headline": "Your Wearable Just Got Smarter Than Your Fitness Tracker.",
+      "body": "Wearable technology has evolved beyond counting steps. In 2026, miniaturized biosensors now measure heart rate variability, blood oxygen, skin temperature, and glucose continuously—streaming data to your phone for real-time analysis. The shift is from activity tracking toward actual health monitoring. AI algorithms learn your patterns and flag anomalies before you feel them. Clinical adoption is accelerating: post-surgical patients recover faster with remote vital monitoring, and cardiac patients prefer discrete chest patches over bulky monitors. These devices feed insights directly into electronic health records, making data actionable for prevention.",
+      "takeaway": "Continuous health sensors are moving from fitness gimmicks to serious clinical tools.",
+      "source": "Haznos, Patsnap, U.S. GAO Report",
+      "sourceUrl": "https://haznos.org/2026/wearable-health-tech-trends-2026/",
+      "pexelsQuery": "smartwatch wearable technology health monitoring device",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7672094/pexels-photo-7672094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7672094/pexels-photo-7672094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-a-black-armband-and-a-digital-watch-7672094/",
+        "avgColor": "#45342E"
+      }
+    }
+  ],
+  "quote": {
+    "text": "For me, it's prioritising recovery as much as training. I'm brilliant at pushing myself, but often less good at slowing down. In 2026, I want to be intentional about sleep, stretching, and taking rest without guilt – because that's when the real adaptation happens.",
+    "author": "Helen Glover",
+    "context": "British Olympic rower and world champion, sharing her 2026 training philosophy"
+  },
+  "workout": {
+    "id": "8e803b3a-eccc-4ea1-9bb3-e7ba0983e265",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "easy",
+    "title": "Fartlek Flow: 45-Minute Unstructured Aerobic Play Run",
+    "difficulty": "Intermediate",
+    "duration": "45 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "cardio",
+      "low_impact",
+      "no_equipment",
+      "outdoor"
+    ],
+    "tip": "Use landmarks (mailbox, tree, lamppost) to define your pick-ups rather than time—fartlek means \"speed play\" in Swedish, so it should feel spontaneous, not regimented. Keep pick-ups at 7–8/10 effort (not maximal), lasting 30–90 seconds. The recovery jog between them should return you fully to Z2 breathing before the next surge.",
+    "warmup": "5 min easy jog + 8 × 20 sec strides at 85% effort (not sprints), 2 min easy walking between each",
+    "exercises": [
+      {
+        "name": "Fartlek Pick-Ups in Zone 2 Base",
+        "sets": "1",
+        "reps": "45 min total (approx. 6–8 pick-ups of 30–90 sec at 7–8/10 effort interspersed with easy Z2 running)",
+        "notes": "Start with 3–4 min easy Z2 jog, then insert natural pick-ups: a 60 sec surge to the next corner, 90 sec faster to a visible landmark, etc. Between each pick-up, return to comfortable Z2 pace (conversational) for 2–3 min recovery. The overall session stays aerobic because the surges are moderate and recovery periods are long. This develops speed endurance without the fatigue of threshold work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min easy walking + deep lunge stretch 45 sec each side, torso twist (hands behind head) 30 sec each side, standing calf stretch 30 sec each leg",
+    "description": "A playful Zone 2 run punctuated by natural pick-ups—short surges at perceived effort (not all-out sprints) woven into easy running. This is the antidote to rigid training schedules: intermediate athletes get aerobic base work *and* light central nervous system stimulation without the structure of a true interval session. Perfect for recovery weeks or as a mental refresh during monotonous build phases."
+  },
+  "meal": {
+    "id": "e142f99c-585a-459c-8a47-59372d20ed7d",
+    "title": "Teriyaki Salmon Onigiri (Japanese Rice Balls)",
+    "description": "Flaked teriyaki-glazed salmon folded into warm sushi rice and shaped into portable rice balls—an authentic, carb-rich pre-workout fuel with 30g protein that travels well and sits light in your stomach before a brick session or long run.",
+    "meal_type": "pre_workout",
+    "macro_profile": "performance",
+    "difficulty": "medium",
+    "cuisine": "japanese",
+    "calories": 324,
+    "protein_g": 30,
+    "carbs_g": 38,
+    "fat_g": 6,
+    "fiber_g": 0,
+    "prep_minutes": 15,
+    "cook_minutes": 15,
+    "ingredients": [
+      "120g salmon fillet",
+      "2 tbsp soy sauce",
+      "1 tbsp mirin",
+      "¾ cup cooked sushi rice",
+      "½ tsp wasabi",
+      "1 tsp sesame seeds",
+      "pinch of salt"
+    ],
+    "instructions": "1. Pan-sear salmon over medium heat for 5–6 minutes per side until cooked through; flake into small pieces.\n2. In a small bowl, mix soy sauce and mirin; toss flaked salmon in the glaze.\n3. Divide warm sushi rice into two portions (makes 2 rice balls).\n4. Press one portion of rice into a wet hand, create a small indent, fill with 1 tbsp teriyaki salmon, top with another layer of rice, and gently shape into a ball.\n5. Repeat with second portion.\n6. Sprinkle with sesame seeds and a pinch of salt.",
+    "tip": "Make these the night before and store in plastic wrap at room temperature or cool—they stay fresh for 24 hours and are easy to grab before a long training block. The rice provides fast carbs while the salmon protein prevents stomach upset.",
+    "goal_affinity": [
+      "triathlon",
+      "endurance",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
