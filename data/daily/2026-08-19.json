@@ -1,0 +1,235 @@
+{
+  "date": "2026-08-19",
+  "dateLabel": "Wednesday, August 19, 2026",
+  "generatedAt": "2026-08-19T11:00:43.808Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Exercise in midlife protects aging brain",
+      "headline": "Your Midlife Exercise Just Bought Your Brain Decades",
+      "body": "Physical activity during your 40s and 50s appears to slow cognitive decline decades later, according to research from UT Health San Antonio. A study of over 400 adults found that people who got regular exercise in midlife had significantly slower decline in thinking abilities as they aged. Interestingly, the benefit was especially strong for Hispanic adults, suggesting exercise may work differently across populations. This isn't about intense training either—any consistent movement counts. The research adds to growing evidence that what you do for your cardiovascular health today shapes your brain tomorrow.",
+      "takeaway": "Start moving now. Regular midlife exercise is one of the most powerful brain protections available decades from now.",
+      "source": "UT Health San Antonio / Alzheimer's & Dementia: Behavior & Socioeconomics of Aging",
+      "sourceUrl": "https://news.uthscsa.edu/any-degree-of-physical-activity-may-slow-cognitive-decline-particularly-in-hispanics-ut-health-san-antonio-study-suggests/",
+      "pexelsQuery": "middle aged person walking exercise outdoors",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8417431/pexels-photo-8417431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8417431/pexels-photo-8417431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "SHVETS production",
+        "photographerUrl": "https://www.pexels.com/@shvets-production",
+        "photoPageUrl": "https://www.pexels.com/photo/photograph-of-an-elderly-woman-jogging-near-trees-8417431/",
+        "avgColor": "#59594F"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Plant-based diet reduces calorie density",
+      "headline": "Eat More Food, Lose Weight. It's About Energy Density",
+      "body": "A 16-week trial found something counterintuitive: people eating a low-fat vegan diet lost an average of 13 pounds without counting calories or eating smaller portions. The secret wasn't willpower—it was energy density. By switching to plant-based whole foods, participants naturally consumed about 357 fewer calories daily while eating the same amount of food by weight. Vegetables and legumes have far fewer calories per gram than meat and dairy, so you can eat satisfying portions while taking in less energy. The diet also improved blood sugar control and liver health.",
+      "takeaway": "Don't restrict portions. Choose foods naturally lower in calories per bite—whole plants, not processed foods.",
+      "source": "JAMA Network Open / Physicians Committee for Responsible Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
+      "pexelsQuery": "salad vegetables bowl fresh colorful plant based",
+      "product": {
+        "id": "body-003",
+        "name": "Renpho Food Scale",
+        "brand": "Renpho",
+        "asin": "B08X1H8NPX",
+        "url": "https://www.amazon.com/dp/B08X1H8NPX?tag=chrisolson04-20",
+        "category": "kitchen",
+        "price_range": "$",
+        "keywords": [
+          "nutrition",
+          "calories",
+          "macros",
+          "meal prep",
+          "food tracking",
+          "portion"
+        ],
+        "blurb": "Simple, accurate, and syncs with nutrition apps. Track what you eat and watch your performance improve."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/38431256/pexels-photo-38431256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/38431256/pexels-photo-38431256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anat Landa",
+        "photographerUrl": "https://www.pexels.com/@anat-landa-2162599192",
+        "photoPageUrl": "https://www.pexels.com/photo/healthy-fresh-vegetable-salad-close-up-38431256/",
+        "avgColor": "#74551E"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Aged cheese bacteria improve gut microbiome",
+      "headline": "Your Cheese's Bacteria Just Became Your Gut's Ally",
+      "body": "Scientists studying three artisan British cheeses found that the bacteria responsible for their distinctive flavors may also benefit your gut. When you eat aged, unmelted cheese, you're consuming live microbes that can expand your gut's functional arsenal. Research shows unmelted cheddar increased bacterial diversity more than melted cheese, suggesting the matrix structure matters. The fermentation process creates beneficial compounds and bacteria strains that survive digestion and influence your microbiome. This isn't license to go overboard—portion control still applies—but it suggests fermented dairy deserves a spot in a health-conscious diet.",
+      "takeaway": "Unmelted, aged cheese carries living bacteria that can diversify and strengthen your gut microbiome.",
+      "source": "University of Reading / ACS Food Science & Technology",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+      "pexelsQuery": "aged cheddar cheese block wedge dairy",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5037607/pexels-photo-5037607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5037607/pexels-photo-5037607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Leeloo The First",
+        "photographerUrl": "https://www.pexels.com/@leeloothefirst",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-photo-of-sliced-cheese-5037607/",
+        "avgColor": "#D3B59B"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Cognitive abilities improve at any age with practice",
+      "headline": "Your Brain Doesn't Decline. You Just Stop Training It",
+      "body": "A three-year study of nearly 4,000 adults from ages 19 to 94 demolished the myth that cognitive decline is inevitable. Participants who spent just 5 to 15 minutes daily on targeted brain training exercises showed measurable improvements in memory, attention, and complex thinking—at every age. The study, published in Nature's Scientific Reports, used the BrainHealth Index, which combines sleep quality, happiness measures, and validated cognitive tasks. The finding is clear: your brain doesn't age the way you think it does. Consistent, intentional practice works regardless of whether you're 35 or 85.",
+      "takeaway": "Five to fifteen minutes daily of targeted mental practice maintains and improves cognition at any age.",
+      "source": "University of Texas at Dallas / Nature Scientific Reports",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "older person puzzle games brain training mental focus",
+      "photo": {
+        "url": "https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/white-jigsaw-puzzle-illustration-262488/",
+        "avgColor": "#DBDBDC"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Lack of activity destroys the good condition of every human being, while movement and methodical physical exercise save it and preserve it.",
+    "author": "Plato",
+    "context": "Ancient Greek philosopher whose insight on movement and health remains scientifically validated."
+  },
+  "workout": {
+    "id": "af9f3777-6c73-4dc1-a767-eef345b48909",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Hinge, Squat & Press: Lower-Body Power in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "hinge_dominant",
+      "lower_body",
+      "minimal_equipment",
+      "muscle_gain",
+      "squat_dominant",
+      "under_30_min"
+    ],
+    "tip": "If your lower back rounds at the bottom of a Romanian deadlift, shorten your range of motion. Control beats depth every time, especially when you're tired at rep 10.",
+    "warmup": "Spend 3 minutes doing bodyweight leg swings, hip circles, and slow air squats to 90 degrees. Finish with 10 glute bridges on the floor to activate the posterior chain before you load it.",
+    "exercises": [
+      {
+        "name": "Dumbbell Romanian Deadlift",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hinge at the hips, not the waist. Feel the hamstrings load before you drive back up. Keep the dumbbells close to your legs throughout."
+      },
+      {
+        "name": "Goblet Squat with Pause",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Hold one dumbbell at your chest. Pause for 2 seconds at the bottom of each rep. This kills momentum and forces real quad and glute work."
+      },
+      {
+        "name": "Reverse Lunge with Knee Drive",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Step back and lower your rear knee toward the floor, then drive the rear knee forward as you return to standing. Works balance, glutes, and hip flexors in one shot."
+      },
+      {
+        "name": "Single-Leg Glute Bridge",
+        "sets": "3",
+        "reps": "12 each leg",
+        "notes": "Lie on your back, one foot flat on the floor. Drive through that heel to lift your hips. Squeeze hard at the top for one second. Use a dumbbell across your hip for more resistance."
+      },
+      {
+        "name": "Dumbbell Sumo Squat",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Wide stance, toes turned out 30 to 45 degrees. Hold one dumbbell with both hands between your legs. Drive your knees out and sit deep. Great for inner thighs and glutes."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with 60 seconds of standing quad stretch per leg and a 90-second seated figure-four glute stretch on each side. Your hips will thank you tomorrow.",
+    "description": "Warmup: Spend 3 minutes doing bodyweight leg swings, hip circles, and slow air squats to 90 degrees. Finish with 10 glute bridges on the floor to activate the posterior chain before you load it. Dumbbell Romanian Deadlift: 3 sets x 10 — Hinge at the hips, not the waist. Feel the hamstrings load before you drive back up. Keep the dumbbells close to your legs throughout. Goblet Squat with Pause: 3 sets x 10 — Hold one dumbbell at your chest. Pause for 2 seconds at the bottom of each rep. This kills momentum and forces real quad and glute work. Reverse Lunge with Knee Drive: 3 sets x 8 each leg — Step back and lower your rear knee toward the floor, then drive the rear knee forward as you return to standing. Works balance, glutes, and hip flexors in one shot. Single-Leg Glute Bridge: 3 sets x 12 each leg — Lie on your back, one foot flat on the floor. Drive through that heel to lift your hips. Squeeze hard at the top for one second. Use a dumbbell across your hip for more resistance. Dumbbell Sumo Squat: 3 sets x 12 — Wide stance, toes turned out 30 to 45 degrees. Hold one dumbbell with both hands between your legs. Drive your knees out and sit deep. Great for inner thighs and glutes. Cooldown: Finish with 60 seconds of standing quad stretch per leg and a 90-second seated figure-four glute stretch on each side. Your hips will thank you tomorrow."
+  },
+  "meal": {
+    "id": "db85a92a-2559-44ba-b51e-a1f6f6648b30",
+    "title": "Grilled Chicken & Charred Corn Rice Bowl",
+    "description": "Lean grilled chicken over fluffy white rice with charred corn and a squeeze of lime—fast carbs and protein to refill glycogen stores in the critical 30-minute post-workout window. This is your go-to strength and endurance recovery meal.",
+    "meal_type": "post_workout",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 385,
+    "protein_g": 38,
+    "carbs_g": 42,
+    "fat_g": 6,
+    "fiber_g": 3,
+    "prep_minutes": 5,
+    "cook_minutes": 12,
+    "ingredients": [
+      "150g grilled chicken breast",
+      "150g cooked white rice",
+      "80g frozen corn",
+      "½ lime",
+      "1 tsp olive oil",
+      "salt and pepper to taste"
+    ],
+    "instructions": "1. Heat a small skillet over high heat and char the frozen corn for 2–3 minutes, stirring occasionally.\n2. Warm the cooked rice in the microwave (1–2 minutes) or stovetop.\n3. Slice the grilled chicken breast.\n4. Assemble: rice as the base, top with chicken and charred corn.\n5. Squeeze lime over everything and season with salt and pepper.",
+    "tip": "Batch-grill chicken on Sunday and store in the fridge for weekday post-workout meals. If you're short on time, rotisserie chicken works just as well.",
+    "goal_affinity": [
+      "strength",
+      "endurance",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
