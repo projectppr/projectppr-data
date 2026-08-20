@@ -1,0 +1,191 @@
+{
+  "date": "2026-08-20",
+  "dateLabel": "Thursday, August 20, 2026",
+  "generatedAt": "2026-08-20T11:00:51.386Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "Brain shrinkage and circadian rhythm breakdown",
+      "headline": "Your Sleep Rhythm Predicts Your Brain's Future",
+      "body": "Johns Hopkins researchers found something sobering: weaker, more fragmented daily sleep-wake rhythms are linked to smaller memory-related brain regions and faster brain shrinkage over time. The effect showed up in cognitively normal older adults—no existing damage required. Your circadian rhythm isn't just about sleep quality. It governs hormone production, metabolism, immune function, and cognitive performance. When it fractures, your brain atrophies faster. The good news? Consistency matters more than perfection. Regular wake times, morning light exposure, and daytime activity can strengthen the system that protects your gray matter.",
+      "takeaway": "Stabilize your wake time every day, even weekends. Your brain's structure depends on it.",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
+      "sourceUrl": "https://publichealth.jhu.edu/2026/in-older-adults-fragmented-circadian-rest-activity-rhythms-linked-to-faster-brain-shrinkage-over-time",
+      "pexelsQuery": "person sleeping in bed dark bedroom",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6541109/pexels-photo-6541109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6541109/pexels-photo-6541109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina ⠀",
+        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
+        "photoPageUrl": "https://www.pexels.com/photo/asleep-woman-wearing-eye-mask-6541109/",
+        "avgColor": "#524D49"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Creatine boosts brain energy in early cognitive decline",
+      "headline": "Creatine Might Slow Cognitive Decline. Here's What 2026 Studies Show",
+      "body": "In 2026, researchers used brain imaging to measure phosphocreatine levels—essentially, your brain's energy reserves. People with mild cognitive impairment had lower ratios than age-matched controls. Then came the intervention: 5 grams of creatine daily for 12 weeks. Brain phosphocreatine increased 10-15% on imaging scans. A separate multicenter trial with 240 early Alzheimer's patients found that creatine slowed cognitive decline about 30% versus placebo over six months. No serious side effects. Creatine isn't a cure, but it might be an accessible adjunct—especially for people seeing the early warning signs.",
+      "takeaway": "If you have mild cognitive impairment or family dementia risk, ask your doctor about a low-cost creatine trial.",
+      "source": "Ubie Doctor's Note (2026 neuroimaging research synthesis)",
+      "sourceUrl": "https://ubiehealth.com/doctors-note/creatine-alzheimers-research-2026-brainenergies-2751q2",
+      "pexelsQuery": "person doing brain training puzzle cognitive task",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7296810/pexels-photo-7296810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7296810/pexels-photo-7296810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "https://kaboompics.com/",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/a-hand-holding-wooden-toy-number-7296810/",
+        "avgColor": "#897365"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Testosterone decline and safe replacement in aging",
+      "headline": "Your Testosterone Is Dropping. Here's What Actually Works",
+      "body": "Free testosterone drops about 1.3% annually starting in your 30s—faster than total testosterone. Most men don't notice until they do: recovery takes longer, muscle requires more effort, mood dips. The TRAVERSE trial, which tracked over 5,200 men with documented low testosterone and high cardiovascular risk on testosterone replacement versus placebo for 22 months, found no excess heart attacks or strokes. Major cardiac events: 7.0% in testosterone group, 7.3% in placebo. The catch? Lifestyle comes first. Weight loss, sleep, exercise, and treating sleep apnea often restore testosterone naturally. Proper replacement, when indicated, improves mood, muscle, bone, and metabolic health. But casual supraphysiologic dosing isn't justified.",
+      "takeaway": "Get tested. Fix sleep, weight, and exercise first. Then discuss guideline-based therapy with a doctor.",
+      "source": "Interactive Wellness (2026 clinical analysis)",
+      "sourceUrl": "https://www.interactivewellness.com/articles/testosterone-2026",
+      "pexelsQuery": "fit man strength training weights gym",
+      "photo": {
+        "url": "https://images.pexels.com/photos/20556211/pexels-photo-20556211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/20556211/pexels-photo-20556211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Franco Monsalvo",
+        "photographerUrl": "https://www.pexels.com/@franco-monsalvo-252430633",
+        "photoPageUrl": "https://www.pexels.com/photo/a-muscular-man-exercising-at-the-gym-20556211/",
+        "avgColor": "#212629"
+      }
+    },
+    {
+      "category": "MOBILITY",
+      "topic": "Collagen peptides reduce joint pain and improve function",
+      "headline": "Collagen Peptides Actually Work for Joint Pain. New Data Proves It",
+      "body": "A massive 2026 meta-analysis in Aesthetic Surgery Journal pooled 113 randomized trials involving nearly 8,000 people. The verdict: collagen peptides improve joint pain, skin hydration, and elasticity with solid evidence. Active adults taking 10-20 grams daily for 6-9 months reported less joint pain, better functionality, and improved mood. Type II collagen peptides at 40 mg daily reduced joint pain scores 43% over placebo in osteoarthritis patients. Why? Collagen peptides survive digestion intact and provide your body raw material for cartilage repair. Your body's ability to use them depends on overall health. There's no magic, but there's measurable benefit.",
+      "takeaway": "If you have activity-related knee pain, try 10 grams daily for 12 weeks. Track pain levels before and after.",
+      "source": "TIME Health & ScienceDaily (2026 meta-analysis coverage)",
+      "sourceUrl": "https://time.com/article/2026/06/08/collagen-supplements-skin-joints/",
+      "pexelsQuery": "person running outdoor athletic active healthy",
+      "photo": {
+        "url": "https://images.pexels.com/photos/2567016/pexels-photo-2567016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/2567016/pexels-photo-2567016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RUN 4 FFWPU",
+        "photographerUrl": "https://www.pexels.com/@runffwpu",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-man-stretching-2567016/",
+        "avgColor": "#BFBFA5"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
+    "author": "Vince Lombardi",
+    "context": "Legendary football coach and pioneer of discipline-based peak performance"
+  },
+  "workout": {
+    "id": "1c18c3ca-ae75-486f-9d25-f2f5c2b32a65",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Barbell Row Strength Block: Heavy 4s + Weighted Chin-Up & Face Pull Accessory",
+    "difficulty": "Intermediate",
+    "duration": "55 min",
+    "equipment": [
+      "barbell",
+      "squat rack",
+      "weight plates",
+      "pull-up bar",
+      "dip belt",
+      "cable machine or bands",
+      "dumbbells"
+    ],
+    "trainingZone": "z4",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "upper_body"
+    ],
+    "tip": "For the barbell row, hinge to roughly 45 degrees and stay there — do not let your torso rise as the weight gets heavy. Think of your elbows driving straight back into your hip pockets, not flaring wide, to maximize lat engagement and minimize shoulder impingement risk.",
+    "warmup": "10 min: 2 min light rowing machine or jump rope → 10 band pull-aparts → 10 scapular push-ups (protract and retract at top of push-up position) → 10 dead hangs for 5 sec each → 5 reps barbell row at 40% 1RM → 4 reps at 62% 1RM → 3 reps at 74% 1RM",
+    "exercises": [
+      {
+        "name": "Barbell Bent-Over Row",
+        "sets": "5",
+        "reps": "4 @ 82% 1RM",
+        "notes": "Rest 3 min between sets. Hinge to a 45-degree torso angle and maintain it throughout every rep. Grip just outside shoulder width, overhand. Pull the bar to the lower sternum, not the belly button. Squeeze the shoulder blades together at the top for 1 second. Control the descent over 2 seconds — do not drop the bar. Brace the core hard to protect the lumbar."
+      },
+      {
+        "name": "Weighted Chin-Up",
+        "sets": "4",
+        "reps": "5 @ RPE 7–8",
+        "notes": "Rest 2–2.5 min. Attach weight via dip belt. Use a supinated (underhand) grip, shoulder-width. Start from a dead hang with shoulders packed — do not shrug into your ears. Pull until chin clears the bar. Lower in 2–3 seconds. If you cannot complete 5 controlled reps with added weight, reduce load or use bodyweight only for that set."
+      },
+      {
+        "name": "Face Pull (Cable or Band)",
+        "sets": "3",
+        "reps": "15 @ RPE 5–6",
+        "notes": "Rest 60 sec. Set cable or band at forehead height. Pull toward your face with elbows high and flared — think 'double bicep pose at the finish.' Externally rotate at the top so your knuckles point toward the ceiling. Pause 1 second. This is shoulder maintenance — use a light load you can control fully through the full range of motion."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "7 min: 60 sec lat stretch hanging from bar (passive hang, feet lightly touching floor) each side → 60 sec chest-open doorway stretch → 60 sec supine thoracic rotation each side → 60 sec bicep wall stretch each arm → 60 sec child's pose with arms extended to the side",
+    "description": "This pull-focused strength session centers on 5 sets of 4 reps at 82% 1RM on the barbell bent-over row, building horizontal pulling strength, upper-back thickness, and scapular retraction power. Weighted chin-ups follow to develop vertical pull strength and lat width under load, while face pulls address rear delt and rotator cuff health as a high-rep finisher. Together, these three movements form a complete posterior upper-body strength block."
+  },
+  "meal": {
+    "id": "d93bece6-0a8e-49c9-a0d4-1a7ee4259f92",
+    "title": "Cornbread Crumble Hash with Bacon, Bell Peppers & Fried Eggs",
+    "description": "A protein-forward endurance breakfast combining crispy bacon and sweet cornbread crumbles with sautéed peppers and runny-yolked eggs—an American comfort-food twist that delivers fast carbs from the cornbread, salty umami from the bacon, and filling protein from the eggs.",
+    "meal_type": "breakfast",
+    "macro_profile": "high_carb",
+    "difficulty": "medium",
+    "cuisine": "american",
+    "calories": 750,
+    "protein_g": 28,
+    "carbs_g": 65,
+    "fat_g": 38,
+    "fiber_g": 3,
+    "prep_minutes": 15,
+    "cook_minutes": 20,
+    "ingredients": [
+      "3 slices thick-cut bacon",
+      "1.5 cups leftover cornbread, cut into 0.75-inch cubes",
+      "0.5 red bell pepper, diced",
+      "0.5 yellow bell pepper, diced",
+      "0.25 small onion, finely diced",
+      "2 large eggs",
+      "1 tbsp unsalted butter",
+      "0.5 tsp smoked paprika",
+      "salt and black pepper to taste",
+      "0.25 cup fresh cilantro or parsley, chopped"
+    ],
+    "instructions": "1. Cook bacon in a large skillet over medium-high heat until crispy, about 8 minutes. Transfer to a paper towel and chop into bite-sized pieces.\n2. Reserve 1 tbsp bacon fat in the pan; add cornbread cubes and toast, stirring occasionally, for 4–5 minutes until golden and crunchy. Transfer to a plate.\n3. Add butter to the pan, then sauté diced peppers and onion until softened, about 5 minutes. Season with paprika, salt, and pepper.\n4. Return cornbread and bacon to the pan and toss to combine. Push mixture to the sides, creating two wells in the center.\n5. Crack eggs directly into the wells and cook over medium heat for 3–4 minutes until whites are set but yolks remain runny.\n6. Top with fresh cilantro and serve directly from the skillet.",
+    "tip": "Use store-bought cornbread or leftover from dinner Sunday to cut prep time—frozen cornbread thaws in about 10 minutes. This dish is also a great way to use up cornbread or slightly stale bread; the frying process revives it perfectly for texture and rapid carb availability.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
