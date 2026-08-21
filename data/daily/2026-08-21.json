@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-21",
+  "dateLabel": "Friday, August 21, 2026",
+  "generatedAt": "2026-08-21T11:02:02.405Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Muscle growth volume breakthrough research",
+      "headline": "10 Sets Per Muscle Per Week. That's the Number.",
+      "body": "New 2026 resistance training guidelines from the American College of Sports Medicine just updated their recommendations for the first time in 17 years. The breakthrough finding: total weekly training volume matters most for building muscle. Specifically, ten sets per muscle group per week is the primary driver of muscle growth. This is a major shift from older advice about needing variety or training to failure. The guidelines also confirm that consistency and heavy loads matter for strength, but volume wins for size. Translation: you don't need fancy equipment or complex routines. You need a clear target and steady work.",
+      "takeaway": "Aim for roughly 10 sets per muscle group weekly. Consistency beats complexity.",
+      "source": "Medical News Today / American College of Sports Medicine",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/new-resistance-training-guidelines-debunk-myths-stronger-muscles-strength-size",
+      "pexelsQuery": "dumbbells weights strength training",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/19025674/pexels-photo-19025674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19025674/pexels-photo-19025674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jason Morrison",
+        "photographerUrl": "https://www.pexels.com/@dubtastic",
+        "photoPageUrl": "https://www.pexels.com/photo/a-row-of-dumbbells-in-a-gym-19025674/",
+        "avgColor": "#605456"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Sleep loss impacts athletic performance",
+      "headline": "Four Hours of Sleep Tanks Your Speed and Reaction Time",
+      "body": "Just one night of severely restricted sleep (4 hours instead of 8) noticeably damages athletic performance and decision-making in elite athletes, according to new research published in Medicine. Researchers tested international-level karate competitors and found that partial sleep restriction hurt cognitive performance, reaction time, agility, and aerobic capacity. Tasks involving focus and executive function suffered most. The damage happened after just one night. Your body can't make up for sleep debt with one good night later. If you compete or train hard, sleep isn't optional. It's part of your performance toolkit.",
+      "takeaway": "One bad night of sleep measurably degrades both cognitive and physical performance.",
+      "source": "Medicine Journal",
+      "sourceUrl": "https://journals.lww.com/md-journal/fulltext/2026/03130/effects_of_sleep_restriction_on_cognitive_and.6.aspx",
+      "pexelsQuery": "athlete resting sleeping recovery",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7188058/pexels-photo-7188058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7188058/pexels-photo-7188058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/a-boy-sitting-on-a-green-field-near-a-soccer-ball-while-drinking-beverage-7188058/",
+        "avgColor": "#797C73"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Optimal weekly exercise volume for longevity",
+      "headline": "560 to 610 Minutes Weekly. The Real Cardio Target.",
+      "body": "Current guidelines recommend 150 minutes of moderate exercise weekly for cardiovascular health. New 2026 research suggests that's just the minimum. A major study found that adults doing 560 to 610 minutes per week of moderate-to-vigorous activity had more than 30% lower cardiovascular disease risk compared to inactive people. Current guidelines? Only 8 to 9% risk reduction. The gap matters. Individual fitness levels affect the equation too. Less fit people need more volume to match the benefits that fitter people get at lower doses. Translation: more movement pays off, but the dose depends on where you start.",
+      "takeaway": "Think of 150 minutes as your safety baseline. Aim higher for real protection.",
+      "source": "Medical News Today / British Journal of Sports Medicine",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/560-610-minutes-weekly-exercise-lower-cardiovascular-risk-heart-health",
+      "pexelsQuery": "cardio exercise running outdoor",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4429104/pexels-photo-4429104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4429104/pexels-photo-4429104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/faceless-person-jogging-in-empty-park-4429104/",
+        "avgColor": "#53504C"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Caffeine dosing and performance optimization",
+      "headline": "Lower Caffeine Doses Work. You Don't Need Maximum.",
+      "body": "Caffeine boosts endurance and strength performance. That part's proven. But new research in 2026 challenges the 'more is better' approach to dosing. Recent network meta-analyses and reviews show that performance gains start at much lower doses than many athletes assume. The threshold for measurable speed improvement roughly 2% gain starts well below the maximum recommended dose. Individual variation matters too. Genetic differences in how you metabolize caffeine (the CYP1A2 gene) create fast and slow responders. Tolerance from habitual use also matters. Start lower, test your response, and find your sweet spot rather than maxing out every time.",
+      "takeaway": "You likely don't need the highest dose. Find the minimum that works for you.",
+      "source": "Frontiers in Physiology",
+      "sourceUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1871149/full",
+      "pexelsQuery": "coffee caffeine cup drink",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13714646/pexels-photo-13714646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13714646/pexels-photo-13714646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gáspár Ferenc",
+        "photographerUrl": "https://www.pexels.com/@gaspar-ferenc-322731648",
+        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photograph-of-cups-with-brewed-coffee-13714646/",
+        "avgColor": "#3E3E3E"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The miracle isn't that I finished. The miracle is that I had the courage to start.",
+    "author": "John Bingham",
+    "context": "Running coach and author known for making fitness accessible to everyday people, not just elite athletes."
+  },
+  "workout": {
+    "id": "83897303-6fbd-4aae-ada2-be6a1a6c0a81",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "easy",
+    "title": "Rolling Terrain Recovery Run: 35-Minute Mixed Gradient Cruise",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "cardio",
+      "low_impact",
+      "no_equipment",
+      "outdoor"
+    ],
+    "tip": "On uphill sections, *lengthen* your stride slightly rather than increasing cadence—this recruits glutes and teaches efficient hill running mechanics without spiking heart rate. Downhills should be controlled; don't overstride or brake hard, which damages quads and pulls you out of Z2.",
+    "warmup": "4 min easy jog + 5 × 30 sec butt kicks, 5 × 30 sec high knees (easy intensity), 10 walking lunges",
+    "exercises": [
+      {
+        "name": "Terrain-Varied Zone 2 Run",
+        "sets": "1",
+        "reps": "35 min",
+        "notes": "Run a route with gentle rolling hills—roughly 100–200 ft of elevation gain total. On climbs, stay relaxed; shift your effort to glute engagement rather than speed. Maintain conversational pace (120–140 bpm) across all gradients. Downhill sections should be smooth and controlled; resist the urge to accelerate."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min easy walking + pigeon stretch 45 sec each side, world's greatest stretch (lunge + rotation) 30 sec each side, standing hamstring stretch 30 sec",
+    "description": "A gently rolling outdoor run at Zone 2 pace with natural elevation changes—perfect for intermediate runners on recovery days who want to build aerobic fitness without flat, monotonous pacing. The subtle hill variations keep the nervous system engaged while staying well below lactate threshold, making it ideal for recovery weeks before 5K and 10K race blocks."
+  },
+  "meal": {
+    "id": "f014c12f-48cc-48fa-9e14-32536aa8dd7f",
+    "title": "Cornbread & Blackstrap Molasses Spread",
+    "description": "A slice of tender cornbread with a spread of softened butter mixed with blackstrap molasses delivers fast carbs plus iron and B vitamins for aerobic endurance work. The slight sweetness and dense texture make it ideal for a 30-minute pre-run window.",
+    "meal_type": "pre_workout",
+    "macro_profile": "high_carb",
+    "difficulty": "medium",
+    "cuisine": "american",
+    "calories": 228,
+    "protein_g": 4,
+    "carbs_g": 36,
+    "fat_g": 8,
+    "fiber_g": 2,
+    "prep_minutes": 5,
+    "cook_minutes": 18,
+    "ingredients": [
+      "1/2 cup cornmeal",
+      "1/4 cup all-purpose flour",
+      "1/4 tsp baking soda",
+      "1 tbsp melted butter",
+      "2 tbsp buttermilk",
+      "1 tbsp blackstrap molasses",
+      "1 tsp honey"
+    ],
+    "instructions": "1. Preheat oven to 400°F and lightly grease a small cast-iron skillet or 6-inch cake pan.\n2. Mix cornmeal, flour, and baking soda in a bowl.\n3. Whisk together buttermilk, melted butter, and molasses; fold into dry ingredients until just combined.\n4. Pour batter into skillet and bake 18–20 minutes until a toothpick comes out clean.\n5. Cool slightly, then slice and spread with softened butter mixed with 1/2 tsp molasses.",
+    "tip": "Bake a batch of cornbread on Sunday and store in an airtight container. Toast a slice 30 minutes before your run for a warm, familiar pre-workout fuel that won't cause gut distress.",
+    "goal_affinity": [
+      "endurance",
+      "marathon"
+    ],
+    "image_url": ""
+  }
+}
