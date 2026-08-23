@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-23",
+  "dateLabel": "Sunday, August 23, 2026",
+  "generatedAt": "2026-08-23T11:01:01.440Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Sprinting blood protein reshaping",
+      "headline": "Three Minutes of Sprinting Changes Your Blood More Than 90 Minutes of Steady Cardio",
+      "body": "New research from Rockefeller University shows that just three minutes of intense sprinting creates dramatically larger changes in your bloodstream than 90 minutes of moderate cycling. Six 30-second sprints altered nearly a quarter of all blood proteins measured and rewired over 200 metabolites. Better yet: many of the proteins affected by sprinting were directly linked to lower risks of obesity, type 2 diabetes, and other metabolic diseases. This isn't about replacing steady cardio. It's about understanding that intensity creates a different biological response. Your body isn't just counting minutes—it's responding to the demand you place on it.",
+      "takeaway": "Adding sprint intervals to your training triggers bigger metabolic benefits than equivalent time spent at moderate intensity. Even short bursts drive meaningful change.",
+      "source": "Rockefeller University / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
+      "pexelsQuery": "athlete sprinting running fast track",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/3760259/pexels-photo-3760259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3760259/pexels-photo-3760259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-res-tank-top-running-on-athletic-field-3760259/",
+        "avgColor": "#BAABA6"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Four-year exercise dementia prevention trial",
+      "headline": "Four Years of Exercise Stopped Memory Decline Cold",
+      "body": "A landmark 48-month study just published in Frontiers in Aging tracked 674 older adults and found something powerful: three hours of exercise per week held thinking and memory scores steady while a comparison group declined by nearly two points. This is the longest exercise trial ever conducted on dementia prevention. Most studies run 12 weeks. Some stretch to six months. Researchers tested aerobic and resistance training combined, with participants averaging age 64 at the start. The takeaway isn't complicated: sustained exercise doesn't just slow brain aging, it arrests it. Your brain responds to work the same way your muscles do.",
+      "takeaway": "Three hours of weekly exercise preserves cognition over four years. Consistency matters more than intensity for protecting your aging brain.",
+      "source": "Frontiers in Aging",
+      "sourceUrl": "https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2026.1847451/full",
+      "pexelsQuery": "older adult exercising gym weights",
+      "product": {
+        "id": "watch-003",
+        "name": "Garmin Forerunner 955 Solar",
+        "brand": "Garmin",
+        "asin": "B09WT9PF2N",
+        "url": "https://www.amazon.com/dp/B09WT9PF2N?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "solar",
+          "ironman",
+          "70.3",
+          "advanced",
+          "garmin"
+        ],
+        "blurb": "Built for long-course racing. Solar charging means you never run out of battery mid-race."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/28805366/pexels-photo-28805366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/28805366/pexels-photo-28805366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "David Ramsamy",
+        "photographerUrl": "https://www.pexels.com/@david-ramsamy-179321163",
+        "photoPageUrl": "https://www.pexels.com/photo/back-view-of-man-lifting-weights-in-gym-28805366/",
+        "avgColor": "#4F4F4F"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Choline nutrient anxiety brain function",
+      "headline": "One Nutrient Your Anxious Brain Might Be Missing",
+      "body": "Brain imaging research found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain signaling. Choline supports neurotransmitter synthesis and helps regulate your nervous system. Most people aren't tracking it because it's not as visible as protein or carbs, but your brain notices. Good sources include eggs, fish, chicken, and cruciferous vegetables like broccoli. The study suggests that anxiety isn't always a willpower problem—sometimes your brain is literally running low on the chemical building blocks it needs. Simple dietary fixes can matter when your system is running depleted.",
+      "takeaway": "If anxiety is persistent, check your choline intake. Eggs and fish are reliable sources that support both brain chemistry and calming signals.",
+      "source": "ScienceDaily / Brain Research",
+      "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/nutrition/",
+      "pexelsQuery": "eggs fish healthy food protein",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6823322/pexels-photo-6823322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6823322/pexels-photo-6823322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Antoni Shkraba",
+        "photographerUrl": "https://www.pexels.com/@shkrabaanthony",
+        "photoPageUrl": "https://www.pexels.com/photo/a-bowl-of-food-over-blue-surface-6823322/",
+        "avgColor": "#7A9094"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Novel anxiety treatments clinical trials breakthrough",
+      "headline": "New Anxiety Treatments Are Finally Moving Out of the Lab",
+      "body": "After more than a decade without major breakthroughs, several promising anxiety medications are now moving through late-stage clinical trials. MM120, a pharmaceutical-grade compound, has shown sustained anxiety reduction lasting 12 weeks from a single supervised dose in Phase 2b trials. Other approaches include novel delivery systems and neurological techniques completely different from traditional SSRIs and benzodiazepines. These aren't the old drugs with side effects and slow onset. The new generation uses different mechanisms to help your brain reset rigid thought patterns. If standard anxiety treatment hasn't worked, the landscape is shifting. Real alternatives are coming.",
+      "takeaway": "If traditional anxiety meds haven't worked, new treatment classes are in late-stage trials. Talk to your doctor about what's emerging—options are expanding.",
+      "source": "LifeStance Health / MindMed",
+      "sourceUrl": "https://lifestance.com/blog/new-anxiety-medications-2026/",
+      "pexelsQuery": "calm peaceful meditation breathing relaxation",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8964892/pexels-photo-8964892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8964892/pexels-photo-8964892.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "olia danilevich",
+        "photographerUrl": "https://www.pexels.com/@olia-danilevich",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-doing-a-meditation-near-the-ocean-during-morning-8964892/",
+        "avgColor": "#B3B4B8"
+      }
+    }
+  ],
+  "quote": {
+    "text": "If you truly love life, don't waste time because time is what life is made of.",
+    "author": "Bruce Lee",
+    "context": "Legendary martial artist and philosopher whose wisdom on discipline and continuous improvement shaped modern fitness culture."
+  },
+  "workout": {
+    "id": "2c4e016c-7e0c-4039-80a4-a731e93cc4b5",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "yoga",
+    "title": "Twist & Release: Gentle Spinal Mobility & Breath Reset",
+    "difficulty": "Beginner",
+    "duration": "40 min",
+    "equipment": [
+      "yoga_mat"
+    ],
+    "trainingZone": "z1",
+    "tags": [
+      "beginner_friendly",
+      "core",
+      "full_body",
+      "indoor",
+      "joint_friendly",
+      "low_impact",
+      "mobility_focused",
+      "no_equipment",
+      "under_60_min"
+    ],
+    "tip": "Initiate all twists from your ribcage, not your lumbar spine. Lengthen your torso on the inhale, then gently deepen the twist on the exhale. This protects your lower back and ensures spinal rotation comes from the safest zone.",
+    "warmup": "4 min: 5 gentle spinal rolls supine, 10 dead bugs, 5 windshield wipers, 10 cat-cow flows",
+    "exercises": [
+      {
+        "name": "Reclined Twist (Supta Matsyendrasana)",
+        "sets": "3",
+        "reps": "1 min each side",
+        "notes": "Lie supine, hug knee to chest, then gently guide it across your body. Keep shoulders planted on floor. This wrings out digestive organs, releases lower-back tension, and primes diaphragmatic breathing."
+      },
+      {
+        "name": "Half-Kneeling Rotational Twist",
+        "sets": "3",
+        "reps": "45 seconds each side",
+        "notes": "Half-kneel with hips squared forward, place rear hand behind head, and rotate torso toward front leg. Keep core engaged to isolate thoracic rotation. This opens ribs, improves spinal mobility for daily movement, and strengthens obliques with zero impact."
+      },
+      {
+        "name": "Seated Forward Fold with Spinal Elongation (Paschimottanasana)",
+        "sets": "3",
+        "reps": "1 min per set",
+        "notes": "Sit with legs extended, inhale to lengthen spine, exhale to fold. Avoid forcing hamstring depth; focus on neutral spine and breathing. This stretches the entire posterior chain and signals your body it's time to rest."
+      },
+      {
+        "name": "Supported Fish Pose (Matsyasana with block)",
+        "sets": "2",
+        "reps": "1 min",
+        "notes": "Place a yoga block under your upper back, let shoulders relax back, and breathe into your chest. This gentle chest and shoulder opener counteracts rounded-shoulder posture from desk work and trains deep breathing capacity."
+      },
+      {
+        "name": "Extended Child's Pose (Balasana)",
+        "sets": "2",
+        "reps": "90 seconds",
+        "notes": "Knees wide, big toes together, sink hips to heels, arms extended forward. Breathe into your back ribs. This deeply restful pose activates the vagus nerve and signals nervous system downregulation."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: supine spinal twist 1 min each side, reclined butterfly stretch 1 min, savasana with 3-part breath (inhale 4 counts, hold 4, exhale 4) for 2 min",
+    "description": "A 40-minute beginner-friendly recovery yoga session emphasizing gentle twists, spinal mobility, and diaphragmatic breathing to reduce muscular tension and activate the parasympathetic nervous system. Perfect for fat-loss athletes seeking active recovery that supports digestion and reduces cortisol while improving thoracic rotation and core resilience."
+  },
+  "meal": {
+    "id": "efb9898b-7a32-4c52-a799-a93409bcfc41",
+    "title": "Seared Tuna and Edamame Rice Bowl",
+    "description": "Canned solid albacore works just as well as fresh for this bowl on a busy weekday. Keep a few cans in your pantry and this goes from zero to done in under ten minutes.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 46,
+    "carbs_g": 42,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "prep_minutes": 15,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 sushi-grade or canned solid albacore tuna steaks (6 oz total) OR 2 cans solid white albacore tuna in water, drained\n1 cup cooked brown rice or jasmine rice\n1/2 cup shelled edamame (frozen and thawed)\n1/4 cucumber, thinly sliced\n1/4 avocado, sliced\n2 tbsp low-sodium soy sauce or tamari\n1 tsp sesame oil\n1 tsp rice vinegar\n1/2 tsp grated ginger (fresh or jarred)\n1 tsp sesame seeds\nOptional: red pepper flakes, sliced green onion\n\nInstructions:\n1. If using fresh tuna: pat dry and season lightly with salt. Heat a dry skillet over high heat, sear tuna 60 to 90 seconds per side until just opaque on the outside. Slice. If using canned tuna: drain well and flake. 2. Whisk together soy sauce, sesame oil, rice vinegar, and ginger in a small bowl to make the dressing. 3. Build the bowl: rice on the bottom, then tuna, edamame, cucumber, and avocado arranged on top. 4. Drizzle dressing over everything, finish with sesame seeds and optional toppings.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
