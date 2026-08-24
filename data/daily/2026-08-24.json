@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-24",
+  "dateLabel": "Monday, August 24, 2026",
+  "generatedAt": "2026-08-24T11:01:02.638Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Psilocybin rapid-acting depression treatment",
+      "headline": "Single Psilocybin Dose Just Beat Placebo for Treatment-Resistant Depression",
+      "body": "The UK's first publicly funded trial on psilocybin for depression shows real promise. Researchers gave one 25-mg dose of psilocybin alongside psychological support to people with treatment-resistant depression—and the results outperformed placebo. This wasn't a small pilot either; it was a proper randomized controlled trial run within the NHS. The effect happened fast. People saw meaningful symptom improvements within weeks, with gains that stuck around. This matters because standard antidepressants fail for roughly 30% of people who try them. If you've hit that wall, this opens a real alternative conversation with your doctor.",
+      "takeaway": "One psilocybin session with therapy beat placebo for hard-to-treat depression. Talk to your doctor if standard treatments haven't worked.",
+      "source": "Nature Medicine",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04541-0",
+      "pexelsQuery": "mushroom therapy meditation mental health",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6962655/pexels-photo-6962655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6962655/pexels-photo-6962655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Cup of  Couple",
+        "photographerUrl": "https://www.pexels.com/@cup-of-couple",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-photo-of-a-person-s-hand-6962655/",
+        "avgColor": "#A89F8D"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Low-fat vegan diet reduces calorie density",
+      "headline": "Eat More Food, Weigh Less. The Energy Density Trick That Actually Works",
+      "body": "A 16-week clinical trial just proved something counterintuitive: people eating low-fat vegan diets lost weight while eating roughly the same amount of food by weight. The secret wasn't portion control—it was energy density. Plant-based whole foods pack fewer calories into each gram, so participants naturally consumed about 357 fewer calories daily without trying. No calorie counting, no shrinking portions, no constant hunger. People in the trial lost an average of 5.9 kilograms. The researchers also found improved insulin sensitivity and less fat stored in the liver and muscle. This isn't about abandoning your favorite foods; it's about choosing foods that let you feel full while eating less.",
+      "takeaway": "Switch to plant-based whole foods to lower energy density. You can eat satisfying portions and still lose weight without deliberate restriction.",
+      "source": "JAMA Network Open",
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827483",
+      "pexelsQuery": "vegan vegetables fruits salad plant-based meal",
+      "photo": {
+        "url": "https://images.pexels.com/photos/15813479/pexels-photo-15813479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15813479/pexels-photo-15813479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Dextar Studio ™",
+        "photographerUrl": "https://www.pexels.com/@dextarstudio",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-salad-15813479/",
+        "avgColor": "#313326"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Blood proteins predict biological age and disease",
+      "headline": "Your Blood Just Became Your Aging Clock. Here's What It's Telling You.",
+      "body": "Researchers tracking over 5,400 blood samples collected across 20 years have mapped how your proteins shift as you age. Some proteins stay stable—useful biomarkers for predicting your real biological age. Others change constantly, making them less reliable. This matters because accurate aging clocks predict disease risk better than your birth certificate ever could. When scientists tested their findings on 45,000 UK adults, swapping just three unstable proteins for three stable ones dramatically improved predictions of who would get sick. Your protein signature isn't random. It responds to exercise, sleep, diet, and stress. This means aging isn't something that just happens to you—it's something your daily habits are measurably speeding up or slowing down.",
+      "takeaway": "Blood protein patterns reveal your true biological age better than genetic tests. Your lifestyle is actively shaping these patterns right now.",
+      "source": "Nature Aging",
+      "sourceUrl": "https://www.nature.com/articles/s44360-026-00183-1",
+      "pexelsQuery": "blood test laboratory microscope science",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6129885/pexels-photo-6129885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6129885/pexels-photo-6129885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/laboratory-scientist-doing-a-research-6129885/",
+        "avgColor": "#99B4B2"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Smart rings detect illness before symptoms appear",
+      "headline": "Your Smart Ring Just Predicted Illness 7 Days Early. That's Not a Fluke.",
+      "body": "A systematic review of 107 studies found smart rings now do something remarkable: predict illness days or weeks before you feel symptoms. One example: inflammatory bowel disease flares detected seven weeks early with 72% accuracy. Another: bipolar episodes spotted three to seven days ahead with 79% sensitivity. COVID-19 detection came 2.75 days before symptoms appeared. These aren't theoretical possibilities—they're happening in real clinical settings. The rings track continuous heart rate, temperature, and sleep patterns 24/7, catching subtle deviations your conscious mind never notices. The catch: algorithms are proprietary, studies are still small, and people stop wearing them after a few months. But the trajectory is clear. Your finger-worn device is becoming an early warning system.",
+      "takeaway": "Smart rings can now detect brewing illness days to weeks early by tracking continuous heart rate and temperature. The tech is real; clinical adoption is accelerating.",
+      "source": "JAMA Network",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12730986/",
+      "pexelsQuery": "smart ring wearable technology finger device",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11704323/pexels-photo-11704323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11704323/pexels-photo-11704323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Felipe Barboza",
+        "photographerUrl": "https://www.pexels.com/@felipe-barboza-3347683",
+        "photoPageUrl": "https://www.pexels.com/photo/a-couple-holding-hands-on-a-wooden-surface-11704323/",
+        "avgColor": "#3B2E1D"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Building muscle later in life can improve everything from cardiovascular health to brain function. It's never too late.",
+    "author": "Stacy Sims",
+    "context": "Exercise physiologist and longevity researcher on why strength training matters at any age"
+  },
+  "workout": {
+    "id": "1c559e4c-6320-465a-a474-47bd0d1eed49",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Overhead Press Ladder: Vertical Pressing Power & Shoulder Hypertrophy",
+    "difficulty": "Intermediate",
+    "duration": "48 min",
+    "equipment": [
+      "barbell",
+      "dumbbells",
+      "bench"
+    ],
+    "trainingZone": "z4",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "muscle_gain",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Pack your shoulders before each rep—depress the scapula and create tension through your lats. Press in a straight line, not in front of your face. Engage your core as if bracing for a punch.",
+    "warmup": "6 min: 15 band pull-aparts, 10 scapular wall slides, 5 inchworms, 8 empty-bar presses, 3 reps @ 60% working weight",
+    "exercises": [
+      {
+        "name": "Barbell Overhead Press (Strict Form)",
+        "sets": "4",
+        "reps": "3, 5, 7, 10",
+        "notes": "Start @ 82% 1RM for 3 reps, drop to 75% for 5 reps, 70% for 7 reps, 65% for 10 reps. Rest 2 min between sets. Each rep should be a grind—no explosive bouncing."
+      },
+      {
+        "name": "Dumbbell Single-Arm Shoulder Press",
+        "sets": "3",
+        "reps": "8 each side",
+        "notes": "Unilateral pressing builds stabilizer strength and exposes asymmetries. Anti-rotation work—brace obliques hard. Rest 90 sec."
+      },
+      {
+        "name": "Incline Dumbbell Press (Flat Bench, 30-Degree Angle)",
+        "sets": "3",
+        "reps": "9",
+        "notes": "Bridge the gap between flat and incline pressing. Upper-chest and front-delt hypertrophy. Tempo: 2 down, 1 pause, 1 up. Rest 75 sec."
+      },
+      {
+        "name": "Lateral Raise (Dumbbell)",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Isolation for shoulder width. Slight elbow bend, raise to shoulder height, squeeze at the top. Light weight, high control. Rest 60 sec."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: overhead shoulder stretch 45 sec each side, thoracic extension over foam roller or bench 60 sec, wall angel holds 30 sec, neck rolls 30 sec",
+    "description": "This ascending-rep ladder builds shoulder strength and upper-back resilience through varied loading and volume density. Starting heavy and ascending to moderate weight keeps the nervous system engaged while flooding the shoulders with work—ideal for athletes building overhead press strength and chest-shoulder integration. Unilateral and stability work prevents imbalances common in pressing athletes."
+  },
+  "meal": {
+    "id": "f44b5098-03dd-4762-9f7c-ca86f48f4504",
+    "title": "Smoked Salmon & Egg Breakfast Bowl with Diced Potatoes & Arugula",
+    "description": "A Mediterranean-inspired breakfast bowl built on omega-3 rich smoked salmon and protein-packed eggs, paired with nutrient-dense arugula and roasted potato cubes. This hits fat-loss macros while delivering the micronutrients athletes need for recovery and immunity.",
+    "meal_type": "breakfast",
+    "macro_profile": "fat_loss",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 390,
+    "protein_g": 26,
+    "carbs_g": 35,
+    "fat_g": 14,
+    "fiber_g": 4,
+    "prep_minutes": 8,
+    "cook_minutes": 15,
+    "ingredients": [
+      "3 oz smoked salmon",
+      "2 large eggs",
+      "1 cup cubed potatoes",
+      "2 cups fresh arugula",
+      "1 tsp olive oil",
+      "1 tbsp fresh lemon juice",
+      "salt and pepper to taste"
+    ],
+    "instructions": "1. Toss cubed potatoes with 1/2 tsp olive oil, salt, and pepper; roast in a 400°F oven for 12-15 minutes until golden and crispy (or pan-fry for 10 minutes in a skillet).\n2. While potatoes cook, whisk together arugula, lemon juice, and remaining 1/2 tsp olive oil in a bowl; season lightly.\n3. Cook eggs to your preference (fried, scrambled, or poached) in a nonstick skillet, 3-4 minutes.\n4. Assemble bowl with roasted potatoes, arugula base, smoked salmon, and cooked eggs.\n5. Drizzle with any pan juices and season with salt and pepper.",
+    "tip": "Roast a batch of potatoes on Sunday and store in the fridge—this meal comes together in 8 minutes on busy mornings with zero cooking required.",
+    "goal_affinity": [
+      "fat_loss",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
