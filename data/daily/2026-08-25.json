@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-25",
+  "dateLabel": "Tuesday, August 25, 2026",
+  "generatedAt": "2026-08-25T11:00:55.343Z",
+  "articles": [
+    {
+      "category": "HORMONES",
+      "topic": "Estrogen therapy and Alzheimer's disease risk",
+      "headline": "Estrogen-Only Hormone Therapy May Lower Alzheimer's Risk",
+      "body": "New research from Stanford Medicine found that women taking estrogen-only menopausal hormone therapy show reduced Alzheimer's disease markers in brain tissue. The study examined autopsied brains and represents the first direct measurement of hormone therapy's connection to Alzheimer's pathology. These findings contradict earlier concerns and align with FDA's 2025 decision to remove black-box warnings from HRT products, suggesting appropriate hormone therapy may protect brain health when started at the right time.",
+      "takeaway": "If you're considering menopausal hormone therapy, discuss estrogen-only formulations with your doctor—new evidence suggests brain protection rather than risk.",
+      "source": "Stanford Medicine",
+      "sourceUrl": "https://med.stanford.edu/news/all-news/2026/08/study-ties-estrogen-based-menopausal-hormone-therapy-to-lower-al.html",
+      "pexelsQuery": "woman doctor consultation healthcare",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4173249/pexels-photo-4173249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4173249/pexels-photo-4173249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gustavo Fring",
+        "photographerUrl": "https://www.pexels.com/@gustavo-fring",
+        "photoPageUrl": "https://www.pexels.com/photo/positive-doctor-in-medical-uniform-talking-on-cellphone-in-clinic-corridor-4173249/",
+        "avgColor": "#BCB4AA"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Brain flexibility under stress and resilience",
+      "headline": "Your Brain's Control Center Needs Flexibility, Not Force",
+      "body": "Research from Florida International University shows that stress resilience depends less on how hard you try to control stress and more on how flexibly your brain adapts to it. Using EEG to track the brain's command center, scientists found that people who forced rigid control quit faster under stress, while those who stayed cognitively flexible—using paced breathing and adaptable strategies—lasted longer. The finding flips conventional wisdom: resilience isn't about white-knuckling through pressure.",
+      "takeaway": "Under stress, adapt your approach instead of doubling down on the same strategy. Flexibility beats force.",
+      "source": "Florida International University",
+      "sourceUrl": "https://news.fiu.edu/2026/stress-reshapes-brain-connections-and-boosts-resilience",
+      "pexelsQuery": "person meditating mindfulness calm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6443484/pexels-photo-6443484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6443484/pexels-photo-6443484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-wearing-black-active-wear-meditating-6443484/",
+        "avgColor": "#9A887F"
+      }
+    },
+    {
+      "category": "COLD THERAPY",
+      "topic": "Cold water immersion versus whole-body cryotherapy",
+      "headline": "Cold Water Works Better Than Cryo for Post-Workout Soreness",
+      "body": "A 2026 meta-analysis comparing 13 studies found cold water immersion delivered significantly better relief from delayed-onset muscle soreness at the 24-hour mark than whole-body cryotherapy. The research pooled data from 214 participants and examined recovery outcomes after high-intensity exercise. While both methods had similar effects on jump performance, cold water immersion emerged as the more effective and accessible option for muscle soreness—no chamber required.",
+      "takeaway": "After hard training, a cold plunge beats a cryotherapy chamber for soreness relief and costs a fraction of the price.",
+      "source": "Medicine",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41578562/",
+      "pexelsQuery": "ice bath cold water immersion recovery",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6811905/pexels-photo-6811905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6811905/pexels-photo-6811905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yaroslav Shuraev",
+        "photographerUrl": "https://www.pexels.com/@yaroslav-shuraev",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-relaxation-petals-luxury-6811905/",
+        "avgColor": "#9B876F"
+      }
+    },
+    {
+      "category": "BREATHWORK",
+      "topic": "Structured breathing enhances nervous system recovery",
+      "headline": "Post-Workout Breathing Technique Resets Your Nervous System Faster",
+      "body": "A 2026 study of 52 fit ROTC cadets found that structured breathing immediately after maximal exercise improved parasympathetic nervous system recovery markers compared to unstructured recovery. The researchers tested box breathing and cyclic breathing techniques and tracked how quickly the body shifted from 'go' mode back to recovery mode. While heart rate recovery time didn't change, the nervous system showed measurably faster reactivation—the marker that actually predicts how ready you'll be for the next bout.",
+      "takeaway": "After your hardest efforts, spend two minutes on deliberate breathing. Your nervous system will recover faster than if you just catch your breath.",
+      "source": "Journal of Applied Physiology",
+      "sourceUrl": "https://www.yourwellnessnerd.com/blogs/blog/breathwork-after-exercise-recovery-research",
+      "pexelsQuery": "person breathing exercise breathing technique",
+      "photo": {
+        "url": "https://images.pexels.com/photos/34382761/pexels-photo-34382761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34382761/pexels-photo-34382761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Zulfugar Karimov",
+        "photographerUrl": "https://www.pexels.com/@zulfugarkarimov",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-practicing-yoga-outdoors-in-serene-park-34382761/",
+        "avgColor": "#8E7E71"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Whether you think you can or think you can't, you're right.",
+    "author": "Henry Ford",
+    "context": "Automotive pioneer and industrialist; foundational belief about the power of mindset in determining outcomes."
+  },
+  "workout": {
+    "id": "f913998b-75a4-4b3c-8429-4e4c7b4e503a",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "treadmill",
+    "title": "Incline Introduction: Gentle Grade Build",
+    "difficulty": "Beginner",
+    "duration": "32 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "indoor",
+      "low_impact",
+      "treadmill_ok",
+      "under_60_min"
+    ],
+    "tip": "On incline segments, shorten your stride slightly and focus on pushing through the back of your foot. Lean slightly into the hill but keep your chest upright—never slouch forward.",
+    "warmup": "3 min @ 3.0 mph / 0% incline (easy walk) + 2 min @ 3.5 mph / 0% incline (brisk walk)",
+    "exercises": [
+      {
+        "name": "Incline Grade Progression",
+        "sets": "1",
+        "reps": "Full circuit",
+        "notes": "Execute the following sequence: 3 min @ 3.5 mph / 2% incline (walk) → 2 min @ 4.0 mph / 2% incline (easy jog) → 2 min @ 3.5 mph / 4% incline (walk) → 2 min @ 4.0 mph / 4% incline (easy jog) → 2 min @ 3.0 mph / 6% incline (walk recovery) → 1 min @ 4.5 mph / 2% incline (moderate run) → 2 min @ 3.0 mph / 0% incline (flat walk recovery). Maintain composure and steady breathing; this builds glute activation and fat oxidation."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "2 min @ 3.0 mph / 0% incline (easy walk). Post-run: hip flexor lunge stretch 30 sec each leg, glute stretch 30 sec each side, lower back twist 20 sec each side.",
+    "description": "A beginner-friendly session introducing terrain variability via steady incline progression on the treadmill. Incline walking and running strengthen the glutes and posterior chain while building fat-loss capacity without high impact, ideal for runners preparing for 5K racing on hilly courses."
+  },
+  "meal": {
+    "id": "fcf80947-850a-4ff3-b148-2ecadf428d69",
+    "title": "Tuna and White Bean Power Bowl",
+    "description": "Make a double batch on Sunday and portion into containers for grab-and-go lunches Monday through Wednesday. It actually tastes better after the flavors have had a few hours to come together.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 480,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "prep_minutes": 10,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 cans (5 oz each) wild-caught tuna in water, drained\n1 can (15 oz) white cannellini beans, rinsed and drained\n1 cup cherry tomatoes, halved\n1/2 English cucumber, diced\n1/4 red onion, finely diced\n2 tablespoons extra virgin olive oil\nJuice of 1 lemon\n1 teaspoon Dijon mustard\n1/2 teaspoon dried oregano\nSalt and black pepper to taste\nFresh parsley or basil for topping\n\nInstructions:\n1. In a large bowl, whisk together olive oil, lemon juice, Dijon mustard, oregano, salt, and pepper to make the dressing. 2. Add the drained tuna and white beans to the bowl and toss gently to coat. 3. Fold in the cherry tomatoes, cucumber, and red onion. 4. Top with fresh parsley or basil and serve immediately, or refrigerate for up to 2 days.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
