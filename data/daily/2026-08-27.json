@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-27",
+  "dateLabel": "Thursday, August 27, 2026",
+  "generatedAt": "2026-08-27T11:00:39.296Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "Coffee consumption metabolism body composition",
+      "headline": "Your Morning Coffee May Reshape Your Body Composition More Than You Think",
+      "body": "Finnish researchers analyzed nearly 2,300 adults and found something surprising: people who drank more coffee had less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of amino acids associated with insulin resistance. The connection appears to go beyond caffeine's stimulant effect. Scientists still don't fully understand the biological processes involved, but the data suggests coffee compounds may influence how your body distributes and processes fat.",
+      "takeaway": "Your daily cup isn't just waking you up. It may be helping your body maintain leaner muscle and better metabolic health.",
+      "source": "ScienceDaily / University of Oulu",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+      "pexelsQuery": "coffee cup morning black coffee",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13384965/pexels-photo-13384965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13384965/pexels-photo-13384965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Buse  Korkmaz Güngören",
+        "photographerUrl": "https://www.pexels.com/@photographybuse",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-cup-of-coffee-on-wooden-surface-13384965/",
+        "avgColor": "#576069"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Medications long-term microbiome effects",
+      "headline": "Your Medications Are Reshaping Your Gut Long After You Stop Taking Them",
+      "body": "A study of 2,509 people found that nearly half of 186 common medications had lasting effects on gut bacteria, with changes persisting for years after patients stopped taking them. Antibiotics, beta-blockers, antidepressants, and benzodiazepines showed the strongest long-term impacts. Surprisingly, benzodiazepines disrupted the microbiome as severely as broad-spectrum antibiotics. The research emphasizes that past medication use represents an often overlooked factor when studying the microbiome's role in health. For some drugs, effects were additive with repeated use.",
+      "takeaway": "Your medication history matters for gut health. Even drugs you stopped years ago may still be shaping your microbiome.",
+      "source": "mSystems / American Society for Microbiology",
+      "sourceUrl": "https://journals.asm.org/doi/10.1128/msystems.01076-25",
+      "pexelsQuery": "prescription pills medications bottle",
+      "photo": {
+        "url": "https://images.pexels.com/photos/13111784/pexels-photo-13111784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13111784/pexels-photo-13111784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/medication-pills-on-black-surface-13111784/",
+        "avgColor": "#5C5B59"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Depression disrupts brain neuron formation",
+      "headline": "Depression Is Stopping Your Brain From Making New Neurons. Here's Why That Matters",
+      "body": "A landmark study published in Nature Medicine reveals that depression disrupts the birth of new neurons in the hippocampus, the brain region central to memory and emotion. This stalled neurogenesis appears to weaken pattern separation—your ability to distinguish similar experiences and keep their emotional tone distinct. Without fresh neurons, your brain struggles to separate new positive experiences from old painful memories, trapping you in negative thought cycles. The study examined nearly half a million brain cells and identified the molecular pathways responsible, opening new targets for treatment beyond traditional antidepressants.",
+      "takeaway": "Depression isn't just about mood. It's actively disrupting your brain's ability to adapt and form new memories.",
+      "source": "Nature Medicine / Columbia University Irving Medical Center",
+      "sourceUrl": "https://www.cuimc.columbia.edu/news/depression-stalls-formation-new-brain-cells",
+      "pexelsQuery": "brain neuron synapse neural",
+      "photo": {
+        "url": "https://images.pexels.com/photos/28583188/pexels-photo-28583188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/28583188/pexels-photo-28583188.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Landiva  Weber",
+        "photographerUrl": "https://www.pexels.com/@diva",
+        "photoPageUrl": "https://www.pexels.com/photo/abstract-light-patterns-with-neon-colors-28583188/",
+        "avgColor": "#292017"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Positive thinking resilience stress recovery",
+      "headline": "How You Interpret Stress Actually Predicts Your Resilience. Science Just Proved It.",
+      "body": "Two large independent studies found that people who tend to appraise stressors in a realistic to slightly positive way show significantly better long-term mental health outcomes. A randomized trial of 232 distressed healthcare workers confirmed that this positive appraisal style is not fixed—it's trainable. Researchers identified it as a proximal resilience factor that mediates the protective effects of social support and other coping mechanisms. The takeaway: your interpretation of difficulty shapes your recovery from it more than the difficulty itself.",
+      "takeaway": "Your brain's ability to see stress as manageable, not catastrophic, is trainable and foundational to resilience.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-025-65147-7",
+      "pexelsQuery": "person thinking meditation reflection calm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/33926542/pexels-photo-33926542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33926542/pexels-photo-33926542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Sharon  Manuel joy",
+        "photographerUrl": "https://www.pexels.com/@sharonmanueljoy",
+        "photoPageUrl": "https://www.pexels.com/photo/silhouette-of-woman-on-bench-overlooking-lake-33926542/",
+        "avgColor": "#444535"
+      }
+    }
+  ],
+  "quote": {
+    "text": "I've failed over and over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan",
+    "context": "NBA legend and six-time champion who built his career on turning setbacks into fuel for growth."
+  },
+  "workout": null,
+  "meal": {
+    "id": "ddfe4560-0f8e-4cd6-b592-57e590938556",
+    "title": "Whole Grain Toast with Whipped Ricotta, Figs & Pistachios",
+    "description": "A Mediterranean-inspired open-faced toast that pairs slow-digesting whole grains with creamy ricotta and natural carbs from figs—perfect pre-endurance fuel that won't spike and crash your blood sugar. The healthy fats from pistachios help with satiety and nutrient absorption during long efforts.",
+    "meal_type": "breakfast",
+    "macro_profile": "balanced",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 480,
+    "protein_g": 18,
+    "carbs_g": 52,
+    "fat_g": 18,
+    "fiber_g": 8,
+    "prep_minutes": 8,
+    "cook_minutes": 3,
+    "ingredients": [
+      "2 slices whole grain or sourdough bread",
+      "150g whole milk ricotta",
+      "1 tbsp raw honey",
+      "3-4 fresh figs (or 4 dried figs, chopped)",
+      "25g shelled pistachios, chopped",
+      "1 tsp lemon zest",
+      "Pinch of sea salt",
+      "½ tsp olive oil (for toasting)"
+    ],
+    "instructions": "1. Toast bread to your preferred crispness—about 2–3 minutes.\n2. While bread toasts, stir ricotta with lemon zest and a pinch of salt until smooth and airy.\n3. Spread whipped ricotta generously on each toast.\n4. Top with fresh figs (halved) or chopped dried figs.\n5. Drizzle with honey and scatter pistachios over top.\n6. Serve immediately.",
+    "tip": "Make whipped ricotta the night before and store in an airtight container—spreads even easier and saves 3 minutes on weekday mornings. Dried figs work year-round and are more stable for meal prep.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
