@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-28",
+  "dateLabel": "Friday, August 28, 2026",
+  "generatedAt": "2026-08-28T11:01:00.186Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "Mindset shapes aging outcomes",
+      "headline": "Your Belief About Getting Older Just Became Your Biggest Asset",
+      "body": "How you think about aging might matter more than you think. New research from Stanford shows that people with positive views of their own aging live longer, stay more active, and hit major health improvements most of us assume are off-limits after 40. The science: older adults who believe in their ability to improve actually improve. Cognitive gains, physical gains, mental gains. The mindset shift is practical, not motivational fluff. It's the difference between believing your best years are behind you and believing they're still being written.",
+      "takeaway": "Stop thinking of aging as decline. Research now shows that people who maintain positive beliefs about aging achieve better health outcomes across every measure.",
+      "source": "Stanford Center on Longevity",
+      "sourceUrl": "https://longevity.stanford.edu/healthy-aging-2026-purpose-power-and-play/",
+      "pexelsQuery": "older adult smiling strong confident",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7322485/pexels-photo-7322485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7322485/pexels-photo-7322485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alena Darmel",
+        "photographerUrl": "https://www.pexels.com/@a-darmel",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-men-showing-off-their-muscles-7322485/",
+        "avgColor": "#525354"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Multi-system cardiovascular risk",
+      "headline": "Your Heart Isn't Failing Alone. The New Risk Framework Changes Everything",
+      "body": "The American Heart Association just dropped a major update: cardiovascular disease isn't a single-system problem anymore. It's about cardiovascular-kidney-metabolic syndrome, a new category showing how your heart, kidneys, and metabolism work as one integrated system. Only 11 percent of U.S. adults meet optimal criteria. The real shocker? Women face significantly higher mortality risk at the same disease stage as men. That means standard prevention advice isn't enough if you're a woman over 40. Your cardiometabolic profile now matters more than individual numbers.",
+      "takeaway": "Check your full cardiometabolic picture, not just cholesterol or blood pressure alone. Women especially need sex-specific prevention strategies.",
+      "source": "American Heart Association",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13041046/",
+      "pexelsQuery": "medical heart health monitor",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6203473/pexels-photo-6203473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6203473/pexels-photo-6203473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/graphic-illustration-of-heart-pulse-rate-6203473/",
+        "avgColor": "#0C233B"
+      }
+    },
+    {
+      "category": "GENETICS",
+      "topic": "Exercise reverses aging in muscle",
+      "headline": "Your Training Just Turned Back Your Muscle's Biological Clock",
+      "body": "Here's what training does at the molecular level: older adults who exercise regularly have muscle gene expression patterns that look like young adults. Specifically, genes controlling cellular energy and respiration. This study found trained older adults showed 50 percent fewer age-related differences in these critical metabolic genes compared to untrained peers. You're not fighting genetics. You're winning against time itself. The muscle recovers its ability to process oxygen and fuel efficiently, which drives everything from endurance to daily function.",
+      "takeaway": "Consistent training preserves the molecular machinery of youth in your muscles. This is why the hardest workout today is an investment in decades ahead.",
+      "source": "Nature Aging",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01150-x",
+      "pexelsQuery": "mature athlete training muscle exercise",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4720291/pexels-photo-4720291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4720291/pexels-photo-4720291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-gray-tank-top-doing-push-ups-4720291/",
+        "avgColor": "#584436"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Supplement performance comparison",
+      "headline": "Which Supplement Actually Moves Your Performance Numbers",
+      "body": "Researchers just ran a network meta-analysis comparing six major supplements—protein, creatine, beta-alanine, HMB, vitamin D, and nitrate—across 30 trials involving 693 athletes. The question: which ones actually change peak power, peak oxygen, and endurance? The answer isn't simple because context matters. A supplement that crushes anaerobic power in sprinters does nothing for endurance runners. Dosing, timing, individual response, and your specific sport all matter. The takeaway isn't one magic ingredient. It's that targeted supplementation works when matched to your actual performance goal.",
+      "takeaway": "Your supplement strategy should match your sport. General supplementation works worse than specific supplementation chosen for your training focus.",
+      "source": "Nutrients Journal",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12663695/",
+      "pexelsQuery": "supplement pills bottle nutrition",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/15897783/pexels-photo-15897783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15897783/pexels-photo-15897783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "by Natallia",
+        "photographerUrl": "https://www.pexels.com/@by-natallia-311038782",
+        "photoPageUrl": "https://www.pexels.com/photo/vial-and-pills-of-cod-liver-oil-on-pink-background-15897783/",
+        "avgColor": "#9C807C"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Your longevity depends more on the aggregate of what you do most of the time, not being perfect all the time.",
+    "author": "Michael Roizen",
+    "context": "Physician and longevity expert who helped pioneer preventive medicine concepts."
+  },
+  "workout": null,
+  "meal": {
+    "id": "fcf80947-850a-4ff3-b148-2ecadf428d69",
+    "title": "Tuna and White Bean Power Bowl",
+    "description": "Make a double batch on Sunday and portion into containers for grab-and-go lunches Monday through Wednesday. It actually tastes better after the flavors have had a few hours to come together.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 480,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "prep_minutes": 10,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 cans (5 oz each) wild-caught tuna in water, drained\n1 can (15 oz) white cannellini beans, rinsed and drained\n1 cup cherry tomatoes, halved\n1/2 English cucumber, diced\n1/4 red onion, finely diced\n2 tablespoons extra virgin olive oil\nJuice of 1 lemon\n1 teaspoon Dijon mustard\n1/2 teaspoon dried oregano\nSalt and black pepper to taste\nFresh parsley or basil for topping\n\nInstructions:\n1. In a large bowl, whisk together olive oil, lemon juice, Dijon mustard, oregano, salt, and pepper to make the dressing. 2. Add the drained tuna and white beans to the bowl and toss gently to coat. 3. Fold in the cherry tomatoes, cucumber, and red onion. 4. Top with fresh parsley or basil and serve immediately, or refrigerate for up to 2 days.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
