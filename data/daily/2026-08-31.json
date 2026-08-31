@@ -1,207 +1,164 @@
 {
   "date": "2026-08-31",
   "dateLabel": "Monday, August 31, 2026",
-  "generatedAt": "2026-08-31T07:33:25.338Z",
+  "generatedAt": "2026-08-31T11:00:50.336Z",
   "articles": [
     {
-      "category": "SLEEP",
-      "topic": "Sleep consistency trumps hours slept",
-      "headline": "Stop Counting Hours. Your Sleep Schedule Matters More Than You Think",
-      "body": "You've heard eight hours is the magic number. New research is flipping that advice. Sleep regularity—keeping consistent bedtimes and wake times—is a stronger predictor of health outcomes than total sleep duration, including mortality and cardiometabolic disease risk. This means that a stable sleep schedule, even if slightly shorter, may protect you better than chasing nine hours on an irregular pattern. Your body's internal clock values consistency over volume.",
-      "takeaway": "Prioritize going to bed and waking at the same time daily. This rhythm matters more than hitting a perfect hour target.",
-      "source": "Sleep, Oxford Academic",
-      "sourceUrl": "https://academic.oup.com/sleep/article/49/8/zsag114/8661334",
-      "pexelsQuery": "alarm clock bedroom morning light",
-      "product": {
-        "id": "slp-001",
-        "name": "LectroFan White Noise Machine",
-        "brand": "LectroFan",
-        "asin": "B00E6D6LQY",
-        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
-        "category": "sleep",
-        "price_range": "$",
-        "keywords": [
-          "sleep",
-          "white noise",
-          "sound machine",
-          "insomnia",
-          "sleep quality",
-          "recovery",
-          "deep sleep"
-        ],
-        "blurb": "Blocks ambient noise so your sleep is actually restorative."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/18647749/pexels-photo-18647749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/18647749/pexels-photo-18647749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ruslan Sikunov",
-        "photographerUrl": "https://www.pexels.com/@sikunovruslan",
-        "photoPageUrl": "https://www.pexels.com/photo/alarm-clock-behind-curtain-18647749/",
-        "avgColor": "#99928C"
-      }
-    },
-    {
       "category": "STRESS",
-      "topic": "Magnesium reduces anxiety and cortisol",
-      "headline": "The Mineral Your Stressed Brain Needs But Probably Lacks",
-      "body": "Magnesium doesn't just quiet muscle tension—it silences the stress response itself. Studies show supplementation lowers cortisol, the stress hormone that worsens anxiety when chronically elevated. The effect is dose-dependent and measurable within weeks. People with low magnesium levels see the biggest gains. Your nervous system runs on this mineral, yet most adults are deficient. When you're under sustained pressure, your magnesium depletes faster, creating a downward spiral. Restoration works.",
-      "takeaway": "If stress is constant and your sleep is inconsistent, magnesium glycinate 300-400mg daily may reset your nervous system faster than willpower alone.",
-      "source": "Frontiers in Psychiatry, NIH",
-      "sourceUrl": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1333261/full",
-      "pexelsQuery": "magnesium supplement glass water",
-      "product": {
-        "id": "sup-004",
-        "name": "Pure Encapsulations Magnesium Glycinate",
-        "brand": "Pure Encapsulations",
-        "asin": "B0058HWV9S",
-        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "sleep",
-          "magnesium",
-          "recovery",
-          "muscle cramps",
-          "relaxation",
-          "insomnia",
-          "stress",
-          "supplement"
-        ],
-        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
-      },
+      "topic": "CRH hormone brain repair recovery",
+      "headline": "Your Stress Hormone Is Secretly Helping You Heal",
+      "body": "A research team at Max Planck Institute found that the stress hormone CRH actually accelerates brain repair after injury. When brain tissue gets damaged, myelin-producing cells rapidly release CRH to control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The finding flips the script on stress—sometimes your body's stress response is exactly what you need to recover.",
+      "takeaway": "Stress hormones aren't always the enemy. When managed properly, they can mobilize your brain's repair systems after injury or stress.",
+      "source": "Max Planck Institute of Psychiatry / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+      "pexelsQuery": "brain neuron repair microscope",
       "photo": {
-        "url": "https://images.pexels.com/photos/9902269/pexels-photo-9902269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/9902269/pexels-photo-9902269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ron Lach",
-        "photographerUrl": "https://www.pexels.com/@ron-lach",
-        "photoPageUrl": "https://www.pexels.com/photo/man-taking-a-pill-9902269/",
-        "avgColor": "#6F696B"
+        "url": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Google DeepMind",
+        "photographerUrl": "https://www.pexels.com/@googledeepmind",
+        "photoPageUrl": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-machine-learning-is-inspired-by-neuroscience-and-the-human-brain-it-was-created-by-novoto-studio-as-par-17483867/",
+        "avgColor": "#D3D6DD"
       }
     },
     {
-      "category": "GUT HEALTH",
-      "topic": "CAG-170 bacteria and microbiome health",
-      "headline": "Scientists Found a Hidden Gut Bacterium That Separates Healthy People From Sick Ones",
-      "body": "A previously unknown group of gut bacteria called CAG-170 appears far more often in healthy individuals and much less frequently in people with chronic disease. Researchers at the University of Cambridge analyzed over 11,000 human gut samples from 39 countries and found these microbes are stable over time. They support other beneficial bacteria while producing vitamin B12—essentially playing a structural role in a healthy gut ecosystem. This discovery reframes the microbiome conversation: it's not just about what you add, it's about maintaining the bacteria that hold the whole system together.",
-      "takeaway": "Rather than chasing probiotics, focus on fiber-rich foods and fermented options that feed the diverse bacteria already working for you.",
-      "source": "Euronews Health",
-      "sourceUrl": "https://www.euronews.com/health/2026/04/07/microbiome-studies",
-      "pexelsQuery": "gut bacteria microscope probiotic",
+      "category": "NUTRITION",
+      "topic": "Ultra-processed foods prostate cancer risk",
+      "headline": "What You're Eating Could Be Quietly Raising Your Cancer Risk",
+      "body": "<cite index=\"47-2\">In a nationally representative study of more than 17,000 U.S. men, those who ate more ultra-processed foods, including soft drinks, packaged snacks, cereals, and processed meats, had roughly 24% to 31% higher risks of prostate cancer after accounting for factors such as age, smoking, race and ethnicity, and poverty status.</cite> The study doesn't prove processed foods cause cancer, but the pattern is consistent across the data. Soft drinks, packaged snacks, and processed meats are the primary culprits. For busy professionals grabbing quick meals, this is worth paying attention to.",
+      "takeaway": "Cut back on soft drinks, packaged snacks, and processed meats. Real food swaps now could matter decades from now.",
+      "source": "Florida Atlantic University / American Journal of Medicine",
+      "sourceUrl": "https://www.fau.edu/newsdesk/articles/ultra-processed-foods-prostate-cancer-risk",
+      "pexelsQuery": "packaged snacks junk food processed",
       "photo": {
-        "url": "https://images.pexels.com/photos/4033022/pexels-photo-4033022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4033022/pexels-photo-4033022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Edward Jenner",
-        "photographerUrl": "https://www.pexels.com/@edward-jenner",
-        "photoPageUrl": "https://www.pexels.com/photo/liquid-on-petri-dish-4033022/",
-        "avgColor": "#D8D1CF"
+        "url": "https://images.pexels.com/photos/34024765/pexels-photo-34024765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34024765/pexels-photo-34024765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jade  Sandra",
+        "photographerUrl": "https://www.pexels.com/@jadesandra",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-popcorn-and-snack-package-on-table-34024765/",
+        "avgColor": "#554F4F"
       }
     },
     {
-      "category": "SUPPLEMENTS",
-      "topic": "NAD+ cellular energy and aging",
-      "headline": "The Molecule Your Cells Use to Repair Damage Declines With Age. Here's Why Scientists Are Watching",
-      "body": "NAD+ is your cell's energy regulator and repair supervisor. It powers ATP production, fixes DNA damage, and maintains mitochondrial function. But NAD+ levels naturally decline as you age, and this depletion correlates directly with memory loss, muscle weakness, and higher disease risk. Recent expert reviews in Nature Aging bring together evidence that restoring NAD+ through vitamin B3 precursors or targeted interventions shows promise. The research is advancing rapidly, though long-term human safety data is still accumulating. This isn't a miracle molecule—it's a foundational one.",
-      "takeaway": "NAD+ boosters remain experimental for most people. Focus on proven basics first: exercise increases NAD+, as does good sleep and caloric restriction.",
-      "source": "Nature Aging, University of Oslo",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260324024253.htm",
-      "pexelsQuery": "mitochondria cellular energy science",
+      "category": "SLEEP",
+      "topic": "Sleep duration biological aging rate",
+      "headline": "Your Sweet Spot Is 6.4 to 7.8 Hours. Miss It and Your Body Ages Faster",
+      "body": "<cite index=\"19-1\">The lowest levels of aging were seen among people who reported sleeping between 6.4 and 7.8 hours each day.</cite> Too little sleep and too much sleep both appear to accelerate aging at the cellular level. This isn't about willpower or habit hacks—it's biology. Your organs age faster when you're outside that narrow window. The research suggests duration matters more than perfection, so consistency beats random long sleeps.",
+      "takeaway": "Aim for the 6.5 to 7.5 hour range most nights. That's where your body actually slows aging.",
+      "source": "Columbia University Irving Medical Center / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+      "pexelsQuery": "person sleeping bed rest",
       "photo": {
-        "url": "https://images.pexels.com/photos/1108812/pexels-photo-1108812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/1108812/pexels-photo-1108812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Venugopal Nagandla",
-        "photographerUrl": "https://www.pexels.com/@nagandlavenu",
-        "photoPageUrl": "https://www.pexels.com/photo/brown-light-on-black-background-1108812/",
-        "avgColor": "#100903"
+        "url": "https://images.pexels.com/photos/3807760/pexels-photo-3807760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3807760/pexels-photo-3807760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-gray-tank-top-lying-on-bed-3807760/",
+        "avgColor": "#CEC5BD"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Ketogenic diet liver fat prediabetes reversal",
+      "headline": "This Diet Cut Liver Fat by 67% in Just Months. Here's Why That Matters",
+      "body": "<cite index=\"57-1,57-2\">All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diets. About half of the keto group also no longer qualified as having prediabetes after four to five months.</cite> Ketogenic, Mediterranean, and low-fat diets all worked for weight loss, but keto produced the strongest changes in liver health and blood sugar control. For people with fatty liver disease and prediabetes, the difference was dramatic.",
+      "takeaway": "If you have metabolic issues beyond weight, keto shows stronger metabolic improvements than other diets in the short term.",
+      "source": "Washington University School of Medicine / Cell Metabolism",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
+      "pexelsQuery": "healthy food preparation keto diet vegetables",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7495748/pexels-photo-7495748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7495748/pexels-photo-7495748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Artem Podrez",
+        "photographerUrl": "https://www.pexels.com/@artempodrez",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-beige-tank-top-sitting-on-the-kitchen-near-the-table-with-vegetables-7495748/",
+        "avgColor": "#AFAA9C"
       }
     }
   ],
   "quote": {
-    "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-    "author": "James Clear",
-    "context": "Bestselling author of Atomic Habits and expert on behavior change and habit formation"
+    "text": "I've failed over and over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan",
+    "context": "Basketball legend and six-time NBA champion on why setbacks are the foundation of performance."
   },
   "workout": {
-    "id": "f4702d09-7de1-4079-9464-0f56d07bf896",
+    "id": "3bf642b3-0dc2-45b6-b28b-8e2f8293ca06",
     "todayType": "PUSH",
     "type": "STRENGTH",
     "sport": "strength",
     "workoutType": "push",
-    "title": "Press & Burn: Dumbbell Push Circuit",
+    "title": "Press and Power: Chest and Shoulders in 30",
     "difficulty": "Intermediate",
     "duration": "30 min",
     "equipment": [
       "dumbbells",
-      "mat"
+      "floor"
     ],
     "trainingZone": "mixed",
-    "tags": [],
-    "tip": "",
-    "warmup": "Start with 90 seconds of arm circles, forward and back. Follow with 10 slow shoulder rolls, 10 scapular push-ups, and a 30-second chest opener in a doorframe. Get your joints warm before you load them.",
+    "tags": [
+      "minimal_equipment",
+      "muscle_gain",
+      "push_dominant",
+      "under_30_min",
+      "upper_body"
+    ],
+    "tip": "Keep your core braced like you're about to take a punch on every pressing movement. If your lower back arches off the floor during floor presses, place your feet flat — it protects your spine and keeps tension where it belongs.",
+    "warmup": "Start with 30 seconds of arm circles (forward and backward), 10 shoulder rolls, and 10 slow push-up negatives — take 3 seconds to lower yourself down, then push back up normally. This primes your chest, shoulders, and triceps without fatiguing them.",
     "exercises": [
       {
         "name": "Dumbbell Floor Press",
         "sets": "4",
         "reps": "10",
-        "notes": "Lie flat, lower slowly to a 2-count, press strong. Keep ribs down and core tight throughout. Modify: use lighter dumbbells or reduce to 3 sets."
+        "notes": "Lie flat with knees bent. Press straight up, locking out at the top. Lower slowly — 2-3 seconds down. Full range of motion matters more than heavy weight."
       },
       {
-        "name": "Standing Dumbbell Overhead Press",
+        "name": "Dumbbell Overhead Press (Standing)",
         "sets": "3",
         "reps": "10",
-        "notes": "Press straight up, don't arch your lower back. Lock out fully at the top, control the descent. Squeeze glutes to keep your core braced."
+        "notes": "Stand tall, core tight. Press dumbbells from shoulder height directly overhead. Avoid flaring your elbows out wide — keep them at roughly 45 degrees. Squeeze at the top."
       },
       {
-        "name": "Push-Up Negative (3-Second Lower)",
+        "name": "Push-Up to Alternating Shoulder Tap",
         "sets": "3",
-        "reps": "8",
-        "notes": "Lower yourself in 3 slow seconds, then push back up at normal speed. This is where the real strength is built. Drop to knees if needed to keep form clean."
+        "reps": "8 each side",
+        "notes": "Do one push-up, then tap your right hand to your left shoulder while holding a plank. Alternate sides. Keep your hips square — resist the urge to rotate. Easier: drop to your knees for the push-up portion only."
       },
       {
         "name": "Dumbbell Lateral Raise",
         "sets": "3",
         "reps": "12",
-        "notes": "Lead with your elbows, not your wrists. Stop at shoulder height. Use lighter weight than you think you need. No swinging."
+        "notes": "Light weight here. Lead with your elbows, not your hands. Stop at shoulder height. Go slower — 2 seconds up, 2 seconds down. These burn. That's the point."
       },
       {
-        "name": "Tricep Dumbbell Kickback",
+        "name": "Tricep Push-Up (Close-Grip)",
         "sets": "3",
-        "reps": "12 each arm",
-        "notes": "Hinge forward at the hip, elbow locked at your side, extend fully. Squeeze at the top for one second. The lockout is the money rep."
+        "reps": "8-12",
+        "notes": "Hands directly under your chest, elbows tracking back along your ribs — not flaring out. Lower until your chest nearly touches the floor. If full push-ups are too hard, elevate your hands on a couch or chair."
       }
     ],
     "exerciseText": "",
-    "cooldown": "Finish with a 60-second chest stretch in a doorframe each side, then a 60-second overhead tricep stretch per arm. Shake out your hands and roll your shoulders back a few times.",
-    "description": "Warmup: Start with 90 seconds of arm circles, forward and back. Follow with 10 slow shoulder rolls, 10 scapular push-ups, and a 30-second chest opener in a doorframe. Get your joints warm before you load them. Dumbbell Floor Press: 4 sets x 10 — Lie flat, lower slowly to a 2-count, press strong. Keep ribs down and core tight throughout. Modify: use lighter dumbbells or reduce to 3 sets. Standing Dumbbell Overhead Press: 3 sets x 10 — Press straight up, don't arch your lower back. Lock out fully at the top, control the descent. Squeeze glutes to keep your core braced. Push-Up Negative (3-Second Lower): 3 sets x 8 — Lower yourself in 3 slow seconds, then push back up at normal speed. This is where the real strength is built. Drop to knees if needed to keep form clean. Dumbbell Lateral Raise: 3 sets x 12 — Lead with your elbows, not your wrists. Stop at shoulder height. Use lighter weight than you think you need. No swinging. Tricep Dumbbell Kickback: 3 sets x 12 each arm — Hinge forward at the hip, elbow locked at your side, extend fully. Squeeze at the top for one second. The lockout is the money rep. Cooldown: Finish with a 60-second chest stretch in a doorframe each side, then a 60-second overhead tricep stretch per arm. Shake out your hands and roll your shoulders back a few times."
+    "cooldown": "Finish with a 60-second doorframe chest stretch (arms on each side of a door frame, lean forward gently) and a 30-second overhead tricep stretch per arm. Breathe slowly. You earned it.",
+    "description": "Warmup: Start with 30 seconds of arm circles (forward and backward), 10 shoulder rolls, and 10 slow push-up negatives — take 3 seconds to lower yourself down, then push back up normally. This primes your chest, shoulders, and triceps without fatiguing them. Dumbbell Floor Press: 4 sets x 10 — Lie flat with knees bent. Press straight up, locking out at the top. Lower slowly — 2-3 seconds down. Full range of motion matters more than heavy weight. Dumbbell Overhead Press (Standing): 3 sets x 10 — Stand tall, core tight. Press dumbbells from shoulder height directly overhead. Avoid flaring your elbows out wide — keep them at roughly 45 degrees. Squeeze at the top. Push-Up to Alternating Shoulder Tap: 3 sets x 8 each side — Do one push-up, then tap your right hand to your left shoulder while holding a plank. Alternate sides. Keep your hips square — resist the urge to rotate. Easier: drop to your knees for the push-up portion only. Dumbbell Lateral Raise: 3 sets x 12 — Light weight here. Lead with your elbows, not your hands. Stop at shoulder height. Go slower — 2 seconds up, 2 seconds down. These burn. That's the point. Tricep Push-Up (Close-Grip): 3 sets x 8-12 — Hands directly under your chest, elbows tracking back along your ribs — not flaring out. Lower until your chest nearly touches the floor. If full push-ups are too hard, elevate your hands on a couch or chair. Cooldown: Finish with a 60-second doorframe chest stretch (arms on each side of a door frame, lean forward gently) and a 30-second overhead tricep stretch per arm. Breathe slowly. You earned it."
   },
   "meal": {
-    "id": "eccffb3d-6e40-40c0-8689-15483d7a0ab1",
-    "title": "Chicken & White Rice Bowl with Steamed Carrots",
-    "description": "A bland, easy-to-digest pre-race meal designed to fuel without shocking your gut. The soft carbs and lean protein give you glycogen without fiber or fat that slow digestion.",
-    "meal_type": "race_day",
-    "macro_profile": "performance",
+    "id": "ea2c2cb6-239c-48d0-a004-8b190a96130f",
+    "title": "Seared Trout and Farro Bowl with Roasted Cherry Tomatoes and Herb Yogurt",
+    "description": "Cook a big batch of farro at the start of the week and store it in the fridge. It reheats in 90 seconds and makes high-protein bowls like this a 15-minute weeknight dinner.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
     "difficulty": "easy",
-    "cuisine": "american",
-    "calories": 720,
-    "protein_g": 48,
-    "carbs_g": 84,
-    "fat_g": 8,
-    "fiber_g": 2,
-    "prep_minutes": 5,
-    "cook_minutes": 15,
-    "ingredients": [
-      "150g skinless chicken breast",
-      "1.5 cups cooked white rice",
-      "1 cup steamed carrots",
-      "1 tsp salt",
-      "1 tsp light olive oil",
-      "black pepper to taste"
-    ],
-    "instructions": "1. Boil or steam carrots until tender, about 8 minutes.\n2. Pan-sear chicken breast in olive oil over medium-high heat for 6–7 minutes per side until internal temp reaches 165°F.\n3. Slice chicken and arrange over warm white rice.\n4. Add steamed carrots to the side.\n5. Season lightly with salt and pepper; eat 2–3 hours before race start.",
-    "tip": "White rice and carrots are low-FODMAP and low-fiber, making them ideal for race morning. Cook rice the night before and reheat, or use microwaveable rice packs for zero stress.",
-    "goal_affinity": [
-      "endurance",
-      "triathlon"
-    ],
+    "cuisine": "",
+    "calories": 490,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 16,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 trout fillets (about 5 oz each), skin on\n1 cup cooked farro\n1 cup cherry tomatoes\n1 cup baby spinach\n1/2 cup plain Greek yogurt\n1 tbsp fresh dill, chopped\n1 tbsp fresh parsley, chopped\n1 clove garlic, minced\nJuice of half a lemon\n1 tbsp olive oil\nSalt and black pepper to taste\nPinch of smoked paprika\n\nInstructions:\n1. Preheat oven to 400F. Toss cherry tomatoes with a drizzle of olive oil, salt, and pepper on a small baking tray and roast for 12 to 15 minutes until blistered. 2. While tomatoes roast, mix Greek yogurt with dill, parsley, garlic, lemon juice, salt, and pepper to make the herb yogurt. Set aside. 3. Pat trout fillets dry and season with salt, pepper, and smoked paprika. Heat olive oil in a skillet over medium-high heat and sear trout skin-side down for 3 to 4 minutes until the skin is crispy, then flip and cook 1 to 2 minutes more. 4. Build bowls with farro as the base, add a handful of spinach, top with the trout fillet and roasted tomatoes, and finish with a generous spoonful of herb yogurt.",
+    "tip": "",
+    "goal_affinity": [],
     "image_url": ""
   }
 }
