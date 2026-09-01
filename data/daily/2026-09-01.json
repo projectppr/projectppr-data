@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-01",
+  "dateLabel": "Tuesday, September 1, 2026",
+  "generatedAt": "2026-09-01T11:00:38.311Z",
+  "articles": [
+    {
+      "category": "RECOVERY",
+      "topic": "molecular brake limits nerve repair",
+      "headline": "The Protein Blocking Your Nerve's Healing. Scientists Just Found How to Switch It Off.",
+      "body": "Your nervous system has a built-in brake that stops nerve repair after injury. Scientists at Mount Sinai discovered a protein called AHR forces neurons into survival mode instead of rebuilding. When researchers blocked this protein in mice, damaged nerve fibers regrew and movement improved. The breakthrough could eventually lead to treatments for spinal cord injuries and nerve damage. Early findings suggest existing drugs already being tested for cancer might work here too.",
+      "takeaway": "Nerve damage may not be permanent. Blocking the AHR brake could shift injured neurons from protecting what they have to actively rebuilding.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
+      "pexelsQuery": "nerve damage spinal cord injury healing",
+      "photo": {
+        "url": "https://images.pexels.com/photos/30798950/pexels-photo-30798950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/30798950/pexels-photo-30798950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Viktors Duks",
+        "photographerUrl": "https://www.pexels.com/@duksi",
+        "photoPageUrl": "https://www.pexels.com/photo/surgeon-performing-delicate-surgery-in-operating-room-30798950/",
+        "avgColor": "#5E5F59"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "omega-3 aspirin beats antibiotics gum disease",
+      "headline": "Omega-3 Plus Aspirin Matched Antibiotics for Severe Gum Disease. Here's the Shift.",
+      "body": "Severe gum disease just got a new treatment option. In a yearlong study, omega-3 fatty acids combined with low-dose aspirin worked nearly as well as antibiotics, with 58 percent of patients reaching the clinical target in both groups. The combo reduces inflammation and supports tissue repair. This matters because antibiotic resistance is becoming a real threat to public health, and some patients can't tolerate antibiotics anyway. Researchers emphasize this isn't a replacement yet, but it opens a door for select patients.",
+      "takeaway": "If you have severe gum disease and antibiotics aren't an option, omega-3 plus aspirin may work just as well.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
+      "pexelsQuery": "gum disease oral health teeth",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4269692/pexels-photo-4269692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4269692/pexels-photo-4269692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Cedric Fauntleroy",
+        "photographerUrl": "https://www.pexels.com/@cedric-fauntleroy",
+        "photoPageUrl": "https://www.pexels.com/photo/a-dentist-checking-a-woman-s-mouth-4269692/",
+        "avgColor": "#352B2A"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "long-term melatonin increases heart failure risk",
+      "headline": "Long-Term Melatonin Use Linked to 90% Higher Heart Failure Risk",
+      "body": "Melatonin is one of the most popular sleep aids in America, but new research raises red flags about long-term use. People with chronic insomnia who used melatonin for more than a year had a 90 percent higher risk of developing heart failure over five years compared to those who didn't use it. The study also found higher hospitalization rates and increased all-cause mortality. Important note: this shows association, not causation. More research is needed, but if you rely on melatonin nightly, talk to your doctor.",
+      "takeaway": "Melatonin appears safe short-term, but long-term daily use for insomnia may carry cardiovascular risks worth discussing with your doctor.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+      "pexelsQuery": "sleep insomnia melatonin pills",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7723323/pexels-photo-7723323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7723323/pexels-photo-7723323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tara Winstead",
+        "photographerUrl": "https://www.pexels.com/@tara-winstead",
+        "photoPageUrl": "https://www.pexels.com/photo/pink-tablets-7723323/",
+        "avgColor": "#AA728C"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "cognitive abilities improve at any age through training",
+      "headline": "Your Brain Doesn't Peak at 30. Here's Why.",
+      "body": "Cognitive decline isn't inevitable. A three-year study of nearly 4,000 adults from ages 19 to 94 found that brain health and cognitive abilities can keep improving throughout life when people do targeted training. Participants spent just 5 to 15 minutes daily on brief brain activities and showed measurable improvements on a comprehensive brain health index measuring memory, attention, and mental sharpness. The research published in Scientific Reports proves that age alone doesn't determine your mental edge—engagement and practice do.",
+      "takeaway": "Your brain remains trainable at any age. Consistent, targeted cognitive practice beats genetics.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
+      "pexelsQuery": "older adult brain training cognitive exercise",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7296679/pexels-photo-7296679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7296679/pexels-photo-7296679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "https://kaboompics.com/",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/a-wooden-toys-on-a-white-surface-7296679/",
+        "avgColor": "#C2AB99"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Our state of body and mind at any point of time is strongly dictated by our state of body and mind in the hours and days prior to that.",
+    "author": "Dr. Andrew Huberman",
+    "context": "Neuroscientist and Stanford professor who studies neuroplasticity, stress, and peak performance."
+  },
+  "workout": {
+    "id": "55bc5032-8cbc-45b1-b92a-df2c91fbc8f3",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "easy",
+    "title": "Walk-Run Cadence Introduction: Building the 20-Minute Foundation",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "no_equipment",
+      "outdoor",
+      "under_30_min"
+    ],
+    "tip": "Count your steps as you run: aim for 160–170 steps per minute (roughly 80 per leg per minute). When breathing feels labored, drop back to walking immediately—no ego required.",
+    "warmup": "2 min easy walking, arm circles 10 each direction, leg swings 10 each direction, 5 bodyweight squats",
+    "exercises": [
+      {
+        "name": "Walk-Run Interval Block",
+        "sets": "5",
+        "reps": "2 min walk + 1 min run",
+        "notes": "Walk at natural pace, then run at conversational effort—you should be able to speak short sentences. Focus on breathing through your nose and mouth together. If you feel out of breath, walk longer next round; if easy, hold the run pace steady."
+      },
+      {
+        "name": "Final Walk-Down",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Slow, easy walk to bring heart rate down. This primes your nervous system for recovery."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "1 min standing quad stretch each leg, 1 min standing hamstring fold, 30 sec each calf stretch against a wall, 1 min deep breathing seated",
+    "description": "Your first structured run-walk session, introducing proper breathing and cadence cues to build continuous movement confidence. This workout alternates 2 minutes of easy walking with 1 minute of conversational-pace running, repeated 5 times, teaching your body rhythm without overwhelm. Perfect for beginners establishing aerobic base and fat-loss momentum with zero pressure."
+  },
+  "meal": {
+    "id": "d5cf9d87-df30-4ff2-80ce-1f1dcc51fee6",
+    "title": "Grilled Carne Asada & Charred Poblano Taco Plate with Cotija & Lime Crema",
+    "description": "Marinated and grilled thin-cut beef topped with smoky charred poblano peppers, fresh onions, and a tangy lime crema—served with corn tortillas and black beans for a post-workout lunch that delivers serious protein and satisfaction.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "medium",
+    "cuisine": "mexican",
+    "calories": 720,
+    "protein_g": 48,
+    "carbs_g": 52,
+    "fat_g": 28,
+    "fiber_g": 7,
+    "prep_minutes": 20,
+    "cook_minutes": 15,
+    "ingredients": [
+      "200g thin-cut flank or skirt steak",
+      "2 tbsp olive oil",
+      "2 tbsp lime juice",
+      "1 tbsp apple cider vinegar",
+      "3 garlic cloves, minced",
+      "1 tsp cumin",
+      "1 tsp chili powder",
+      "½ tsp oregano",
+      "1 poblano pepper",
+      "¼ white onion, sliced",
+      "3 corn tortillas",
+      "½ cup black beans, warmed",
+      "3 tbsp Greek yogurt (for lime crema)",
+      "1 tbsp lime juice (for crema)",
+      "1 tbsp fresh cilantro, chopped",
+      "2 tbsp crumbled cotija cheese",
+      "salt and black pepper to taste"
+    ],
+    "instructions": "1. Combine 2 tbsp olive oil, 2 tbsp lime juice, vinegar, garlic, cumin, chili powder, and oregano in a bowl. Coat steak and let marinate 15–20 minutes at room temperature (or prep ahead for up to 4 hours in the fridge).\n2. Heat a grill or cast-iron skillet to high heat. Char poblano pepper directly on the flame or skillet until blackened on all sides (3-4 minutes total). Place in a plastic bag for 2 minutes to steam, then peel off skin.\n3. Grill the marinated steak 2-3 minutes per side for medium-rare; let rest 2 minutes, then slice against the grain.\n4. Toast corn tortillas directly over the flame or in a dry skillet, 15 seconds per side.\n5. Whisk Greek yogurt with 1 tbsp lime juice and cilantro for crema; season with salt and pepper.\n6. Assemble plate: warm black beans, sliced steak, charred poblano, raw onion slices. Serve with tortillas, lime crema, and cotija.\n7. Squeeze fresh lime over the whole plate before eating.",
+    "tip": "Marinate the steak the night before for maximum flavor with zero morning stress. Poblanos can be swapped for any mild pepper, or buy pre-roasted versions from the supermarket deli to save 5 minutes.",
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
