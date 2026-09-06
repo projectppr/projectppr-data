@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-06",
+  "dateLabel": "Sunday, September 6, 2026",
+  "generatedAt": "2026-09-06T11:00:48.868Z",
+  "articles": [
+    {
+      "category": "RECOVERY",
+      "topic": "Polyphenols accelerate post-exercise muscle recovery",
+      "headline": "Tart Cherry, Blueberry, Pomegranate: The Polyphenols That Actually Speed Recovery",
+      "body": "New research shows polyphenol-rich foods like tart cherry, curcumin, and pomegranate may genuinely help repair muscles after tough sessions. These compounds work by regulating your body's inflammatory response and activating your natural antioxidant defense system. But here's the caveat: results vary widely depending on the food and dose. What works perfectly for one person's recovery might barely move the needle for another. The key is consistency and finding what your body actually responds to, not just picking whichever polyphenol trend popped up on your feed.",
+      "takeaway": "If you're serious about recovery, add polyphenol sources—particularly tart cherry and pomegranate—to your post-workout meals and track whether you feel noticeably less sore. Don't rely on supplements alone; whole foods deliver better results.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1941705/full",
+      "pexelsQuery": "tart cherry pomegranate bowl fresh fruit",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/445365/pexels-photo-445365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/445365/pexels-photo-445365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "K Zoltan",
+        "photographerUrl": "https://www.pexels.com/@zozz",
+        "photoPageUrl": "https://www.pexels.com/photo/red-fruits-445365/",
+        "avgColor": "#9D7659"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Smart rings become fastest-growing health tracker",
+      "headline": "Smart Rings Just Took Over the Wearable Market. Here's Why Doctors Are Paying Attention",
+      "body": "The wearable tech space just shifted. Smart rings—not smartwatches—are now the fastest-growing segment, driven by breakthrough sleep tracking and medical-grade monitoring capabilities. These slim devices measure what actually matters: heart rate variability, sleep quality, and early warning signs of illness. The appeal is simple: you wear one ring that actually works instead of juggling a watch that needs charging every two days. Accuracy and consistent data collection beat fancy dashboards. That's the lesson the industry learned in 2026. If your device keeps working when you forget about it, you'll actually use the data.",
+      "takeaway": "If you're shopping for a wearable today, smart rings solve the battery and accuracy problem that plagued watches. Look for medical-grade monitoring, not just activity tracking.",
+      "source": "Joint Corp & Multiple Market Analysis",
+      "sourceUrl": "https://www.jointcorp.com/fitness-tracker-market-trends-2026-whats-next-in-wearable-health-technology/",
+      "pexelsQuery": "smart ring wearable technology finger health",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/38241355/pexels-photo-38241355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/38241355/pexels-photo-38241355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Fırat Uluhan",
+        "photographerUrl": "https://www.pexels.com/@firat-uluhan-2160216215",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-man-s-hands-with-ring-and-watch-38241355/",
+        "avgColor": "#5E6668"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Your brain needs 60 minutes to truly recover from stress",
+      "headline": "That Meeting Stress Doesn't End When You Sit Down. Your Brain Needs an Hour",
+      "body": "Here's what changes everything about stress recovery: your brain doesn't actually bounce back in those first few minutes after a stressful event ends. New research reveals your nervous system needs roughly 60 minutes of genuine recovery time to reactivate resilience and prepare for the next challenge. Those five minutes of deep breathing? Helpful start. But your brain's real protective work doesn't happen during the calming down phase—it happens later. This is why cramming back-to-back meetings without buffers tanks your performance by afternoon. Your stress resilience depends on protecting that recovery window, not just surviving the stressor itself.",
+      "takeaway": "After high-stress events—tough meetings, hard workouts, or intense deadlines—block 60 minutes of lower-pressure activity. Your mental performance for the next task depends on it.",
+      "source": "mindbodygreen",
+      "sourceUrl": "https://www.mindbodygreen.com/articles/it-take-your-brain-this-long-to-recover-from-stress-new-study-finds-a-buffer-between",
+      "pexelsQuery": "person breathing relaxing meditation outdoor nature",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7880243/pexels-photo-7880243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7880243/pexels-photo-7880243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-woman-hand-in-yoga-position-7880243/",
+        "avgColor": "#738369"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Block periodization vs distributed training loads comparison",
+      "headline": "Block vs. Traditional Training: Which Actually Builds More Strength Faster?",
+      "body": "Researchers compared two different ways to organize strength training in experienced athletes: block periodization (concentrating heavy loads into focused phases) versus traditional training (spreading intensity evenly across weeks). The result? Block periodization showed real advantages in jump performance and overall athletic capacity. But here's the practical part: load matters more than the structure. If your total training volume stays equal, both methods work. The real win comes from picking whichever system you'll actually stay consistent with. Block periodization works because it gives your nervous system focused challenges. Traditional training works because the steady stimulus builds habit. Your best program is the one you won't abandon.",
+      "takeaway": "If you're training for strength or power, try blocking heavy work into 3-4 week phases, then shift to metabolic work. But only if you can stick to it for at least 8 weeks.",
+      "source": "Frontiers in Physiology",
+      "sourceUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1810477/full",
+      "pexelsQuery": "strength training barbell weights gym lifting",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/19025670/pexels-photo-19025670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19025670/pexels-photo-19025670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jason Morrison",
+        "photographerUrl": "https://www.pexels.com/@dubtastic",
+        "photoPageUrl": "https://www.pexels.com/photo/a-gym-with-a-variety-of-weights-and-equipment-19025670/",
+        "avgColor": "#7E6964"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The difference between ordinary and extraordinary is that little extra.",
+    "author": "Jimmy Johnson",
+    "context": "Hall of Fame NFL coach on the consistent effort required to separate elite performance from the rest."
+  },
+  "workout": {
+    "id": "e26d8b29-6b6a-4422-b04d-31d8c34a9d93",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "mobility",
+    "title": "Single-Leg & Rotational Stability Matrix: Movement Integrity for OCR & Hyrox Athletes",
+    "difficulty": "Intermediate",
+    "duration": "45 min",
+    "equipment": [],
+    "trainingZone": "z1",
+    "tags": [
+      "full_body",
+      "functional",
+      "joint_friendly",
+      "low_impact",
+      "lower_body",
+      "mobility_focused",
+      "no_equipment",
+      "under_60_min"
+    ],
+    "tip": "Keep your eyes fixed on a single focal point during single-leg holds to activate your vestibular system and enhance proprioceptive feedback. This trains the same neural pathway used during sled work and uneven ground traversal.",
+    "warmup": "4 min: 10 bodyweight squats, 8 leg swings each leg (forward-back and lateral), 5 single-leg stands 10 sec each, 5 arm circles",
+    "exercises": [
+      {
+        "name": "Single-Leg Stance with Hip Opener Integration",
+        "sets": "2",
+        "reps": "45 sec each leg",
+        "notes": "Stand on one leg, opposite knee to chest, gently pull knee across body. Challenges ankle stability and hip external rotation simultaneously. Mirrors the single-leg demands of farmer carries and obstacle navigation."
+      },
+      {
+        "name": "Half-Kneeling Anti-Rotation Hold with Breathing",
+        "sets": "3",
+        "reps": "30 sec each side",
+        "notes": "Half kneel, interlace hands at chest, resist rotation by bracing. Exhale and relax slightly deeper into position each breath. Teaches rotational control during loaded carries—critical for Hyrox sled and farmer work."
+      },
+      {
+        "name": "Single-Leg Deadlift Mobility Touch",
+        "sets": "2",
+        "reps": "8 reps each leg (slow, no weight)",
+        "notes": "Stand on one leg, hinge forward to touch ground, return. Builds ankle, knee, and hip stability in a hinge pattern. Functional preparation for terrain and obstacle demands. Move slowly and focus on control."
+      },
+      {
+        "name": "Lateral Lunge with Rotation Hold",
+        "sets": "2",
+        "reps": "6 reps each side, hold 3 sec each",
+        "notes": "Step wide, sink hips, rotate torso toward leading knee. Addresses lateral ankle mobility and adductor tightness. Athletes report improved stability on uneven ground and during sled transitions."
+      },
+      {
+        "name": "Supine Glute & Hip Flexor Bridge Stretch Combo",
+        "sets": "2",
+        "reps": "45 sec glute, 45 sec hip flexor hold",
+        "notes": "Bridge position, pull one knee to chest (glute). Switch legs and lower one leg off edge to stretch hip flexor. Restores anterior-posterior balance after running and carries. Essential for OCR and Hyrox athletes."
+      },
+      {
+        "name": "Tall-Kneeling Ankle Dorsiflexion & Balance",
+        "sets": "2",
+        "reps": "30 sec each side (15 sec dorsi-flexion, 15 sec lift-off balance)",
+        "notes": "Tall kneel, one foot flat and lifted slightly off ground. Feel anterior shin working. Then lift that side onto toes only, balancing on tall knees. Restores ankle dorsiflexion and proprioception for uneven terrain."
+      },
+      {
+        "name": "Dead Bug to Single-Leg Hold Transition",
+        "sets": "2",
+        "reps": "8 reps, then 20 sec single-leg hold each side",
+        "notes": "Dead bug (supine, opposite arm-leg extends), then transition to lying on one side, top leg extended. Teaches spinal stability and anti-rotation under reduced load. Bridge to loaded carries and sled work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min: supine figure-4 stretch 45 sec each side, prone child's pose 60 sec, 5 conscious breaths",
+    "description": "This 45-minute intermediate mobility and movement-control session integrates single-leg balance progressions with rotational demands specific to obstacle and hybrid fitness events. Combining dynamic stretching, anti-rotation breathing work, and proprioceptive challenges, this session restores ankle dorsiflexion, hip stability, and spinal neutrality under unilateral load—essential for sled pushing, farmer carries, and traversing uneven terrain."
+  },
+  "meal": {
+    "id": "e723a522-57e1-4b92-b665-eb2893997c41",
+    "title": "Seared Duck Breast and Lentil-Free Warm Grain Bowl with Ginger Sesame Glaze",
+    "description": "Starting duck in a cold pan and slowly rendering the fat gives you crispy skin every time without burning. No special skills required.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 530,
+    "protein_g": 38,
+    "carbs_g": 42,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 duck breasts (skin-on)\n1 cup cooked farro or barley\n1 cup baby spinach\n1/2 cup shredded purple cabbage\n1/2 cup edamame (shelled)\n1 tbsp low-sodium soy sauce\n1 tsp fresh grated ginger\n1 tsp sesame oil\n1 tbsp rice vinegar\n1 tsp honey\n1 tsp sesame seeds\nSalt and black pepper\n\nInstructions:\n1. Score the duck skin in a crosshatch pattern, season with salt and pepper. Place skin-side down in a cold pan, then turn heat to medium. Cook for 8-10 minutes until the skin is golden and crisp, then flip and cook 4-5 more minutes. Rest for 5 minutes, then slice thin. 2. Whisk together soy sauce, ginger, sesame oil, rice vinegar, and honey to make the glaze. 3. Build bowls with farro, spinach, cabbage, and edamame. Lay sliced duck on top, drizzle glaze over everything. 4. Finish with sesame seeds.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
