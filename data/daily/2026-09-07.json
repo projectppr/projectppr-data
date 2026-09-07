@@ -1,0 +1,220 @@
+{
+  "date": "2026-09-07",
+  "dateLabel": "Monday, September 7, 2026",
+  "generatedAt": "2026-09-07T11:00:58.614Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Resistance training volume and frequency optimization",
+      "headline": "More Volume Isn't Always Better. Here's The Real Dose-Response Rule",
+      "body": "<cite index=\"41-14,41-15\">Across 67 studies and 2,058 participants, higher weekly set volume was associated with greater muscle growth and strength, but both relationships showed diminishing returns, with the diminishing returns more pronounced for strength.</cite> <cite index=\"35-3,35-4\">For muscle growth, frequency had negligible effects, but for strength, gains increased with increasing frequency, albeit with diminishing returns.</cite> The takeaway: add volume gradually while your performance, recovery, and joints hold up. Quality matters more than chasing a magic number.",
+      "takeaway": "Add recoverable weekly volume instead of obsessing over a fixed set target. Stop when performance or recovery declines.",
+      "source": "Sports Medicine",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s40279-025-02344-w",
+      "pexelsQuery": "person lifting weights barbell in gym",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4853324/pexels-photo-4853324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853324/pexels-photo-4853324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/young-athletes-lifting-weights-at-gym-with-a-mural-4853324/",
+        "avgColor": "#837657"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "Carbohydrate and electrolyte sports fueling",
+      "headline": "Carbs Plus Electrolytes Hit Different Than Water Alone During Long Efforts",
+      "body": "<cite index=\"16-1,16-5\">Meta-analysis of 26 studies showed that carbohydrate-electrolyte supplementation significantly increased time to exhaustion and blood glucose levels, supporting the targeted use of CHO-E supplementation during prolonged physical activity.</cite> <cite index=\"13-9\">Sweat losses during intense exercise can reach 1,000 to 2,000 mg of sodium per hour.</cite> This isn't just about feeling less thirsty—it's about maintaining blood glucose, delaying fatigue, and preserving your power output when it counts most.",
+      "takeaway": "On efforts over 90 minutes, use a carb-electrolyte drink, not just water. Your performance will thank you.",
+      "source": "Applied Sciences",
+      "sourceUrl": "https://www.mdpi.com/2076-3417/16/6/2967",
+      "pexelsQuery": "sports drink electrolyte bottle athlete hydration",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4853700/pexels-photo-4853700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4853700/pexels-photo-4853700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-a-couple-drinking-from-bottles-in-a-gym-4853700/",
+        "avgColor": "#A38676"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Probiotics and systemic immune regulation",
+      "headline": "Your Gut Bacteria Runs More Than Digestion. It's Running Your Immune System",
+      "body": "<cite index=\"17-1\">Growing evidence indicates that the gut microbiota is a central regulator of systemic immunity, acting through epithelial barrier integrity, microbial metabolites, and bidirectional signaling with innate and adaptive immune cells.</cite> <cite index=\"20-4\">Probiotics exert effects on host and microbiota interaction primarily through strain-specific bioactive metabolites that act both locally and systemically.</cite> Not all probiotics are equal—strain specificity matters. Your gut isn't isolated. What lives there shapes your immune resilience from the inside out.",
+      "takeaway": "Probiotics work, but only if they're the right strain for you. Look for species-specific evidence, not generic blends.",
+      "source": "International Journal of Molecular Sciences",
+      "sourceUrl": "https://doi.org/10.3390/ijms27104527",
+      "pexelsQuery": "fermented foods yogurt gut health probiotics",
+      "product": {
+        "id": "nut-004",
+        "name": "Nathan QuickStart 2.0 Hydration Pack",
+        "brand": "Nathan",
+        "asin": "B0DSZ74R1J",
+        "url": "https://www.amazon.com/dp/B0DSZ74R1J?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "running",
+          "vest",
+          "long run",
+          "trail",
+          "marathon",
+          "water",
+          "pack"
+        ],
+        "blurb": "Carry everything you need on long runs without holding anything in your hands."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6823327/pexels-photo-6823327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6823327/pexels-photo-6823327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Antoni Shkraba",
+        "photographerUrl": "https://www.pexels.com/@shkrabaanthony",
+        "photoPageUrl": "https://www.pexels.com/photo/mixed-fruits-and-nuts-in-ceramic-bowls-6823327/",
+        "avgColor": "#E3C0B2"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Exercise as stress adaptation and nervous system recalibration",
+      "headline": "Exercise Isn't Stress Relief. It's Stress Training for Your Nervous System",
+      "body": "<cite index=\"44-4,44-5\">Exercise is a controllable challenge that can recalibrate the system when repeated bouts are matched by sufficient recovery and bioenergetic support. Repeated exercise engages a stress response-adaptation-recovery cycle, where peripheral signals from muscles, liver, and gut convey body metabolic state to the brain and consolidate into durable plasticity only when mitochondrial capacity and recovery permit it.</cite> <cite index=\"46-6\">Planned exercise can reduce depressive and anxiety-like symptoms.</cite> This is how you build resilience.",
+      "takeaway": "Treat workouts as controlled stress with built-in recovery. That's when your nervous system learns to handle real pressure better.",
+      "source": "Frontiers in Neuroscience",
+      "sourceUrl": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1801865/full",
+      "pexelsQuery": "person training workout recovery morning",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14752944/pexels-photo-14752944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14752944/pexels-photo-14752944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Sabina Kallari",
+        "photographerUrl": "https://www.pexels.com/@sabinakallari",
+        "photoPageUrl": "https://www.pexels.com/photo/monochrome-photo-of-a-shirtless-man-jogging-14752944/",
+        "avgColor": "#C2C2C2"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Women are not small men. And when we stop training like we are, everything changes.",
+    "author": "Dr. Stacy Sims",
+    "context": "Exercise physiologist and nutrition scientist specializing in female-specific training for longevity and health"
+  },
+  "workout": {
+    "id": "fa908b23-d86e-44e2-ad2b-cc5d30c6b4d9",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Pressing Power: Chest, Shoulders and Triceps Builder",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbells",
+      "mat"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "minimal_equipment",
+      "muscle_gain",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "If your lower back arches off the floor during floor press, place your feet flat and bend your knees. Keeps the tension where it belongs and protects your spine.",
+    "warmup": "Start with 30 seconds of arm circles forward and backward, then 10 slow shoulder rolls each side. Finish with 10 bodyweight push-ups at an easy pace to wake up the chest and shoulders before loading.",
+    "exercises": [
+      {
+        "name": "Dumbbell Floor Press",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Keep elbows at 45 degrees from your torso, not flared wide. Press to full extension and lower slowly over 3 seconds."
+      },
+      {
+        "name": "Standing Dumbbell Overhead Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Stand with feet hip-width, brace your core before you press. Do not lean back. Lower until elbows are at 90 degrees."
+      },
+      {
+        "name": "Push-Up to Shoulder Tap",
+        "sets": "3",
+        "reps": "8 per side",
+        "notes": "After each push-up, tap your opposite shoulder with control. The slower the tap, the more core and shoulder stability work you get."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Slight bend in the elbow, raise to shoulder height only. Pause for one second at the top. Do not swing."
+      },
+      {
+        "name": "Triceps Dumbbell Kickback",
+        "sets": "3",
+        "reps": "12 per arm",
+        "notes": "Hinge forward at the hips, keep the upper arm parallel to the floor throughout. Squeeze at full extension."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Spend 60 seconds in a doorway chest stretch, then 60 seconds in a seated triceps overhead stretch each arm. Shake out the hands and take three slow deep breaths.",
+    "description": "Warmup: Start with 30 seconds of arm circles forward and backward, then 10 slow shoulder rolls each side. Finish with 10 bodyweight push-ups at an easy pace to wake up the chest and shoulders before loading. Dumbbell Floor Press: 3 sets x 10-12 — Keep elbows at 45 degrees from your torso, not flared wide. Press to full extension and lower slowly over 3 seconds. Standing Dumbbell Overhead Press: 3 sets x 10 — Stand with feet hip-width, brace your core before you press. Do not lean back. Lower until elbows are at 90 degrees. Push-Up to Shoulder Tap: 3 sets x 8 per side — After each push-up, tap your opposite shoulder with control. The slower the tap, the more core and shoulder stability work you get. Dumbbell Lateral Raise: 3 sets x 12 — Slight bend in the elbow, raise to shoulder height only. Pause for one second at the top. Do not swing. Triceps Dumbbell Kickback: 3 sets x 12 per arm — Hinge forward at the hips, keep the upper arm parallel to the floor throughout. Squeeze at full extension. Cooldown: Spend 60 seconds in a doorway chest stretch, then 60 seconds in a seated triceps overhead stretch each arm. Shake out the hands and take three slow deep breaths."
+  },
+  "meal": {
+    "id": "f8fe201f-4f83-4461-ae8b-fe601554586b",
+    "title": "Italian Whole Grain Polenta Bowl with Poached Eggs & Roasted Tomatoes",
+    "description": "Creamy, buttery polenta made with whole grain cornmeal provides steady carbohydrate fuel, topped with protein-rich poached eggs and sweet roasted cherry tomatoes for a savory Italian-inspired breakfast. Perfect for endurance athletes who want something filling and digestion-friendly before long training days.",
+    "meal_type": "breakfast",
+    "macro_profile": "high_carb",
+    "difficulty": "medium",
+    "cuisine": "italian",
+    "calories": 620,
+    "protein_g": 22,
+    "carbs_g": 78,
+    "fat_g": 20,
+    "fiber_g": 5,
+    "prep_minutes": 12,
+    "cook_minutes": 25,
+    "ingredients": [
+      "1 cup low-sodium vegetable broth",
+      "0.25 cup whole grain polenta cornmeal",
+      "1 tbsp unsalted butter",
+      "0.25 cup grated Parmesan cheese",
+      "salt and black pepper to taste",
+      "1.5 cups cherry tomatoes, halved",
+      "1 tbsp extra-virgin olive oil",
+      "1 tsp balsamic vinegar",
+      "2 large eggs",
+      "1 tbsp white vinegar for poaching",
+      "fresh basil for garnish"
+    ],
+    "instructions": "1. Preheat oven to 425°F. Toss cherry tomatoes with olive oil, balsamic vinegar, salt, and pepper on a baking sheet. Roast for 15 minutes until blistered.\n2. Meanwhile, bring vegetable broth to a gentle boil in a small pot. Slowly whisk in polenta, stirring constantly to avoid lumps.\n3. Reduce heat to low and continue stirring for 15–20 minutes until polenta is creamy and pulls away slightly from the pot sides. Stir in butter and Parmesan; season with salt and pepper.\n4. Fill a shallow skillet with water, add white vinegar, and bring to a gentle simmer. Create a gentle whirlpool with a spoon, then slide eggs into the center one at a time. Poach 3–4 minutes until whites are set but yolks remain runny.\n5. Pour polenta into a bowl, top with roasted tomatoes and poached eggs, and garnish with fresh basil.",
+    "tip": "Polenta can be made up to 2 days ahead and stored in the fridge; reheat gently with a splash of broth over low heat while you roast fresh tomatoes and poach eggs on race morning. The hot polenta won't spike your blood sugar as hard as simple carbs, making it ideal for sustained endurance.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
