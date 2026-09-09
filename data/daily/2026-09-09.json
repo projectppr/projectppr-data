@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-09",
+  "dateLabel": "Wednesday, September 9, 2026",
+  "generatedAt": "2026-09-09T11:00:58.448Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "sorbitol liver health metabolic effects",
+      "headline": "Sugar-Free Doesn't Mean Risk-Free. Your Liver Sees Sorbitol Differently Than You Think.",
+      "body": "That sugar-free candy or gum you grabbed? It might be causing trouble you don't feel. Researchers at Washington University in St. Louis discovered that your liver converts sorbitol—a common sugar alcohol—into fructose, the same damaging form that triggers fatty liver disease in millions. Most of us assumed sorbitol just passed through your body harmless. Wrong. The body metabolizes it in ways that can fuel metabolic dysfunction, inflammation, and potentially liver damage. If you're regularly eating zero-calorie products with sorbitol, you're trading one problem for a sneakier one.",
+      "takeaway": "Check labels on sugar-free products. If sorbitol is there and you eat it often, it's worth reconsidering. Whole foods still beat processed \"healthy\" alternatives.",
+      "source": "Washington University in St. Louis, Science Signaling",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
+      "pexelsQuery": "sugar free candy gum sweets",
+      "product": {
+        "id": "body-002",
+        "name": "Greater Goods Digital Food Scale",
+        "brand": "Greater Goods",
+        "asin": "B09QFWXSD8",
+        "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+        "category": "kitchen",
+        "price_range": "$",
+        "keywords": [
+          "nutrition",
+          "calories",
+          "macros",
+          "meal prep",
+          "food tracking",
+          "portion",
+          "weight loss",
+          "protein"
+        ],
+        "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11264388/pexels-photo-11264388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11264388/pexels-photo-11264388.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/plastic-wrap-of-sugar-free-sweets-11264388/",
+        "avgColor": "#604D49"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "dry cleaning chemical liver fibrosis PCE",
+      "headline": "The Dry Cleaning Chemical Hiding in Your Home Just Tripled Your Liver Risk",
+      "body": "A new study from Keck Medicine found that exposure to tetrachloroethylene (PCE)—a chemical used in dry cleaning and found in some household products—linked to three times higher risk of significant liver fibrosis. The scary part? It worked independently of the usual culprits: alcohol consumption and obesity. People with detectable PCE in their blood had liver scarring patterns that doctors typically see only in advanced disease. And the more exposure you had, the worse it got. You might not even know you're exposed. PCE lingers in commercial dry cleaning facilities and older residential areas.",
+      "takeaway": "If you dry clean regularly, ask about alternative methods or let garments air out. Consider your living location's industrial history—it matters more than you think.",
+      "source": "Keck Medicine of USC",
+      "sourceUrl": "https://news.keckmedicine.org/common-toxin-linked-to-liver-disease/",
+      "pexelsQuery": "dry cleaning clothes hanging laundry",
+      "photo": {
+        "url": "https://images.pexels.com/photos/18325680/pexels-photo-18325680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/18325680/pexels-photo-18325680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mecriboom Ph",
+        "photographerUrl": "https://www.pexels.com/@mecriboom-ph-722715507",
+        "photoPageUrl": "https://www.pexels.com/photo/clothes-hanging-on-a-clothesline-outside-18325680/",
+        "avgColor": "#8C7D7A"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "tyrosine amino acid lifespan mortality men",
+      "headline": "A Brain Supplement You Probably Take Just Got Linked to Shorter Life in Men",
+      "body": "A massive study of 270,000 people uncovered something unexpected: men with higher blood tyrosine levels—an amino acid found in protein and popular brain supplements—showed shorter lifespans, potentially losing close to a year. Tyrosine gets marketed for focus and dopamine, so this stung. Researchers used genetic analysis to prove the link wasn't just correlation. Women showed no significant effect. The real kicker? Elevated tyrosine likely signals metabolic dysfunction rather than causing it directly. High tyrosine means your body's handling protein differently, and that shift points to underlying health problems worth investigating.",
+      "takeaway": "You don't need to quit protein. But if you're taking tyrosine supplements or high-protein powders, worth discussing with your doc—especially if you're male and over 40.",
+      "source": "University of Hong Kong and University of Georgia, Aging-US Journal",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+      "pexelsQuery": "amino acid protein powder supplement",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/12255178/pexels-photo-12255178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12255178/pexels-photo-12255178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Monica  Escalera",
+        "photographerUrl": "https://www.pexels.com/@monica-escalera-235377717",
+        "photoPageUrl": "https://www.pexels.com/photo/spice-on-kitchen-spoon-12255178/",
+        "avgColor": "#949585"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "gratitude mindfulness blood pressure inflammation",
+      "headline": "Eight Weeks of Gratitude Just Beat Medication for Blood Pressure. Here's What Changed.",
+      "body": "A review of 18 randomized controlled trials found that mindfulness, gratitude journaling, and optimism training lowered blood pressure and reduced cardiovascular inflammation in just eight to 12 weeks. The kicker: some patients matched drug-level improvements without pharmaceuticals. Gratitude works by flipping your nervous system from fight-or-flight to rest-and-digest mode. Your amygdala quiets down. Cortisol drops. Blood vessels relax. This isn't motivation fluff—it's measurable physiology. The catch is consistency. Daily practice matters. One week of gratitude won't cut it. But three months of real, deliberate thankfulness? That rewires something fundamental.",
+      "takeaway": "Start a gratitude practice today if heart health matters to you. Fifteen minutes daily, five days a week. Journal three specific things, or speak them aloud. Track your resting heart rate—it will drop.",
+      "source": "University of Illinois Urbana-Champaign, American Heart Association",
+      "sourceUrl": "https://www.newsdirectory3.com/mindfulness-and-gratitude-training-improve-blood-pressure-and-heart-health-in-weeks/",
+      "pexelsQuery": "gratitude journal writing meditation mindfulness",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5357086/pexels-photo-5357086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5357086/pexels-photo-5357086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Maria Mileta",
+        "photographerUrl": "https://www.pexels.com/@maria-mileta-3563033",
+        "photoPageUrl": "https://www.pexels.com/photo/blank-notebook-and-coffee-cup-5357086/",
+        "avgColor": "#595551"
+      }
+    }
+  ],
+  "quote": {
+    "text": "I've failed over and over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan",
+    "context": "Legendary NBA champion and widely considered one of the greatest athletes of all time"
+  },
+  "workout": {
+    "id": "542ca4a3-1ab7-4e25-a156-de0a25de9720",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Romanian Deadlift Introduction: Posterior Chain Hinge",
+    "difficulty": "Beginner",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbell"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "functional",
+      "hinge_dominant",
+      "joint_friendly",
+      "lower_body",
+      "under_60_min"
+    ],
+    "tip": "Think 'push hips back, not butt down.' The RDL is a hip hinge, not a squat. Keep a slight knee bend and let your torso tilt forward naturally as your hips move behind you.",
+    "warmup": "4 min: 10 cat-cow stretches, 10 leg swings forward/back each leg, 5 bodyweight RDLs (light), 10 glute bridges",
+    "exercises": [
+      {
+        "name": "Dumbbell Romanian Deadlift (RDL)",
+        "sets": "4",
+        "reps": "10",
+        "notes": "Hold dumbbells at thighs, slight knee bend. Hinge at hips, lower dumbbells along legs while maintaining neutral spine. Feel stretch in hamstrings. Return to standing by driving hips forward. No lower-back rounding."
+      },
+      {
+        "name": "Single-Leg RDL (Bodyweight or Light Dumbbell)",
+        "sets": "3",
+        "reps": "6 each leg",
+        "notes": "Stand on one leg, hinge forward, opposite leg extends behind for balance. Lower dumbbell toward ground. This challenges stability and exposes hip mobility/strength asymmetries. Control the movement—balance work is the goal."
+      },
+      {
+        "name": "Dumbbell Step-Up (Rear-Foot Elevated)",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Rear foot on bench/step, front foot on ground. Hold dumbbells at sides. Drive through front heel to stand tall. This builds single-leg strength and complements the RDL's posterior chain work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: standing forward fold 45 sec (let gravity lengthen hamstrings), pigeon pose 40 sec each side, standing quad stretch 40 sec each leg",
+    "description": "A posterior-chain focused session introducing the RDL pattern with single-leg variations and supporting glute work. Perfect for professionals building hip hinge mechanics, strengthening the back of the legs, and developing resilience against lower-back stress."
+  },
+  "meal": {
+    "id": "d8791862-275d-439f-b0bf-daa95cc898ce",
+    "title": "Herb-Roasted Chicken Thighs with Bulgur Tabbouleh & Roasted Zucchini",
+    "description": "Chicken thighs deliver sustained energy and are far more forgiving than breast meat, paired with light-yet-filling bulgur that absorbs Middle Eastern flavors. This is classic endurance-athlete fuel—nutrient-dense, filling, and stores beautifully for meal prep.",
+    "meal_type": "dinner",
+    "macro_profile": "balanced",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 620,
+    "protein_g": 42,
+    "carbs_g": 58,
+    "fat_g": 18,
+    "fiber_g": 7,
+    "prep_minutes": 12,
+    "cook_minutes": 28,
+    "ingredients": [
+      "400g chicken thighs, skin-on",
+      "1 cup bulgur",
+      "2 medium zucchini, cut into batons",
+      "1/4 cup fresh parsley, chopped",
+      "2 tbsp fresh mint, chopped",
+      "1/4 cup cherry tomatoes, halved",
+      "2 tbsp lemon juice",
+      "3 tbsp olive oil",
+      "2 cloves garlic, minced",
+      "1 tsp dried thyme",
+      "Salt and pepper to taste"
+    ],
+    "instructions": "1. Preheat oven to 425°F. Season chicken thighs with salt, pepper, thyme, and minced garlic. Place on a sheet pan skin-side up and roast 20–24 minutes until skin is crispy and internal temp reaches 165°F.\n2. While chicken cooks, bring 2 cups water to a boil, add bulgur and 1/2 tsp salt, reduce heat, and simmer covered 12–15 minutes until tender.\n3. Toss zucchini batons with 1 tbsp olive oil, salt, and pepper. Spread on a second sheet pan and roast alongside chicken for final 15 minutes until lightly caramelized.\n4. Fluff cooked bulgur and fold in parsley, mint, cherry tomatoes, lemon juice, and remaining 2 tbsp olive oil.\n5. Divide bulgur tabbouleh and roasted zucchini between plates; top each with chicken thighs.",
+    "tip": "Chicken thighs can be prepped Sunday and eaten cold for lunch or reheated gently on Monday–Wednesday; bulgur tabbouleh actually tastes better the next day as flavors meld.",
+    "goal_affinity": [
+      "endurance",
+      "general_fitness",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
