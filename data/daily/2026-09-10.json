@@ -1,163 +1,251 @@
 {
   "date": "2026-09-10",
   "dateLabel": "Thursday, September 10, 2026",
-  "generatedAt": "2026-09-10T11:00:45.466Z",
+  "generatedAt": "2026-09-10T20:08:45.169Z",
   "articles": [
     {
-      "category": "HORMONES",
-      "topic": "Sleep quality directly impacts testosterone levels",
-      "headline": "Your Sleep Deprivation Is Tanking Your Hormones Faster Than Aging",
-      "body": "One week of poor sleep cuts testosterone by 10-15%, equivalent to years of natural decline. Research shows testosterone production depends on uninterrupted sleep, particularly the first REM phase around 90 minutes in. Fragmented sleep—even when you're in bed the full eight hours—prevents the hormonal surge your body needs. For men over 30, this matters. Poor sleep quality damages mood, energy, and recovery more than most realize. The fix isn't complicated: prioritize sleep continuity, not just duration.",
-      "takeaway": "Consistent, uninterrupted sleep is non-negotiable for hormone health. One fragmented week can erase months of good habits.",
-      "source": "Urology Times, Grand Magazine",
-      "sourceUrl": "https://www.urologytimes.com/view/sleep-loss-lowers-testosterone-healthy-young-men",
-      "pexelsQuery": "man sleeping in bed",
+      "category": "SUPPLEMENTS",
+      "topic": "Amino acid arginine supports immune function",
+      "headline": "Arginine Might Be the Immune Tool You're Missing",
+      "body": "Arginine, an amino acid found in protein-rich foods, plays a surprisingly important role in helping your immune system spot cancer and viral infections. Recent research from Rockefeller University shows that arginine deficiency may weaken your immune response. The body produces arginine naturally, and you get it from foods like chicken, beef, and fish. If your arginine is running low, your immune cells can't do their job as effectively. This isn't about megadosing—it's about making sure you're hitting baseline levels through diet or targeted supplementation.",
+      "takeaway": "Ensure adequate arginine intake through protein-rich foods or supplementation to support your immune system's ability to fight infections and stay resilient.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
+      "pexelsQuery": "protein foods chicken fish meat",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/3771069/pexels-photo-3771069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3771069/pexels-photo-3771069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Andrea Piacquadio",
-        "photographerUrl": "https://www.pexels.com/@olly",
-        "photoPageUrl": "https://www.pexels.com/photo/photo-of-sleeping-man-3771069/",
-        "avgColor": "#BEA993"
-      }
-    },
-    {
-      "category": "RECOVERY",
-      "topic": "Exercise fundamentally rewires immune function",
-      "headline": "Exercise Physically Rewires Your Immune System. Here's What Changes.",
-      "body": "A new review in Immunity reveals that single workouts and regular training reshape immune cells through coordinated signals between muscle, fat tissue, and your gut microbiota. Exercise doesn't just strengthen the body—it trains your immune system to respond better, control inflammation, and resist aging. Lifelong endurance athletes show immune cells that function better and age slower than sedentary peers. The mechanism is elegant: your muscles send signals that your immune system actually listens to. This is why consistency beats intensity for long-term resilience.",
-      "takeaway": "Regular movement trains immune cells to work smarter. That's not motivation—that's biology.",
-      "source": "Immunity / University of Pittsburgh",
-      "sourceUrl": "https://www.immunology.pitt.edu/news/new-review-outlines-how-exercise-reshapes-immune-system",
-      "pexelsQuery": "person exercising running",
-      "photo": {
-        "url": "https://images.pexels.com/photos/5037385/pexels-photo-5037385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5037385/pexels-photo-5037385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ketut Subiyanto",
-        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
-        "photoPageUrl": "https://www.pexels.com/photo/man-in-green-t-shirt-jogging-on-boardwalk-5037385/",
-        "avgColor": "#7E8477"
+        "url": "https://images.pexels.com/photos/12940588/pexels-photo-12940588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12940588/pexels-photo-12940588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Atlantic Ambience",
+        "photographerUrl": "https://www.pexels.com/@freestockpro",
+        "photoPageUrl": "https://www.pexels.com/photo/fish-and-meat-on-barbecue-12940588/",
+        "avgColor": "#828373"
       }
     },
     {
       "category": "BRAIN HEALTH",
-      "topic": "Cognitive training improves thinking at any age",
-      "headline": "Your Brain Isn't Fixed. Five Minutes a Day Proves It.",
-      "body": "A three-year study of 3,966 adults (ages 19 to 94) shows cognitive abilities improve at any stage of life with simple training. Participants spent just 5-15 minutes daily on short brain exercises plus lifestyle work. The research, published in Scientific Reports, measured clarity (cognitive function), connectedness (social engagement), and emotional balance. The takeaway devastates the myth that mental acuity declines inevitably with age. At 50, your brain has as much capacity to improve as it did at 25—you just need the right stimulus.",
-      "takeaway": "Brain health is trainable. Five minutes daily beats decades of decline.",
-      "source": "University of Texas at Dallas / Scientific Reports",
-      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
-      "pexelsQuery": "older adult thinking learning",
+      "topic": "Cognitive training improves brain health at any age",
+      "headline": "Your Brain Doesn't Stop Getting Smarter. Here's the Proof",
+      "body": "A three-year study of nearly 4,000 adults aged 19 to 94 shows your cognitive abilities can improve at any stage of life. Participants spent just five to 15 minutes daily on brain training activities using the BrainHealth Index, which measures clarity, connectedness, and emotional balance. The results? Sustained improvements across the board, regardless of baseline scores. Higher engagement with training tools—especially strategy-based learning and coaching—produced the greatest gains. This challenges the narrative that mental decline is inevitable and shows you have real agency over your brain health.",
+      "takeaway": "Dedicate 5-15 minutes daily to cognitive training. Consistency and active engagement drive measurable improvements in brain health at any age.",
+      "source": "Scientific Reports (Nature)",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-51403-3",
+      "pexelsQuery": "person studying brain training learning",
+      "product": {
+        "id": "book-001",
+        "name": "Can't Hurt Me - David Goggins Audiobook",
+        "brand": "David Goggins",
+        "asin": "B07KKP62FW",
+        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "mindset",
+          "motivation",
+          "endurance",
+          "running",
+          "ultramarathon",
+          "book",
+          "audiobook"
+        ],
+        "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/5757311/pexels-photo-5757311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/5757311/pexels-photo-5757311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "RDNE Stock project",
-        "photographerUrl": "https://www.pexels.com/@rdne",
-        "photoPageUrl": "https://www.pexels.com/photo/a-woman-in-green-dress-sitting-on-brown-leather-ottoman-writing-on-white-paper-5757311/",
-        "avgColor": "#917D70"
+        "url": "https://images.pexels.com/photos/3768121/pexels-photo-3768121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3768121/pexels-photo-3768121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andrea Piacquadio",
+        "photographerUrl": "https://www.pexels.com/@olly",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-long-sleeve-shirt-while-reading-book-3768121/",
+        "avgColor": "#9F958C"
       }
     },
     {
-      "category": "HEART HEALTH",
-      "topic": "Environmental noise directly increases heart attack risk",
-      "headline": "The Hidden Stressor Attacking Your Heart: It's Not What You Think",
-      "body": "Transportation noise increases heart attack rates by 72% in exposed areas versus quiet environments, according to research presented at the American College of Cardiology. This isn't background stress—exposure to consistent traffic, aviation, and industrial noise physically triggers cardiovascular events. The mechanism links chronic noise to blood pressure spikes and sustained inflammation. You can't always choose your neighborhood, but you can control your sonic environment: noise-blocking earbuds, white noise machines, and strategic planning matter. Your commute isn't just wearing you down mentally.",
-      "takeaway": "Noise is a cardiovascular risk factor. Protect your ears like you protect your diet.",
-      "source": "American College of Cardiology / Labcorp",
-      "sourceUrl": "https://www.labcorp.com/education-events/articles/heart-disease-prevention-fresh-strategies-heart-health-2026",
-      "pexelsQuery": "busy traffic noise cars",
+      "category": "SLEEP",
+      "topic": "Weekend sleep recovery reduces teen depression risk",
+      "headline": "Sleeping In on Weekends Actually Protects Your Mental Health",
+      "body": "Teens who made up for lost weekday sleep by sleeping in on weekends had a significantly lower risk of depression, according to recent research. Your sleep debt isn't just about feeling tired—it directly impacts your mental health. When you're chronically sleep-deprived during the week, recovery sleep on weekends matters. The key insight: while consistent sleep schedules are ideal, allowing yourself to catch up on lost sleep provides real psychological protection. For busy adults juggling work and family, this is permission to prioritize those weekend hours of rest.",
+      "takeaway": "If you can't get consistent weekday sleep, prioritize recovery sleep on weekends. Catching up on lost sleep has measurable mental health benefits.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/news/health_medicine/sleep_disorders/",
+      "pexelsQuery": "person sleeping bed rest comfortable",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/9788300/pexels-photo-9788300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/9788300/pexels-photo-9788300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Henrique Morais",
-        "photographerUrl": "https://www.pexels.com/@henriquemorais",
-        "photoPageUrl": "https://www.pexels.com/photo/vehicles-on-the-road-9788300/",
-        "avgColor": "#85796D"
+        "url": "https://images.pexels.com/photos/6443374/pexels-photo-6443374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6443374/pexels-photo-6443374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-a-bed-6443374/",
+        "avgColor": "#CEC7C5"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Cold water immersion beats cryotherapy for muscle soreness",
+      "headline": "Cold Plunge Wins. Here's Why Cryotherapy Chambers Lost",
+      "body": "A 2026 meta-analysis comparing cold water immersion and whole-body cryotherapy found that dunking in cold water produced significantly greater reduction in muscle soreness at the 24-hour mark. The difference was meaningful and consistent across studies. At 48 hours, the advantage faded, but the acute recovery benefit of cold water was clear. The takeaway for you: if you're choosing between an expensive cryotherapy session and a cold plunge or ice bath, water immersion is the more efficient tool for managing post-workout soreness. Cost matters, and cold water works.",
+      "takeaway": "Cold water immersion is more effective than whole-body cryotherapy for reducing muscle soreness in the 24 hours after training.",
+      "source": "Medicine Journal (meta-analysis)",
+      "sourceUrl": "https://www.wimhofmethod.com/blog/cold-water-immersion-vs-cryotherapy",
+      "pexelsQuery": "ice bath cold water pool recovery",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/34930004/pexels-photo-34930004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34930004/pexels-photo-34930004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Una Laurencic",
+        "photographerUrl": "https://www.pexels.com/@unalaurencic",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-relaxing-in-a-sunlit-pool-34930004/",
+        "avgColor": "#578278"
       }
     }
   ],
   "quote": {
-    "text": "Resilience means you experience, you feel, you fail, you hurt. You fall. But you keep going.",
-    "author": "Yasmin Mogahed",
-    "context": "Writer and speaker on resilience and mental strength"
+    "text": "Longevity is built through stress management, not just stress application. Recovery, sleep, and hormone health are performance multipliers, not optional add-ons.",
+    "author": "Dr. Jonathan Mike",
+    "context": "Sports performance coach, author, and international speaker specializing in athlete longevity and hormone health optimization."
   },
   "workout": {
-    "id": "01153f18-bdec-47f6-a82b-becbdf90c2e0",
+    "id": "a0d8e773-88f3-4798-9906-a7df426f18c0",
     "todayType": "PULL",
     "type": "STRENGTH",
     "sport": "strength",
     "workoutType": "pull",
-    "title": "Deadlift Strength Block: Max-Effort Hip Hinge & Pull",
+    "title": "Pull Strong: Row, Hang and Brace in 30",
     "difficulty": "Intermediate",
-    "duration": "55 min",
+    "duration": "30 min",
     "equipment": [
-      "barbell",
-      "weight plates",
       "pull-up bar",
-      "dip belt",
-      "chalk"
+      "resistance band",
+      "dumbbells"
     ],
-    "trainingZone": "z4",
+    "trainingZone": "mixed",
     "tags": [
-      "barbell_required",
-      "gym_required"
+      "core",
+      "minimal_equipment",
+      "pull_dominant",
+      "under_30_min",
+      "upper_body"
     ],
-    "tip": "Before initiating the deadlift pull, think 'push the floor away' rather than 'pull the bar up' — this cue keeps your hips from shooting early and ensures your legs and hips contribute maximally off the floor.",
-    "warmup": "10 min: 90-sec hip flexor stretch each side; 10 cat-cow; 10 banded good mornings; 10 kettlebell or dumbbell Romanian deadlifts (light); 1 set × 5 reps barbell deadlift at 40% 1RM; 1 set × 3 reps at 60% 1RM; 1 set × 2 reps at 75% 1RM; 1 rep at 82% 1RM — 2 min rest between buildup sets",
+    "tip": "If you don't have a pull-up bar, a sturdy door frame pull-up bar works fine. For the dead hang, focus on active shoulders, squeeze your shoulder blades down before you hang. That protects your joints and builds the right muscles.",
+    "warmup": "Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders.",
     "exercises": [
       {
-        "name": "Conventional Deadlift",
-        "sets": "4",
-        "reps": "3–4 @ 82–87% 1RM",
-        "notes": "Sets 1–2 at 82–84% for 4 reps; sets 3–4 at 85–87% for 3 reps. Start with bar over mid-foot, grip just outside legs, take a full brace and pull your lats into your back pockets before the bar breaks the floor. Lower under control — do not drop. Rest 4 min between sets. Use chalk if available."
-      },
-      {
-        "name": "Weighted Pull-Up",
-        "sets": "4",
-        "reps": "6 @ RPE 7–8",
-        "notes": "Add load via dip belt — start conservatively (10–25 lb) and assess. Full dead hang at the bottom, drive elbows to hips at the top, chin clears the bar. Do not kip. Rest 2 min between sets. If you cannot complete 6 reps with good form, reduce added weight before reducing reps."
-      },
-      {
-        "name": "Single-Arm Dumbbell Row",
+        "name": "Dead Hang",
         "sets": "3",
-        "reps": "10 each side @ RPE 7",
-        "notes": "Brace the core and keep the torso stable — this is a supplemental pulling movement, not a finisher. Drive the elbow back and up, pause briefly at the top. Use a moderate to moderately heavy dumbbell. Rest 60 sec between sides."
+        "reps": "30-45 seconds",
+        "notes": "Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets."
+      },
+      {
+        "name": "Dumbbell Bent-Over Row",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable."
+      },
+      {
+        "name": "Resistance Band Face Pull",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough."
+      },
+      {
+        "name": "Inverted Row (or Assisted Pull-Up with Band)",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count."
+      },
+      {
+        "name": "Plank to Alternating Shoulder Tap",
+        "sets": "3",
+        "reps": "20 total taps",
+        "notes": "Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work."
       }
     ],
     "exerciseText": "",
-    "cooldown": "8 min: 60-sec standing hamstring stretch with foot on bench each side; 60-sec figure-four glute stretch each side; 60-sec lat hang from pull-up bar (passive dead hang); 60-sec child's pose with arms extended; 30-sec thoracic rotation in seated position each direction",
-    "description": "This pull session is built around the conventional deadlift at 82–87% 1RM for 4 sets of 3–4 reps, prioritizing maximal hip hinge force production and posterior chain recruitment. Weighted pull-ups follow as an upper-back and lat accessory, reinforcing the bracing and pulling mechanics that carry over directly to deadlift lockout. This combination is ideal for intermediate lifters looking to peak pulling strength."
+    "cooldown": "Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling.",
+    "description": "Warmup: Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders. Dead Hang: 3 sets x 30-45 seconds — Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets. Dumbbell Bent-Over Row: 3 sets x 10 each side — Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable. Resistance Band Face Pull: 3 sets x 15 — Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough. Inverted Row (or Assisted Pull-Up with Band): 3 sets x 8-10 — For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count. Plank to Alternating Shoulder Tap: 3 sets x 20 total taps — Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work. Cooldown: Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling."
   },
   "meal": {
-    "id": "ddfe4560-0f8e-4cd6-b592-57e590938556",
-    "title": "Whole Grain Toast with Whipped Ricotta, Figs & Pistachios",
-    "description": "A Mediterranean-inspired open-faced toast that pairs slow-digesting whole grains with creamy ricotta and natural carbs from figs—perfect pre-endurance fuel that won't spike and crash your blood sugar. The healthy fats from pistachios help with satiety and nutrient absorption during long efforts.",
-    "meal_type": "breakfast",
-    "macro_profile": "balanced",
+    "id": "d828544d-75d1-4d5d-abcf-c551d28eb837",
+    "title": "Cottage Cheese & Pepperoni Bowl",
+    "description": "High-protein dairy paired with savory cured meat and whole grain crackers creates a satisfying strength snack that mimics a charcuterie board. Cottage cheese delivers casein protein for sustained muscle amino acid availability.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
     "difficulty": "easy",
-    "cuisine": "mediterranean",
-    "calories": 480,
-    "protein_g": 18,
-    "carbs_g": 52,
-    "fat_g": 18,
-    "fiber_g": 8,
-    "prep_minutes": 8,
-    "cook_minutes": 3,
+    "cuisine": "american",
+    "calories": 195,
+    "protein_g": 28,
+    "carbs_g": 8,
+    "fat_g": 6,
+    "fiber_g": 1,
+    "prep_minutes": 2,
+    "cook_minutes": 0,
     "ingredients": [
-      "2 slices whole grain or sourdough bread",
-      "150g whole milk ricotta",
-      "1 tbsp raw honey",
-      "3-4 fresh figs (or 4 dried figs, chopped)",
-      "25g shelled pistachios, chopped",
-      "1 tsp lemon zest",
-      "Pinch of sea salt",
-      "½ tsp olive oil (for toasting)"
+      "150g low-fat cottage cheese",
+      "15g pepperoni slices (6-8 pieces)",
+      "6 whole grain crackers",
+      "pinch black pepper"
     ],
-    "instructions": "1. Toast bread to your preferred crispness—about 2–3 minutes.\n2. While bread toasts, stir ricotta with lemon zest and a pinch of salt until smooth and airy.\n3. Spread whipped ricotta generously on each toast.\n4. Top with fresh figs (halved) or chopped dried figs.\n5. Drizzle with honey and scatter pistachios over top.\n6. Serve immediately.",
-    "tip": "Make whipped ricotta the night before and store in an airtight container—spreads even easier and saves 3 minutes on weekday mornings. Dried figs work year-round and are more stable for meal prep.",
+    "instructions": "1. Scoop cottage cheese into a small bowl.\n2. Top with pepperoni slices and a grind of black pepper.\n3. Serve with crackers on the side for scooping, or crumble crackers into the cottage cheese for texture.",
+    "tip": "Buy cottage cheese in bulk on Sunday and pre-portion into 150g containers for grab-and-go snacking all week. Pairs perfectly with a cup of coffee as an afternoon pick-me-up.",
     "goal_affinity": [
-      "endurance",
-      "marathon",
+      "strength",
       "general_fitness"
     ],
     "image_url": ""
