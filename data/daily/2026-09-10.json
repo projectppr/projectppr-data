@@ -1,252 +1,197 @@
 {
   "date": "2026-09-10",
   "dateLabel": "Thursday, September 10, 2026",
-  "generatedAt": "2026-09-10T20:08:45.169Z",
+  "generatedAt": "2026-09-10T20:08:48.423Z",
   "articles": [
     {
       "category": "SUPPLEMENTS",
-      "topic": "Amino acid arginine supports immune function",
-      "headline": "Arginine Might Be the Immune Tool You're Missing",
-      "body": "Arginine, an amino acid found in protein-rich foods, plays a surprisingly important role in helping your immune system spot cancer and viral infections. Recent research from Rockefeller University shows that arginine deficiency may weaken your immune response. The body produces arginine naturally, and you get it from foods like chicken, beef, and fish. If your arginine is running low, your immune cells can't do their job as effectively. This isn't about megadosing—it's about making sure you're hitting baseline levels through diet or targeted supplementation.",
-      "takeaway": "Ensure adequate arginine intake through protein-rich foods or supplementation to support your immune system's ability to fight infections and stay resilient.",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
-      "pexelsQuery": "protein foods chicken fish meat",
+      "topic": "Caffeine activates ancient cellular energy pathways",
+      "headline": "Your Morning Coffee Might Be Flipping a 500-Million-Year-Old Cellular Switch",
+      "body": "Scientists from Queen Mary University of London found that caffeine does far more than wake you up. The compound activates AMPK, an ancient cellular energy sensor that governs DNA repair, stress resistance, and cellular growth. The research, published in Microbial Cell, shows caffeine works through this pathway to influence processes directly linked to aging. When cells run low on fuel, AMPK kicks in to help them adapt. The study suggests caffeine's proven connection to healthier aging now has a cellular mechanism behind it. This discovery opens doors to understanding how dietary compounds influence longevity and aging at the most fundamental level.",
+      "takeaway": "Your daily coffee habit might be triggering cellular repair systems linked to longevity. The benefit comes through AMPK activation, not just caffeine's stimulant effect.",
+      "source": "ScienceAlert / Queen Mary University of London",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+      "pexelsQuery": "coffee cup morning drinking",
       "product": {
-        "id": "sup-002",
-        "name": "Nordic Naturals Omega-3 Fish Oil",
-        "brand": "Nordic Naturals",
-        "asin": "B002CQU564",
-        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
         "category": "supplements",
         "price_range": "$$",
         "keywords": [
-          "fish oil",
-          "omega-3",
-          "heart health",
-          "brain health",
-          "inflammation",
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
           "supplement",
-          "DHA",
-          "EPA",
-          "recovery"
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
         ],
-        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/12940588/pexels-photo-12940588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/12940588/pexels-photo-12940588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Atlantic Ambience",
-        "photographerUrl": "https://www.pexels.com/@freestockpro",
-        "photoPageUrl": "https://www.pexels.com/photo/fish-and-meat-on-barbecue-12940588/",
-        "avgColor": "#828373"
+        "url": "https://images.pexels.com/photos/2011264/pexels-photo-2011264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/2011264/pexels-photo-2011264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Samer Daboul",
+        "photographerUrl": "https://www.pexels.com/@samerdaboul",
+        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photography-of-ceramic-mugs-on-saucers-2011264/",
+        "avgColor": "#6E6E6E"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Semaglutide reduces psychiatric hospitalizations in bipolar",
+      "headline": "Weight Loss Drug Linked to 21% Lower Risk of Psychiatric Crisis",
+      "body": "A large Swedish study tracking nearly 15,000 people with bipolar disorder found something unexpected: semaglutide (Ozempic/Wegovy) was associated with a 21% lower risk of psychiatric hospitalization. Researchers compared each person against themselves, looking at hospitalization rates during periods when they were taking the drug versus when they weren't. The effect was specific to semaglutide—other GLP-1 drugs didn't show the same pattern. Scientists believe GLP-1 signaling may protect the brain by reducing inflammation and cellular stress, pathways linked to mood instability. This suggests weight-loss medications might have psychiatric benefits beyond metabolic health, though more research is needed.",
+      "takeaway": "If you have bipolar disorder and are considering GLP-1 therapy, the data suggests potential mood-stabilizing benefits alongside weight management. Discuss with your psychiatrist.",
+      "source": "ScienceDaily / Acta Psychiatrica Scandinavica",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
+      "pexelsQuery": "mental health well-being meditation peace",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4534592/pexels-photo-4534592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4534592/pexels-photo-4534592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vlada Karpovich",
+        "photographerUrl": "https://www.pexels.com/@vlada-karpovich",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-meditating-4534592/",
+        "avgColor": "#AA958F"
       }
     },
     {
       "category": "BRAIN HEALTH",
-      "topic": "Cognitive training improves brain health at any age",
-      "headline": "Your Brain Doesn't Stop Getting Smarter. Here's the Proof",
-      "body": "A three-year study of nearly 4,000 adults aged 19 to 94 shows your cognitive abilities can improve at any stage of life. Participants spent just five to 15 minutes daily on brain training activities using the BrainHealth Index, which measures clarity, connectedness, and emotional balance. The results? Sustained improvements across the board, regardless of baseline scores. Higher engagement with training tools—especially strategy-based learning and coaching—produced the greatest gains. This challenges the narrative that mental decline is inevitable and shows you have real agency over your brain health.",
-      "takeaway": "Dedicate 5-15 minutes daily to cognitive training. Consistency and active engagement drive measurable improvements in brain health at any age.",
-      "source": "Scientific Reports (Nature)",
-      "sourceUrl": "https://www.nature.com/articles/s41598-026-51403-3",
-      "pexelsQuery": "person studying brain training learning",
-      "product": {
-        "id": "book-001",
-        "name": "Can't Hurt Me - David Goggins Audiobook",
-        "brand": "David Goggins",
-        "asin": "B07KKP62FW",
-        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
-        "category": "books",
-        "price_range": "$$",
-        "keywords": [
-          "mental toughness",
-          "mindset",
-          "motivation",
-          "endurance",
-          "running",
-          "ultramarathon",
-          "book",
-          "audiobook"
-        ],
-        "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
-      },
+      "topic": "Depression disrupts brain's neuron production capacity",
+      "headline": "Depression May Be Shutting Down Your Brain's Ability to Repair Itself",
+      "body": "A groundbreaking Columbia University study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain's ability to process and separate new experiences from painful memories. Researchers examined nearly half a million brain cells and found molecular disruptions throughout the entire memory circuit. Depression doesn't just affect mood—it impairs the brain's fundamental capacity to create new neurons, which appears crucial for cognitive flexibility and emotional recovery. The findings suggest that reactivating neurogenesis could open new treatment pathways. The research also identified specific molecular changes that might allow future therapies tailored to individual forms of depression.",
+      "takeaway": "New treatments targeting neurogenesis could one day reverse depression's effects on the brain's capacity to adapt and recover. This explains why depression feels cognitively trapping.",
+      "source": "Nature Medicine / Columbia University Irving Medical Center",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
+      "pexelsQuery": "brain neuron science research neural",
       "photo": {
-        "url": "https://images.pexels.com/photos/3768121/pexels-photo-3768121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/3768121/pexels-photo-3768121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Andrea Piacquadio",
-        "photographerUrl": "https://www.pexels.com/@olly",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-white-long-sleeve-shirt-while-reading-book-3768121/",
-        "avgColor": "#9F958C"
+        "url": "https://images.pexels.com/photos/14332695/pexels-photo-14332695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14332695/pexels-photo-14332695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marek Piwnicki",
+        "photographerUrl": "https://www.pexels.com/@marek-piwnicki-3907296",
+        "photoPageUrl": "https://www.pexels.com/photo/red-and-white-abstract-painting-14332695/",
+        "avgColor": "#16E5F7"
       }
     },
     {
-      "category": "SLEEP",
-      "topic": "Weekend sleep recovery reduces teen depression risk",
-      "headline": "Sleeping In on Weekends Actually Protects Your Mental Health",
-      "body": "Teens who made up for lost weekday sleep by sleeping in on weekends had a significantly lower risk of depression, according to recent research. Your sleep debt isn't just about feeling tired—it directly impacts your mental health. When you're chronically sleep-deprived during the week, recovery sleep on weekends matters. The key insight: while consistent sleep schedules are ideal, allowing yourself to catch up on lost sleep provides real psychological protection. For busy adults juggling work and family, this is permission to prioritize those weekend hours of rest.",
-      "takeaway": "If you can't get consistent weekday sleep, prioritize recovery sleep on weekends. Catching up on lost sleep has measurable mental health benefits.",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/news/health_medicine/sleep_disorders/",
-      "pexelsQuery": "person sleeping bed rest comfortable",
-      "product": {
-        "id": "slp-002",
-        "name": "Manta Sleep Mask",
-        "brand": "Manta",
-        "asin": "B07PRG2CQY",
-        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
-        "category": "sleep",
-        "price_range": "$",
-        "keywords": [
-          "sleep",
-          "light blocking",
-          "blackout",
-          "travel",
-          "sleep quality",
-          "melatonin",
-          "recovery"
-        ],
-        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
-      },
+      "category": "GUT HEALTH",
+      "topic": "Gut bacteria transfer between people across continents",
+      "headline": "Your Gut Bacteria Might Be Spreading Faster Than You Think",
+      "body": "University of Vienna researchers discovered that some gut bacterial populations can spread rapidly between people and even across continents, suggesting the microbiome is far more transmissible than previously thought. Using reverse ecology methods, they found that many familiar gut bacterial species actually consist of separate evolutionary groups, each adapted to different conditions. Certain strains linked to aging, inflammatory bowel disease, colorectal cancer, and type 2 diabetes were identified spreading globally. Researchers documented over 10 million instances of bacterial strain sharing between mothers and infants, household members, and communities. This finding reshapes how scientists think about microbiome composition—it's not just shaped by diet and lifestyle, but by active transmission between people.",
+      "takeaway": "Your microbiome is more influenced by who you live with and interact with regularly than previously understood. Proximity matters more than we realized.",
+      "source": "ScienceDaily / Nature / University of Vienna",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm",
+      "pexelsQuery": "bacteria microbiome gut health microscope",
       "photo": {
-        "url": "https://images.pexels.com/photos/6443374/pexels-photo-6443374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6443374/pexels-photo-6443374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Pavel Danilyuk",
-        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-a-bed-6443374/",
-        "avgColor": "#CEC7C5"
-      }
-    },
-    {
-      "category": "RECOVERY",
-      "topic": "Cold water immersion beats cryotherapy for muscle soreness",
-      "headline": "Cold Plunge Wins. Here's Why Cryotherapy Chambers Lost",
-      "body": "A 2026 meta-analysis comparing cold water immersion and whole-body cryotherapy found that dunking in cold water produced significantly greater reduction in muscle soreness at the 24-hour mark. The difference was meaningful and consistent across studies. At 48 hours, the advantage faded, but the acute recovery benefit of cold water was clear. The takeaway for you: if you're choosing between an expensive cryotherapy session and a cold plunge or ice bath, water immersion is the more efficient tool for managing post-workout soreness. Cost matters, and cold water works.",
-      "takeaway": "Cold water immersion is more effective than whole-body cryotherapy for reducing muscle soreness in the 24 hours after training.",
-      "source": "Medicine Journal (meta-analysis)",
-      "sourceUrl": "https://www.wimhofmethod.com/blog/cold-water-immersion-vs-cryotherapy",
-      "pexelsQuery": "ice bath cold water pool recovery",
-      "product": {
-        "id": "rec-001",
-        "name": "TriggerPoint GRID Foam Roller",
-        "brand": "TriggerPoint",
-        "asin": "B0040EGNIU",
-        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
-        "category": "recovery",
-        "price_range": "$",
-        "keywords": [
-          "foam roller",
-          "recovery",
-          "muscle soreness",
-          "flexibility",
-          "mobility",
-          "IT band",
-          "running",
-          "triathlon"
-        ],
-        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/34930004/pexels-photo-34930004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/34930004/pexels-photo-34930004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Una Laurencic",
-        "photographerUrl": "https://www.pexels.com/@unalaurencic",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-relaxing-in-a-sunlit-pool-34930004/",
-        "avgColor": "#578278"
+        "url": "https://images.pexels.com/photos/8539726/pexels-photo-8539726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8539726/pexels-photo-8539726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "https://kaboompics.com/",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/black-microscope-in-close-up-photography-8539726/",
+        "avgColor": "#9B9FA2"
       }
     }
   ],
   "quote": {
-    "text": "Longevity is built through stress management, not just stress application. Recovery, sleep, and hormone health are performance multipliers, not optional add-ons.",
-    "author": "Dr. Jonathan Mike",
-    "context": "Sports performance coach, author, and international speaker specializing in athlete longevity and hormone health optimization."
+    "text": "Strength does not come from winning. Your struggles develop your strengths.",
+    "author": "Arnold Schwarzenegger",
+    "context": "Former bodybuilder and actor who won Mr. Olympia seven times and became an action film star and governor."
   },
   "workout": {
-    "id": "a0d8e773-88f3-4798-9906-a7df426f18c0",
+    "id": "f915ebef-ed2d-4079-b3bf-12f9e886e5d8",
     "todayType": "PULL",
     "type": "STRENGTH",
     "sport": "strength",
     "workoutType": "pull",
-    "title": "Pull Strong: Row, Hang and Brace in 30",
-    "difficulty": "Intermediate",
-    "duration": "30 min",
+    "title": "Band-Assisted Pull-Up Foundation: Scapular Strength & Lat Activation",
+    "difficulty": "Beginner",
+    "duration": "35 min",
     "equipment": [
-      "pull-up bar",
-      "resistance band",
+      "pull-up_bar",
+      "resistance_bands",
       "dumbbells"
     ],
-    "trainingZone": "mixed",
+    "trainingZone": "z3",
     "tags": [
-      "core",
-      "minimal_equipment",
+      "beginner_friendly",
+      "gym_required",
+      "muscle_gain",
       "pull_dominant",
-      "under_30_min",
+      "under_60_min",
       "upper_body"
     ],
-    "tip": "If you don't have a pull-up bar, a sturdy door frame pull-up bar works fine. For the dead hang, focus on active shoulders, squeeze your shoulder blades down before you hang. That protects your joints and builds the right muscles.",
-    "warmup": "Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders.",
+    "tip": "Before pulling, practice 5 dead hangs (5–10 seconds each) to activate your lats and shoulders. Think 'elbows to hips' rather than 'hands to chest' — this cue locks in proper lat recruitment and prevents arm dominance.",
+    "warmup": "5 min: 10 arm circles forward & backward, 10 band pull-aparts (light resistance), 5 scapular pulls on bar (no leg drive), 10 shoulder rolls, 3 assisted dead hangs (3–5 sec each)",
     "exercises": [
       {
-        "name": "Dead Hang",
-        "sets": "3",
-        "reps": "30-45 seconds",
-        "notes": "Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets."
+        "name": "Band-Assisted Pull-Ups",
+        "sets": "4",
+        "reps": "6–8",
+        "notes": "Loop medium or heavy band under feet; grip shoulder-width, pull elbows down and back, pause 1 sec at top. Band reduces load while you build strength. If too difficult, use thicker band; if too easy, use thinner band next week."
       },
       {
-        "name": "Dumbbell Bent-Over Row",
+        "name": "Dumbbell Single-Arm Row (Tempo)",
         "sets": "3",
         "reps": "10 each side",
-        "notes": "Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable."
+        "notes": "2-second eccentric (lower), row to hip, squeeze scapula at top. This unilateral work corrects imbalances and reinforces single-side lat activation. Keep torso stable—don't twist."
       },
       {
-        "name": "Resistance Band Face Pull",
+        "name": "Face Pulls with Resistance Band",
         "sets": "3",
         "reps": "15",
-        "notes": "Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough."
+        "notes": "Anchor band at eye level, pull elbows high and wide, externally rotate shoulders at end range. This strengthens rear delts and upper back, critical for posture correction and shoulder health."
       },
       {
-        "name": "Inverted Row (or Assisted Pull-Up with Band)",
-        "sets": "3",
-        "reps": "8-10",
-        "notes": "For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count."
-      },
-      {
-        "name": "Plank to Alternating Shoulder Tap",
-        "sets": "3",
-        "reps": "20 total taps",
-        "notes": "Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work."
+        "name": "Scapular Pulls (Dead Hang Activation)",
+        "sets": "2",
+        "reps": "12",
+        "notes": "Hang on bar, depress scapula (pull shoulders down), then elevate (shrug). No leg drive, no full pull-up—just scapular movement. Builds foundational lat and rhomboid control."
       }
     ],
     "exerciseText": "",
-    "cooldown": "Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling.",
-    "description": "Warmup: Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders. Dead Hang: 3 sets x 30-45 seconds — Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets. Dumbbell Bent-Over Row: 3 sets x 10 each side — Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable. Resistance Band Face Pull: 3 sets x 15 — Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough. Inverted Row (or Assisted Pull-Up with Band): 3 sets x 8-10 — For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count. Plank to Alternating Shoulder Tap: 3 sets x 20 total taps — Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work. Cooldown: Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling."
+    "cooldown": "5 min: dead hang 15 sec, chest doorway stretch 20 sec each side, lat stretch (arm overhead, gentle side bend) 20 sec each side, shoulder external rotation (band or towel) 15 sec each side",
+    "description": "A beginner-friendly pull progression using band assistance to build scapular stability, lat engagement, and pulling mechanics. This session teaches proper shoulder positioning and progressively reduces dependency on band support through targeted lat rows and activation drills. Perfect for busy professionals establishing a solid pulling foundation before advancing to harder progressions."
   },
   "meal": {
-    "id": "d828544d-75d1-4d5d-abcf-c551d28eb837",
-    "title": "Cottage Cheese & Pepperoni Bowl",
-    "description": "High-protein dairy paired with savory cured meat and whole grain crackers creates a satisfying strength snack that mimics a charcuterie board. Cottage cheese delivers casein protein for sustained muscle amino acid availability.",
-    "meal_type": "snack",
-    "macro_profile": "high_protein",
-    "difficulty": "easy",
-    "cuisine": "american",
-    "calories": 195,
-    "protein_g": 28,
-    "carbs_g": 8,
-    "fat_g": 6,
-    "fiber_g": 1,
-    "prep_minutes": 2,
-    "cook_minutes": 0,
+    "id": "e9c74c0a-ebb8-4989-b082-2adf8939dfe2",
+    "title": "Soft Polenta with Poached Eggs, Spinach & Roasted Cherry Tomatoes",
+    "description": "Creamy, slow-cooked polenta provides sustained carbohydrate energy for endurance training, while the poached eggs deliver choline for muscle coordination and two-day storage stability. Spinach and tomatoes round out the nutrient profile without adding heaviness.",
+    "meal_type": "breakfast",
+    "macro_profile": "balanced",
+    "difficulty": "medium",
+    "cuisine": "italian",
+    "calories": 495,
+    "protein_g": 22,
+    "carbs_g": 50,
+    "fat_g": 17,
+    "fiber_g": 7,
+    "prep_minutes": 10,
+    "cook_minutes": 20,
     "ingredients": [
-      "150g low-fat cottage cheese",
-      "15g pepperoni slices (6-8 pieces)",
-      "6 whole grain crackers",
-      "pinch black pepper"
+      "¾ cup whole milk",
+      "¾ cup low-sodium vegetable stock",
+      "¼ cup polenta cornmeal (or cornmeal)",
+      "1 tbsp butter",
+      "¼ cup grated Parmesan cheese",
+      "2 cups fresh spinach (or 1 cup frozen, thawed)",
+      "1 cup cherry tomatoes, halved",
+      "1 tbsp olive oil",
+      "2 large eggs",
+      "1 tbsp white vinegar (for poaching)",
+      "1 garlic clove, minced",
+      "Sea salt, black pepper, and red pepper flakes to taste"
     ],
-    "instructions": "1. Scoop cottage cheese into a small bowl.\n2. Top with pepperoni slices and a grind of black pepper.\n3. Serve with crackers on the side for scooping, or crumble crackers into the cottage cheese for texture.",
-    "tip": "Buy cottage cheese in bulk on Sunday and pre-portion into 150g containers for grab-and-go snacking all week. Pairs perfectly with a cup of coffee as an afternoon pick-me-up.",
+    "instructions": "1. Toss cherry tomatoes with ½ tbsp olive oil, salt, and pepper. Spread on a sheet pan and roast at 400°F for 12–15 minutes until blistered and caramelized.\n2. While tomatoes roast, bring milk and stock to a simmer in a medium saucepan over medium heat.\n3. Slowly whisk in polenta cornmeal, stirring constantly to avoid lumps. Reduce heat to low and cook for 8–10 minutes, stirring frequently, until creamy and thick.\n4. Stir in butter, Parmesan, salt, and pepper. Taste and adjust seasoning.\n5. Heat ½ tbsp olive oil in a separate skillet over medium heat. Add garlic and fresh spinach, sautéing for 2 minutes until wilted. Season with salt and pepper.\n6. To poach eggs: bring a pot of water to a gentle simmer, add vinegar. Create a gentle whirlpool and slide one egg into the center; cook 3 minutes for runny yolk. Repeat with second egg.\n7. Divide polenta between bowls, top with wilted spinach and roasted tomatoes, and carefully place one poached egg on each. Garnish with red pepper flakes.",
+    "tip": "Make polenta ahead on Sunday—it keeps 4 days refrigerated and reheats beautifully with a splash of milk. Roast the tomatoes the night before, and simply wilt fresh spinach and poach eggs the morning of for a restaurant-quality 8-minute finish.",
     "goal_affinity": [
-      "strength",
-      "general_fitness"
+      "endurance",
+      "general_fitness",
+      "recovery"
     ],
     "image_url": ""
   }
