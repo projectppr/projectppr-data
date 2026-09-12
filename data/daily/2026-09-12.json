@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-12",
+  "dateLabel": "Saturday, September 12, 2026",
+  "generatedAt": "2026-09-12T11:00:46.216Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "Nighttime light exposure cardiac remodeling risk",
+      "headline": "Your Bedroom Light Is Quietly Aging Your Heart",
+      "body": "A new study of over 11,000 people found that even small amounts of nighttime light exposure are linked to structural changes in the heart. People sleeping with just 3 lux of light (like three candles across the room) had thicker heart walls and reduced pumping efficiency compared to those in near-total darkness. The changes aren't yet heart disease, but they precede it. Researchers think nighttime light disrupts your circadian rhythm, affecting sleep quality and putting chronic stress on your cardiovascular system. The fix is simple: blackout curtains, sleep masks, and keeping devices out of the bedroom can protect what matters most.",
+      "takeaway": "Make your bedroom as dark as possible. Sleep in near-total darkness to protect your heart structure and function over time.",
+      "source": "European Heart Journal (Tulane University)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
+      "pexelsQuery": "dark bedroom sleep blackout curtains",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6980665/pexels-photo-6980665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6980665/pexels-photo-6980665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Max Vakhtbovych",
+        "photographerUrl": "https://www.pexels.com/@artbovich",
+        "photoPageUrl": "https://www.pexels.com/photo/bedroom-interior-with-plaid-on-bed-at-home-6980665/",
+        "avgColor": "#757779"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "ADHD digestive problems microbiome connection",
+      "headline": "Your ADHD Might Be Your Gut Talking",
+      "body": "Researchers analyzing data from 1.9 million people found something striking: people with ADHD are almost 50% more likely to experience digestive problems than those without it. The connection runs both ways. ADHD traits like impulsivity can lead to irregular eating patterns. Some ADHD medications cause constipation. But more importantly, differences in gut bacteria may be influencing communication between your digestive system and brain through the vagus nerve. This gut-brain axis is bidirectional, meaning a compromised microbiome could amplify ADHD symptoms while ADHD behaviors stress the gut. The takeaway: if you have ADHD, ask your doctor about digestive health during your next appointment.",
+      "takeaway": "If you have ADHD and digestive issues, they're likely connected. Work with your doctor to address both the neurological and gut components together.",
+      "source": "ScienceDaily (Study of 1.9 million people)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
+      "pexelsQuery": "digestive health gut microbiome bacteria",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5841842/pexels-photo-5841842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5841842/pexels-photo-5841842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Monstera Production",
+        "photographerUrl": "https://www.pexels.com/@gabby-k",
+        "photoPageUrl": "https://www.pexels.com/photo/decorative-cardboard-appliques-of-stop-sign-on-assorted-microbes-5841842/",
+        "avgColor": "#D4E182"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Ubiquinol CoQ10 mitochondrial energy fatigue",
+      "headline": "The Battery Draining Your Performance Isn't Your Phone",
+      "body": "Your cells' powerhouses—mitochondria—rely on CoQ10 to convert food into usable energy. A recent Japanese study on ubiquinol, the active form of CoQ10, shows it can meaningfully boost energy in people with mild fatigue. After 12 weeks of supplementation, participants had measurable improvements in battery levels. Here's the catch: your body produces less CoQ10 as you age, and stress, medications, and chronic conditions deplete it faster. That's why busy professionals in their 40s and 50s often hit an energy wall they can't explain. Ubiquinol is more bioavailable than standard CoQ10, meaning your body actually absorbs it. For people running on fumes despite good sleep and nutrition, this might be the missing link.",
+      "takeaway": "If you're chronically fatigued despite adequate sleep, consider ubiquinol supplementation. It directly supports cellular energy production at the mitochondrial level.",
+      "source": "Natural Grocers (Nutrition Bytes)",
+      "sourceUrl": "https://www.naturalgrocers.com/health-hotline-article/nutrition-bytes-september-2026",
+      "pexelsQuery": "energy mitochondria cellular supplements pills",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/3850720/pexels-photo-3850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/3850720/pexels-photo-3850720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ready made",
+        "photographerUrl": "https://www.pexels.com/@readymade",
+        "photoPageUrl": "https://www.pexels.com/photo/medications-pill-on-black-container-3850720/",
+        "avgColor": "#79736D"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "Cartilage regeneration aging protein blocking",
+      "headline": "Your Joints Might Not Need Replacing After All",
+      "body": "Stanford researchers just flipped the script on aging joints. They found a protein called 15-PGDH that increases with age and literally shuts down your body's ability to repair cartilage. When they blocked it in older mice, worn-out cartilage actually grew back. Better yet, human cartilage samples showed the same regeneration. This isn't pain management or inflammation reduction—it's actual cartilage repair. The team used a small molecule inhibitor, and an oral version is already in clinical trials for muscle weakness. No approved drug currently reverses cartilage damage. This breakthrough suggests that joint replacement might become obsolete within years for many people, turning what seemed like inevitable decline into a solvable problem.",
+      "takeaway": "Don't accept that joint pain and cartilage loss are irreversible. A 15-PGDH inhibitor shows promise in regenerating cartilage. Clinical trials are underway.",
+      "source": "ScienceDaily (Stanford Medicine)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
+      "pexelsQuery": "knee joint cartilage healthy active running",
+      "product": {
+        "id": "str-003",
+        "name": "Harbinger Padded Lifting Belt",
+        "brand": "Harbinger",
+        "asin": "B0F4HW62T4",
+        "url": "https://www.amazon.com/dp/B0F4HW62T4?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$",
+        "keywords": [
+          "lifting",
+          "belt",
+          "strength",
+          "deadlift",
+          "squat",
+          "core",
+          "back support",
+          "gym"
+        ],
+        "blurb": "Protect your lower back on heavy lifts. Simple, durable, effective."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/32566501/pexels-photo-32566501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/32566501/pexels-photo-32566501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "CRISTIAN CAMILO  ESTRADA",
+        "photographerUrl": "https://www.pexels.com/@cristian-camilo-estrada-2152272341",
+        "photoPageUrl": "https://www.pexels.com/photo/young-man-running-on-city-street-in-summer-32566501/",
+        "avgColor": "#7E7B76"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Your longevity depends more on the aggregate of what you do most of the time, not being perfect all the time.",
+    "author": "Michael Roizen",
+    "context": "Preventive medicine physician and author on health and longevity"
+  },
+  "workout": {
+    "id": "a100d657-a7a1-4137-906a-66652eedf504",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Dumbbell Press Ladder: Building Overhead Strength",
+    "difficulty": "Beginner",
+    "duration": "40 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "muscle_gain",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Choose a dumbbell weight where rep 8 feels moderately hard but rep 1 feels fast and crisp. If you can't maintain shoulder stability and form, the weight is too heavy—scale down and focus on positioning.",
+    "warmup": "4 min: 10 dumbbell arm circles each direction (light dumbbells or empty hands), 8 scapular push-ups, 5 dumbbell rows per side, 10 air presses to grooves shoulders",
+    "exercises": [
+      {
+        "name": "Dumbbell Bench Press",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Lying flat on a bench or floor, press dumbbells up from chest level. Elbows stay 45° from ribs, not flared out; lower with control and pause 1 sec at chest before pressing."
+      },
+      {
+        "name": "Dumbbell Overhead Press (Standing)",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Stand with feet hip-width apart, dumbbells at shoulder height. Press straight up, then lower to ears—avoid arching lower back excessively. Core tight throughout; breathe in on lowering, out on pressing."
+      },
+      {
+        "name": "Dumbbell Incline Press (Floor or Bench)",
+        "sets": "2",
+        "reps": "10",
+        "notes": "Angle torso 30–45° upright if on bench, or perform elevated push-ups if no bench. This targets upper chest and front shoulders; use slightly lighter weight than flat press."
+      },
+      {
+        "name": "Dumbbell Floor Press (Single-Arm)",
+        "sets": "2",
+        "reps": "8 per side",
+        "notes": "Lying on floor, press one dumbbell up while other arm stays down for stability. Single-arm work reveals and corrects imbalances; maintain spinal rigidity with core bracing."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: 45 sec chest and shoulder stretch (press palms together at chest, round shoulders forward), 45 sec wall shoulder flexion stretch (reach arms overhead at wall), 30 sec doorway pec stretch each side, 30 sec child's pose",
+    "description": "A progressive ladder structure using dumbbells to train the overhead press and bench press in alternating sets, teaching load management and managing fatigue across multiple angles. Ideal for beginners learning how to introduce progressive overload with light-to-moderate weight."
+  },
+  "meal": {
+    "id": "ea2c2cb6-239c-48d0-a004-8b190a96130f",
+    "title": "Seared Trout and Farro Bowl with Roasted Cherry Tomatoes and Herb Yogurt",
+    "description": "Cook a big batch of farro at the start of the week and store it in the fridge. It reheats in 90 seconds and makes high-protein bowls like this a 15-minute weeknight dinner.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 490,
+    "protein_g": 42,
+    "carbs_g": 38,
+    "fat_g": 16,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 trout fillets (about 5 oz each), skin on\n1 cup cooked farro\n1 cup cherry tomatoes\n1 cup baby spinach\n1/2 cup plain Greek yogurt\n1 tbsp fresh dill, chopped\n1 tbsp fresh parsley, chopped\n1 clove garlic, minced\nJuice of half a lemon\n1 tbsp olive oil\nSalt and black pepper to taste\nPinch of smoked paprika\n\nInstructions:\n1. Preheat oven to 400F. Toss cherry tomatoes with a drizzle of olive oil, salt, and pepper on a small baking tray and roast for 12 to 15 minutes until blistered. 2. While tomatoes roast, mix Greek yogurt with dill, parsley, garlic, lemon juice, salt, and pepper to make the herb yogurt. Set aside. 3. Pat trout fillets dry and season with salt, pepper, and smoked paprika. Heat olive oil in a skillet over medium-high heat and sear trout skin-side down for 3 to 4 minutes until the skin is crispy, then flip and cook 1 to 2 minutes more. 4. Build bowls with farro as the base, add a handful of spinach, top with the trout fillet and roasted tomatoes, and finish with a generous spoonful of herb yogurt.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
