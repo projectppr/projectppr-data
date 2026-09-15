@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-15",
+  "dateLabel": "Tuesday, September 15, 2026",
+  "generatedAt": "2026-09-15T11:00:45.742Z",
+  "articles": [
+    {
+      "category": "HORMONES",
+      "topic": "Hidden hormone surges tied to high blood pressure",
+      "headline": "Your Wearable Just Caught What Routine Blood Tests Miss",
+      "body": "A new portable wearable device has exposed something doctors have been missing for years: nighttime hormone spikes that drive high blood pressure. The condition, called primary aldosteronism, affects roughly one in five people with hypertension but goes undiagnosed because standard tests only capture snapshots of hormone levels. Researchers found patients experience hormone bursts during sleep when routine testing never happens. A wearable monitor tracking hormones around the clock uncovered these hidden patterns at home, potentially catching the condition years earlier and preventing heart disease, stroke, and kidney damage before they start.",
+      "takeaway": "If you have high blood pressure that doesn't fully respond to medication, ask your doctor about continuous hormone monitoring. The patterns happen when you're asleep.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260913081916.htm",
+      "pexelsQuery": "blood pressure monitor wearable device",
+      "product": {
+        "id": "watch-002",
+        "name": "Garmin Forerunner 165",
+        "brand": "Garmin",
+        "asin": "B0CWB662HK",
+        "url": "https://www.amazon.com/dp/B0CWB662HK?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$",
+        "keywords": [
+          "running",
+          "gps",
+          "watch",
+          "heart rate",
+          "beginner",
+          "triathlon",
+          "fitness tracker",
+          "garmin"
+        ],
+        "blurb": "The best entry-level Garmin. Everything you need to start training with data."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4680232/pexels-photo-4680232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4680232/pexels-photo-4680232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Lucas Oliveira",
+        "photographerUrl": "https://www.pexels.com/@cais",
+        "photoPageUrl": "https://www.pexels.com/photo/blood-pressure-examination-with-a-sphygmomanometer-on-the-wrist-4680232/",
+        "avgColor": "#89796D"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Progressive resistance builds stronger bones",
+      "headline": "Lifting Heavy Isn't Just About Muscle. Your Bones Are Listening.",
+      "body": "Bone is living tissue that responds to mechanical stress. While any movement is good, researchers now confirm that appropriately progressive resistance training—not just casual activity—sends signals to bones to get stronger. This distinction matters across your entire life, not just in old age. Peak bone mass, age-related loss, and how your skeleton responds to changing activity levels make progressive loading relevant whether you're 30 or 70. The finding reshapes how we think about strength training: it's not cosmetic. It's foundational for skeleton integrity that will either support you or betray you decades from now.",
+      "takeaway": "Progressive resistance training is a non-negotiable tool for bone health. The load must increase over time to send the signal your bones need to stay strong.",
+      "source": "IDEA Health & Fitness Association",
+      "sourceUrl": "https://www.ideafit.com/strength-training-is-having-a-bone-health-moment/",
+      "pexelsQuery": "person lifting weights dumbbells strength training",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7187900/pexels-photo-7187900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7187900/pexels-photo-7187900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-red-shorts-sitting-on-red-bench-lifting-dumbbells-7187900/",
+        "avgColor": "#7B716A"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Slow breathing rewires stress resilience",
+      "headline": "Six Breaths Per Minute Changes How Your Heart Handles Pressure",
+      "body": "Slowing your breathing to around six breaths per minute—significantly lower than normal 12 to 20—activates your parasympathetic nervous system and increases heart rate variability, the marker of your body's ability to adapt under pressure. Recent research shows this practice decreases blood pressure and cortisol while improving mood immediately. More importantly, resilient people show measurable differences in heart rate recovery: their hearts respond less to repeated stressors over time, as if the body learned the threat was survivable. This isn't just feeling calm. It's a physiological rewiring of how your nervous system handles stress.",
+      "takeaway": "Practice slow breathing for five minutes daily. Your heart adapts, your stress hormones drop, and your resilience builds measurably over weeks.",
+      "source": "Scientific Reports & Nature",
+      "sourceUrl": "https://www.nature.com/articles/s41598-025-24813-y",
+      "pexelsQuery": "person breathing meditation calm peaceful",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8436975/pexels-photo-8436975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8436975/pexels-photo-8436975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-in-black-shirt-meditating-8436975/",
+        "avgColor": "#7A8259"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Poor sleep crashes testosterone faster than aging",
+      "headline": "One Week of Bad Sleep Equals 15 Years of Aging Hormones",
+      "body": "Here's what should alarm you: sleeping just five hours per night for one week drops testosterone by 10 to 15 percent in healthy young men. That's the hormonal equivalent of 15 years of normal aging compressed into seven days. The research from JAMA is striking because these weren't sick or elderly men. They were healthy adults. The critical window is the first three hours of uninterrupted sleep, when your body generates the hormonal conditions for overnight testosterone rise. Fragment that sleep, and the rise never happens. For busy professionals in their 40s and 50s, this isn't theoretical. Many are already operating on five to six hours per night.",
+      "takeaway": "Prioritize the first three hours of uninterrupted sleep. That's where your testosterone and growth hormone production lives. Fragmented sleep kills the gains.",
+      "source": "Slumber CBN, citing JAMA & Asian Journal of Andrology",
+      "sourceUrl": "https://slumbercbn.com/blogs/wellness-blog/sleep-and-testosterone-the-connection-in-2026",
+      "pexelsQuery": "person sleeping bed dark bedroom",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8860200/pexels-photo-8860200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8860200/pexels-photo-8860200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/adult-man-sleeping-8860200/",
+        "avgColor": "#293237"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Longevity. Staying healthy. Very simple.",
+    "author": "Morten Andersen",
+    "context": "Former NFL player and hall of fame kicker reflecting on the key to a career spanning decades"
+  },
+  "workout": {
+    "id": "b7aec979-95d8-46c1-8977-8be1ea4e6447",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "treadmill",
+    "title": "Negative Split Climb: Progressive Incline Intervals for Half-Marathon Endurance",
+    "difficulty": "Intermediate",
+    "duration": "48 min",
+    "equipment": [],
+    "trainingZone": "z3",
+    "tags": [
+      "cardio",
+      "indoor",
+      "lower_body",
+      "race_prep",
+      "treadmill_ok",
+      "under_60_min"
+    ],
+    "tip": "Keep your torso upright as incline climbs; lean slightly forward from the ankles, not the hips. Maintain the same perceived effort (conversational but challenged) across all intervals—your pace will naturally slow on steep grades, and that's correct.",
+    "warmup": "5 min walk/jog transition: 2 min @ 3.5 mph / 0% incline, 3 min @ 5.5 mph / 0% incline",
+    "exercises": [
+      {
+        "name": "Interval 1: Steady Climb Block",
+        "sets": "4 × 3 min",
+        "reps": "Progressive incline",
+        "notes": "Min 1–3: 6.2 mph / 2% incline. Min 4–6: 6.2 mph / 4% incline. Min 7–9: 6.2 mph / 6% incline. Min 10–12: 6.2 mph / 8% incline. Maintain composure; breathing should be steady and rhythmic. Focus on cadence (170–180 steps/min) staying constant."
+      },
+      {
+        "name": "Recovery Float",
+        "sets": "1 × 2 min",
+        "reps": "Active recovery",
+        "notes": "5.8 mph / 2% incline. Allows heart rate to drop slightly but maintains forward momentum. Use this to reset breathing and prepare for next block."
+      },
+      {
+        "name": "Interval 2: Peak Endurance Block",
+        "sets": "3 × 4 min",
+        "reps": "Sustained effort",
+        "notes": "Min 15–18: 6.0 mph / 6% incline (perceived effort Z3, hard but sustainable). Min 19–22: 6.3 mph / 4% incline (pace pickup on flatter grade—this is your negative split moment). Min 23–26: 6.5 mph / 2% incline (final push, fastest segment). Dial into how your legs feel; the second half should feel earned, not desperate."
+      },
+      {
+        "name": "Cooldown Float",
+        "sets": "1 × 3 min",
+        "reps": "Easy pace",
+        "notes": "5.2 mph / 0% incline. Walk out any residual tightness in the calves and shins. Gradually decrease speed over final 90 seconds."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min: calf stretch (treadmill edge) 45 sec each leg, standing quad pull 45 sec each leg, forward fold (touch toes) 60 sec, walking 1 min at 3.0 mph",
+    "description": "This treadmill workout builds half-marathon sustainability by progressively increasing incline while maintaining steady pace, simulating the mental and physical demands of running uphill on race day. Athletes start at flat grade and climb incrementally, teaching the body to sustain effort as terrain gets harder—a critical skill for half-marathon success. The negative split structure (faster second half relative to perceived effort) builds confidence and trains the aerobic system to adapt mid-workout."
+  },
+  "meal": {
+    "id": "f582c32f-6e00-4e34-abd9-613e6f06c1d4",
+    "title": "Smoky Red Lentil and Roasted Pepper Bowl",
+    "description": "Red lentils cook fast and don't need soaking, making this genuinely weeknight-ready. Double the batch and refrigerate up to 4 days. The Greek yogurt adds about 6g of extra protein and works like a cooling raita.",
+    "meal_type": "dinner",
+    "macro_profile": "high_carb",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 480,
+    "protein_g": 28,
+    "carbs_g": 58,
+    "fat_g": 12,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n1 cup dry red lentils\n1 red bell pepper, halved\n1 can (14 oz) diced fire-roasted tomatoes\n1/2 cup plain Greek yogurt\n3 cloves garlic, minced\n1 tsp smoked paprika\n1 tsp cumin\n1/2 tsp turmeric\n1/2 tsp chili flakes (optional)\n2 cups vegetable broth\n1 tbsp olive oil\nSalt and pepper to taste\nFresh parsley or cilantro to serve\nSqueeze of lemon juice\n\nInstructions:\n1. Roast the halved bell pepper under a broiler for 10 minutes until charred, then peel and slice. 2. Heat olive oil in a pan, saute garlic for 1 minute, then add spices and toast for 30 seconds. Add lentils, broth, and tomatoes, and simmer on medium for 15 to 18 minutes until lentils are soft. 3. Season with salt, pepper, and a squeeze of lemon. 4. Serve in bowls topped with roasted pepper strips, a dollop of Greek yogurt, and fresh herbs.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
