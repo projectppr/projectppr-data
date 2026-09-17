@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-17",
+  "dateLabel": "Thursday, September 17, 2026",
+  "generatedAt": "2026-09-17T11:01:00.976Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "aging mindset cognitive physical gains",
+      "headline": "Your Beliefs About Getting Older Are Literally Rewiring Your Brain",
+      "body": "A Yale study tracking nearly 4,000 adults from 19 to 94 over three years revealed something striking: your mindset about aging predicts your actual results. Among adults 65 and older, 45 percent improved in at least one major area. But here's the real kicker—those with more positive attitudes about aging were significantly more likely to show measurable cognitive and physical gains. This isn't wishful thinking. The research, published in Geriatrics, suggests that how you frame getting older directly influences whether your brain actually improves or declines. Your narrative about aging might be your most powerful health asset.",
+      "takeaway": "Shift your story about aging. Positive beliefs about growing older predict real improvements in cognitive and physical performance.",
+      "source": "Yale School of Public Health / Geriatrics",
+      "sourceUrl": "https://geriatrics.onlinelibrary.wiley.com/journal/20504527",
+      "pexelsQuery": "older adults happy moving exercising",
+      "photo": {
+        "url": "https://images.pexels.com/photos/11674390/pexels-photo-11674390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11674390/pexels-photo-11674390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Centre for Ageing Better",
+        "photographerUrl": "https://www.pexels.com/@centre-for-ageing-better-55954677",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-people-exercising-11674390/",
+        "avgColor": "#B0A184"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "brain training cognitive improvement lifespan",
+      "headline": "Your Brain Keeps Getting Sharper. Even at 94.",
+      "body": "A three-year study from the University of Texas at Dallas tracked 3,966 adults aged 19 to 94 as they spent just 5 to 15 minutes daily on targeted brain training. The results upended the old narrative: cognitive abilities don't inevitably fade with age. Participants showed measurable improvements across the entire lifespan. Remarkably, those who engaged more heavily with the training saw even greater gains, with no ceiling on potential improvement. The study, published in Scientific Reports, used the BrainHealth Index to track progress. The message is clear: consistent, targeted mental strategies work at every age, and your brain's capacity for growth never truly stops.",
+      "takeaway": "Short daily brain training works at any age. Five minutes of targeted practice compounds into measurable cognitive gains over time.",
+      "source": "University of Texas at Dallas / Scientific Reports",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-51403-3",
+      "pexelsQuery": "brain puzzle learning focus",
+      "product": {
+        "id": "book-001",
+        "name": "Can't Hurt Me - David Goggins Audiobook",
+        "brand": "David Goggins",
+        "asin": "B07KKP62FW",
+        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "mindset",
+          "motivation",
+          "endurance",
+          "running",
+          "ultramarathon",
+          "book",
+          "audiobook"
+        ],
+        "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9786070/pexels-photo-9786070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9786070/pexels-photo-9786070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/teenage-girl-sitting-on-table-and-doing-jigsaw-puzzles-with-her-brother-9786070/",
+        "avgColor": "#897F76"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "stress recovery resilience window brain",
+      "headline": "Your Brain Has a Secret One-Hour Window After Stress",
+      "body": "Scientists just discovered something counterintuitive: your heart rate and cortisol might return to baseline after stress, but your brain's real reorganization is just beginning. Using fMRI and EEG scans, researchers found a critical 'resilience window' that opens one hour after a stressful event. This is when the brain undergoes high-order reorganization—essentially deciding whether stress becomes hardened into your system or gets processed and released. The timing matters. Missing this window means the stress response lingers longer. Understanding when your brain is most plastic after pressure could change how you recover from intense meetings, difficult conversations, or workout stress.",
+      "takeaway": "After stress hits, give yourself 60 minutes of calm recovery. That's when your brain rewires its stress response.",
+      "source": "Neuroscience Research",
+      "sourceUrl": "https://medicalxpress.com/news/2026-03-hidden-resilience-window-human-brain.html",
+      "pexelsQuery": "person recovering resting breathing calm",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7663031/pexels-photo-7663031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7663031/pexels-photo-7663031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anastasia  Shuraeva",
+        "photographerUrl": "https://www.pexels.com/@anastasia-shuraeva",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-wearing-tank-top-lying-on-the-yoga-mat-7663031/",
+        "avgColor": "#848079"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "muscle soreness recovery vibration therapy",
+      "headline": "Vibration Therapy Wins the Soreness Recovery Race",
+      "body": "A new randomized controlled trial tested five different recovery methods against each other: massage therapy, cold-water immersion, vibration therapy, stretching, and electrical stimulation. The winner? Vibration therapy delivered the greatest improvement in muscle contraction speed by 72 hours and the most significant reduction in inflammation markers. Cold-water immersion came in strong for early-phase soreness relief, while massage ranked best for easing pain in the first 24-48 hours. The takeaway: recovery isn't one-size-fits-all. Your recovery method should match your goal—whether that's reducing inflammation, regaining power, or stopping immediate soreness. Understanding which tool works best for your timeline changes everything.",
+      "takeaway": "Use vibration therapy for long-term recovery inflammation reduction. Choose ice baths or massage based on your timeline.",
+      "source": "Frontiers in Physiology",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12358485/",
+      "pexelsQuery": "athlete recovery therapy massage tool",
+      "product": {
+        "id": "rec-002",
+        "name": "Theragun Mini Massage Gun",
+        "brand": "Therabody",
+        "asin": "B0DV7JN7ZD",
+        "url": "https://www.amazon.com/dp/B0DV7JN7ZD?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$$",
+        "keywords": [
+          "recovery",
+          "massage",
+          "muscle soreness",
+          "percussive therapy",
+          "portable",
+          "travel",
+          "triathlon"
+        ],
+        "blurb": "Pocket-sized recovery. Takes the edge off sore muscles anywhere."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8312856/pexels-photo-8312856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8312856/pexels-photo-8312856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/a-back-of-a-person-with-cupping-glass-8312856/",
+        "avgColor": "#A59284"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Sleep is the foundation of everything. No supplement, no training, no diet intervention comes close to what consistent quality sleep does for your mental and physical health.",
+    "author": "Andrew Huberman",
+    "context": "Neuroscientist at Stanford University and host of the Huberman Lab podcast."
+  },
+  "workout": {
+    "id": "ddb35beb-28c4-4436-90f1-b0233d6a29a5",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Hang, Row, and Brace: Back and Core in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar or sturdy door frame",
+      "resistance band (optional)",
+      "floor space"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "beginner_friendly",
+      "core",
+      "minimal_equipment",
+      "pull_dominant",
+      "under_30_min",
+      "upper_body"
+    ],
+    "tip": "If you only have 20 minutes, cut rest periods to 45 seconds and drop one set per exercise. The dead hang alone is worth doing every single day.",
+    "warmup": "Spend 3 minutes doing arm circles, shoulder rolls, and slow cat-cow on the floor. Finish with 10 scapular shrugs while hanging from the bar, just packing your shoulder blades down without pulling with your arms.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "20-40 seconds",
+        "notes": "Use an overhand grip. Let your shoulders fully elevate at the start, then gently pull them down and back before you begin your hold. This decompresses the spine and builds grip strength. Bend knees if feet touch the floor."
+      },
+      {
+        "name": "Inverted Row (use a table edge, low bar, or rings)",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Body straight as a plank, heels on the floor. Pull your chest to the bar and squeeze your shoulder blades together at the top. The more horizontal your body, the harder it gets. If it is too easy, elevate your feet on a chair."
+      },
+      {
+        "name": "Band Pull-Apart",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Hold a resistance band at shoulder height with both hands, arms straight. Pull the band apart until it touches your chest, squeezing your rear delts. If you have no band, do prone Y raises lying face-down on the floor."
+      },
+      {
+        "name": "Scapular Pull-Up",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "Hang from the bar with straight arms. Without bending your elbows, depress your shoulder blades to lift your body 1 to 2 inches. Hold for one second, then lower fully. This is the foundation of a full pull-up and most people skip it entirely."
+      },
+      {
+        "name": "Hollow Body Hold",
+        "sets": "3",
+        "reps": "20-30 seconds",
+        "notes": "Lie on your back, press your lower back into the floor, arms extended overhead, and legs straight and raised a few inches. This is harder than it looks. If your lower back lifts off the floor, raise your legs higher or bend your knees slightly."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with a 90/90 hip stretch on each side and a doorway chest opener for 60 seconds per side. Shake out your hands and forearms after the dead hangs.",
+    "description": "Warmup: Spend 3 minutes doing arm circles, shoulder rolls, and slow cat-cow on the floor. Finish with 10 scapular shrugs while hanging from the bar, just packing your shoulder blades down without pulling with your arms. Dead Hang: 3 sets x 20-40 seconds — Use an overhand grip. Let your shoulders fully elevate at the start, then gently pull them down and back before you begin your hold. This decompresses the spine and builds grip strength. Bend knees if feet touch the floor. Inverted Row (use a table edge, low bar, or rings): 3 sets x 10-12 — Body straight as a plank, heels on the floor. Pull your chest to the bar and squeeze your shoulder blades together at the top. The more horizontal your body, the harder it gets. If it is too easy, elevate your feet on a chair. Band Pull-Apart: 3 sets x 15 — Hold a resistance band at shoulder height with both hands, arms straight. Pull the band apart until it touches your chest, squeezing your rear delts. If you have no band, do prone Y raises lying face-down on the floor. Scapular Pull-Up: 3 sets x 8-10 — Hang from the bar with straight arms. Without bending your elbows, depress your shoulder blades to lift your body 1 to 2 inches. Hold for one second, then lower fully. This is the foundation of a full pull-up and most people skip it entirely. Hollow Body Hold: 3 sets x 20-30 seconds — Lie on your back, press your lower back into the floor, arms extended overhead, and legs straight and raised a few inches. This is harder than it looks. If your lower back lifts off the floor, raise your legs higher or bend your knees slightly. Cooldown: Finish with a 90/90 hip stretch on each side and a doorway chest opener for 60 seconds per side. Shake out your hands and forearms after the dead hangs."
+  },
+  "meal": {
+    "id": "efb9898b-7a32-4c52-a799-a93409bcfc41",
+    "title": "Seared Tuna and Edamame Rice Bowl",
+    "description": "Canned solid albacore works just as well as fresh for this bowl on a busy weekday. Keep a few cans in your pantry and this goes from zero to done in under ten minutes.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 46,
+    "carbs_g": 42,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "prep_minutes": 15,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 sushi-grade or canned solid albacore tuna steaks (6 oz total) OR 2 cans solid white albacore tuna in water, drained\n1 cup cooked brown rice or jasmine rice\n1/2 cup shelled edamame (frozen and thawed)\n1/4 cucumber, thinly sliced\n1/4 avocado, sliced\n2 tbsp low-sodium soy sauce or tamari\n1 tsp sesame oil\n1 tsp rice vinegar\n1/2 tsp grated ginger (fresh or jarred)\n1 tsp sesame seeds\nOptional: red pepper flakes, sliced green onion\n\nInstructions:\n1. If using fresh tuna: pat dry and season lightly with salt. Heat a dry skillet over high heat, sear tuna 60 to 90 seconds per side until just opaque on the outside. Slice. If using canned tuna: drain well and flake. 2. Whisk together soy sauce, sesame oil, rice vinegar, and ginger in a small bowl to make the dressing. 3. Build the bowl: rice on the bottom, then tuna, edamame, cucumber, and avocado arranged on top. 4. Drizzle dressing over everything, finish with sesame seeds and optional toppings.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
