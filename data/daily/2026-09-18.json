@@ -1,0 +1,276 @@
+{
+  "date": "2026-09-18",
+  "dateLabel": "Friday, September 18, 2026",
+  "generatedAt": "2026-09-18T11:00:36.187Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Once-weekly interval training belly fat loss",
+      "headline": "One Workout Per Week Cuts Belly Fat as Well as Three",
+      "body": "New research from the University of Hong Kong tracked 315 adults with central obesity over three years. Participants doing high-intensity interval training just once per week lost as much belly fat as those training three times weekly. The findings suggest that concentrated, intense effort on a single day can match the results of traditional distributed workouts, making it a practical option for busy people who struggle to fit exercise into their schedules consistently.",
+      "takeaway": "If time is your obstacle, one focused weekly session of brisk interval walking can deliver real results for belly fat reduction.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+      "pexelsQuery": "interval training walking exercise outdoor",
+      "product": {
+        "id": "run-004",
+        "name": "HOKA Clifton 9",
+        "brand": "HOKA",
+        "asin": "B0CPBZ8668",
+        "url": "https://www.amazon.com/dp/B0CPBZ8668?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "shoes",
+          "daily trainer",
+          "cushion",
+          "marathon",
+          "recovery run",
+          "easy run"
+        ],
+        "blurb": "Max cushion for easy days and long runs. Keeps your legs fresh for hard sessions."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5037415/pexels-photo-5037415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5037415/pexels-photo-5037415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-black-tank-top-and-black-leggings-standing-on-wooden-dock-5037415/",
+        "avgColor": "#898B88"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Cognitive improvement training across lifespan",
+      "headline": "Your Brain Gets Better With Training. Any Age.",
+      "body": "A three-year study of nearly 4,000 adults spanning ages 19 to 94 shows cognitive decline isn't inevitable. Researchers at the University of Texas at Dallas found that participants who spent just 5 to 15 minutes daily on targeted brain-training activities measurably improved their cognitive performance across the entire lifespan. The research challenges the assumption that mental sharpness inevitably fades with age and shows the brain responds to intentional practice at any stage.",
+      "takeaway": "Daily brain training as brief as 5 minutes produces measurable cognitive gains, even in your 70s and 80s.",
+      "source": "Scientific Reports",
+      "sourceUrl": "https://news.utdallas.edu/health-medicine/cognitive-capacity-study-2026/",
+      "pexelsQuery": "brain training thinking concentration older adult",
+      "product": {
+        "id": "book-005",
+        "name": "How Bad Do You Want It - Matt Fitzgerald Audiobook",
+        "brand": "Matt Fitzgerald",
+        "asin": "B01B6KWGFE",
+        "url": "https://www.amazon.com/dp/B01B6KWGFE?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "endurance",
+          "running",
+          "triathlon",
+          "mindset",
+          "book",
+          "audiobook",
+          "performance"
+        ],
+        "blurb": "The psychology of champions. Why mental fitness is the real limiter."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6787499/pexels-photo-6787499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6787499/pexels-photo-6787499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marcus Aurelius",
+        "photographerUrl": "https://www.pexels.com/@marcus-aurelius",
+        "photoPageUrl": "https://www.pexels.com/photo/couple-practicing-yoga-6787499/",
+        "avgColor": "#8D8C83"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Menstrual cycle hormones exercise perception",
+      "headline": "Your Hormones Change How Hard Exercise Feels—Not Your Ability",
+      "body": "A study from the University of Oregon followed female athletes across their menstrual cycles to understand how fluctuating estrogen and progesterone affect training. The research found something counterintuitive: hormonal changes don't reduce a woman's actual exercise capacity or strength. Instead, higher progesterone levels make the same workout feel more difficult, creating a perception gap between effort and ability. This distinction matters because it reframes the conversation about hormones and performance.",
+      "takeaway": "Your hormone levels make exercise feel harder on some days, but your actual strength capacity stays consistent throughout your cycle.",
+      "source": "Journal of Applied Physiology",
+      "sourceUrl": "https://medicalxpress.com/news/2026-03-hormones-women-youd.html",
+      "pexelsQuery": "woman strength training weights resistance",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/32830367/pexels-photo-32830367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/32830367/pexels-photo-32830367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "TSquared Lab",
+        "photographerUrl": "https://www.pexels.com/@tsquared-lab-312588937",
+        "photoPageUrl": "https://www.pexels.com/photo/caucasian-female-performing-prowler-workout-in-gym-32830367/",
+        "avgColor": "#5B4436"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Consumer wearables ethical concerns privacy",
+      "headline": "Wearables Are Powerful. Ethical Boundaries Matter.",
+      "body": "As wearable devices become mainstream health tools, researchers are raising important questions about consent, data security, and unintended consequences. A new analysis in Nature highlights that while smartwatches and rings provide unprecedented insight into daily health patterns, the ethical frameworks around who owns the data and how it's used lag far behind the technology itself. The shift from fitness tracker to clinical diagnostic tool requires guardrails that protect user privacy while enabling health benefits.",
+      "takeaway": "Before choosing a wearable, ask: Who controls my data? What happens if patterns are flagged? Privacy protections matter as much as sensor accuracy.",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-02671-6",
+      "pexelsQuery": "smartwatch wearable technology device fitness tracker",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/18078945/pexels-photo-18078945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/18078945/pexels-photo-18078945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anastasiya Badun",
+        "photographerUrl": "https://www.pexels.com/@badun",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-watch-18078945/",
+        "avgColor": "#6F634D"
+      }
+    }
+  ],
+  "quote": {
+    "text": "What sets these trends apart is their emphasis on long-term performance rather than short-term results. The trends we will see in 2026 will be rooted in principles that prioritize how the body functions, recovers, and adapts over time to support overall health and longevity.",
+    "author": "Clif Marshall",
+    "context": "Senior Director of Strength and Pro Training at D1 Training, specializing in Division 1 athletic conditioning"
+  },
+  "workout": {
+    "id": "015fafe8-f991-4aca-975f-9c72a87a4e27",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "tempo",
+    "title": "Cruise Interval Lactate Builder: 5×4 Min Threshold Repeats",
+    "difficulty": "Intermediate",
+    "duration": "42 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "cardio",
+      "lactate_work",
+      "outdoor",
+      "race_prep",
+      "under_60_min"
+    ],
+    "tip": "Start the first repeat conservatively—aim for effort, not speed. If your pacing drifts 10+ seconds faster on repeat 1, you'll suffer on repeats 4–5. Find the pace that feels 'hard but holdable' and lock it in.",
+    "warmup": "10 min easy jog at conversational pace, then 2 min at tempo effort to prime lactate clearance, 2 min easy recovery",
+    "exercises": [
+      {
+        "name": "Repeat 1: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "Comfortably hard effort—should be able to speak only 1–2 words. Focus on controlled breathing and relaxed shoulders. This is NOT a sprint; it's a sustained push."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "90 sec",
+        "notes": "Easy, conversational pace. Allow HR to drop 20–30 bpm before next repeat. Breath should normalize."
+      },
+      {
+        "name": "Repeat 2: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "Match the pace and effort of Repeat 1. Fatigue is starting; focus on cadence (aim for 170–180 steps/min) to maintain rhythm."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "90 sec",
+        "notes": "Same as above—easy effort, controlled breathing."
+      },
+      {
+        "name": "Repeat 3: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "This is the mental checkpoint. Pace may naturally slow by 3–5 sec/km due to accumulated lactate. This is normal. Maintain effort, not pace."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "90 sec",
+        "notes": "Stay patient. Two more repeats remain."
+      },
+      {
+        "name": "Repeat 4: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "Legs feel heavy now. Drive through glutes and quads; avoid leaning forward. Mental toughness zone—this is race-specific fitness."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "90 sec",
+        "notes": "One left. Shorten your stride if needed; focus on turnover, not stride length."
+      },
+      {
+        "name": "Repeat 5: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "The finisher. Even if pace drops 5–8 sec/km, holding threshold effort teaches resilience. This is what a 10K feels like in the final km."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min easy jog, then 5 min static stretching: calves 60 sec each leg, hamstrings 60 sec, quad stretch 45 sec each leg, hip flexor lunge 45 sec each side",
+    "description": "This workout develops lactate threshold through sustained 4-minute cruise intervals at comfortably hard effort, with short recovery between repeats. Designed for 10K and half-marathon runners who need to practice holding race pace while building aerobic capacity. The format teaches your body to clear lactate efficiently while maintaining consistent speed under fatigue."
+  },
+  "meal": {
+    "id": "e1b0b023-7f15-45ba-86ff-7dce66d9d430",
+    "title": "Thinly Sliced Beef, Pickled Radish & Wasabi Cream Cheese on Rice Crackers",
+    "description": "Umami-packed smoked beef paired with peppery pickled radish and a wasabi-spiked cream cheese spread on crispy rice crackers. This Japanese-inspired snack hits protein, carbs, and a bold flavor profile that keeps things interesting.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "japanese",
+    "calories": 210,
+    "protein_g": 12,
+    "carbs_g": 16,
+    "fat_g": 11,
+    "fiber_g": 1,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "ingredients": [
+      "70g smoked beef slices (or beef jerky, thinly sliced)",
+      "2 tbsp cream cheese, softened",
+      "1 tsp wasabi paste",
+      "8 rice crackers",
+      "40g pickled radish or daikon (store-bought or quick-pickled)",
+      "1 tsp sesame seeds"
+    ],
+    "instructions": "1. Mix softened cream cheese with wasabi paste until smooth.\n2. Spread a thin layer of wasabi cream cheese on each rice cracker.\n3. Top each cracker with a slice of smoked beef and a piece of pickled radish.\n4. Sprinkle with sesame seeds.\n5. Serve immediately or stack between parchment paper for transport.",
+    "tip": "Buy pre-sliced smoked beef or thinly slice beef jerky yourself—this takes the assembly time down to 5 minutes, and the acid in pickled radish keeps everything fresh-tasting all day.",
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
