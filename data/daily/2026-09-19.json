@@ -1,214 +1,154 @@
 {
   "date": "2026-09-19",
   "dateLabel": "Saturday, September 19, 2026",
-  "generatedAt": "2026-09-19T07:29:33.568Z",
+  "generatedAt": "2026-09-19T11:00:46.362Z",
   "articles": [
     {
-      "category": "GUT HEALTH",
-      "topic": "Gut bacteria transplants peanut allergy tolerance",
-      "headline": "Frozen Poop Pills Just Rewired Food Allergies in Humans",
-      "body": "Researchers at Boston Children's Hospital gave adults with severe peanut allergies frozen capsules containing healthy gut bacteria from non-allergic donors. After a single treatment of 36 pills, six out of 15 participants showed dramatically improved tolerance four months later, able to eat multiple peanuts without reaction. The breakthrough opens a new path for treating one of the hardest allergies to crack. The study reveals how gut bacteria and their metabolites work with your immune system to influence whether your body accepts or rejects food.",
-      "takeaway": "A single fecal microbiota transplant can shift your immune tolerance to peanuts—proof that your gut bacteria directly control food allergies.",
-      "source": "Science Translational Medicine",
-      "sourceUrl": "https://www.science.org/doi/10.1126/scitranslmed.aee3263",
-      "pexelsQuery": "capsule pills medicine pharmaceutical",
-      "product": {
-        "id": "sup-002",
-        "name": "Nordic Naturals Omega-3 Fish Oil",
-        "brand": "Nordic Naturals",
-        "asin": "B002CQU564",
-        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "fish oil",
-          "omega-3",
-          "heart health",
-          "brain health",
-          "inflammation",
-          "supplement",
-          "DHA",
-          "EPA",
-          "recovery"
-        ],
-        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/7033798/pexels-photo-7033798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7033798/pexels-photo-7033798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Tima Miroshnichenko",
-        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
-        "photoPageUrl": "https://www.pexels.com/photo/red-and-white-medicine-capsules-7033798/",
-        "avgColor": "#C7C6C0"
-      }
-    },
-    {
-      "category": "HEART HEALTH",
-      "topic": "Heart muscle regeneration after myocardial infarction",
-      "headline": "Your Heart Can Actually Regrow Muscle. Here's What Scientists Just Proved.",
-      "body": "For decades, cardiologists treated heart attacks as permanent: muscle dies, scar tissue forms, function is lost forever. New research from University of Sydney proves that's wrong. Using living human heart tissue, researchers showed that heart muscle cells actually do re-enter the cell cycle and divide after a heart attack. The regeneration is limited—it doesn't repair full damage—but it fundamentally overturns the idea that damaged hearts are incapable of self-repair. This opens the door to boosting natural repair mechanisms.",
-      "takeaway": "Your heart has intrinsic regenerative capacity after a heart attack. The next step is learning to amplify it.",
-      "source": "Circulation Research",
-      "sourceUrl": "https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.125.327486",
-      "pexelsQuery": "heart cardiac medical anatomy",
-      "product": {
-        "id": "sup-002",
-        "name": "Nordic Naturals Omega-3 Fish Oil",
-        "brand": "Nordic Naturals",
-        "asin": "B002CQU564",
-        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
-        "category": "supplements",
-        "price_range": "$$",
-        "keywords": [
-          "fish oil",
-          "omega-3",
-          "heart health",
-          "brain health",
-          "inflammation",
-          "supplement",
-          "DHA",
-          "EPA",
-          "recovery"
-        ],
-        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
-      },
-      "photo": {
-        "url": "https://images.pexels.com/photos/8943271/pexels-photo-8943271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/8943271/pexels-photo-8943271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Mikhail Nilov",
-        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
-        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-an-automated-external-defibrillator-8943271/",
-        "avgColor": "#807876"
-      }
-    },
-    {
-      "category": "MENTAL PERFORMANCE",
-      "topic": "Pet interaction emotional wellbeing real-time daily stress",
-      "headline": "Petting Your Dog Actually Changes Your Mood Right Now",
-      "body": "A study of 188 dog and cat owners wearing experience-sampling devices found that momentary interaction with pets was directly linked to higher positive mood and lower negative mood in real time. Researchers tracked participants up to 10 times per day over five days and found the emotional lift was consistent and significant. Interacting with dogs and cats produced similar benefits, though cats showed a curious pattern with event-related stress. The bottom line: petting a companion animal isn't placebo—it measurably shifts your emotional state in the moment.",
-      "takeaway": "Pet interaction boosts your positive affect and reduces negative affect immediately, independent of breed or species.",
-      "source": "Frontiers in Psychology",
-      "sourceUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1768288/full",
-      "pexelsQuery": "dog cat pet petting interaction",
-      "photo": {
-        "url": "https://images.pexels.com/photos/15006378/pexels-photo-15006378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/15006378/pexels-photo-15006378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Thượng Hy",
-        "photographerUrl": "https://www.pexels.com/@th-ng-hy-390169813",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-squatting-near-a-white-and-brown-dog-15006378/",
-        "avgColor": "#605B48"
-      }
-    },
-    {
       "category": "LONGEVITY",
-      "topic": "Daily steps cardiovascular mortality risk reduction",
-      "headline": "Your Steps Actually Count. Even On Your Sitting Days.",
-      "body": "Researchers tracking over 70,000 adults for seven years found something counterintuitive: the amount you sit doesn't erase the benefits of daily movement. Any step count above 2,200 steps per day was linked to lower risk of death and cardiovascular disease, regardless of sitting time. The finding removes the excuse that a desk job cancels out your walks. What matters is consistency—not the perfect workout, just movement that accumulates across your day. Even on your busiest days, those steps still count toward longevity.",
-      "takeaway": "2,200 steps daily is the threshold where mortality risk drops, even if you sit for hours afterward.",
-      "source": "British Journal of Sports Medicine",
-      "sourceUrl": "https://bjsm.bmj.com/content/early/2024/06/06/bjsports-2023-107867",
-      "pexelsQuery": "walking steps feet movement outdoor",
+      "topic": "Resilience predicts exceptional longevity in older adults",
+      "headline": "Bouncing Back Is Your Superpower. Here's Why It Adds Years.",
+      "body": "A new validation study confirms what researchers have found in centenarians: resilience matters more than you think. Researchers developed an eight-item scale to measure how well community-dwelling older adults adapt to adversity, and the results are clear. Your ability to bounce back from setbacks, view hardship as growth, and maintain composure under pressure directly correlates with longevity. The study of 510 older adults found that resilience is teachable and measurable, not some fixed trait you either have or don't. This isn't about being tough. It's about flexibility, perspective, and your internal capacity to recover.",
+      "takeaway": "Build resilience through consistent practice facing small challenges. The more you bounce back from manageable difficulties now, the better your odds of reaching your healthiest, longest years.",
+      "source": "Psychological Medicine, International Journal of Geriatrics",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13226803/",
+      "pexelsQuery": "older adult woman smiling strength resilience",
       "photo": {
-        "url": "https://images.pexels.com/photos/1075811/pexels-photo-1075811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/1075811/pexels-photo-1075811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Pille  Kirsi",
-        "photographerUrl": "https://www.pexels.com/@pille-kirsi-222198",
-        "photoPageUrl": "https://www.pexels.com/photo/photography-of-shoes-near-stairs-1075811/",
-        "avgColor": "#49544C"
+        "url": "https://images.pexels.com/photos/6787562/pexels-photo-6787562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6787562/pexels-photo-6787562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Marcus Aurelius",
+        "photographerUrl": "https://www.pexels.com/@marcus-aurelius",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-smiling-at-the-camera-6787562/",
+        "avgColor": "#575E44"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Sleep disruption linked to next-day cognitive decline",
+      "headline": "Sleep Quality Tonight Predicts Your Sharpness Tomorrow",
+      "body": "A new study using smartphone-based cognitive testing shows something researchers couldn't measure before: how last night's sleep directly affects your cognitive performance the next day. Scientists tracked people with dementia and their caregivers, testing memory and reaction speed three times daily for a week. The relationship was bidirectional and real. Poor sleep one night predicted measurable cognitive dips the following day. The finding matters because traditional cognitive assessments only happen once or twice a year. Now we know the brain's performance fluctuates based on sleep quality in ways that affect your daily functioning, caregiving burden, and quality of life.",
+      "takeaway": "Prioritize consistent sleep quality tonight to protect tomorrow's mental clarity. Every night of better sleep compounds into better next-day cognition and daily functioning.",
+      "source": "Alzheimer's & Dementia: Translational Research & Clinical Interventions",
+      "sourceUrl": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70279",
+      "pexelsQuery": "person sleeping peaceful rest bedroom",
+      "photo": {
+        "url": "https://images.pexels.com/photos/371109/pexels-photo-371109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/371109/pexels-photo-371109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-mattress-covered-with-blanket-371109/",
+        "avgColor": "#F4DDD3"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Ketogenic diet cuts liver fat significantly in metabolic disease",
+      "headline": "Keto's Secret Win: The Liver Fat Drop That Matters",
+      "body": "A head-to-head clinical trial shows the ketogenic diet pulled ahead of Mediterranean and low-fat approaches for one specific outcome: liver health in people with obesity and prediabetes. After four to five months, liver fat dropped 67% in the keto group versus 45% in both other diets despite similar weight loss across all three. The keto group also had the highest percentage of people who reversed their prediabetes diagnosis. Researchers at Washington University controlled meals carefully, ruling out compliance as a variable. The data suggests carbohydrate restriction creates metabolic advantages beyond simple calorie deficit, especially for those fighting metabolic dysfunction and fatty liver disease.",
+      "takeaway": "If you have metabolic dysfunction or fatty liver disease, talk to your doctor about whether a ketogenic diet might accelerate your liver recovery beyond what other diets achieve.",
+      "source": "Cell Metabolism",
+      "sourceUrl": "https://www.medscape.com/viewarticle/ketogenic-diet-boosts-liver-health-more-than-other-weight-2026a1000yey",
+      "pexelsQuery": "salad vegetables fresh healthy food",
+      "photo": {
+        "url": "https://images.pexels.com/photos/34618705/pexels-photo-34618705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34618705/pexels-photo-34618705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Novkov Visuals",
+        "photographerUrl": "https://www.pexels.com/@novkov-visuals",
+        "photoPageUrl": "https://www.pexels.com/photo/fresh-vegetable-salad-in-clear-cup-close-up-34618705/",
+        "avgColor": "#E9C5B5"
+      }
+    },
+    {
+      "category": "MINDSET",
+      "topic": "How expectations shape actual sleep outcomes",
+      "headline": "Your Beliefs About Sleep Are Literally Creating Your Sleep Quality",
+      "body": "A study presented at SLEEP 2026 revealed something counterintuitive: pregnant women's expectations about postpartum sleep quality predicted their actual sleep patterns after delivery more accurately than their pre-pregnancy sleep history. What you believe about your sleep before it happens shapes what actually happens. This isn't just psychology. Your mindset affects hormone levels, nervous system activation, and sleep architecture. Positive expectations reduced anxiety, which improved actual sleep onset and duration. The implication goes beyond pregnancy. Your beliefs about whether sleep is possible tonight, whether you can handle disruption, and whether your body is capable of recovery all feed into neurobiological pathways that determine your actual sleep outcome.",
+      "takeaway": "Reframe your sleep narrative. If you believe tonight's sleep will be restorative, you're giving your nervous system permission to make it true.",
+      "source": "SLEEP 2026 Annual Meeting",
+      "sourceUrl": "https://www.sleepmeeting.org/",
+      "pexelsQuery": "person journaling writing reflective thinking",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8370758/pexels-photo-8370758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8370758/pexels-photo-8370758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-yellow-long-sleeve-shirt-sitting-on-a-chair-while-writing-8370758/",
+        "avgColor": "#928E85"
       }
     }
   ],
   "quote": {
-    "text": "The only impossible journey is the one you never begin.",
-    "author": "Tony Robbins",
-    "context": "Peak performance coach and bestselling author known for work on personal transformation and resilience."
+    "text": "Mental toughness and resilience fade if they aren't used consistently. I say it all the time: you are either getting better, or you're getting worse. You're not staying the same.",
+    "author": "David Goggins",
+    "context": "Navy SEAL, ultramarathon runner, and author of Can't Hurt Me on the daily practice required to build mental strength."
   },
   "workout": {
-    "id": "7ef0050c-3fe9-466b-9668-0ef463b3ace4",
+    "id": "e96d939a-2fc3-498b-80b7-be6989d0ea8b",
     "todayType": "FULL_BODY",
     "type": "STRENGTH",
     "sport": "strength",
-    "workoutType": "full_body",
-    "title": "Dumbbell Density Block: Superset Circuit for Strength & Fat Loss",
-    "difficulty": "Intermediate",
-    "duration": "45 min",
-    "equipment": [
-      "dumbbells"
-    ],
+    "workoutType": "hiit",
+    "title": "Core-Cardio Fusion: Total-Body Endurance Conditioning",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [],
     "trainingZone": "mixed",
     "tags": [
-      "circuit",
+      "beginner_friendly",
+      "cardio",
+      "core",
       "fat_loss",
       "full_body",
       "functional",
       "hiit",
-      "minimal_equipment",
-      "muscle_gain",
-      "under_60_min"
+      "hotel_friendly",
+      "no_equipment",
+      "under_30_min"
     ],
-    "tip": "Perform all sets of Superset A before moving to Superset B—this allows adequate recovery for heavier weights while keeping heart rate elevated.",
-    "warmup": "5 min: 10 jumping jacks, 10 inchworms, 10 kettlebell swings (bodyweight simulation with arms), 10 reverse lunges each leg, 5 push-ups",
+    "tip": "On mountain climbers, keep hips level and core braced—avoid hiking your hips up. If the pace feels too fast, slow down and prioritize control. Short, controlled mountain climbers beat sloppy speed.",
+    "warmup": "3 min: 10 arm circles each direction, 10 cat-cows, 10 bird-dogs (5 each side), 5 inchworms, 10 bodyweight squats",
     "exercises": [
       {
-        "name": "Dumbbell Thrusters (Superset A)",
-        "sets": "4",
-        "reps": "10",
-        "notes": "Squat, then explosively press dumbbells overhead. Requires full-body coordination and metabolic demand. Rest 30 sec between sets."
+        "name": "Mountain Climber",
+        "sets": "5 rounds",
+        "reps": "35 sec work / 70 sec rest",
+        "notes": "Plank position, drive knees toward chest alternately. Keep hips steady and shoulders over wrists. Core stays tight throughout. Pace is moderate, not sprint speed."
       },
       {
-        "name": "Dumbbell Renegade Rows (Superset A)",
-        "sets": "4",
-        "reps": "8 each side",
-        "notes": "In plank position, row one dumbbell to hip while maintaining core stability. Builds pressing-position strength and anti-rotation core."
+        "name": "Alternating Knee-to-Chest Lunge",
+        "sets": "5 rounds",
+        "reps": "40 sec work / 80 sec rest",
+        "notes": "Step forward into lunge, drive back knee up toward chest as you stand, then step opposite leg forward. Control the transition; this builds hip drive and balance."
       },
       {
-        "name": "Dumbbell Walking Lunges (Superset B)",
-        "sets": "3",
-        "reps": "12 each leg",
-        "notes": "Step forward with load at shoulders or sides, keep torso upright. Single-leg work builds unilateral strength and hip stability."
-      },
-      {
-        "name": "Dumbbell Floor Press (Superset B)",
-        "sets": "3",
-        "reps": "12",
-        "notes": "Lying on back, press dumbbells from floor, elbows graze floor at bottom. Range of motion is reduced, allowing heavier load and joint safety."
-      },
-      {
-        "name": "Dumbbell High Pulls",
-        "sets": "3",
-        "reps": "12",
-        "notes": "Pull dumbbells high to shoulder height, elbows lead the movement. Explosive triple-extension movement preps athletes for Hyrox and OCR."
+        "name": "Dead Bug",
+        "sets": "4 rounds",
+        "reps": "30 sec work / 60 sec rest",
+        "notes": "Lie on back, arms and legs extended toward ceiling. Lower opposite arm and leg together while maintaining lower-back contact with floor. Slow, deliberate reps. Finisher to stabilize core."
       }
     ],
     "exerciseText": "",
-    "cooldown": "4 min: shoulder rolls backward 10 reps, standing quad stretch 20 sec each leg, standing quad stretch 20 sec each leg, torso rotation 10 each side",
-    "description": "High-volume superset circuit using dumbbells to build strength endurance and metabolic stress in 45 minutes. Perfect for time-crunched athletes training for Hyrox and fat loss who need compound movements paired for maximum output."
+    "cooldown": "4 min: cat-cow 6 reps, child's pose 45 sec, standing forward fold 45 sec, quad stretch 30 sec each leg",
+    "description": "A 25-minute beginner HIIT hybrid pairing bodyweight compound movements with deliberate core holds to build full-body strength-endurance without equipment. This session blends push-pull-squat fundamentals in a high-rest format, making it ideal for busy professionals building fat-loss conditioning and movement quality simultaneously."
   },
   "meal": {
-    "id": "fc0be9e0-ea5b-4722-9d81-198f551a0d4a",
-    "title": "Beef Jerky & Sharp Cheddar Snack Pack",
-    "description": "Portable, shelf-stable protein and fat combo designed to fuel strength athletes between workouts or as a quick desk snack. The combination of beef jerky's concentrated protein and aged cheddar's calcium supports muscle maintenance and bone density.",
-    "meal_type": "snack",
+    "id": "f3c8c883-d06f-4dec-ba6e-c7ac7a714283",
+    "title": "Seared Chicken Thighs with Warm Lentil and Roasted Pepper Salad",
+    "description": "Cook a double batch of lentils on Sunday and this meal comes together in under 15 minutes on a weeknight.",
+    "meal_type": "dinner",
     "macro_profile": "high_protein",
     "difficulty": "easy",
-    "cuisine": "american",
-    "calories": 180,
-    "protein_g": 22,
-    "carbs_g": 2,
-    "fat_g": 9,
+    "cuisine": "",
+    "calories": 490,
+    "protein_g": 42,
+    "carbs_g": 32,
+    "fat_g": 18,
     "fiber_g": 0,
-    "prep_minutes": 0,
+    "prep_minutes": 25,
     "cook_minutes": 0,
-    "ingredients": [
-      "50g beef jerky (3-4 strips)",
-      "30g sharp aged cheddar (1 oz)"
-    ],
-    "instructions": "1. Open jerky package.\n2. Portion cheddar into a small container or wrap in parchment.\n3. Pack together for a grab-and-go snack.",
-    "tip": "Buy jerky in bulk from Costco or online to cut costs. Choose low-sugar varieties (under 4g per serving) to avoid unnecessary carbs between meals.",
-    "goal_affinity": [
-      "strength",
-      "general_fitness"
-    ],
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 bone-in, skin-on chicken thighs\n1 cup cooked green or puy lentils\n1 roasted red pepper (jarred is fine), sliced\n2 cups baby spinach\n1 clove garlic, minced\n1 tablespoon olive oil\n1 tablespoon red wine vinegar\n1 teaspoon smoked paprika\nSalt and black pepper to taste\nFresh parsley to finish\n\nInstructions:\nSeason chicken thighs with smoked paprika, salt, and pepper. Sear skin-side down in an oven-safe pan over medium-high heat for 6-7 minutes until golden, then flip and finish in a 400F oven for 12-15 minutes until cooked through. While chicken rests, warm olive oil in a pan over medium heat and saute garlic for 1 minute. Add lentils, roasted pepper, and spinach. Stir until spinach wilts, then deglaze with red wine vinegar. Serve the lentil salad topped with the chicken thigh and a scatter of fresh parsley.",
+    "tip": "",
+    "goal_affinity": [],
     "image_url": ""
   }
 }
