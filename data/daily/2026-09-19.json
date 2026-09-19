@@ -1,190 +1,213 @@
 {
   "date": "2026-09-19",
   "dateLabel": "Saturday, September 19, 2026",
-  "generatedAt": "2026-09-19T07:29:08.598Z",
+  "generatedAt": "2026-09-19T07:29:33.568Z",
   "articles": [
     {
-      "category": "LONGEVITY",
-      "topic": "positive beliefs aging improvement",
-      "headline": "Believe You Can Get Better at 65. Your Brain Will Follow.",
-      "body": "A major Yale study tracked nearly 4,000 adults from 19 to 94 over three years. The finding? Half of those over 65 actually improved in at least one area—32 percent gained cognitive sharpness, 28 percent showed physical gains. The difference wasn't luck or genetics. People who held more positive views about aging were significantly more likely to see these improvements. What you believe about getting older isn't just mindset—it's biology. Your assumptions about decline literally shape whether you improve or decline.",
-      "takeaway": "Stop rehearsing the story that aging means declining. Your beliefs about aging predict your actual trajectory more than you think.",
-      "source": "SUCCESS Magazine",
-      "sourceUrl": "https://www.success.com/longevity-research-2026-new-findings",
-      "pexelsQuery": "older adult smiling confidence",
-      "photo": {
-        "url": "https://images.pexels.com/photos/6787562/pexels-photo-6787562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6787562/pexels-photo-6787562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Marcus Aurelius",
-        "photographerUrl": "https://www.pexels.com/@marcus-aurelius",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-smiling-at-the-camera-6787562/",
-        "avgColor": "#575E44"
-      }
-    },
-    {
-      "category": "HORMONES",
-      "topic": "FDA hormone therapy safety approval",
-      "headline": "The FDA Just Changed What It Says About Hormone Therapy. Here's What That Means.",
-      "body": "After two decades of warnings, the FDA removed black box warnings from hormone therapy in early 2026—the most significant regulatory shift in midlife women's health in a generation. New research shows women who started HRT near menopause experienced no increased mortality risk. Those who had surgical removal of both ovaries between 45 and 54 and used HRT saw a 27 to 34 percent lower death risk. The catch: timing matters. Starting within 10 years of menopause changes everything. The old fears from outdated studies are finally being replaced with actual evidence.",
-      "takeaway": "If you're in your 40s or 50s and dealing with menopause symptoms, the medical consensus has fundamentally shifted. Talk to a doctor about what might actually help.",
-      "source": "Spital Clinic London",
-      "sourceUrl": "https://www.spitalclinic.com/articles/hrt-in-2026-safety-risks-new-evidence",
-      "pexelsQuery": "woman middle-aged confidence health",
-      "photo": {
-        "url": "https://images.pexels.com/photos/6667742/pexels-photo-6667742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6667742/pexels-photo-6667742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Kampus Production",
-        "photographerUrl": "https://www.pexels.com/@kampus",
-        "photoPageUrl": "https://www.pexels.com/photo/woman-in-yellow-hat-and-sweater-6667742/",
-        "avgColor": "#CABF9C"
-      }
-    },
-    {
-      "category": "RECOVERY",
-      "topic": "compression boots muscle recovery science",
-      "headline": "Compression Boots Feel Amazing. Here's What They Actually Do.",
-      "body": "Compression boots reliably reduce how sore you feel after hard workouts. The catch? They don't speed muscle repair or restore your actual performance. A comprehensive review of recovery interventions found most tools modestly reduce soreness or boost perceived recovery, but rarely restore function. Ice baths may actually impair training adaptations if used routinely. Massage, compression, protein, tart cherry juice, and omega-3s have variable benefits. The tools that work best aren't sexy: sleep, protein distribution, and consistent training. Feel good matters. Function matters more.",
-      "takeaway": "Recovery isn't one tool. It's sleep, protein timing, and stress management. Compression feels nice but doesn't replace the fundamentals.",
-      "source": "Medical Xpress",
-      "sourceUrl": "https://medicalxpress.com/news/2026-09-workout-recovery-techniques-science-hype.html",
-      "pexelsQuery": "athlete recovery ice boots",
+      "category": "GUT HEALTH",
+      "topic": "Gut bacteria transplants peanut allergy tolerance",
+      "headline": "Frozen Poop Pills Just Rewired Food Allergies in Humans",
+      "body": "Researchers at Boston Children's Hospital gave adults with severe peanut allergies frozen capsules containing healthy gut bacteria from non-allergic donors. After a single treatment of 36 pills, six out of 15 participants showed dramatically improved tolerance four months later, able to eat multiple peanuts without reaction. The breakthrough opens a new path for treating one of the hardest allergies to crack. The study reveals how gut bacteria and their metabolites work with your immune system to influence whether your body accepts or rejects food.",
+      "takeaway": "A single fecal microbiota transplant can shift your immune tolerance to peanuts—proof that your gut bacteria directly control food allergies.",
+      "source": "Science Translational Medicine",
+      "sourceUrl": "https://www.science.org/doi/10.1126/scitranslmed.aee3263",
+      "pexelsQuery": "capsule pills medicine pharmaceutical",
       "product": {
-        "id": "rec-001",
-        "name": "TriggerPoint GRID Foam Roller",
-        "brand": "TriggerPoint",
-        "asin": "B0040EGNIU",
-        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
-        "category": "recovery",
-        "price_range": "$",
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
         "keywords": [
-          "foam roller",
-          "recovery",
-          "muscle soreness",
-          "flexibility",
-          "mobility",
-          "IT band",
-          "running",
-          "triathlon"
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
         ],
-        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
       },
       "photo": {
-        "url": "https://images.pexels.com/photos/6468590/pexels-photo-6468590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6468590/pexels-photo-6468590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Tony Schnagl",
-        "photographerUrl": "https://www.pexels.com/@tony-schnagl",
-        "photoPageUrl": "https://www.pexels.com/photo/a-hockey-player-protecting-it-s-goal-post-6468590/",
-        "avgColor": "#817E7A"
+        "url": "https://images.pexels.com/photos/7033798/pexels-photo-7033798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7033798/pexels-photo-7033798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/red-and-white-medicine-capsules-7033798/",
+        "avgColor": "#C7C6C0"
       }
     },
     {
-      "category": "MINDSET",
-      "topic": "beliefs shape health treatment outcomes",
-      "headline": "Your Belief About a Treatment Shapes Whether It Works.",
-      "body": "A new framework reviewed four decades of research across medicine, psychology, and sports science. The finding is clear: what you believe about a treatment influences how you respond to it. But belief isn't formed in isolation. It's shaped by five factors working together—your past experiences, the practitioner's communication, your relationship with them, the treatment itself, and even the environment where care happens. This explains why identical treatments work differently for different people. Your expectations don't make science disappear. They change how your system engages with it.",
-      "takeaway": "Your skepticism about treatment isn't weakness. It's real biology. Choosing providers who communicate clearly changes outcomes.",
-      "source": "Journal of Psychosomatic Research",
-      "sourceUrl": "https://medicalxpress.com/news/2026-07-framework-power-belief-health.html",
-      "pexelsQuery": "person talking to doctor trust",
+      "category": "HEART HEALTH",
+      "topic": "Heart muscle regeneration after myocardial infarction",
+      "headline": "Your Heart Can Actually Regrow Muscle. Here's What Scientists Just Proved.",
+      "body": "For decades, cardiologists treated heart attacks as permanent: muscle dies, scar tissue forms, function is lost forever. New research from University of Sydney proves that's wrong. Using living human heart tissue, researchers showed that heart muscle cells actually do re-enter the cell cycle and divide after a heart attack. The regeneration is limited—it doesn't repair full damage—but it fundamentally overturns the idea that damaged hearts are incapable of self-repair. This opens the door to boosting natural repair mechanisms.",
+      "takeaway": "Your heart has intrinsic regenerative capacity after a heart attack. The next step is learning to amplify it.",
+      "source": "Circulation Research",
+      "sourceUrl": "https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.125.327486",
+      "pexelsQuery": "heart cardiac medical anatomy",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
       "photo": {
-        "url": "https://images.pexels.com/photos/6129149/pexels-photo-6129149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/6129149/pexels-photo-6129149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "RDNE Stock project",
-        "photographerUrl": "https://www.pexels.com/@rdne",
-        "photoPageUrl": "https://www.pexels.com/photo/doctor-talking-to-a-patient-lying-down-on-a-hospital-bed-6129149/",
-        "avgColor": "#9BABB6"
+        "url": "https://images.pexels.com/photos/8943271/pexels-photo-8943271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8943271/pexels-photo-8943271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-an-automated-external-defibrillator-8943271/",
+        "avgColor": "#807876"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Pet interaction emotional wellbeing real-time daily stress",
+      "headline": "Petting Your Dog Actually Changes Your Mood Right Now",
+      "body": "A study of 188 dog and cat owners wearing experience-sampling devices found that momentary interaction with pets was directly linked to higher positive mood and lower negative mood in real time. Researchers tracked participants up to 10 times per day over five days and found the emotional lift was consistent and significant. Interacting with dogs and cats produced similar benefits, though cats showed a curious pattern with event-related stress. The bottom line: petting a companion animal isn't placebo—it measurably shifts your emotional state in the moment.",
+      "takeaway": "Pet interaction boosts your positive affect and reduces negative affect immediately, independent of breed or species.",
+      "source": "Frontiers in Psychology",
+      "sourceUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1768288/full",
+      "pexelsQuery": "dog cat pet petting interaction",
+      "photo": {
+        "url": "https://images.pexels.com/photos/15006378/pexels-photo-15006378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/15006378/pexels-photo-15006378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Thượng Hy",
+        "photographerUrl": "https://www.pexels.com/@th-ng-hy-390169813",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-squatting-near-a-white-and-brown-dog-15006378/",
+        "avgColor": "#605B48"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "Daily steps cardiovascular mortality risk reduction",
+      "headline": "Your Steps Actually Count. Even On Your Sitting Days.",
+      "body": "Researchers tracking over 70,000 adults for seven years found something counterintuitive: the amount you sit doesn't erase the benefits of daily movement. Any step count above 2,200 steps per day was linked to lower risk of death and cardiovascular disease, regardless of sitting time. The finding removes the excuse that a desk job cancels out your walks. What matters is consistency—not the perfect workout, just movement that accumulates across your day. Even on your busiest days, those steps still count toward longevity.",
+      "takeaway": "2,200 steps daily is the threshold where mortality risk drops, even if you sit for hours afterward.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://bjsm.bmj.com/content/early/2024/06/06/bjsports-2023-107867",
+      "pexelsQuery": "walking steps feet movement outdoor",
+      "photo": {
+        "url": "https://images.pexels.com/photos/1075811/pexels-photo-1075811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1075811/pexels-photo-1075811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pille  Kirsi",
+        "photographerUrl": "https://www.pexels.com/@pille-kirsi-222198",
+        "photoPageUrl": "https://www.pexels.com/photo/photography-of-shoes-near-stairs-1075811/",
+        "avgColor": "#49544C"
       }
     }
   ],
   "quote": {
-    "text": "Your body achieves what the mind believes.",
-    "author": "Jim Evans",
-    "context": "Sports psychologist and performance coach emphasizing the mind-body connection in athletic and health achievement."
+    "text": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins",
+    "context": "Peak performance coach and bestselling author known for work on personal transformation and resilience."
   },
   "workout": {
-    "id": "1c559e4c-6320-465a-a474-47bd0d1eed49",
+    "id": "7ef0050c-3fe9-466b-9668-0ef463b3ace4",
     "todayType": "FULL_BODY",
     "type": "STRENGTH",
     "sport": "strength",
-    "workoutType": "push",
-    "title": "Overhead Press Ladder: Vertical Pressing Power & Shoulder Hypertrophy",
+    "workoutType": "full_body",
+    "title": "Dumbbell Density Block: Superset Circuit for Strength & Fat Loss",
     "difficulty": "Intermediate",
-    "duration": "48 min",
+    "duration": "45 min",
     "equipment": [
-      "barbell",
-      "dumbbells",
-      "bench"
+      "dumbbells"
     ],
-    "trainingZone": "z4",
+    "trainingZone": "mixed",
     "tags": [
-      "barbell_required",
-      "gym_required",
+      "circuit",
+      "fat_loss",
+      "full_body",
+      "functional",
+      "hiit",
+      "minimal_equipment",
       "muscle_gain",
-      "push_dominant",
-      "under_60_min",
-      "upper_body"
+      "under_60_min"
     ],
-    "tip": "Pack your shoulders before each rep—depress the scapula and create tension through your lats. Press in a straight line, not in front of your face. Engage your core as if bracing for a punch.",
-    "warmup": "6 min: 15 band pull-aparts, 10 scapular wall slides, 5 inchworms, 8 empty-bar presses, 3 reps @ 60% working weight",
+    "tip": "Perform all sets of Superset A before moving to Superset B—this allows adequate recovery for heavier weights while keeping heart rate elevated.",
+    "warmup": "5 min: 10 jumping jacks, 10 inchworms, 10 kettlebell swings (bodyweight simulation with arms), 10 reverse lunges each leg, 5 push-ups",
     "exercises": [
       {
-        "name": "Barbell Overhead Press (Strict Form)",
+        "name": "Dumbbell Thrusters (Superset A)",
         "sets": "4",
-        "reps": "3, 5, 7, 10",
-        "notes": "Start @ 82% 1RM for 3 reps, drop to 75% for 5 reps, 70% for 7 reps, 65% for 10 reps. Rest 2 min between sets. Each rep should be a grind—no explosive bouncing."
+        "reps": "10",
+        "notes": "Squat, then explosively press dumbbells overhead. Requires full-body coordination and metabolic demand. Rest 30 sec between sets."
       },
       {
-        "name": "Dumbbell Single-Arm Shoulder Press",
-        "sets": "3",
+        "name": "Dumbbell Renegade Rows (Superset A)",
+        "sets": "4",
         "reps": "8 each side",
-        "notes": "Unilateral pressing builds stabilizer strength and exposes asymmetries. Anti-rotation work—brace obliques hard. Rest 90 sec."
+        "notes": "In plank position, row one dumbbell to hip while maintaining core stability. Builds pressing-position strength and anti-rotation core."
       },
       {
-        "name": "Incline Dumbbell Press (Flat Bench, 30-Degree Angle)",
+        "name": "Dumbbell Walking Lunges (Superset B)",
         "sets": "3",
-        "reps": "9",
-        "notes": "Bridge the gap between flat and incline pressing. Upper-chest and front-delt hypertrophy. Tempo: 2 down, 1 pause, 1 up. Rest 75 sec."
+        "reps": "12 each leg",
+        "notes": "Step forward with load at shoulders or sides, keep torso upright. Single-leg work builds unilateral strength and hip stability."
       },
       {
-        "name": "Lateral Raise (Dumbbell)",
+        "name": "Dumbbell Floor Press (Superset B)",
         "sets": "3",
         "reps": "12",
-        "notes": "Isolation for shoulder width. Slight elbow bend, raise to shoulder height, squeeze at the top. Light weight, high control. Rest 60 sec."
+        "notes": "Lying on back, press dumbbells from floor, elbows graze floor at bottom. Range of motion is reduced, allowing heavier load and joint safety."
+      },
+      {
+        "name": "Dumbbell High Pulls",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Pull dumbbells high to shoulder height, elbows lead the movement. Explosive triple-extension movement preps athletes for Hyrox and OCR."
       }
     ],
     "exerciseText": "",
-    "cooldown": "5 min: overhead shoulder stretch 45 sec each side, thoracic extension over foam roller or bench 60 sec, wall angel holds 30 sec, neck rolls 30 sec",
-    "description": "This ascending-rep ladder builds shoulder strength and upper-back resilience through varied loading and volume density. Starting heavy and ascending to moderate weight keeps the nervous system engaged while flooding the shoulders with work—ideal for athletes building overhead press strength and chest-shoulder integration. Unilateral and stability work prevents imbalances common in pressing athletes."
+    "cooldown": "4 min: shoulder rolls backward 10 reps, standing quad stretch 20 sec each leg, standing quad stretch 20 sec each leg, torso rotation 10 each side",
+    "description": "High-volume superset circuit using dumbbells to build strength endurance and metabolic stress in 45 minutes. Perfect for time-crunched athletes training for Hyrox and fat loss who need compound movements paired for maximum output."
   },
   "meal": {
-    "id": "fa34a51b-02c7-496c-912f-d7db0ff7cbb0",
-    "title": "Cotija & Black Bean Crispy Tortilla Stack",
-    "description": "Crispy baked tortilla chips layered with seasoned black beans and crumbly cotija cheese—a handheld Mexican-inspired snack with serious plant-based protein and fiber. No greasy frying, all satisfying crunch.",
+    "id": "fc0be9e0-ea5b-4722-9d81-198f551a0d4a",
+    "title": "Beef Jerky & Sharp Cheddar Snack Pack",
+    "description": "Portable, shelf-stable protein and fat combo designed to fuel strength athletes between workouts or as a quick desk snack. The combination of beef jerky's concentrated protein and aged cheddar's calcium supports muscle maintenance and bone density.",
     "meal_type": "snack",
     "macro_profile": "high_protein",
     "difficulty": "easy",
-    "cuisine": "mexican",
-    "calories": 205,
-    "protein_g": 9,
-    "carbs_g": 24,
-    "fat_g": 8,
-    "fiber_g": 5,
-    "prep_minutes": 5,
-    "cook_minutes": 12,
+    "cuisine": "american",
+    "calories": 180,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 9,
+    "fiber_g": 0,
+    "prep_minutes": 0,
+    "cook_minutes": 0,
     "ingredients": [
-      "4 small corn tortillas",
-      "1 tbsp olive oil",
-      "100g canned black beans, drained",
-      "0.5 tsp cumin",
-      "0.25 tsp chili powder",
-      "pinch of salt",
-      "30g crumbled cotija cheese"
+      "50g beef jerky (3-4 strips)",
+      "30g sharp aged cheddar (1 oz)"
     ],
-    "instructions": "1. Slice tortillas into quarters and toss with olive oil, salt, and a pinch of cumin.\n2. Spread on a baking sheet and bake at 375°F for 10–12 minutes until golden and crispy.\n3. Warm black beans in a small pan with chili powder and remaining cumin (2 minutes).\n4. Layer cooled tortilla chips with warm beans and top with cotija cheese.\n5. Eat immediately while chips are crispy.",
-    "tip": "Bake the tortilla chips in bulk on meal-prep day—they keep crisp for 3 days in an airtight container, and you can assemble the snack 5 minutes before eating.",
+    "instructions": "1. Open jerky package.\n2. Portion cheddar into a small container or wrap in parchment.\n3. Pack together for a grab-and-go snack.",
+    "tip": "Buy jerky in bulk from Costco or online to cut costs. Choose low-sugar varieties (under 4g per serving) to avoid unnecessary carbs between meals.",
     "goal_affinity": [
-      "general_fitness",
-      "recovery"
+      "strength",
+      "general_fitness"
     ],
     "image_url": ""
   }
