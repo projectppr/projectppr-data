@@ -1,0 +1,203 @@
+{
+  "date": "2026-09-21",
+  "dateLabel": "Monday, September 21, 2026",
+  "generatedAt": "2026-09-21T11:00:53.695Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "Whole grains heart health cardiovascular benefits",
+      "headline": "The Grain Sweet Spot: Four to Six Servings a Day Cuts Heart Risk",
+      "body": "New research analyzed 87 clinical trials involving over 6,500 people and found that eating four to six servings of whole grains daily delivers meaningful improvements in heart health. The studies showed consistent reductions in body weight, waist size, blood pressure, cholesterol, and inflammation markers. The benefits were strongest when whole grains replaced refined grains. These changes combined could meaningfully lower your long-term risk of heart disease. The key takeaway: it's about replacement, not just addition.",
+      "takeaway": "Swap refined grains for whole grains at most meals. Four to six servings daily shows the strongest cardiovascular benefits.",
+      "source": "European Heart Journal",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260915232126.htm",
+      "pexelsQuery": "whole grain bread cereal bowl",
+      "product": {
+        "id": "book-004",
+        "name": "80/20 Running - Matt Fitzgerald Audiobook",
+        "brand": "Matt Fitzgerald",
+        "asin": "B071D4481W",
+        "url": "https://www.amazon.com/dp/B071D4481W?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "running",
+          "training",
+          "zone 2",
+          "easy running",
+          "book",
+          "audiobook",
+          "marathon",
+          "performance"
+        ],
+        "blurb": "Why 80% of your running should be easy. The science behind training smarter."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/30892401/pexels-photo-30892401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/30892401/pexels-photo-30892401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jakub Zerdzicki",
+        "photographerUrl": "https://www.pexels.com/@jakubzerdzicki",
+        "photoPageUrl": "https://www.pexels.com/photo/delicious-croissant-and-cereal-breakfast-spread-30892401/",
+        "avgColor": "#6E4E37"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Pomegranate walnut urolithin intestinal healing",
+      "headline": "Your Gut Bacteria Turn Pomegranates Into Medicine. Here's How.",
+      "body": "Researchers discovered that when your gut bacteria digest pomegranates, walnuts, and berries, they produce a compound called urolithin A that activates a protective pathway in your intestinal lining. This isn't about disease—it works whether or not you have inflammatory bowel issues. Urolithin A strengthens the mucus layer, boosts antimicrobial defense, and repairs the gut barrier itself. The combination matters: you need both the polyphenol-rich foods and the right bacteria in your microbiome. It's a partnership between what you eat and who's living in your gut.",
+      "takeaway": "Eat pomegranates, walnuts, and berries regularly. Your gut bacteria know what to do with them.",
+      "source": "Nature Communications / University of Louisville",
+      "sourceUrl": "https://medicalxpress.com/news/2026-06-scientists-gut-power-fruits-nuts.html",
+      "pexelsQuery": "pomegranate walnuts berries on plate",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14909111/pexels-photo-14909111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14909111/pexels-photo-14909111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ömer Kayan",
+        "photographerUrl": "https://www.pexels.com/@omerkayann",
+        "photoPageUrl": "https://www.pexels.com/photo/orange-slices-and-food-on-plate-14909111/",
+        "avgColor": "#4E3926"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Hyperbaric oxygen therapy sleep quality improvement",
+      "headline": "Oxygen Chambers Just Became a Sleep Game-Changer",
+      "body": "A 2026 study published in Frontiers in Neurology looked at 395 people—healthy aging adults, long COVID patients, and those with PTSD—who completed 60 sessions of hyperbaric oxygen therapy. Every single group showed significant improvements in sleep quality. Those who started with the worst sleep saw the biggest gains. The mechanism is elegant: hyperbaric oxygen improves cerebral blood flow, reduces inflammation, and enhances mitochondrial function, helping your brain regulate sleep-wake cycles more effectively. It's not a quick fix, but consistency works.",
+      "takeaway": "Hyperbaric oxygen therapy shows real promise for sleep. Expect meaningful results after 60 sessions.",
+      "source": "Frontiers in Neurology",
+      "sourceUrl": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1690633/full",
+      "pexelsQuery": "person sleeping peacefully in bed",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/371109/pexels-photo-371109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/371109/pexels-photo-371109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-on-mattress-covered-with-blanket-371109/",
+        "avgColor": "#F4DDD3"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Eye scan retinal imaging atrial fibrillation detection",
+      "headline": "Your Eyes Just Became a Heart Health Detector",
+      "body": "A study of over 90,000 people revealed something stunning: your retina shows signs of atrial fibrillation years before your heart rhythm actually goes haywire—up to four years early. Researchers at UCL and Moorfields Eye Hospital found distinct structural changes in the retinal layers of people developing AFib. This field, called oculomics, is opening a completely new diagnostic window. Standard ECGs miss intermittent AFib all the time. A simple eye scan during your routine eye appointment could catch risk before it becomes a problem.",
+      "takeaway": "Routine eye scans may soon flag AFib risk years early. Ask your eye doctor about retinal imaging.",
+      "source": "PLOS Digital Health",
+      "sourceUrl": "https://medicalxpress.com/news/2026-09-retinal-scans-flag-atrial-fibrillation.html",
+      "pexelsQuery": "eye exam retinal scan ophthalmology",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5996762/pexels-photo-5996762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5996762/pexels-photo-5996762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/a-doctor-checking-a-girl-s-eye-5996762/",
+        "avgColor": "#A99994"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Longevity is built through stress management, not just stress application. Recovery, sleep, and hormone health are performance multipliers, not optional add-ons.",
+    "author": "Jonathan Mike",
+    "context": "Sports performance coach, author, and international speaker specializing in athlete health and longevity."
+  },
+  "workout": {
+    "id": "fa908b23-d86e-44e2-ad2b-cc5d30c6b4d9",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Pressing Power: Chest, Shoulders and Triceps Builder",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [
+      "dumbbells",
+      "mat"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "minimal_equipment",
+      "muscle_gain",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "If your lower back arches off the floor during floor press, place your feet flat and bend your knees. Keeps the tension where it belongs and protects your spine.",
+    "warmup": "Start with 30 seconds of arm circles forward and backward, then 10 slow shoulder rolls each side. Finish with 10 bodyweight push-ups at an easy pace to wake up the chest and shoulders before loading.",
+    "exercises": [
+      {
+        "name": "Dumbbell Floor Press",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Keep elbows at 45 degrees from your torso, not flared wide. Press to full extension and lower slowly over 3 seconds."
+      },
+      {
+        "name": "Standing Dumbbell Overhead Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Stand with feet hip-width, brace your core before you press. Do not lean back. Lower until elbows are at 90 degrees."
+      },
+      {
+        "name": "Push-Up to Shoulder Tap",
+        "sets": "3",
+        "reps": "8 per side",
+        "notes": "After each push-up, tap your opposite shoulder with control. The slower the tap, the more core and shoulder stability work you get."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Slight bend in the elbow, raise to shoulder height only. Pause for one second at the top. Do not swing."
+      },
+      {
+        "name": "Triceps Dumbbell Kickback",
+        "sets": "3",
+        "reps": "12 per arm",
+        "notes": "Hinge forward at the hips, keep the upper arm parallel to the floor throughout. Squeeze at full extension."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Spend 60 seconds in a doorway chest stretch, then 60 seconds in a seated triceps overhead stretch each arm. Shake out the hands and take three slow deep breaths.",
+    "description": "Warmup: Start with 30 seconds of arm circles forward and backward, then 10 slow shoulder rolls each side. Finish with 10 bodyweight push-ups at an easy pace to wake up the chest and shoulders before loading. Dumbbell Floor Press: 3 sets x 10-12 — Keep elbows at 45 degrees from your torso, not flared wide. Press to full extension and lower slowly over 3 seconds. Standing Dumbbell Overhead Press: 3 sets x 10 — Stand with feet hip-width, brace your core before you press. Do not lean back. Lower until elbows are at 90 degrees. Push-Up to Shoulder Tap: 3 sets x 8 per side — After each push-up, tap your opposite shoulder with control. The slower the tap, the more core and shoulder stability work you get. Dumbbell Lateral Raise: 3 sets x 12 — Slight bend in the elbow, raise to shoulder height only. Pause for one second at the top. Do not swing. Triceps Dumbbell Kickback: 3 sets x 12 per arm — Hinge forward at the hips, keep the upper arm parallel to the floor throughout. Squeeze at full extension. Cooldown: Spend 60 seconds in a doorway chest stretch, then 60 seconds in a seated triceps overhead stretch each arm. Shake out the hands and take three slow deep breaths."
+  },
+  "meal": {
+    "id": "f3c8c883-d06f-4dec-ba6e-c7ac7a714283",
+    "title": "Seared Chicken Thighs with Warm Lentil and Roasted Pepper Salad",
+    "description": "Cook a double batch of lentils on Sunday and this meal comes together in under 15 minutes on a weeknight.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 490,
+    "protein_g": 42,
+    "carbs_g": 32,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 bone-in, skin-on chicken thighs\n1 cup cooked green or puy lentils\n1 roasted red pepper (jarred is fine), sliced\n2 cups baby spinach\n1 clove garlic, minced\n1 tablespoon olive oil\n1 tablespoon red wine vinegar\n1 teaspoon smoked paprika\nSalt and black pepper to taste\nFresh parsley to finish\n\nInstructions:\nSeason chicken thighs with smoked paprika, salt, and pepper. Sear skin-side down in an oven-safe pan over medium-high heat for 6-7 minutes until golden, then flip and finish in a 400F oven for 12-15 minutes until cooked through. While chicken rests, warm olive oil in a pan over medium heat and saute garlic for 1 minute. Add lentils, roasted pepper, and spinach. Stir until spinach wilts, then deglaze with red wine vinegar. Serve the lentil salad topped with the chicken thigh and a scatter of fresh parsley.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
