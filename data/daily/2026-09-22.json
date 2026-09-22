@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-22",
+  "dateLabel": "Tuesday, September 22, 2026",
+  "generatedAt": "2026-09-22T11:01:15.433Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Exercise mood and brain neuron production",
+      "headline": "Four Weeks of Exercise Built New Brain Cells and Lifted Mood",
+      "body": "A clinical trial published this week found that moderate exercise created measurable changes in mood and sparked new neuron production in the hippocampus—the brain region controlling memory and learning. Participants who exercised consistently for just four weeks showed improved emotional health alongside evidence of fresh neurons being generated from stem cells. This suggests physical training doesn't just reshape your body. It rebuilds your brain architecture. For busy professionals, the takeaway is blunt: you don't need hours in the gym to trigger these cognitive gains.",
+      "takeaway": "Four weeks of regular exercise sparks new neuron growth in your brain and measurably improves mood.",
+      "source": "Medical Xpress / Clinical Trial Research",
+      "sourceUrl": "https://medicalxpress.com/news/2026-09-clinical-physical-trial-mood-neuron.html",
+      "pexelsQuery": "person exercising jumping fitness training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6339603/pexels-photo-6339603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6339603/pexels-photo-6339603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/person-doing-jumping-exercise-with-a-jump-rope-6339603/",
+        "avgColor": "#5C4638"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Mindfulness meditation cortisol reduction",
+      "headline": "Meditation and Relaxation Cut Stress Hormone Faster Than You Think",
+      "body": "A comprehensive meta-analysis of 58 randomized controlled trials found that mindfulness and relaxation techniques outperform other psychological interventions for lowering cortisol, your body's primary stress hormone. Both meditation and structured relaxation showed nearly identical effectiveness, with measurable cortisol reductions in 4-8 weeks of consistent practice. The effect was strongest when measured in the morning—the critical cortisol awakening window. For parents and professionals managing competing demands, these aren't small improvements. They're clinically significant shifts in your physiological stress response.",
+      "takeaway": "Mindfulness and relaxation both cut cortisol by measurable amounts in 4-8 weeks, with strongest results measured at awakening.",
+      "source": "PubMed / Meta-Analysis (Psychoneuroendocrinology, 2023)",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37879237/",
+      "pexelsQuery": "person meditating calm peaceful breathing",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7113570/pexels-photo-7113570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7113570/pexels-photo-7113570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "KATRIN  BOLOVTSOVA",
+        "photographerUrl": "https://www.pexels.com/@ekaterina-bolovtsova",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-meditating-on-floor-7113570/",
+        "avgColor": "#9C948C"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Body composition cardiorespiratory fitness recovery",
+      "headline": "Heart Fitness Matters More Than Weight During Cardiac Rehab",
+      "body": "New research from cardiac rehabilitation programs shows that improvements in cardiorespiratory fitness—measured as peak oxygen uptake—predicted patient outcomes better than body composition changes alone. Patients who improved their oxygen-processing capacity through structured aerobic training saw superior long-term cardiovascular health markers, regardless of whether they lost significant weight. This reframes the conversation: your heart's functional capacity is the target. Weight is just one metric along the way. Building aerobic fitness creates measurable shifts in how efficiently your heart delivers oxygen under stress.",
+      "takeaway": "Cardiorespiratory fitness predicts cardiovascular health outcomes better than body weight or composition metrics.",
+      "source": "Frontiers in Endocrinology",
+      "sourceUrl": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1933372/full",
+      "pexelsQuery": "person running heart rate monitor fitness monitor",
+      "photo": {
+        "url": "https://images.pexels.com/photos/267391/pexels-photo-267391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/267391/pexels-photo-267391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/person-in-blue-long-sleeve-shirt-using-smart-watch-267391/",
+        "avgColor": "#68919C"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Caffeine habituation strength endurance athletes",
+      "headline": "Regular Caffeine Users Still Get Strength Gains. Here's What Changes",
+      "body": "A recent study in the Journal of Strength and Conditioning Research examined how daily caffeine consumption affects performance. The finding surprised researchers: athletes who consume caffeine every day still experience measurable ergogenic effects—increases in strength and muscular endurance—when they take caffeine before workouts. What changes is the magnitude. Habitual users see slightly smaller performance boosts than non-habitual users, but the effect persists. For you: caffeine tolerance develops slowly, and cycling isn't essential for maintaining gains. Consistency beats the perfect supplement strategy.",
+      "takeaway": "Even daily caffeine users gain strength and endurance benefits, though the effect is slightly smaller than in non-regular consumers.",
+      "source": "Journal of Strength and Conditioning Research",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42213969/",
+      "pexelsQuery": "person lifting weights strength training barbell",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7811530/pexels-photo-7811530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7811530/pexels-photo-7811530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Eduardo  Cano Photo Co.",
+        "photographerUrl": "https://www.pexels.com/@eduardo-cano-photo-co-3550159",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-standing-near-the-barbell-in-the-gym-7811530/",
+        "avgColor": "#8A9599"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+    "author": "Arnold Schwarzenegger",
+    "context": "Legendary bodybuilder, actor, and former governor—built his philosophy on confronting difficulty head-on."
+  },
+  "workout": {
+    "id": "8e803b3a-eccc-4ea1-9bb3-e7ba0983e265",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "easy",
+    "title": "Fartlek Flow: 45-Minute Unstructured Aerobic Play Run",
+    "difficulty": "Intermediate",
+    "duration": "45 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "cardio",
+      "low_impact",
+      "no_equipment",
+      "outdoor"
+    ],
+    "tip": "Use landmarks (mailbox, tree, lamppost) to define your pick-ups rather than time—fartlek means \"speed play\" in Swedish, so it should feel spontaneous, not regimented. Keep pick-ups at 7–8/10 effort (not maximal), lasting 30–90 seconds. The recovery jog between them should return you fully to Z2 breathing before the next surge.",
+    "warmup": "5 min easy jog + 8 × 20 sec strides at 85% effort (not sprints), 2 min easy walking between each",
+    "exercises": [
+      {
+        "name": "Fartlek Pick-Ups in Zone 2 Base",
+        "sets": "1",
+        "reps": "45 min total (approx. 6–8 pick-ups of 30–90 sec at 7–8/10 effort interspersed with easy Z2 running)",
+        "notes": "Start with 3–4 min easy Z2 jog, then insert natural pick-ups: a 60 sec surge to the next corner, 90 sec faster to a visible landmark, etc. Between each pick-up, return to comfortable Z2 pace (conversational) for 2–3 min recovery. The overall session stays aerobic because the surges are moderate and recovery periods are long. This develops speed endurance without the fatigue of threshold work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min easy walking + deep lunge stretch 45 sec each side, torso twist (hands behind head) 30 sec each side, standing calf stretch 30 sec each leg",
+    "description": "A playful Zone 2 run punctuated by natural pick-ups—short surges at perceived effort (not all-out sprints) woven into easy running. This is the antidote to rigid training schedules: intermediate athletes get aerobic base work *and* light central nervous system stimulation without the structure of a true interval session. Perfect for recovery weeks or as a mental refresh during monotonous build phases."
+  },
+  "meal": {
+    "id": "ddfe4560-0f8e-4cd6-b592-57e590938556",
+    "title": "Whole Grain Toast with Whipped Ricotta, Figs & Pistachios",
+    "description": "A Mediterranean-inspired open-faced toast that pairs slow-digesting whole grains with creamy ricotta and natural carbs from figs—perfect pre-endurance fuel that won't spike and crash your blood sugar. The healthy fats from pistachios help with satiety and nutrient absorption during long efforts.",
+    "meal_type": "breakfast",
+    "macro_profile": "balanced",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 480,
+    "protein_g": 18,
+    "carbs_g": 52,
+    "fat_g": 18,
+    "fiber_g": 8,
+    "prep_minutes": 8,
+    "cook_minutes": 3,
+    "ingredients": [
+      "2 slices whole grain or sourdough bread",
+      "150g whole milk ricotta",
+      "1 tbsp raw honey",
+      "3-4 fresh figs (or 4 dried figs, chopped)",
+      "25g shelled pistachios, chopped",
+      "1 tsp lemon zest",
+      "Pinch of sea salt",
+      "½ tsp olive oil (for toasting)"
+    ],
+    "instructions": "1. Toast bread to your preferred crispness—about 2–3 minutes.\n2. While bread toasts, stir ricotta with lemon zest and a pinch of salt until smooth and airy.\n3. Spread whipped ricotta generously on each toast.\n4. Top with fresh figs (halved) or chopped dried figs.\n5. Drizzle with honey and scatter pistachios over top.\n6. Serve immediately.",
+    "tip": "Make whipped ricotta the night before and store in an airtight container—spreads even easier and saves 3 minutes on weekday mornings. Dried figs work year-round and are more stable for meal prep.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
