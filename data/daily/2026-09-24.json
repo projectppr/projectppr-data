@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-24",
+  "dateLabel": "Thursday, September 24, 2026",
+  "generatedAt": "2026-09-24T11:00:42.905Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "Protein intake preserves muscle with aging",
+      "headline": "Protein Timing Changes Everything. Your Muscles Notice.",
+      "body": "<cite index=\"1-13\">Adults over 40 need roughly 1.0 to 1.2 grams of protein per kilogram of body weight daily—about 25 to 50% higher than the standard recommendation.</cite> Most people fall short, especially at breakfast. <cite index=\"1-14\">For a 165-pound person, that's about 75 to 90 grams per day, distributed across three meals of 20 to 30 grams each plus a 15- to 20-gram snack.</cite> The key isn't just eating more protein. It's spreading it evenly throughout your day. Your muscles can only absorb so much at once, so one giant protein dinner won't save a protein-light breakfast. Smart distribution wins. Track your intake for a week and you'll probably find the gap.",
+      "takeaway": "Divide your daily protein across three meals instead of front-loading or back-loading. Small changes in timing create measurable differences in muscle preservation.",
+      "source": "Yale School of Public Health / Geriatrics Journal",
+      "sourceUrl": "https://www.success.com/longevity-research-2026-new-findings",
+      "pexelsQuery": "protein food chicken egg fish nuts",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5605632/pexels-photo-5605632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5605632/pexels-photo-5605632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nataliya Vaitkevich",
+        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
+        "photoPageUrl": "https://www.pexels.com/photo/egg-and-walnuts-on-the-shite-plate-5605632/",
+        "avgColor": "#949D88"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Breathwork and heart rate variability control",
+      "headline": "Six Breaths Per Minute. That's the Number Your Heart Responds To.",
+      "body": "<cite index=\"63-1,63-2,63-3\">Heart rate and breathing synchronize at about 6 breaths per minute. Breathing at this resonance frequency maximizes heart rate variability and produces the greatest heart rate variability and baroreflex gain.</cite> This isn't mystical—it's physiology. When you breathe slowly and deliberately, you trigger your vagus nerve, which signals your cardiovascular system to calm down. <cite index=\"61-3\">Slow, controlled breathing patterns trigger the vagal response, which signals blood vessels to dilate and cardiac output to normalize.</cite> Five minutes daily of 5-second inhales and 5-second exhales can meaningfully impact your cardiovascular regulation. No equipment needed.",
+      "takeaway": "Practice 5-second inhales and 5-second exhales for five minutes daily. This timing activates your parasympathetic nervous system and improves heart health measurably.",
+      "source": "Springer Nature / Mindfulness Journal",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s12671-023-02294-2",
+      "pexelsQuery": "meditation breathing person calm nature",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8437065/pexels-photo-8437065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8437065/pexels-photo-8437065.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-a-shirt-meditating-8437065/",
+        "avgColor": "#80815F"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Psychological resilience protects against adversity",
+      "headline": "Your Brain Has a Built-In Shield. Science Shows How To Strengthen It.",
+      "body": "<cite index=\"74-1\">Psychological resilience shields against the neurotoxic effects of stress by modulating networks involved in emotion regulation, salience, and sensorimotor processing.</cite> A new study found that people with high psychological resilience who experienced adversity showed no increased brain connectivity changes linked to anxiety and depression, while low-resilience individuals did. <cite index=\"78-2\">Difficulties with emotion regulation, sleep challenges and poor social support were associated with lower resilience over time.</cite> This means resilience isn't fixed—it's trainable. Sleep matters. Emotional flexibility matters. Your community matters. Build these three and you build protection.",
+      "takeaway": "Prioritize sleep, practice naming and accepting your emotions, and invest in one meaningful relationship. These three factors directly strengthen your psychological resilience.",
+      "source": "Beijing Normal University / Child Development",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42237782/",
+      "pexelsQuery": "people connection support friendship together",
+      "photo": {
+        "url": "https://images.pexels.com/photos/28002642/pexels-photo-28002642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/28002642/pexels-photo-28002642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Victor Chijioke",
+        "photographerUrl": "https://www.pexels.com/@victor-chijioke-350220031",
+        "photoPageUrl": "https://www.pexels.com/photo/love-of-the-game-28002642/",
+        "avgColor": "#424242"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Strength training prevents fragility fractures",
+      "headline": "Your Bones Get Stronger. But Only If You Load Them.",
+      "body": "<cite index=\"88-2,88-3\">Because of the tight relationship between muscle and bone, physical activities and targeted exercises that induce muscle contraction and sufficient mechanical stress influence bone metabolism. Exercise proved to have a positive effect on bone mineral density.</cite> Progressive resistance training isn't vanity. <cite index=\"83-2\">Fragility fracture prevention spans geriatrics, rehabilitation medicine, and sport science, particularly in relation to primary prevention through strength training, physical conditioning, and fall-risk reduction.</cite> The best time to start building bone is now. Even modest progressive resistance training creates measurable bone adaptations. This is foundational health work.",
+      "takeaway": "Add two sessions of progressive resistance training weekly. Your bones will strengthen, your fall risk will drop, and your independence will last longer into older age.",
+      "source": "Frontiers in Medicine / Wuchang Hospital",
+      "sourceUrl": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1881899/full",
+      "pexelsQuery": "strength training weights dumbbells gym",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/36090935/pexels-photo-36090935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/36090935/pexels-photo-36090935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Paulina Kłys",
+        "photographerUrl": "https://www.pexels.com/@paulina-klys-2155606640",
+        "photoPageUrl": "https://www.pexels.com/photo/dumbbells-on-wooden-box-in-fitness-gym-36090935/",
+        "avgColor": "#3D3327"
+      }
+    }
+  ],
+  "quote": {
+    "text": "It's not whether you get knocked down, it's whether you get up.",
+    "author": "Vince Lombardi",
+    "context": "Legendary NFL coach who defined resilience as the ability to recover from setback"
+  },
+  "workout": {
+    "id": "1c18c3ca-ae75-486f-9d25-f2f5c2b32a65",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Barbell Row Strength Block: Heavy 4s + Weighted Chin-Up & Face Pull Accessory",
+    "difficulty": "Intermediate",
+    "duration": "55 min",
+    "equipment": [
+      "barbell",
+      "squat rack",
+      "weight plates",
+      "pull-up bar",
+      "dip belt",
+      "cable machine or bands",
+      "dumbbells"
+    ],
+    "trainingZone": "z4",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "upper_body"
+    ],
+    "tip": "For the barbell row, hinge to roughly 45 degrees and stay there — do not let your torso rise as the weight gets heavy. Think of your elbows driving straight back into your hip pockets, not flaring wide, to maximize lat engagement and minimize shoulder impingement risk.",
+    "warmup": "10 min: 2 min light rowing machine or jump rope → 10 band pull-aparts → 10 scapular push-ups (protract and retract at top of push-up position) → 10 dead hangs for 5 sec each → 5 reps barbell row at 40% 1RM → 4 reps at 62% 1RM → 3 reps at 74% 1RM",
+    "exercises": [
+      {
+        "name": "Barbell Bent-Over Row",
+        "sets": "5",
+        "reps": "4 @ 82% 1RM",
+        "notes": "Rest 3 min between sets. Hinge to a 45-degree torso angle and maintain it throughout every rep. Grip just outside shoulder width, overhand. Pull the bar to the lower sternum, not the belly button. Squeeze the shoulder blades together at the top for 1 second. Control the descent over 2 seconds — do not drop the bar. Brace the core hard to protect the lumbar."
+      },
+      {
+        "name": "Weighted Chin-Up",
+        "sets": "4",
+        "reps": "5 @ RPE 7–8",
+        "notes": "Rest 2–2.5 min. Attach weight via dip belt. Use a supinated (underhand) grip, shoulder-width. Start from a dead hang with shoulders packed — do not shrug into your ears. Pull until chin clears the bar. Lower in 2–3 seconds. If you cannot complete 5 controlled reps with added weight, reduce load or use bodyweight only for that set."
+      },
+      {
+        "name": "Face Pull (Cable or Band)",
+        "sets": "3",
+        "reps": "15 @ RPE 5–6",
+        "notes": "Rest 60 sec. Set cable or band at forehead height. Pull toward your face with elbows high and flared — think 'double bicep pose at the finish.' Externally rotate at the top so your knuckles point toward the ceiling. Pause 1 second. This is shoulder maintenance — use a light load you can control fully through the full range of motion."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "7 min: 60 sec lat stretch hanging from bar (passive hang, feet lightly touching floor) each side → 60 sec chest-open doorway stretch → 60 sec supine thoracic rotation each side → 60 sec bicep wall stretch each arm → 60 sec child's pose with arms extended to the side",
+    "description": "This pull-focused strength session centers on 5 sets of 4 reps at 82% 1RM on the barbell bent-over row, building horizontal pulling strength, upper-back thickness, and scapular retraction power. Weighted chin-ups follow to develop vertical pull strength and lat width under load, while face pulls address rear delt and rotator cuff health as a high-rep finisher. Together, these three movements form a complete posterior upper-body strength block."
+  },
+  "meal": {
+    "id": "d592f7b5-b76d-4ca0-a7a1-e220b957cb19",
+    "title": "Cast-Iron Steak & Loaded Potato Skillet",
+    "description": "A no-fuss, high-protein dinner built around a perfectly seared ribeye and crispy potatoes loaded with sharp cheddar, bacon, and scallions—serious fuel for strength gains without the fussy plating. This is the kind of meal that tastes like a reward but delivers exactly what your muscles need post-heavy lift.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 780,
+    "protein_g": 52,
+    "carbs_g": 58,
+    "fat_g": 35,
+    "fiber_g": 5,
+    "prep_minutes": 10,
+    "cook_minutes": 25,
+    "ingredients": [
+      "280g ribeye steak (1.25 inches thick)",
+      "300g Yukon Gold potatoes, diced small",
+      "40g bacon, chopped",
+      "30g sharp cheddar cheese, shredded",
+      "2 tbsp butter",
+      "2 scallions, sliced",
+      "1 tsp kosher salt",
+      "0.5 tsp black pepper",
+      "0.25 tsp garlic powder"
+    ],
+    "instructions": "1. Heat a cast-iron skillet over medium-high heat for 3 minutes until smoking hot. While it heats, pat steak dry with paper towels and season aggressively with salt and pepper on both sides.\n2. Add 1 tbsp butter to the skillet. Lay the steak away from you and don't touch it for 4 minutes. Flip once and cook another 3–4 minutes for medium-rare. Transfer to a cutting board to rest.\n3. In the same skillet, add the diced potatoes with a pinch of salt. Cook undisturbed for 5 minutes to build a crust, then stir and cook another 6–8 minutes until golden and tender.\n4. Push potatoes to the side. Add bacon to the pan and cook for 2 minutes until edges crisp. Toss the potatoes and bacon together.\n5. Slice the steak against the grain into 1-inch strips. Pile onto the potatoes. Top with cheddar and scallions. Cover the skillet for 30 seconds to melt the cheese. Serve straight from the pan.",
+    "tip": "Dice potatoes small (¼-inch pieces) so they cook through in 15 minutes—no waiting. Use a meat thermometer: pull the steak at 125°F internal temp for perfect medium-rare, since carryover heat will push it to 130°F while resting.",
+    "goal_affinity": [
+      "strength",
+      "general_fitness",
+      "recovery"
+    ],
+    "image_url": ""
+  }
+}
