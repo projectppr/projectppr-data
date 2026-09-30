@@ -1,0 +1,259 @@
+{
+  "date": "2026-09-30",
+  "dateLabel": "Wednesday, September 30, 2026",
+  "generatedAt": "2026-09-30T11:01:21.430Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "Xylitol sweetener cardiovascular risk link",
+      "headline": "That Sugar-Free Gum Might Cost You. Xylitol Linked to 57% Higher Heart Risk.",
+      "body": "A major study of 17,710 people found something surprising: people with the highest blood levels of xylitol, a popular sugar substitute in gum and candy, had a 57% higher risk of heart attacks, strokes, and cardiovascular death over six years. The sweetener is everywhere—in sugar-free foods, dental products, and oral care items. Researchers adjusted for traditional risk factors like smoking, cholesterol, and diabetes, and the link held. The dose matters: the more xylitol in your blood, the higher your risk. While the study shows correlation rather than direct causation, it's raising real questions about the long-term safety of artificial sweeteners most people assumed were harmless.",
+      "takeaway": "Check labels on sugar-free products. If xylitol is listed, pick an alternative or limit frequency. Your heart notices what you consume.",
+      "source": "European Society of Cardiology Congress 2026",
+      "sourceUrl": "https://www.escardio.org/news/press/press-releases/xylitol-may-increase-the-risk-of-cardiovascular-events/",
+      "pexelsQuery": "sugar-free gum candy sweetener",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8670449/pexels-photo-8670449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8670449/pexels-photo-8670449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-sugar-cubes-8670449/",
+        "avgColor": "#A79F7B"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Moderate to vigorous physical activity diabetes prevention",
+      "headline": "The Intensity Sweet Spot. More Vigorous Activity Cuts Diabetes Risk Hard.",
+      "body": "New research shows that higher levels of moderate-to-vigorous physical activity (MVPA) significantly reduce type 2 diabetes risk in adults. The study, presented at the European Diabetes Association conference, tracked thousands of people and found that greater amounts of harder-intensity exercise delivered stronger protection than lower activity levels. The researchers didn't focus on exercise type—running, cycling, swimming all count. What mattered was intensity. For most adults, 150 minutes of moderate activity per week is a sensible baseline, combined with strength training at least twice weekly. But the data suggests pushing beyond that baseline offers real metabolic benefits, especially as you age.",
+      "takeaway": "Push harder, more often. Your muscles and your pancreas respond best to intensity. Don't settle for easy.",
+      "source": "Medical News Today",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/more-moderate-to-vigorous-physical-activity-could-reduce-type-2-diabetes-risk",
+      "pexelsQuery": "running sprint intensity training",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/29205121/pexels-photo-29205121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/29205121/pexels-photo-29205121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "bamboo ave.",
+        "photographerUrl": "https://www.pexels.com/@bamboo-ave-677926128",
+        "photoPageUrl": "https://www.pexels.com/photo/athletic-man-running-on-rooftop-at-sunrise-29205121/",
+        "avgColor": "#C8C8CA"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Black and green rice blood sugar metabolism",
+      "headline": "Skip the White Rice. Black and Green Varieties Hide Secret Metabolic Boosters.",
+      "body": "Scientists at Hokkaido University analyzed 56 japonica rice varieties and found something overlooked: black and green rice contain special fats that white rice simply doesn't have. These varieties have bioactive compounds called FAHMFAs and LNAPEs linked to reduced inflammation and better metabolic health. In digestion tests, black and green rice raised blood sugar more slowly than white rice—the starch breaks down gradually, releasing glucose at a slower pace. This matters for anyone managing type 2 diabetes risk or tracking their metabolic health. The research marks the first time these beneficial lipids have been detected in rice, highlighting how the overlooked fat content can define the whole nutritional profile.",
+      "takeaway": "Make one simple swap at dinner: trade white rice for black or green. Same cooking method, better metabolic outcome.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
+      "pexelsQuery": "black rice grain cooked bowl",
+      "product": {
+        "id": "body-003",
+        "name": "Renpho Food Scale",
+        "brand": "Renpho",
+        "asin": "B08X1H8NPX",
+        "url": "https://www.amazon.com/dp/B08X1H8NPX?tag=chrisolson04-20",
+        "category": "kitchen",
+        "price_range": "$",
+        "keywords": [
+          "nutrition",
+          "calories",
+          "macros",
+          "meal prep",
+          "food tracking",
+          "portion"
+        ],
+        "blurb": "Simple, accurate, and syncs with nutrition apps. Track what you eat and watch your performance improve."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/12984978/pexels-photo-12984978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12984978/pexels-photo-12984978.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Viridiana Rivera",
+        "photographerUrl": "https://www.pexels.com/@viridianaor",
+        "photoPageUrl": "https://www.pexels.com/photo/a-bowl-of-rice-meal-with-vegetables-12984978/",
+        "avgColor": "#BD936B"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "Melatonin timing exercise-induced muscle recovery",
+      "headline": "Your Evening Melatonin Does More Than Help Sleep. It Accelerates Muscle Recovery.",
+      "body": "New research shows melatonin's benefits extend beyond sleep. When timed correctly—taken in the evening—melatonin supplementation reduces exercise-induced muscle damage and improves recovery in athletes during intensive training periods. The mechanism is elegant: melatonin enhances fatty acid transport into mitochondria for energy production and activates pathways that improve muscle regeneration. Studies show it speeds recovery of muscle energy substrates (glycogen and triglycerides) after hard efforts. The timing is critical—evening administration works better than morning doses. For busy people doing intense training, this is a low-cost, natural approach to turning your recovery window into an advantage. It's particularly effective during phases of hard training when muscle damage and soreness linger.",
+      "takeaway": "If you're training hard, take melatonin in the evening after workouts. Better sleep plus faster recovery is a win-win.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41769636/",
+      "pexelsQuery": "melatonin supplement bottle evening",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5699519/pexels-photo-5699519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5699519/pexels-photo-5699519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alex Green",
+        "photographerUrl": "https://www.pexels.com/@alex-green",
+        "photoPageUrl": "https://www.pexels.com/photo/white-pills-spilled-on-table-5699519/",
+        "avgColor": "#697978"
+      }
+    }
+  ],
+  "quote": {
+    "text": "What am I doing today to ensure that I have long-term health and wellness?",
+    "author": "Mirna Valerio",
+    "context": "Ultramarathoner and advocate for inclusive fitness who redefines what health looks like across all bodies."
+  },
+  "workout": {
+    "id": "08f2b7cf-2867-4663-b16a-342d4063d912",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Lunge Matrix & Single-Leg Strength Ladder: Balance & Power for Trail & Obstacle",
+    "difficulty": "Intermediate",
+    "duration": "44 min",
+    "equipment": [
+      "dumbbell"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "functional",
+      "gym_required",
+      "lower_body",
+      "minimal_equipment",
+      "muscle_gain",
+      "squat_dominant",
+      "under_60_min"
+    ],
+    "tip": "Lunge depth and knee alignment prevent injury in runners and OCR athletes. Keep your front knee stacked over ankle, and drive through the front heel to stand—never push off the back leg. Maintain an upright torso; don't lean forward. Quality over speed here; a controlled lunge transfers stability to technical terrain better than a rushed rep.",
+    "warmup": "5 min: 10 bodyweight lunges per leg, 10 side lunges per leg, 10 glute bridges, 10 air squats, 5 inchworms, leg swings 10 per leg",
+    "exercises": [
+      {
+        "name": "Dumbbell Forward Lunge Ladder",
+        "sets": "4",
+        "reps": "12-10-8-6",
+        "notes": "Ascending weight, descending reps per round. Drive through front heel, controlled descent, stand powerfully. Quad and glute dominant. Rest 75 sec between rounds. Build single-leg pressing power for uphill running and Hyrox obstacles."
+      },
+      {
+        "name": "Reverse Dumbbell Lunge",
+        "sets": "3",
+        "reps": "10 per leg",
+        "notes": "Step back, lower back knee toward floor, drive forward through front heel. Eccentric-heavy, reduces knee stress. Perfect for runners rehabbing or reinforcing knee stability. Rest 60 sec."
+      },
+      {
+        "name": "Lateral Dumbbell Lunge",
+        "sets": "3",
+        "reps": "10 per side",
+        "notes": "Step laterally, shift hips, load the stepping leg. Adductors and abductors activate. Often-neglected plane of motion critical for changing direction on trail or navigating Hyrox terrain. Rest 60 sec."
+      },
+      {
+        "name": "Single-Leg Dumbbell Deadlift",
+        "sets": "3",
+        "reps": "8 per leg",
+        "notes": "Stand on one leg, hinge at hip, lower dumbbell toward floor, drive back through standing leg. Posterior chain and balance. High carryover to downhill running and single-leg stability. Rest 75 sec."
+      },
+      {
+        "name": "Wall Sit",
+        "sets": "2",
+        "reps": "40 seconds",
+        "notes": "Back against wall, knees at 90°, weight in heels. Isometric quad and glute endurance. Finisher that builds mental toughness and metabolic resilience. Rest 45 sec between holds."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: quad stretch 30 sec each leg, deep pigeon pose 45 sec each side, child's pose 30 sec, standing hamstring fold 30 sec",
+    "description": "A lower-body unilateral focus designed for athletes navigating uneven terrain, hills, and Hyrox obstacles. Forward, reverse, and lateral lunge variations build single-leg strength, stability, and proprioception—critical for runners on technical ground and OCR-style movement."
+  },
+  "meal": {
+    "id": "d592f7b5-b76d-4ca0-a7a1-e220b957cb19",
+    "title": "Cast-Iron Steak & Loaded Potato Skillet",
+    "description": "A no-fuss, high-protein dinner built around a perfectly seared ribeye and crispy potatoes loaded with sharp cheddar, bacon, and scallions—serious fuel for strength gains without the fussy plating. This is the kind of meal that tastes like a reward but delivers exactly what your muscles need post-heavy lift.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 780,
+    "protein_g": 52,
+    "carbs_g": 58,
+    "fat_g": 35,
+    "fiber_g": 5,
+    "prep_minutes": 10,
+    "cook_minutes": 25,
+    "ingredients": [
+      "280g ribeye steak (1.25 inches thick)",
+      "300g Yukon Gold potatoes, diced small",
+      "40g bacon, chopped",
+      "30g sharp cheddar cheese, shredded",
+      "2 tbsp butter",
+      "2 scallions, sliced",
+      "1 tsp kosher salt",
+      "0.5 tsp black pepper",
+      "0.25 tsp garlic powder"
+    ],
+    "instructions": "1. Heat a cast-iron skillet over medium-high heat for 3 minutes until smoking hot. While it heats, pat steak dry with paper towels and season aggressively with salt and pepper on both sides.\n2. Add 1 tbsp butter to the skillet. Lay the steak away from you and don't touch it for 4 minutes. Flip once and cook another 3–4 minutes for medium-rare. Transfer to a cutting board to rest.\n3. In the same skillet, add the diced potatoes with a pinch of salt. Cook undisturbed for 5 minutes to build a crust, then stir and cook another 6–8 minutes until golden and tender.\n4. Push potatoes to the side. Add bacon to the pan and cook for 2 minutes until edges crisp. Toss the potatoes and bacon together.\n5. Slice the steak against the grain into 1-inch strips. Pile onto the potatoes. Top with cheddar and scallions. Cover the skillet for 30 seconds to melt the cheese. Serve straight from the pan.",
+    "tip": "Dice potatoes small (¼-inch pieces) so they cook through in 15 minutes—no waiting. Use a meat thermometer: pull the steak at 125°F internal temp for perfect medium-rare, since carryover heat will push it to 130°F while resting.",
+    "goal_affinity": [
+      "strength",
+      "general_fitness",
+      "recovery"
+    ],
+    "image_url": ""
+  }
+}
