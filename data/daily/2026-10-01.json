@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-01",
+  "dateLabel": "Thursday, October 1, 2026",
+  "generatedAt": "2026-10-01T11:00:52.702Z",
+  "articles": [
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "DASH diet cuts cognitive decline risk",
+      "headline": "Skip the Fad. Vegetables and Fish Beat Every Other Diet for Your Brain",
+      "body": "A Harvard study tracking 159,000 adults found that people following the DASH diet had a 41% lower risk of cognitive decline compared to those who didn't adhere to it. The effect was strongest in midlife—ages 45 to 54. Researchers looked at six healthy diets but DASH stood out because it targets the systems tied directly to brain health: blood pressure, vascular function, metabolism, and inflammation. The foods doing the heavy lifting? Vegetables and fish. No supplements needed. Just real food, consistent choices.",
+      "takeaway": "Start emphasizing vegetables and fish in your diet now, especially in your 40s and 50s. DASH doesn't require restriction—just intention.",
+      "source": "Harvard Health, JAMA Neurology",
+      "sourceUrl": "https://www.health.harvard.edu/diet-and-nutrition/harvard-study-six-healthy-diets-linked-with-better-long-term-brain-health",
+      "pexelsQuery": "fresh vegetables salad healthy food",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11509871/pexels-photo-11509871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11509871/pexels-photo-11509871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Robert Owen-Wahl",
+        "photographerUrl": "https://www.pexels.com/@robert-owen-wahl-98047099",
+        "photoPageUrl": "https://www.pexels.com/photo/green-vegetable-in-close-up-shot-11509871/",
+        "avgColor": "#567732"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Aerobic exercise reduces cortisol long-term",
+      "headline": "One Year of Running Cuts Stress Hormone Hard. Here's What Changed",
+      "body": "<cite index=\"12-1,12-3\">Adults who engaged in 150 minutes of aerobic exercise per week for a year significantly reduced cortisol, which is a major stress hormone.</cite> The study, published in the Journal of Sport and Health Science, tracked how aerobic activity reshapes the biology of stress. <cite index=\"12-4\">Lowering cortisol may help protect against heart disease, as well as improve sleep and mood.</cite> This wasn't a quick win—it took sustained effort. But the payoff is real. Your body literally recalibrates how it handles stress when you stay consistent with aerobic work.",
+      "takeaway": "Commit to 150 minutes of aerobic activity weekly for real cortisol reduction. This is stress management that actually sticks.",
+      "source": "Journal of Sport and Health Science",
+      "sourceUrl": "https://www.eurekalert.org/news-releases/1124638",
+      "pexelsQuery": "running athlete jogging outdoors",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/34523833/pexels-photo-34523833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34523833/pexels-photo-34523833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alexander Suárez",
+        "photographerUrl": "https://www.pexels.com/@alexander-suarez-327516789",
+        "photoPageUrl": "https://www.pexels.com/photo/trail-runner-on-a-beach-in-ventanilla-peru-34523833/",
+        "avgColor": "#A3AFBD"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Young workers show early cardiovascular risk",
+      "headline": "Your Heart Age Isn't Your Real Age. 58% of Workers Under 35 Show Warning Signs",
+      "body": "A study of 200,000 employees found that 58.5% of those under 35 had at least one flagged cardiovascular risk marker in 2026. The troubling part? Of employees with a normal BMI, 60% still showed a flagged marker. This isn't doom—it's data telling you what your body actually needs. Blood pressure, cholesterol, and blood sugar don't wait until you're 50. Silent changes start early. The good news is early intervention works. Know your numbers now. Don't wait for symptoms.",
+      "takeaway": "Get basic cardiovascular markers checked in your 30s. Know your blood pressure, cholesterol, and blood sugar before problems compound.",
+      "source": "ekincare Young Workforce Heart Health Report 2026",
+      "sourceUrl": "https://www.business-standard.com/amp/health/heart-risk-before-35-nearly-6-in-10-young-workers-show-warning-markers-126092900161_1.html",
+      "pexelsQuery": "heart health checkup medical test",
+      "product": {
+        "id": "body-001",
+        "name": "RENPHO Smart Body Scale",
+        "brand": "Renpho",
+        "asin": "B01N1UX8RW",
+        "url": "https://www.amazon.com/dp/B01N1UX8RW?tag=chrisolson04-20",
+        "category": "health",
+        "price_range": "$",
+        "keywords": [
+          "body composition",
+          "weight",
+          "muscle mass",
+          "body fat",
+          "health tracking",
+          "scale",
+          "BMI",
+          "training progress"
+        ],
+        "blurb": "Weight alone lies. Body composition tells the real story of your training progress."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/37885584/pexels-photo-37885584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/37885584/pexels-photo-37885584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tahir Xəlfəquliyev",
+        "photographerUrl": "https://www.pexels.com/@tahir",
+        "photoPageUrl": "https://www.pexels.com/photo/child-undergoing-eye-examination-at-clinic-37885584/",
+        "avgColor": "#B19C89"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Vitamin D rebalances immune-gut tolerance",
+      "headline": "12 Weeks of Vitamin D Resets How Your Immune System Talks to Your Gut",
+      "body": "<cite index=\"33-1,33-2\">Vitamin D supplementation may help shape how the immune system responds to gut bacteria in people with inflammatory bowel disease, according to a Mayo Clinic-led study published in Cell Reports Medicine.</cite> <cite index=\"33-9\">Vitamin D supplementation was associated with increased levels of immunoglobulin A (IgA), which is typically linked to protective immune responses, and decreased levels of immunoglobulin G (IgG), more often associated with inflammation.</cite> This isn't just about IBD—it shows how vitamin D influences the fundamental conversation between your immune system and microbiome. <cite index=\"33-12\">Vitamin D supplementation was also associated with improvements in disease activity scores and a stool-based marker of inflammation.</cite>",
+      "takeaway": "If you're not checking vitamin D levels, start. Twelve weeks of supplementation can meaningfully shift immune tolerance at the gut level.",
+      "source": "Mayo Clinic, Cell Reports Medicine",
+      "sourceUrl": "https://medicalxpress.com/news/2026-03-vitamin-d-supplements-shift-immune.html",
+      "pexelsQuery": "vitamin D supplement bottle sunlight",
+      "product": {
+        "id": "sup-003",
+        "name": "Thorne Vitamin D3/K2",
+        "brand": "Thorne",
+        "asin": "B0797N3F9T",
+        "url": "https://www.amazon.com/dp/B0797N3F9T?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "vitamin d",
+          "bone health",
+          "immune system",
+          "supplement",
+          "deficiency",
+          "longevity",
+          "sun",
+          "endurance"
+        ],
+        "blurb": "Most adults are deficient. D3 with K2 is the combination that actually works."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17820730/pexels-photo-17820730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17820730/pexels-photo-17820730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/capsules-with-powder-17820730/",
+        "avgColor": "#C7328C"
+      }
+    }
+  ],
+  "quote": {
+    "text": "A strong sense of purpose is one of the most powerful and underestimated predictors of longevity.",
+    "author": "Dr. Shai Efrati",
+    "context": "Israeli physician and longevity researcher who studies how purpose links directly to cognitive resilience and cardiovascular health."
+  },
+  "workout": {
+    "id": "a0d8e773-88f3-4798-9906-a7df426f18c0",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Pull Strong: Row, Hang and Brace in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar",
+      "resistance band",
+      "dumbbells"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "core",
+      "minimal_equipment",
+      "pull_dominant",
+      "under_30_min",
+      "upper_body"
+    ],
+    "tip": "If you don't have a pull-up bar, a sturdy door frame pull-up bar works fine. For the dead hang, focus on active shoulders, squeeze your shoulder blades down before you hang. That protects your joints and builds the right muscles.",
+    "warmup": "Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "30-45 seconds",
+        "notes": "Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets."
+      },
+      {
+        "name": "Dumbbell Bent-Over Row",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable."
+      },
+      {
+        "name": "Resistance Band Face Pull",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough."
+      },
+      {
+        "name": "Inverted Row (or Assisted Pull-Up with Band)",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count."
+      },
+      {
+        "name": "Plank to Alternating Shoulder Tap",
+        "sets": "3",
+        "reps": "20 total taps",
+        "notes": "Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling.",
+    "description": "Warmup: Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders. Dead Hang: 3 sets x 30-45 seconds — Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets. Dumbbell Bent-Over Row: 3 sets x 10 each side — Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable. Resistance Band Face Pull: 3 sets x 15 — Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough. Inverted Row (or Assisted Pull-Up with Band): 3 sets x 8-10 — For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count. Plank to Alternating Shoulder Tap: 3 sets x 20 total taps — Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work. Cooldown: Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling."
+  },
+  "meal": {
+    "id": "f44b5098-03dd-4762-9f7c-ca86f48f4504",
+    "title": "Smoked Salmon & Egg Breakfast Bowl with Diced Potatoes & Arugula",
+    "description": "A Mediterranean-inspired breakfast bowl built on omega-3 rich smoked salmon and protein-packed eggs, paired with nutrient-dense arugula and roasted potato cubes. This hits fat-loss macros while delivering the micronutrients athletes need for recovery and immunity.",
+    "meal_type": "breakfast",
+    "macro_profile": "fat_loss",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 390,
+    "protein_g": 26,
+    "carbs_g": 35,
+    "fat_g": 14,
+    "fiber_g": 4,
+    "prep_minutes": 8,
+    "cook_minutes": 15,
+    "ingredients": [
+      "3 oz smoked salmon",
+      "2 large eggs",
+      "1 cup cubed potatoes",
+      "2 cups fresh arugula",
+      "1 tsp olive oil",
+      "1 tbsp fresh lemon juice",
+      "salt and pepper to taste"
+    ],
+    "instructions": "1. Toss cubed potatoes with 1/2 tsp olive oil, salt, and pepper; roast in a 400°F oven for 12-15 minutes until golden and crispy (or pan-fry for 10 minutes in a skillet).\n2. While potatoes cook, whisk together arugula, lemon juice, and remaining 1/2 tsp olive oil in a bowl; season lightly.\n3. Cook eggs to your preference (fried, scrambled, or poached) in a nonstick skillet, 3-4 minutes.\n4. Assemble bowl with roasted potatoes, arugula base, smoked salmon, and cooked eggs.\n5. Drizzle with any pan juices and season with salt and pepper.",
+    "tip": "Roast a batch of potatoes on Sunday and store in the fridge—this meal comes together in 8 minutes on busy mornings with zero cooking required.",
+    "goal_affinity": [
+      "fat_loss",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
