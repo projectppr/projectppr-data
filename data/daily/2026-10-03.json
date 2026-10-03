@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-03",
+  "dateLabel": "Saturday, October 3, 2026",
+  "generatedAt": "2026-10-03T11:00:48.159Z",
+  "articles": [
+    {
+      "category": "HORMONES",
+      "topic": "Testosterone benefits for menopausal women",
+      "headline": "Women Report Big Gains in Energy and Strength With Testosterone",
+      "body": "More than 1,220 menopausal women using testosterone reported meaningful improvements across 18 menopause symptoms, with the biggest gains in sexual desire, energy, and strength. An analysis by longevity platform Hone Health, published in September 2026, found that women taking testosterone showed muscle gains, improved metabolic function, and better bone density without taking estrogen or progesterone. While research has traditionally focused on testosterone for sexual desire specifically, these real-world reports suggest broader quality-of-life benefits. The FDA held its first workshop on testosterone for menopausal women in September, signaling increased attention to this largely overlooked treatment option for women in midlife.",
+      "takeaway": "If you're managing menopause, ask your doctor about testosterone—especially if fatigue or strength loss is affecting your daily life.",
+      "source": "Hone Health/KRDO",
+      "sourceUrl": "https://krdo.com/news/2026/10/01/the-benefits-of-testosterone-for-women-according-to-1220-patients/",
+      "pexelsQuery": "woman strength training muscle",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14099909/pexels-photo-14099909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14099909/pexels-photo-14099909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Karen Irala",
+        "photographerUrl": "https://www.pexels.com/@karen-irala-242489519",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-in-black-brassier-and-blue-leggings-holding-dumbbell-14099909/",
+        "avgColor": "#353F41"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Strength training duration for longevity",
+      "headline": "90-120 Minutes of Lifting Per Week Is Your Longevity Sweet Spot",
+      "body": "Thirty years of data from nearly 150,000 people shows that you don't need to live in the gym to extend your life. A study in the British Journal of Sports Medicine found the optimal dose: 90 to 120 minutes of resistance training per week linked to a 13% lower death risk from any cause, 19% lower cardiovascular death risk, and 27% lower neurological death risk. Notably, any strength training at all beat doing none. The study also found that combining strength with aerobic exercise produced bigger benefits than either alone, with participants doing both seeing a 45% reduction in overall mortality. The takeaway isn't complicated: regular lifting saves your life.",
+      "takeaway": "Aim for 90-120 minutes of strength training per week—even minimal consistency beats perfection.",
+      "source": "British Journal of Sports Medicine via ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
+      "pexelsQuery": "strength training weights barbell dumbbell",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/685530/pexels-photo-685530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/685530/pexels-photo-685530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Victor Freitas",
+        "photographerUrl": "https://www.pexels.com/@victorfreitas",
+        "photoPageUrl": "https://www.pexels.com/photo/black-barbell-685530/",
+        "avgColor": "#3E4546"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "MIND diet brain structure aging",
+      "headline": "Eat This Way and Your Brain Ages 2.5 Years Slower",
+      "body": "Following the MIND diet—a combo of Mediterranean and DASH eating patterns—linked to slower brain shrinkage in a 12-year study of 1,647 middle-aged and older adults. People who stuck closest to the diet showed 20% slower grey matter loss and reduced brain ventricle enlargement, changes equivalent to about 2.5 years of delayed brain aging. The biggest brain-protecting foods: berries and poultry. The biggest offenders: sweets and fried fast food. Brain scans every 2-6 years showed the pattern clearly. It's not complicated—the diet emphasizes leafy greens, berries, nuts, whole grains, fish, and olive oil while limiting red meat and processed foods. Your brain responds to what you eat, and this study proves it.",
+      "takeaway": "Shift toward berries, greens, nuts, and fish—the brain-protective foods that actually show up in your MRI.",
+      "source": "BMJ/Journal of Neurology, Neurosurgery & Psychiatry",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+      "pexelsQuery": "berries nuts greens healthy food",
+      "photo": {
+        "url": "https://images.pexels.com/photos/13427812/pexels-photo-13427812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13427812/pexels-photo-13427812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mateusz Feliksik",
+        "photographerUrl": "https://www.pexels.com/@mateusz-feliksik-1896604",
+        "photoPageUrl": "https://www.pexels.com/photo/red-berries-on-top-of-oatmeal-in-white-ceramic-bowl-13427812/",
+        "avgColor": "#C19975"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Smartwatch sleep apnea detection clinical use",
+      "headline": "Your Smartwatch Just Got Cleared to Flag Sleep Apnea",
+      "body": "Consumer wearables like smartwatches and rings now have FDA clearance to detect sleep apnea—a condition that silently disrupts sleep in 50-78% of athletes and active adults. Unlike medical-grade tests, wearable devices collect 24/7 data on respiratory rate and breathing disruptions, flagging patterns that warrant a clinical check. The data matters because sleep apnea wrecks recovery, increases injury risk, and slows reaction time. If your smartwatch detects abnormal breathing during sleep, it prompts a conversation with your doctor. That early alert often leads to a diagnosis and CPAP therapy, which improves mood, cognition, and sleep quality. The tech isn't a replacement for clinical diagnosis but works as a gate-opener for people who'd otherwise ignore the problem.",
+      "takeaway": "If your wearable flags breathing issues during sleep, don't ignore it—that's an early alert worth investigating.",
+      "source": "HME News/FDA Clearances",
+      "sourceUrl": "https://digital.hmenews.com/publication/?i=868859&article_id=5196343&view=articleBrowser",
+      "pexelsQuery": "smartwatch wearable fitness tracker wrist",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4587417/pexels-photo-4587417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4587417/pexels-photo-4587417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/a-short-haired-woman-looking-at-her-watch-4587417/",
+        "avgColor": "#CFB1AC"
+      }
+    }
+  ],
+  "quote": {
+    "text": "It's never too late. Building muscle later in life can improve everything from cardiovascular health to brain function.",
+    "author": "Stacy Sims",
+    "context": "Exercise physiologist and longevity researcher speaking at Stanford's Healthy Aging 2026 conference on the power of resistance training."
+  },
+  "workout": {
+    "id": "a100d657-a7a1-4137-906a-66652eedf504",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Dumbbell Press Ladder: Building Overhead Strength",
+    "difficulty": "Beginner",
+    "duration": "40 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "muscle_gain",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Choose a dumbbell weight where rep 8 feels moderately hard but rep 1 feels fast and crisp. If you can't maintain shoulder stability and form, the weight is too heavy—scale down and focus on positioning.",
+    "warmup": "4 min: 10 dumbbell arm circles each direction (light dumbbells or empty hands), 8 scapular push-ups, 5 dumbbell rows per side, 10 air presses to grooves shoulders",
+    "exercises": [
+      {
+        "name": "Dumbbell Bench Press",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Lying flat on a bench or floor, press dumbbells up from chest level. Elbows stay 45° from ribs, not flared out; lower with control and pause 1 sec at chest before pressing."
+      },
+      {
+        "name": "Dumbbell Overhead Press (Standing)",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Stand with feet hip-width apart, dumbbells at shoulder height. Press straight up, then lower to ears—avoid arching lower back excessively. Core tight throughout; breathe in on lowering, out on pressing."
+      },
+      {
+        "name": "Dumbbell Incline Press (Floor or Bench)",
+        "sets": "2",
+        "reps": "10",
+        "notes": "Angle torso 30–45° upright if on bench, or perform elevated push-ups if no bench. This targets upper chest and front shoulders; use slightly lighter weight than flat press."
+      },
+      {
+        "name": "Dumbbell Floor Press (Single-Arm)",
+        "sets": "2",
+        "reps": "8 per side",
+        "notes": "Lying on floor, press one dumbbell up while other arm stays down for stability. Single-arm work reveals and corrects imbalances; maintain spinal rigidity with core bracing."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: 45 sec chest and shoulder stretch (press palms together at chest, round shoulders forward), 45 sec wall shoulder flexion stretch (reach arms overhead at wall), 30 sec doorway pec stretch each side, 30 sec child's pose",
+    "description": "A progressive ladder structure using dumbbells to train the overhead press and bench press in alternating sets, teaching load management and managing fatigue across multiple angles. Ideal for beginners learning how to introduce progressive overload with light-to-moderate weight."
+  },
+  "meal": {
+    "id": "d6383a12-0afc-4b6d-aae7-f54de5596812",
+    "title": "Smoked Salmon & Dill Scramble with Whole Wheat Toast & Avocado",
+    "description": "Silky scrambled eggs folded with smoked salmon, fresh dill, and capers, served alongside whole wheat toast and creamy avocado—a sophisticated, omega-3 rich breakfast that supports strength recovery and brain health without feeling heavy before a workout.",
+    "meal_type": "breakfast",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 560,
+    "protein_g": 38,
+    "carbs_g": 40,
+    "fat_g": 24,
+    "fiber_g": 7,
+    "prep_minutes": 8,
+    "cook_minutes": 8,
+    "ingredients": [
+      "3 large eggs",
+      "80g smoked salmon, cut into bite-sized pieces",
+      "1 tbsp fresh dill, chopped",
+      "1 tbsp capers, rinsed",
+      "2 slices whole wheat bread",
+      "1/2 ripe avocado, sliced",
+      "1 tbsp butter",
+      "1/4 lemon",
+      "Salt and black pepper to taste",
+      "Optional: 1 tbsp cream cheese or crème fraîche"
+    ],
+    "instructions": "1. Toast the whole wheat bread while you prep other ingredients.\n2. Whisk eggs in a bowl with a pinch of salt and pepper. Add optional cream cheese for extra creaminess.\n3. Melt butter in a nonstick skillet over medium-low heat. Add eggs and stir gently and frequently, cooking until just set but still slightly creamy, about 4–5 minutes.\n4. Fold in smoked salmon, dill, and capers in the last 30 seconds of cooking.\n5. Spread avocado on warm toast and season lightly with salt, pepper, and a squeeze of lemon.\n6. Plate eggs alongside toast and serve immediately.",
+    "tip": "Low-and-slow egg cooking (medium-low heat, constant stirring) creates silky curds instead of rubbery chunks—smoked salmon's delicate flavor deserves that treatment. Buy pre-sliced smoked salmon to save 2 minutes; the cost difference is minimal and it keeps refrigerated for a week.",
+    "goal_affinity": [
+      "strength",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
