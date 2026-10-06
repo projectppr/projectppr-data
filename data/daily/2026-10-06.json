@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-06",
+  "dateLabel": "Tuesday, October 6, 2026",
+  "generatedAt": "2026-10-06T11:00:58.849Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "Prolonged fasting body transformation",
+      "headline": "Three Days In: When Fasting's Real Magic Happens",
+      "body": "A seven-day fasting study found major biological changes don't happen right away. Your body burns fat within days, but the most interesting metabolic shifts emerge around day three. Scientists tracked over 130 participants and found widespread changes across multiple organs affecting the brain, metabolism, and immune system. Losing weight is just the surface story. The research suggests fasting might influence health in ways that go far beyond weight loss and could eventually inspire new treatments.",
+      "takeaway": "If you're considering fasting, expect the major metabolic benefits to kick in after about three days, not immediately.",
+      "source": "Queen Mary University of London / Nature Metabolism",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
+      "pexelsQuery": "person measuring body fat loss progress",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5714350/pexels-photo-5714350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5714350/pexels-photo-5714350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "https://kaboompics.com/",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-measuring-a-woman-s-waistline-with-a-pink-tape-measure-5714350/",
+        "avgColor": "#A28F82"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Leucine cellular energy mitochondria",
+      "headline": "Leucine Does More Than Build Muscle. It Powers Your Cells",
+      "body": "New research reveals leucine, an essential amino acid, has a hidden superpower. It protects key proteins on your mitochondria from breaking down, allowing your cells to produce energy more efficiently. Scientists discovered this role through studying a protein called SEL1L involved in cellular quality control. This finding opens doors to new approaches for metabolic disorders and cancer, where energy production gets disrupted. Leucine's impact goes beyond the gym—it's fundamentally rewiring how your cells manage energy.",
+      "takeaway": "Leucine boosts cellular energy production, not just muscle synthesis. This could eventually help treat conditions where mitochondria struggle.",
+      "source": "University of Cologne / Nature Cell Biology",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+      "pexelsQuery": "mitochondria cells energy production",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8720643/pexels-photo-8720643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8720643/pexels-photo-8720643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "turek",
+        "photographerUrl": "https://www.pexels.com/@turek3024",
+        "photoPageUrl": "https://www.pexels.com/photo/pink-abstract-background-8720643/",
+        "avgColor": "#FEA2D1"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Gut bacteria brain aging cognitive health",
+      "headline": "Your Gut Bacteria Are Aging Your Brain. Or Protecting It.",
+      "body": "Your microbiome might be the earliest warning system for how fast your brain is aging. UCLA researchers found that specific gut bacteria and their chemical byproducts are linked to faster brain aging. People with certain bacterial patterns showed older-looking brains on scans, along with poorer memory, focus, and mood. The connection is so strong that gut bacteria composition could become a predictor of cognitive decline decades before symptoms appear. Your gut isn't just affecting digestion—it's actively shaping your brain's aging clock.",
+      "takeaway": "Certain gut bacteria patterns predict brain aging speed. Monitor your microbiome health as part of protecting your cognition long-term.",
+      "source": "UCLA / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261004012345.htm",
+      "pexelsQuery": "gut health microbiome laboratory samples",
+      "product": {
+        "id": "sup-002",
+        "name": "Nordic Naturals Omega-3 Fish Oil",
+        "brand": "Nordic Naturals",
+        "asin": "B002CQU564",
+        "url": "https://www.amazon.com/dp/B002CQU564?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "fish oil",
+          "omega-3",
+          "heart health",
+          "brain health",
+          "inflammation",
+          "supplement",
+          "DHA",
+          "EPA",
+          "recovery"
+        ],
+        "blurb": "Not all fish oil is equal. Nordic Naturals is the standard."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5995044/pexels-photo-5995044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5995044/pexels-photo-5995044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Maksim Goncharenok",
+        "photographerUrl": "https://www.pexels.com/@maksgelatin",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-holding-vacutainer-with-blood-sample-5995044/",
+        "avgColor": "#31A8D1"
+      }
+    },
+    {
+      "category": "MINDSET",
+      "topic": "Aging brain adaptation wisdom development",
+      "headline": "Your Memory Loss Isn't Decline. It's Your Brain Leveling Up.",
+      "body": "Forget everything you've heard about cognitive decline with age. New research from the University of Arizona says your aging brain isn't failing—it's optimizing. As you get older, your brain deliberately shifts from detail-based memory (handled by the hippocampus) toward big-picture thinking (the frontal cortex). This isn't compensation for loss. It's a developmental upgrade that prioritizes wisdom and meaning over remembering where you parked. Older adults become repositories of social knowledge, better suited to mentoring and teaching than younger counterparts.",
+      "takeaway": "Memory changes with age aren't decline—they're a natural shift toward wisdom and knowledge-sharing. Frame aging as development, not deterioration.",
+      "source": "University of Arizona / Perspectives on Psychological Science",
+      "sourceUrl": "https://www.sciencealert.com/the-aging-brain-isnt-declining-its-adapting-study-finds",
+      "pexelsQuery": "older adult mentoring teaching wisdom",
+      "photo": {
+        "url": "https://images.pexels.com/photos/34520596/pexels-photo-34520596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34520596/pexels-photo-34520596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Talha Uğuz",
+        "photographerUrl": "https://www.pexels.com/@talha-uguz-2156923509",
+        "photoPageUrl": "https://www.pexels.com/photo/elderly-friends-chatting-on-a-sunny-day-34520596/",
+        "avgColor": "#6C584F"
+      }
+    }
+  ],
+  "quote": {
+    "text": "For me, it's prioritising recovery as much as training. I'm brilliant at pushing myself, but often less good at slowing down. In 2026, I want to be intentional about sleep, stretching, and taking rest without guilt – because that's when the real adaptation happens.",
+    "author": "Helen Glover",
+    "context": "Two-time Olympic champion rower and British athlete on the importance of recovery"
+  },
+  "workout": {
+    "id": "55bc5032-8cbc-45b1-b92a-df2c91fbc8f3",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "easy",
+    "title": "Walk-Run Cadence Introduction: Building the 20-Minute Foundation",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "no_equipment",
+      "outdoor",
+      "under_30_min"
+    ],
+    "tip": "Count your steps as you run: aim for 160–170 steps per minute (roughly 80 per leg per minute). When breathing feels labored, drop back to walking immediately—no ego required.",
+    "warmup": "2 min easy walking, arm circles 10 each direction, leg swings 10 each direction, 5 bodyweight squats",
+    "exercises": [
+      {
+        "name": "Walk-Run Interval Block",
+        "sets": "5",
+        "reps": "2 min walk + 1 min run",
+        "notes": "Walk at natural pace, then run at conversational effort—you should be able to speak short sentences. Focus on breathing through your nose and mouth together. If you feel out of breath, walk longer next round; if easy, hold the run pace steady."
+      },
+      {
+        "name": "Final Walk-Down",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Slow, easy walk to bring heart rate down. This primes your nervous system for recovery."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "1 min standing quad stretch each leg, 1 min standing hamstring fold, 30 sec each calf stretch against a wall, 1 min deep breathing seated",
+    "description": "Your first structured run-walk session, introducing proper breathing and cadence cues to build continuous movement confidence. This workout alternates 2 minutes of easy walking with 1 minute of conversational-pace running, repeated 5 times, teaching your body rhythm without overwhelm. Perfect for beginners establishing aerobic base and fat-loss momentum with zero pressure."
+  },
+  "meal": {
+    "id": "f94bddaf-8d5d-4150-9535-a5dc5c3ff65c",
+    "title": "Spiced Pork Tenderloin Bowl with Roasted Cauliflower and Green Tahini",
+    "description": "Pound the pork medallions lightly before seasoning for faster, more even cooking — critical when you're racing the clock at dinnertime.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 480,
+    "protein_g": 42,
+    "carbs_g": 28,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n200g pork tenderloin, sliced into medallions\n1 tsp smoked paprika\n1 tsp cumin\n1/2 tsp garlic powder\nSalt and black pepper\n1 tbsp olive oil\n2 cups cauliflower florets\n1/2 cup cooked brown rice or farro\n2 tbsp tahini\nJuice of 1 lemon\nSmall handful of fresh parsley or cilantro\n1-2 tbsp water to thin dressing\n1/2 tsp chili flakes (optional)\n\nInstructions:\n1. Toss cauliflower in olive oil, salt, and pepper and roast at 220C/425F for 20 minutes until golden. 2. Season pork medallions with paprika, cumin, garlic powder, salt, and pepper. Sear in a hot pan with a little olive oil for 3-4 minutes per side until cooked through. 3. Blend or whisk tahini, lemon juice, fresh herbs, and a splash of water into a loose green dressing. 4. Layer rice or farro in a bowl, top with cauliflower and pork, and drizzle generously with green tahini.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
