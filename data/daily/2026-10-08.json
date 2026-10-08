@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-08",
+  "dateLabel": "Thursday, October 8, 2026",
+  "generatedAt": "2026-10-08T11:00:37.803Z",
+  "articles": [
+    {
+      "category": "MINDSET",
+      "topic": "Exercise together strengthens relationships",
+      "headline": "Couples Who Sweat Together Stay Together. Here's the Science.",
+      "body": "A new study from Brigham Young University found that married couples who exercise together report better communication, healthier conflict resolution, and less marital stress than those who work out alone. Researchers analyzed survey data from 1,693 young married couples and discovered that shared physical activity created meaningful opportunities for conversation and connection. Walking emerged as the most popular choice, proving you don't need expensive gym memberships to benefit. Even simple activities like taking a walk together may be your relationship's secret weapon.",
+      "takeaway": "Exercising with your spouse strengthens your marriage more than solo workouts do. Start with something as simple as a walk.",
+      "source": "Brigham Young University / Family Relations",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm",
+      "pexelsQuery": "couple walking outdoors together",
+      "photo": {
+        "url": "https://images.pexels.com/photos/27254929/pexels-photo-27254929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/27254929/pexels-photo-27254929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Leticia Vieira",
+        "photographerUrl": "https://www.pexels.com/@leticia-vieira-17376742",
+        "photoPageUrl": "https://www.pexels.com/photo/two-people-holding-hands-walking-down-a-cobblestone-street-27254929/",
+        "avgColor": "#343E4A"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Creatine builds muscle without exercise",
+      "headline": "The Supplement That Works Even When You Don't",
+      "body": "A 12-week study from Texas A&M University found that adults ages 45-65 who took creatine monohydrate without exercising gained about 2.4 pounds of lean muscle. Those who combined creatine with a structured exercise program saw even greater gains. Researchers had participants follow an American Heart Association-guided diet while taking either 10 grams of creatine daily or a placebo. The findings suggest creatine can help preserve muscle mass regardless of activity level, though exercise amplifies the effect significantly.",
+      "takeaway": "Creatine can build lean tissue on its own, but it works best when paired with training.",
+      "source": "Texas A&M University / Medical News Today",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/creatine-may-help-build-muscle-even-without-exercise-study",
+      "pexelsQuery": "creatine powder supplement",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17820719/pexels-photo-17820719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17820719/pexels-photo-17820719.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/spilled-capsule-pills-17820719/",
+        "avgColor": "#739572"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Isometric exercise lowers blood pressure",
+      "headline": "Wall Squats and Planks Beat Cardio for Blood Pressure Control",
+      "body": "New research published in BMJ Open Sport and Exercise Medicine found that isometric exercises like wall squats and planks are remarkably effective for lowering blood pressure. Just one or two sessions per week can maintain short-term improvements, while three sessions per week produced the biggest drops in systolic blood pressure, averaging 13.73 mmHg reduction. These exercises require no equipment and take just minutes per session. The mechanism is simple: holding a static contraction impedes blood flow temporarily, and when released, triggers metabolic signals that relax blood vessels.",
+      "takeaway": "Three wall squats per week can lower your blood pressure more than many cardio sessions.",
+      "source": "Canterbury Christ Church University / BMJ Open Sport & Exercise Medicine",
+      "sourceUrl": "https://www.healthline.com/health-news/weekly-session-isometric-exercise-may-lower-blood-pressure",
+      "pexelsQuery": "woman doing wall squat exercise",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7746289/pexels-photo-7746289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7746289/pexels-photo-7746289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina Tankilevitch",
+        "photographerUrl": "https://www.pexels.com/@polina-tankilevitch",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-exercising-outdoors-7746289/",
+        "avgColor": "#C27765"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Resistance training shrinks fat cells",
+      "headline": "Your Fat Cells Start Shrinking After Just One Week of Lifting",
+      "body": "Researchers at the State University of Campinas in Brazil found that just seven days of resistance training activated fat-burning mechanisms and shrank fat cells in obese mice, despite no change in overall body weight. The mice climbed weighted stairs 20 times per session. The key finding: enlarged fat cells drive chronic inflammation, but smaller cells signal metabolic health. This means the benefits of strength training happen at the cellular level long before the scale moves, reactivating proteins like PLIN1 and ABHD5 that help your body burn stored fat.",
+      "takeaway": "Your fat cells shrink within days of starting strength training, even before weight loss shows up.",
+      "source": "State University of Campinas / Life Sciences",
+      "sourceUrl": "https://www.newsweek.com/strength-training-shrinks-fat-cells-in-just-7-days-study-finds-12483906",
+      "pexelsQuery": "person lifting dumbbells strength training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14623669/pexels-photo-14623669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14623669/pexels-photo-14623669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Miguel González",
+        "photographerUrl": "https://www.pexels.com/@mikegles",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-lifting-dumbbell-14623669/",
+        "avgColor": "#625E5B"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+    "author": "Arnold Schwarzenegger",
+    "context": "Actor, former bodybuilder, and seven-time Mr. Olympia champion known for his philosophy on training and resilience."
+  },
+  "workout": {
+    "id": "d62c1d95-a202-46f3-81de-49c393d4f844",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Deadlift Peak: Heavy Single or Double + Weighted Chin Accessory",
+    "difficulty": "Intermediate",
+    "duration": "55 min",
+    "equipment": [
+      "barbell",
+      "weight plates",
+      "pull-up bar",
+      "dip belt",
+      "lifting belt",
+      "chalk"
+    ],
+    "trainingZone": "z5",
+    "tags": [
+      "barbell_required",
+      "gym_required"
+    ],
+    "tip": "Before initiating the pull, create tension in the bar before it breaks the floor — pull the slack out slowly, engage your lats like you're bending the bar around your legs, then drive the floor away. A jerked or reactive pull off the floor at near-maximal loads is where injuries happen.",
+    "warmup": "12 min: 5 min light bike → 10 glute bridges → 10 Romanian deadlifts at empty bar → 8 sumo-stance hip circles each side → 3 reps at 40% 1RM deadlift → 2 reps at 55% 1RM → 2 reps at 67% 1RM → 1 rep at 78% 1RM → 1 rep at 86% 1RM (rest 2 min between each ramp set after 78%)",
+    "exercises": [
+      {
+        "name": "Conventional Deadlift — Peak Ramp to Heavy Single or Double",
+        "sets": "3",
+        "reps": "1 @ 90% → 1 @ 93–95% → max attempt 1–2 reps (RPE 9.5–10)",
+        "notes": "After your 86% warm-up, rest 4 min before your 90% single. Evaluate: if bar speed was strong and form held, load to 93–95% for your max attempt. Attempt a second rep only if the first breaks the floor cleanly and you have clear hip extension at the top. Lower under control and reset fully between reps — touch and go is not permitted at these loads. Belt on from 90% onward. Use chalk."
+      },
+      {
+        "name": "Conventional Deadlift — Back-Off Doubles",
+        "sets": "3",
+        "reps": "2 @ 90% 1RM",
+        "notes": "Drop back to 90% of true 1RM immediately after your peak attempt. Reset at the floor between reps — no bouncing, no touch-and-go. These doubles should feel demanding but mechanically clean. If form degrades on rep 2 (rounding lumbar, bar drifting away from body), end the set and note it for programming. Rest 3–4 min between sets."
+      },
+      {
+        "name": "Weighted Chin-Up",
+        "sets": "3",
+        "reps": "3 @ RPE 8–9 (add 10–25 lb via dip belt based on current strength)",
+        "notes": "Full dead hang at the bottom, chin clearly over the bar at the top — no partial reps. These are meant to be heavy and controlled, not explosive. This accessory targets lat thickness and upper back pulling strength that directly supports deadlift lockout and bar control. Rest 2.5 min between sets."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "8 min: 60-sec child's pose with arms extended → 60-sec pigeon pose each side → 45-sec standing hip flexor stretch each side → 60-sec lat stretch hanging from bar at 50% (passive hang, low tension) → 30-sec thoracic extension over foam roller (mid-back) → 30-sec slow belly breathing lying flat",
+    "description": "This pull-focused power/peak session centers on working to a heavy single or double on the conventional deadlift at 90–95% 1RM, driving peak neural output and force expression from the floor. Back-off doubles at 90% cement pulling capacity without exceeding CNS tolerance. Weighted chin-ups at heavy triples complete the session with vertical pulling strength."
+  },
+  "meal": {
+    "id": "fc0be9e0-ea5b-4722-9d81-198f551a0d4a",
+    "title": "Beef Jerky & Sharp Cheddar Snack Pack",
+    "description": "Portable, shelf-stable protein and fat combo designed to fuel strength athletes between workouts or as a quick desk snack. The combination of beef jerky's concentrated protein and aged cheddar's calcium supports muscle maintenance and bone density.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 180,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 9,
+    "fiber_g": 0,
+    "prep_minutes": 0,
+    "cook_minutes": 0,
+    "ingredients": [
+      "50g beef jerky (3-4 strips)",
+      "30g sharp aged cheddar (1 oz)"
+    ],
+    "instructions": "1. Open jerky package.\n2. Portion cheddar into a small container or wrap in parchment.\n3. Pack together for a grab-and-go snack.",
+    "tip": "Buy jerky in bulk from Costco or online to cut costs. Choose low-sugar varieties (under 4g per serving) to avoid unnecessary carbs between meals.",
+    "goal_affinity": [
+      "strength",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
