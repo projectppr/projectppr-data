@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-09",
+  "dateLabel": "Friday, October 9, 2026",
+  "generatedAt": "2026-10-09T11:00:40.007Z",
+  "articles": [
+    {
+      "category": "BREATHWORK",
+      "topic": "Exhaling speeds reaction time milliseconds",
+      "headline": "The Simplest Performance Hack: Breathe Out Faster",
+      "body": "Your reaction time isn't the same at every moment. Northwestern neuroscientists discovered that when you exhale, your brain responds 41 milliseconds faster than when you inhale. That's not much, but in high-stakes moments—a sprint start, a crucial decision, or a sharp turn—it matters. They tracked 35 adults doing a reaction test while monitoring their breathing. Responses during exhalation beat inhalation by over a quarter-second difference. Olympic athletes win by thousandths of a second. So start timing your reactions and decisions to your exhale.",
+      "takeaway": "Time your reaction-dependent movements—sprints, jumps, shots—to land on your exhale for a measurable speed boost.",
+      "source": "iScience, Northwestern University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260928000009.htm",
+      "pexelsQuery": "person exhaling breathing",
+      "photo": {
+        "url": "https://images.pexels.com/photos/29702931/pexels-photo-29702931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/29702931/pexels-photo-29702931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Cnordic Nordic",
+        "photographerUrl": "https://www.pexels.com/@cnordic-nordic-2147669838",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-using-portable-personal-inhaler-device-outdoors-29702931/",
+        "avgColor": "#705D57"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Caffeine sustained sprint power hours",
+      "headline": "Your Coffee Just Became a 3.5-Hour Performance Tool",
+      "body": "One cup of coffee before a workout doesn't fade after 30 minutes. New research from Japan found that a single pre-exercise caffeine dose kept sprint power elevated for at least 3.5 hours straight. Twelve healthy adults got either caffeine (5.5 mg per kg of body weight) or placebo, then cycled through three sprint sets across 3.5 hours. Caffeine boosted average sprint power by 0.5 to 2.4 percent and peak power by up to 3.7 percent in later rounds. Athletes also reported lower perceived effort and less leg discomfort. One dose. Hours of benefit. The takeaway: time your coffee strategically for long sessions.",
+      "takeaway": "Dose caffeine at 3-6 mg per kg body weight 45-60 minutes before hard work, and expect performance gains through your entire session.",
+      "source": "Medicine & Science in Sports & Exercise",
+      "sourceUrl": "https://www.psychologytoday.com/us/blog/the-athletes-way/202610/study-caffeine-can-boost-sprint-performance-for-35-hours",
+      "pexelsQuery": "coffee cup exercise athletic",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/16673389/pexels-photo-16673389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/16673389/pexels-photo-16673389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tibor Szabo",
+        "photographerUrl": "https://www.pexels.com/@tibszabo",
+        "photoPageUrl": "https://www.pexels.com/photo/cup-on-railing-16673389/",
+        "avgColor": "#6D6968"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Boxing training lowers blood pressure young adults",
+      "headline": "Boxing Beats Meds for Blood Pressure. Six Weeks Proved It.",
+      "body": "Forget treadmill cardio if high blood pressure is creeping in. A randomized trial from UT El Paso found that six weeks of heavy-bag boxing training dropped systolic pressure by 16 mmHg and diastolic by 10 mmHg—reductions as big as medication can deliver. Twenty-four young adults (average age 25) trained three times weekly for six weeks, hitting the bag for ten three-minute rounds with one-minute rest intervals. The control group did flexibility work. Boxing also improved blood vessel function and central arterial pressure. This wasn't just cardio. It was skill-based, full-body intensity that actually rewired how their cardiovascular system worked.",
+      "takeaway": "Three weekly sessions of heavy-bag or high-intensity interval training can match medication-level blood pressure control in weeks, not months.",
+      "source": "Sports Journal",
+      "sourceUrl": "https://www.utep.edu/newsfeed/2026/march/utep-study-six-weeks-of-boxing-training-significantly-lowers-blood-pressure-in-young-adults.html",
+      "pexelsQuery": "boxing heavy bag training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4401634/pexels-photo-4401634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4401634/pexels-photo-4401634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Antoni Shkraba",
+        "photographerUrl": "https://www.pexels.com/@shkrabaanthony",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-training-in-boxing-at-the-gym-4401634/",
+        "avgColor": "#462D10"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Neighborhood social determinants early adulthood cardiovascular",
+      "headline": "Where You Lived at 25 Determines Your Heart Risk at 45",
+      "body": "Your zip code at age 25 might matter more than your gym membership at 45. Northwestern researchers tracked thousands of young adults over decades and found that living in neighborhoods with poor social conditions—low access to food, limited exercise options, high crime—led to significantly higher rates of coronary artery calcification by midlife. This isn't just about poverty. It's about chronic stress baked into the environment. The researchers created an index combining socioeconomic factors, food access, physical activity opportunities, and crime rates. People exposed to multiple adverse conditions showed measurable early signs of heart disease years later. Your environment shapes your biology for decades.",
+      "takeaway": "Neighborhood stress compounds over time. If you're stuck in a high-stress environment, extra vigilance on exercise, nutrition, and sleep becomes non-negotiable.",
+      "source": "Nature Communications, Northwestern Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000009.htm",
+      "pexelsQuery": "neighborhood urban environment street",
+      "photo": {
+        "url": "https://images.pexels.com/photos/34021143/pexels-photo-34021143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/34021143/pexels-photo-34021143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Roshan sharma",
+        "photographerUrl": "https://www.pexels.com/@roshan-sharma-453718629",
+        "photoPageUrl": "https://www.pexels.com/photo/sunset-over-quiet-suburban-street-34021143/",
+        "avgColor": "#543F24"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Strong people are harder to kill than weak people and more useful in general.",
+    "author": "Mark Rippetoe",
+    "context": "Strength coach and powerlifting authority"
+  },
+  "workout": {
+    "id": "b1c69610-9dd3-4066-9236-99e806192c61",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "intervals",
+    "title": "5K Pace Track Ladder: 400m Repeat Pyramid",
+    "difficulty": "Intermediate",
+    "duration": "40 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "cardio",
+      "lactate_work",
+      "no_equipment",
+      "outdoor",
+      "race_prep",
+      "under_60_min"
+    ],
+    "tip": "Aim for even splits on each 400m repeat—don't chase the first one. Your quads will feel the fatigue on repeats 4–6; use shorter, quicker strides to maintain cadence rather than grinding with long strides.",
+    "warmup": "8 min: 2 min easy jog, 6×100m stride-outs with 50m walk recovery between each",
+    "exercises": [
+      {
+        "name": "6×400m @ 5K Pace",
+        "sets": "6",
+        "reps": "1",
+        "notes": "Run each 400m at your 5K goal pace (e.g., if 5K goal is 20 min, that's ~6:25/km or 10:20/mile = ~90 sec per 400m). Focus on controlled acceleration in the first 100m, hold steady in the middle, kick slightly in the final 100m."
+      },
+      {
+        "name": "90-Second Recovery Jog",
+        "sets": "5",
+        "reps": "1",
+        "notes": "Between each 400m repeat, jog at conversational pace (about 65–70% max heart rate). This active recovery clears lactate and keeps your heart rate elevated for the next effort."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: easy jog at conversational pace, followed by 3 min of standing quad stretch (30 sec each leg), hamstring fold (60 sec), and calf stretch against a wall (30 sec each side)",
+    "description": "A classic pyramid structure that builds speed sustainability at 5K race pace. Athletes run 400m repeats at progressively harder efforts (6×400m with 90-second recovery jogs), teaching the body to maintain turnover under fatigue. Perfect for 5K and 10K runners who need to sharpen leg speed before race season."
+  },
+  "meal": {
+    "id": "e723a522-57e1-4b92-b665-eb2893997c41",
+    "title": "Seared Duck Breast and Lentil-Free Warm Grain Bowl with Ginger Sesame Glaze",
+    "description": "Starting duck in a cold pan and slowly rendering the fat gives you crispy skin every time without burning. No special skills required.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 530,
+    "protein_g": 38,
+    "carbs_g": 42,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 duck breasts (skin-on)\n1 cup cooked farro or barley\n1 cup baby spinach\n1/2 cup shredded purple cabbage\n1/2 cup edamame (shelled)\n1 tbsp low-sodium soy sauce\n1 tsp fresh grated ginger\n1 tsp sesame oil\n1 tbsp rice vinegar\n1 tsp honey\n1 tsp sesame seeds\nSalt and black pepper\n\nInstructions:\n1. Score the duck skin in a crosshatch pattern, season with salt and pepper. Place skin-side down in a cold pan, then turn heat to medium. Cook for 8-10 minutes until the skin is golden and crisp, then flip and cook 4-5 more minutes. Rest for 5 minutes, then slice thin. 2. Whisk together soy sauce, ginger, sesame oil, rice vinegar, and honey to make the glaze. 3. Build bowls with farro, spinach, cabbage, and edamame. Lay sliced duck on top, drizzle glaze over everything. 4. Finish with sesame seeds.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
