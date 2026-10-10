@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-10",
+  "dateLabel": "Saturday, October 10, 2026",
+  "generatedAt": "2026-10-10T11:00:42.828Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Creatine builds muscle without exercise",
+      "headline": "Creatine May Help Build Muscle Even Without Exercise, Study Suggests",
+      "body": "Researchers tested whether creatine supplementation could build muscle without structured training. In a 12-week study, people taking creatine alone gained about 2.4 pounds of lean muscle. Those combining creatine with a training program gained around 3 pounds. The finding suggests creatine may support muscle building through pathways beyond just exercise stimulus, potentially helpful for aging and recovery. This adds evidence that creatine could be part of a healthy aging strategy, even when gym time is limited.",
+      "takeaway": "Creatine supplementation alone can increase lean muscle, though combining it with training delivers the best results.",
+      "source": "Medical News Today",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/creatine-may-help-build-muscle-even-without-exercise-study",
+      "pexelsQuery": "creatine powder supplement scoop",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/33921585/pexels-photo-33921585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33921585/pexels-photo-33921585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gupta Sahil",
+        "photographerUrl": "https://www.pexels.com/@gupta-sahil-140074270",
+        "photoPageUrl": "https://www.pexels.com/photo/creatine-monohydrate-supplement-in-kitchen-33921585/",
+        "avgColor": "#B49277"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Ultraprocessed foods change metabolism and brain",
+      "headline": "Same Calories, Different Responses: How Processing Changes Your Metabolism",
+      "body": "Virginia Tech researchers gave healthy adults two identical 300-calorie meals differing only in processing level. The ultraprocessed version triggered higher insulin spikes and changed how the body burned carbohydrates. Brain scans showed ultraprocessed foods activated reward centers differently, even though participants weren't conscious of the difference. The study reveals that calorie counts and nutrient totals don't capture how food processing actually affects your body and brain. It's not just what you eat, it's how it's made.",
+      "takeaway": "Ultraprocessed foods produce distinct metabolic and neural responses compared to minimally processed foods, regardless of nutrient matching.",
+      "source": "Nature Metabolism",
+      "sourceUrl": "https://www.nature.com/articles/s42255-026-01618-5",
+      "pexelsQuery": "fresh vegetables whole foods meal prep",
+      "product": {
+        "id": "body-002",
+        "name": "Greater Goods Digital Food Scale",
+        "brand": "Greater Goods",
+        "asin": "B09QFWXSD8",
+        "url": "https://www.amazon.com/dp/B09QFWXSD8?tag=chrisolson04-20",
+        "category": "kitchen",
+        "price_range": "$",
+        "keywords": [
+          "nutrition",
+          "calories",
+          "macros",
+          "meal prep",
+          "food tracking",
+          "portion",
+          "weight loss",
+          "protein"
+        ],
+        "blurb": "Measure your food for two weeks and you will understand your body better than any diet book."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9025049/pexels-photo-9025049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9025049/pexels-photo-9025049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Андрей",
+        "photographerUrl": "https://www.pexels.com/@84744238",
+        "photoPageUrl": "https://www.pexels.com/photo/selective-focus-of-watermelon-radish-in-the-kitchen-9025049/",
+        "avgColor": "#5F5742"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Wearable rings and bands track recovery data",
+      "headline": "Recovery Wearables Are Moving Beyond Steps: What Your Body Knows About Rest",
+      "body": "The fitness wearable landscape in 2026 has shifted toward recovery metrics over raw activity counting. Screenless devices like smart rings and specialized recovery bands now track heart rate variability, sleep architecture, and strain scores to tell you whether your body is ready for hard training or needs a lighter day. Top performers across sports and endurance use these tools to quantify stress versus recovery, removing guesswork from training decisions. The data you generate becomes the coaching feedback your body needs.",
+      "takeaway": "Recovery-focused wearables provide actionable readiness scores by tracking HRV and sleep, helping athletes avoid overtraining.",
+      "source": "Wareable",
+      "sourceUrl": "https://www.wareable.com/fitness-trackers/the-best-fitness-tracker",
+      "pexelsQuery": "smartwatch fitness tracker wrist band",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/18078945/pexels-photo-18078945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/18078945/pexels-photo-18078945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anastasiya Badun",
+        "photographerUrl": "https://www.pexels.com/@badun",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-watch-18078945/",
+        "avgColor": "#6F634D"
+      }
+    },
+    {
+      "category": "MINDSET",
+      "topic": "Resilience factors protect against stress",
+      "headline": "Before, During, and After: What Actually Protects You From Stress",
+      "body": "A new study tracked medical students through high-stress exams, measuring resilience factors at each stage. Pre-exam factors like self-esteem and distress tolerance predicted who stayed mentally healthy, but the research showed something unexpected: a combination of individual, family, and community-level factors mattered more than any single protective measure. Building resilience isn't about one strength. It's about stacking multiple supports—mindset, relationships, and resources—before pressure hits. The more tools you have, the better you handle it.",
+      "takeaway": "Multiple resilience factors combined protect better than any single approach; pre-stress preparation matters most.",
+      "source": "Scientific Reports",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-63690-x",
+      "pexelsQuery": "person meditating peaceful calm breathing",
+      "product": {
+        "id": "book-005",
+        "name": "How Bad Do You Want It - Matt Fitzgerald Audiobook",
+        "brand": "Matt Fitzgerald",
+        "asin": "B01B6KWGFE",
+        "url": "https://www.amazon.com/dp/B01B6KWGFE?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "endurance",
+          "running",
+          "triathlon",
+          "mindset",
+          "book",
+          "audiobook",
+          "performance"
+        ],
+        "blurb": "The psychology of champions. Why mental fitness is the real limiter."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8933601/pexels-photo-8933601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8933601/pexels-photo-8933601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "SHVETS production",
+        "photographerUrl": "https://www.pexels.com/@shvets-production",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-praying-8933601/",
+        "avgColor": "#9C8D86"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+    "author": "Arnold Schwarzenegger",
+    "context": "Seven-time Mr. Olympia champion and advocate for the mindset that physical and mental resilience are built through adversity."
+  },
+  "workout": {
+    "id": "51af2d91-fcfa-4499-8205-f856405e5c83",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "full_body",
+    "title": "Foundation Four: Bodyweight Movement Mastery",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "equipment": [],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "full_body",
+      "functional",
+      "hotel_friendly",
+      "no_equipment",
+      "under_30_min"
+    ],
+    "tip": "Prioritize slow, controlled movement over speed. If you can't do a push-up from your toes, use your knees—there's no shame in regression. Nail the pattern first, then add intensity.",
+    "warmup": "3 min: 5 arm circles each direction, 10 cat-cow stretches, 5 inchworms, 10 bodyweight squats, 5 push-ups",
+    "exercises": [
+      {
+        "name": "Goblet-Hold Air Squat",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Clasp hands at chest as if holding a weight. Descend until thighs pass parallel, chest upright. This teaches squat pattern without load."
+      },
+      {
+        "name": "Glute Bridge",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Lie flat, feet flat under knees, drive hips up until body is straight line. Squeeze glutes at top for 1 second. Teaches hip extension hinge pattern."
+      },
+      {
+        "name": "Incline Push-Up",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Hands on a bench, chair, or countertop. Lower chest to surface, elbows at 45°. Scale the movement by raising your hands higher if needed."
+      },
+      {
+        "name": "Dead Hang or Scapular Pull",
+        "sets": "3",
+        "reps": "5 hangs × 15 sec OR 10 scapular pulls",
+        "notes": "If you have a pull-up bar: hang for time, relax shoulders. If no bar: use resistance band around a door frame and practice pulling shoulder blades down and back."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: quad stretch 30 sec each leg, forward fold hamstring 30 sec, child's pose 30 sec, cat-cow 5 reps, standing chest opener 30 sec each side",
+    "description": "A pure bodyweight circuit teaching the four fundamental movement patterns—squat, hinge, push, and pull—with minimal volume and maximal form focus. Perfect for complete beginners to establish movement literacy and build confidence before adding load."
+  },
+  "meal": {
+    "id": "fe8c75c1-40c0-44a2-8f7f-614905f1db1a",
+    "title": "Date & Cashew Butter Energy Bites",
+    "description": "No-bake bites made from Medjool dates, cashew butter, and a pinch of cinnamon—pure carb and fat fuel in handheld form. Endurance athletes love these for reliable energy that's easy to digest 45 minutes before a long effort.",
+    "meal_type": "pre_workout",
+    "macro_profile": "high_carb",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 203,
+    "protein_g": 3,
+    "carbs_g": 39,
+    "fat_g": 6,
+    "fiber_g": 3,
+    "prep_minutes": 10,
+    "cook_minutes": 0,
+    "ingredients": [
+      "8 Medjool dates",
+      "3 tbsp natural cashew butter",
+      "1/4 tsp ground cinnamon",
+      "pinch of sea salt"
+    ],
+    "instructions": "1. Remove pits from dates and chop roughly.\n2. Blend or food-process dates and cashew butter until sticky and well combined.\n3. Fold in cinnamon and salt.\n4. Roll into 6 equal balls (approximately 2 bites per ball).\n5. Store in an airtight container in the fridge for up to 5 days.",
+    "tip": "Make a full batch on Sunday—grab one 30–45 minutes before any endurance session. Dates are nature's performance fuel; the natural sugars digest fast without the artificial taste of most energy gels.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "triathlon"
+    ],
+    "image_url": ""
+  }
+}
