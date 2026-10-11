@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-11",
+  "dateLabel": "Sunday, October 11, 2026",
+  "generatedAt": "2026-10-11T11:00:59.591Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "REM sleep disease prevention 95000 adults",
+      "headline": "Your REM Sleep Is Your Shield. More of It Means 83 Fewer Diseases.",
+      "body": "A massive study of nearly 96,000 people tracked their sleep patterns and health outcomes over years. The finding was stark: more REM sleep—the stage where dreaming happens—cut disease risk dramatically. Greater REM was linked to 46% lower dementia risk, 80% lower Parkinson's risk, and protection against 83 diseases total. Deep sleep mattered too, particularly for type 2 diabetes and depression. The sweet spot was six to eight hours nightly. For busy professionals, this isn't just about feeling rested—it's about building your most powerful defense against aging.",
+      "takeaway": "Prioritize consistent sleep duration and protect your REM stage. Six to eight hours nightly is your longevity baseline. The quality and consistency matter as much as the hours.",
+      "source": "Fox News / PLOS Medicine",
+      "sourceUrl": "https://www.foxnews.com/health/sleep-type-linked-dramatically-lower-risk-dementia-parkinsons-81-diseases",
+      "pexelsQuery": "person sleeping peacefully bed dark room",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6598228/pexels-photo-6598228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6598228/pexels-photo-6598228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Hanna Pad",
+        "photographerUrl": "https://www.pexels.com/@anna-nekrashevich",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-sleeping-on-the-bed-6598228/",
+        "avgColor": "#76767A"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "HIIT preserves muscle fat loss older adults",
+      "headline": "HIIT Is the Only Workout That Burns Fat Without Stealing Your Muscle",
+      "body": "Researchers at the University of the Sunshine Coast ran a six-month test on 123 healthy older adults (average age 72). Three groups did different intensities: low, moderate, and HIIT. All groups lost some fat. But only HIIT kept the muscle. Moderate intensity actually caused a small loss of lean tissue alongside the fat loss. The HIIT group? Fat dropped, muscle stayed. The mechanism is simple: high-intensity work sends your body a stronger signal to preserve muscle because the demands are higher. For anyone in their 40s and beyond, this is the difference between losing weight and losing strength.",
+      "takeaway": "If you're over 50 and want to recompose your body, intensity beats volume. Three 45-minute HIIT sessions per week outperforms steady cardio for preserving the muscle you need to stay independent.",
+      "source": "ScienceDaily / Maturitas",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
+      "pexelsQuery": "athlete training intense exercise gym effort",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4761352/pexels-photo-4761352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4761352/pexels-photo-4761352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-black-t-shirt-and-black-pants-playing-skateboard-4761352/",
+        "avgColor": "#1C2629"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Brain training cognitive resilience mental health",
+      "headline": "Five Minutes a Day of Brain Training Cut Depression and Anxiety in Half",
+      "body": "Researchers at the Center for BrainHealth tested 370 adults—half with a history of mental illness, half without—on a strategy-based cognitive training program called SMART. The participants spent just five minutes daily for six months on holistic, higher-order cognitive training. The results were universal: psychological distress dropped significantly, resilience climbed, and quality of life improved. The gains were dose-dependent—more training minutes meant bigger improvements. Crucially, the benefits showed up across both groups, suggesting cognitive training works as preventive medicine, not just as therapy.",
+      "takeaway": "Brain training isn't a luxury. Five minutes a day of structured cognitive work measurably improves your mental health and resilience. It's a scalable intervention that works before crisis hits.",
+      "source": "Frontiers in Psychology / Center for BrainHealth",
+      "sourceUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1826717/full",
+      "pexelsQuery": "person focused thinking mental clarity cognitive work",
+      "product": {
+        "id": "book-007",
+        "name": "Atomic Habits - James Clear Audiobook",
+        "brand": "James Clear",
+        "asin": "B07RFSSYBH",
+        "url": "https://www.amazon.com/dp/B07RFSSYBH?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "habits",
+          "productivity",
+          "health",
+          "routine",
+          "behavior change",
+          "book",
+          "audiobook",
+          "training"
+        ],
+        "blurb": "The system behind every sustainable health and training habit."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/39853318/pexels-photo-39853318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/39853318/pexels-photo-39853318.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vitaly Gariev",
+        "photographerUrl": "https://www.pexels.com/@silverkblack",
+        "photoPageUrl": "https://www.pexels.com/photo/portrait-of-a-thoughtful-woman-in-a-modern-office-39853318/",
+        "avgColor": "#6A736E"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Oura ring health data clinical integration IPO",
+      "headline": "Your Wearable Data Just Got Real Clinical Power. Here's Why It Matters.",
+      "body": "Oura, the health ring that tracks sleep, heart rate, and recovery, just filed for its IPO with staggering numbers: 5 million paying subscribers, 42 billion hours of longitudinal biometric data, and $1.2 billion in revenue. But the real story isn't the IPO. It's that clinicians are finally integrating wearable data into care. Xella Health now lets doctors view wearable trends—sleep, HRV, temperature—alongside diagnostic testing and genetic data. Your ring data is moving from a dashboard toy into actual medical decision-making. For professionals tracking their own health, this shift means your data is becoming actionable intelligence.",
+      "takeaway": "Wearable data is crossing into clinical medicine. Track sleep, HRV, and temperature consistently. Your ring's data now carries real diagnostic weight—make sure you're paying attention to what it's telling you.",
+      "source": "Women of Wearables / Reuters",
+      "sourceUrl": "https://womenofwearables.substack.com/p/10-wearable-tech-news-stories-you",
+      "pexelsQuery": "smart ring wrist health technology tracking",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8197293/pexels-photo-8197293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8197293/pexels-photo-8197293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/hand-on-sound-mixer-8197293/",
+        "avgColor": "#372E25"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Longevity is built through stress management, not just stress application. Recovery, sleep, and hormone health are performance multipliers, not optional add-ons.",
+    "author": "Dr. Jonathan Mike",
+    "context": "Performance scientist and strength coach focused on athlete longevity and recovery physiology."
+  },
+  "workout": {
+    "id": "024f3535-5aed-4245-959b-aa3fcbe47b24",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "active_recovery",
+    "title": "Easy Movement & Core Awareness: Gentle Activation Flow",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "equipment": [],
+    "trainingZone": "z1",
+    "tags": [
+      "beginner_friendly",
+      "full_body",
+      "functional",
+      "hotel_friendly",
+      "low_impact",
+      "no_equipment",
+      "under_30_min",
+      "under_60_min"
+    ],
+    "tip": "Focus on movement quality, not reps or speed. Each exercise should feel smooth and controlled. If your breathing becomes labored, you've gone too hard for a recovery day—dial back intensity immediately.",
+    "warmup": "3 min: 20 sec jumping jacks (or step-touch if needed), 10 arm circles, 10 leg swings (forward-back each leg), 5 inchworms, 10 glute bridges",
+    "exercises": [
+      {
+        "name": "Scapular Push-Up (Isometric Hold Emphasis)",
+        "sets": "3",
+        "reps": "8 reps",
+        "notes": "High plank position, hands under shoulders. Lower body 2 inches by retracting shoulder blades (no elbow bend), then push back to start. This teaches scapular stability without heavy load—foundational for push patterns."
+      },
+      {
+        "name": "Dead Hang Shoulder Activation",
+        "sets": "3",
+        "reps": "20–30 sec hold",
+        "notes": "Hang from bar (or assisted band if needed). Let shoulders relax into full stretch, then gently shrug shoulders up and down 5–10 times. Teaches lat and shoulder stability passively."
+      },
+      {
+        "name": "Goblet Squat Hold (Unloaded)",
+        "sets": "3",
+        "reps": "6 reps",
+        "notes": "Hold hands at chest in goblet position (no weight), squat to comfortable depth. Pause at bottom for 2 breaths, focusing on knee tracking and upright torso. Restores squat pattern without loading."
+      },
+      {
+        "name": "Bird Dog Series (Slow & Deliberate)",
+        "sets": "2",
+        "reps": "6 reps each side",
+        "notes": "On hands and knees, extend opposite arm and leg. Pause 2 breaths at full extension, feel core brace. Return slowly. This builds anti-rotation stability and core awareness safely."
+      },
+      {
+        "name": "Glute Bridge with 2-Sec Hold",
+        "sets": "3",
+        "reps": "10 reps",
+        "notes": "Lying on back, knees bent, feet flat. Drive through heels, squeeze glutes at top, hold 2 seconds. Focus on hip extension, not lumbar arch. Reactivates posterior chain after running or sitting."
+      },
+      {
+        "name": "Cat-Cow Flow (Spinal Mobility)",
+        "sets": "2",
+        "reps": "8 slow reps",
+        "notes": "Hands and knees position. Cow: drop belly, lift gaze, open chest. Cat: round spine, tuck chin. Move with breath, no rush. Mobilizes entire spine and promotes parasympathetic activation."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min: child's pose 20 sec, supine figure-4 stretch 20 sec each side, lying hamstring stretch 20 sec each side, final 30 seconds supine with arms overhead, slow breathing",
+    "description": "A 30-minute low-stress bodyweight movement session combining light calisthenics, breathing drills, and form refinement for active recovery. This session reintroduces movement patterns (push, pull, squat, hinge) at minimal intensity, promoting blood flow and proprioceptive awareness after intense training without accumulating fatigue. Ideal for beginners building movement literacy while recovering from strength or fat-loss blocks."
+  },
+  "meal": {
+    "id": "f44b5098-03dd-4762-9f7c-ca86f48f4504",
+    "title": "Smoked Salmon & Egg Breakfast Bowl with Diced Potatoes & Arugula",
+    "description": "A Mediterranean-inspired breakfast bowl built on omega-3 rich smoked salmon and protein-packed eggs, paired with nutrient-dense arugula and roasted potato cubes. This hits fat-loss macros while delivering the micronutrients athletes need for recovery and immunity.",
+    "meal_type": "breakfast",
+    "macro_profile": "fat_loss",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 399,
+    "protein_g": 32,
+    "carbs_g": 27,
+    "fat_g": 18,
+    "fiber_g": 4,
+    "prep_minutes": 8,
+    "cook_minutes": 15,
+    "ingredients": [
+      "3 oz smoked salmon",
+      "2 large eggs",
+      "1 cup cubed potatoes",
+      "2 cups fresh arugula",
+      "1 tsp olive oil",
+      "1 tbsp fresh lemon juice",
+      "salt and pepper to taste"
+    ],
+    "instructions": "1. Toss cubed potatoes with 1/2 tsp olive oil, salt, and pepper; roast in a 400°F oven for 12-15 minutes until golden and crispy (or pan-fry for 10 minutes in a skillet).\n2. While potatoes cook, whisk together arugula, lemon juice, and remaining 1/2 tsp olive oil in a bowl; season lightly.\n3. Cook eggs to your preference (fried, scrambled, or poached) in a nonstick skillet, 3-4 minutes.\n4. Assemble bowl with roasted potatoes, arugula base, smoked salmon, and cooked eggs.\n5. Drizzle with any pan juices and season with salt and pepper.",
+    "tip": "Roast a batch of potatoes on Sunday and store in the fridge—this meal comes together in 8 minutes on busy mornings with zero cooking required.",
+    "goal_affinity": [
+      "fat_loss",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
