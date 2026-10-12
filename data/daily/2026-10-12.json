@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-12",
+  "dateLabel": "Monday, October 12, 2026",
+  "generatedAt": "2026-10-12T11:01:03.866Z",
+  "articles": [
+    {
+      "category": "MOBILITY",
+      "topic": "Gait adjustment eases knee arthritis pain",
+      "headline": "Walk Differently, Hurt Less. Your Knees Will Thank You.",
+      "body": "A simple change in how you walk could ease knee arthritis pain as effectively as medication—without the side effects. In a year-long clinical trial, researchers found that adjusting the angle of your foot while walking reduced osteoarthritis pain to match common painkillers. Even better: MRI scans showed participants who made this personalized adjustment experienced slower cartilage deterioration, potentially delaying or preventing joint replacement. For people in their 30s, 40s, and 50s facing decades of pain management, this is game-changing.",
+      "takeaway": "A small, personalized adjustment to foot angle during walking reduces knee pain and slows joint damage—no medication required.",
+      "source": "University of Utah / The Lancet Rheumatology",
+      "sourceUrl": "https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(25)00151-1/abstract",
+      "pexelsQuery": "person walking on path outdoors",
+      "photo": {
+        "url": "https://images.pexels.com/photos/631988/pexels-photo-631988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/631988/pexels-photo-631988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tobi",
+        "photographerUrl": "https://www.pexels.com/@pripicart",
+        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-black-and-white-vans-low-top-sneakers-631988/",
+        "avgColor": "#5E482D"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Deep sleep triggers growth hormone and muscle building",
+      "headline": "Your Deep Sleep Is Where Muscle Repair Actually Happens",
+      "body": "Scientists at UC Berkeley uncovered the brain circuit that explains why deep sleep matters for your muscles. During deep sleep, your brain releases growth hormone in waves, and this hormone tells your brain's arousal center to stay quiet so sleep continues. This back-and-forth loop is essential for muscle repair, fat metabolism, and brain function. Poor sleep disrupts this dialogue, sabotaging muscle recovery and metabolic health. The discovery opens doors to treating sleep disorders and metabolic diseases linked to bad sleep.",
+      "takeaway": "Deep sleep creates a feedback loop that releases growth hormone and protects muscle repair, fat metabolism, and brain health.",
+      "source": "UC Berkeley / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
+      "pexelsQuery": "person sleeping in bed",
+      "product": {
+        "id": "slp-001",
+        "name": "LectroFan White Noise Machine",
+        "brand": "LectroFan",
+        "asin": "B00E6D6LQY",
+        "url": "https://www.amazon.com/dp/B00E6D6LQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "white noise",
+          "sound machine",
+          "insomnia",
+          "sleep quality",
+          "recovery",
+          "deep sleep"
+        ],
+        "blurb": "Blocks ambient noise so your sleep is actually restorative."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6443381/pexels-photo-6443381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6443381/pexels-photo-6443381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pavel Danilyuk",
+        "photographerUrl": "https://www.pexels.com/@pavel-danilyuk",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-wearing-eye-mask-lying-on-white-bed-6443381/",
+        "avgColor": "#CCC1C1"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Exercise blood pressure predicts cardiovascular disease risk",
+      "headline": "Your Blood Pressure During Workouts Is Revealing Your Heart's Future",
+      "body": "How hard your blood pressure spikes when you exercise—relative to your fitness level—is a powerful predictor of cardiovascular disease risk. The EXERTION study tracked 4,100+ people and found that those with exaggerated blood pressure responses during exercise faced 55-94% higher risk of heart events, even when resting blood pressure looked normal. The key: fitness matters. A high blood pressure response in an unfit person is different from the same response in a fit person. This gives cardiologists a new tool to catch risk early and target interventions before problems develop.",
+      "takeaway": "Abnormal blood pressure during exercise relative to your fitness level signals cardiovascular disease risk and warrants targeted intervention.",
+      "source": "European Heart Journal",
+      "sourceUrl": "https://academic.oup.com/eurheartj/article/47/14/1661/8424396",
+      "pexelsQuery": "person running on treadmill in gym",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13211514/pexels-photo-13211514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13211514/pexels-photo-13211514.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Instituto Alpha  Fitness",
+        "photographerUrl": "https://www.pexels.com/@mralpha",
+        "photoPageUrl": "https://www.pexels.com/photo/men-running-on-treadmill-13211514/",
+        "avgColor": "#383129"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "Hydration status linked to grip strength and cognition",
+      "headline": "Dehydration Is Quietly Eroding Your Brain and Muscles",
+      "body": "Your actual hydration status—not just how much water you drink—predicts cognitive decline and muscle weakness in older adults. Recent research shows that people with low physiological hydration scored worse on grip strength and mental performance tests, regardless of reported water intake. Over two years, dehydrated participants showed steeper cognitive decline. The takeaway: it's not about hitting arbitrary water targets. True hydration, measured in your blood, supports both mind and body performance. Track how you feel—fatigue, weak grip, brain fog—as signs you need better fluid balance.",
+      "takeaway": "Actual hydration status (not just intake volume) correlates with grip strength, cognition, and slower brain aging.",
+      "source": "Springer/Journal of Population Therapeutics",
+      "sourceUrl": "https://milkyplant.com/en-us/blogs/the-latest/2026-performance-upgrade-hydration-micronutrients-lifestyle-insights-from-recent-studies",
+      "pexelsQuery": "person drinking water from bottle",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5262883/pexels-photo-5262883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5262883/pexels-photo-5262883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anna Shvets",
+        "photographerUrl": "https://www.pexels.com/@shvetsa",
+        "photoPageUrl": "https://www.pexels.com/photo/female-drinking-water-on-sports-ground-5262883/",
+        "avgColor": "#907E79"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Exercise every day. It's like brushing your teeth. You are never too old to try.",
+    "author": "Philipp Djang",
+    "context": "Elite swimmer, 69, holds majority of National Senior Games backstroke records"
+  },
+  "workout": {
+    "id": "7353f15e-777d-47f2-9800-a81851840eb6",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Bench Press Peak: 2RM Attempt & Tricep Lockout Accessory",
+    "difficulty": "Intermediate",
+    "duration": "50 min",
+    "equipment": [
+      "barbell",
+      "bench press rack",
+      "weight plates",
+      "lifting belt"
+    ],
+    "trainingZone": "z5",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "upper_body"
+    ],
+    "tip": "Set your scapulae hard into the bench before you unrack — pull them down and together like you're cracking a walnut between your shoulder blades. This arch and shoulder position is your foundation; if it shifts mid-set, the lift is compromised. Re-set it on every single rep.",
+    "warmup": "10 min: 5 min light row or bike → 10 band pull-aparts → 10 scapular push-ups → 10 empty bar reps (controlled descent, 2-sec pause at chest) → 5 reps at 45% 1RM → 3 reps at 60% 1RM → 2 reps at 72% 1RM → 1 rep at 82% 1RM → 1 rep at 88% 1RM (rest 90 sec between each warm-up ramp set)",
+    "exercises": [
+      {
+        "name": "Bench Press — Peak Ramp to 2RM or 1RM",
+        "sets": "3",
+        "reps": "1 @ 92% → 1 @ 95–97% → max attempt 1–2 reps (RPE 9.5–10)",
+        "notes": "After your final warm-up at 88%, rest 4 full minutes before your 92% single. If bar speed on your 92% single is crisp and you have a clear lockout, proceed to 95–97% for your true max attempt. Attempt the second rep only if rep 1 moved with intent and control. Spot must be hands-off unless the bar stops moving. Rest 5 min before max attempt."
+      },
+      {
+        "name": "Bench Press — Back-Off Triples",
+        "sets": "3",
+        "reps": "3 @ 85% 1RM",
+        "notes": "Use 85% of your true 1RM (not today's max). These should be crisp, with no grinding — moderate bar speed and full lock at the top every rep. If any rep looks like a near-miss, stop the set. Focus on the same arch, leg drive, and touch point used in the peak attempt. Rest 3 min between sets."
+      },
+      {
+        "name": "Close-Grip Bench Press (Tricep Lockout)",
+        "sets": "3",
+        "reps": "4 @ ~75% 1RM close-grip (RPE 8)",
+        "notes": "Hands shoulder-width or slightly narrower. Lower to just below the chest — this is a tricep-dominant movement, not a full pec stretch. Drive hard through the top half of the movement. This accessory addresses the lockout weak point that often fails first on max bench attempts. Rest 2 min between sets."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "7 min: 60-sec doorway chest stretch each side → 45-sec cross-body shoulder stretch each side → 60-sec overhead tricep stretch each side (hand behind head, elbow pointed up) → 30-sec neck side-tilt each side → 30-sec slow diaphragmatic breathing seated upright",
+    "description": "A power/peak phase horizontal pressing session designed to find your 2RM or 1RM on the bench press with maximum neural output. After the peak attempt, three back-off triples at 85% reinforce strength endurance and bar path consistency under heavy load. A single tricep lockout accessory finalizes the session without compromising recovery."
+  },
+  "meal": {
+    "id": "efb9898b-7a32-4c52-a799-a93409bcfc41",
+    "title": "Seared Tuna and Edamame Rice Bowl",
+    "description": "Canned solid albacore works just as well as fresh for this bowl on a busy weekday. Keep a few cans in your pantry and this goes from zero to done in under ten minutes.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 520,
+    "protein_g": 46,
+    "carbs_g": 42,
+    "fat_g": 14,
+    "fiber_g": 0,
+    "prep_minutes": 15,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 sushi-grade or canned solid albacore tuna steaks (6 oz total) OR 2 cans solid white albacore tuna in water, drained\n1 cup cooked brown rice or jasmine rice\n1/2 cup shelled edamame (frozen and thawed)\n1/4 cucumber, thinly sliced\n1/4 avocado, sliced\n2 tbsp low-sodium soy sauce or tamari\n1 tsp sesame oil\n1 tsp rice vinegar\n1/2 tsp grated ginger (fresh or jarred)\n1 tsp sesame seeds\nOptional: red pepper flakes, sliced green onion\n\nInstructions:\n1. If using fresh tuna: pat dry and season lightly with salt. Heat a dry skillet over high heat, sear tuna 60 to 90 seconds per side until just opaque on the outside. Slice. If using canned tuna: drain well and flake. 2. Whisk together soy sauce, sesame oil, rice vinegar, and ginger in a small bowl to make the dressing. 3. Build the bowl: rice on the bottom, then tuna, edamame, cucumber, and avocado arranged on top. 4. Drizzle dressing over everything, finish with sesame seeds and optional toppings.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
