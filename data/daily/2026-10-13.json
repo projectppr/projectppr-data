@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-13",
+  "dateLabel": "Tuesday, October 13, 2026",
+  "generatedAt": "2026-10-13T11:00:36.917Z",
+  "articles": [
+    {
+      "category": "HORMONES",
+      "topic": "Sex hormones shape brain health aging",
+      "headline": "Your Sex Hormones Are Protecting (or Sabotaging) Your Brain's Blood Flow",
+      "body": "New research reveals that estradiol, testosterone, and other sex hormones significantly influence brain blood flow and health—but the effects shift dramatically with age and sex. In women, estradiol support brain health during perimenopause. In men, testosterone protects younger brains but loses benefit with age. The findings suggest that hormone changes across your lifespan directly affect brain aging and dementia risk. This is the first time scientists have mapped these sex-specific patterns across the adult lifespan. Understanding your hormone profile could become as important as knowing your cholesterol.",
+      "takeaway": "Your sex hormones influence your brain health in age-specific ways. If you're entering perimenopause or experiencing hormone shifts, getting your levels checked isn't vanity—it's preventive neurology.",
+      "source": "Mechanisms of Ageing and Development, October 2026",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S0047637426000680",
+      "pexelsQuery": "blood vessel brain neurology",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6010927/pexels-photo-6010927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6010927/pexels-photo-6010927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/brain-image-on-digital-tablet-6010927/",
+        "avgColor": "#434B4A"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Circadian rhythm coaching fixes insomnia",
+      "headline": "A Wearable Light Sensor Just Rewired Insomniacs' Sleep in Six Weeks",
+      "body": "A new digital therapy combines wearable sensors, light detection, and personalized coaching to tackle insomnia by fixing your circadian rhythm. Participants wore sensors that tracked their sleep-wake patterns and light exposure, then received daily recommendations for stable wake times, morning light, and daytime activity. In just six weeks, insomnia severity dropped 33 percent, and overall sleep quality improved significantly. No pills. No complex sleep studies. Just alignment—teaching your body to remember how to sleep by matching behavior to your internal clock. This approach targets the root cause instead of just masking symptoms.",
+      "takeaway": "If you've tried everything for insomnia, circadian alignment through light and timing might be what you're missing. Ask your doctor about closed-loop wearable-driven coaching.",
+      "source": "Digital Health, 2026",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12961147/",
+      "pexelsQuery": "sleeping person bed night",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6541120/pexels-photo-6541120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6541120/pexels-photo-6541120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Polina ⠀",
+        "photographerUrl": "https://www.pexels.com/@polina-kovaleva",
+        "photoPageUrl": "https://www.pexels.com/photo/asleep-woman-wearing-eye-mask-6541120/",
+        "avgColor": "#61564F"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Exercise builds psychological resilience measurably",
+      "headline": "Exercise Changes Your Brain's Stress Response. Researchers Now Know How Much.",
+      "body": "A major meta-analysis of ten studies confirms what many suspected: regular exercise builds psychological resilience—the ability to handle stress without breaking. Researchers tracked three age groups across 12 experimental trials and found a consistent, moderate positive effect. Long-term programs (over eight weeks) delivered significantly larger resilience gains than short programs. Exercise reduces stress hormones while building self-efficacy and emotional regulation. The effect size is real and reproducible. This isn't about being tougher—it's about your nervous system literally adapting to stay calmer under load. For busy professionals, this means exercise isn't optional self-care. It's neural infrastructure.",
+      "takeaway": "Eight weeks of consistent exercise measurably increases your stress resilience. If you're managing a high-pressure job, prioritize training like you prioritize sleep.",
+      "source": "Frontiers in Psychology, January 2026",
+      "sourceUrl": "https://link.springer.com/article/10.1186/s40359-026-04940-5",
+      "pexelsQuery": "person exercising workout strength training",
+      "product": {
+        "id": "book-005",
+        "name": "How Bad Do You Want It - Matt Fitzgerald Audiobook",
+        "brand": "Matt Fitzgerald",
+        "asin": "B01B6KWGFE",
+        "url": "https://www.amazon.com/dp/B01B6KWGFE?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "endurance",
+          "running",
+          "triathlon",
+          "mindset",
+          "book",
+          "audiobook",
+          "performance"
+        ],
+        "blurb": "The psychology of champions. Why mental fitness is the real limiter."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8846572/pexels-photo-8846572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8846572/pexels-photo-8846572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/person-wearing-gray-leggings-exercising-using-dumbbells-8846572/",
+        "avgColor": "#AAA39D"
+      }
+    },
+    {
+      "category": "MOBILITY",
+      "topic": "Flexibility directly predicts longevity",
+      "headline": "Your Range of Motion Is a Crystal Ball for Your Lifespan",
+      "body": "A thirteen-year study following over three thousand middle-aged adults found something unexpected: flexibility is a stronger predictor of how long you'll live than most other markers. People with lower flexibility scores were nearly twice as likely to die during the study period. The effect was consistent across age and sex. Why? Flexibility reflects the health of your connective tissue, blood vessels, and nervous system coordination. It signals whether you've been moving enough to maintain tissue resilience. Men showed larger mortality gaps based on flexibility than women. The takeaway isn't about touching your toes—it's that mobility maintenance is longevity maintenance.",
+      "takeaway": "Test your flexibility now. If you can't rise from the floor without using your arms, or touch your toes comfortably, that's a longevity signal worth taking seriously. Add stretching and mobility work to your routine.",
+      "source": "Scandinavian Journal of Medicine & Science in Sports, 2024",
+      "sourceUrl": "https://www.health.harvard.edu/healthy-aging-and-longevity/greater-flexibility-linked-with-longer-lives",
+      "pexelsQuery": "person stretching flexibility yoga",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5443448/pexels-photo-5443448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5443448/pexels-photo-5443448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Werner Pfennig",
+        "photographerUrl": "https://www.pexels.com/@werner-pfennig",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-sitting-on-the-floor-5443448/",
+        "avgColor": "#5C4E40"
+      }
+    }
+  ],
+  "quote": {
+    "text": "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'",
+    "author": "Muhammad Ali",
+    "context": "Legendary heavyweight boxer and cultural icon, speaking on the price of excellence"
+  },
+  "workout": {
+    "id": "015fafe8-f991-4aca-975f-9c72a87a4e27",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "tempo",
+    "title": "Cruise Interval Lactate Builder: 5×4 Min Threshold Repeats",
+    "difficulty": "Intermediate",
+    "duration": "42 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "cardio",
+      "lactate_work",
+      "outdoor",
+      "race_prep",
+      "under_60_min"
+    ],
+    "tip": "Start the first repeat conservatively—aim for effort, not speed. If your pacing drifts 10+ seconds faster on repeat 1, you'll suffer on repeats 4–5. Find the pace that feels 'hard but holdable' and lock it in.",
+    "warmup": "10 min easy jog at conversational pace, then 2 min at tempo effort to prime lactate clearance, 2 min easy recovery",
+    "exercises": [
+      {
+        "name": "Repeat 1: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "Comfortably hard effort—should be able to speak only 1–2 words. Focus on controlled breathing and relaxed shoulders. This is NOT a sprint; it's a sustained push."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "90 sec",
+        "notes": "Easy, conversational pace. Allow HR to drop 20–30 bpm before next repeat. Breath should normalize."
+      },
+      {
+        "name": "Repeat 2: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "Match the pace and effort of Repeat 1. Fatigue is starting; focus on cadence (aim for 170–180 steps/min) to maintain rhythm."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "90 sec",
+        "notes": "Same as above—easy effort, controlled breathing."
+      },
+      {
+        "name": "Repeat 3: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "This is the mental checkpoint. Pace may naturally slow by 3–5 sec/km due to accumulated lactate. This is normal. Maintain effort, not pace."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "90 sec",
+        "notes": "Stay patient. Two more repeats remain."
+      },
+      {
+        "name": "Repeat 4: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "Legs feel heavy now. Drive through glutes and quads; avoid leaning forward. Mental toughness zone—this is race-specific fitness."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "90 sec",
+        "notes": "One left. Shorten your stride if needed; focus on turnover, not stride length."
+      },
+      {
+        "name": "Repeat 5: 4 min @ Threshold Effort",
+        "sets": "1",
+        "reps": "4 min",
+        "notes": "The finisher. Even if pace drops 5–8 sec/km, holding threshold effort teaches resilience. This is what a 10K feels like in the final km."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min easy jog, then 5 min static stretching: calves 60 sec each leg, hamstrings 60 sec, quad stretch 45 sec each leg, hip flexor lunge 45 sec each side",
+    "description": "This workout develops lactate threshold through sustained 4-minute cruise intervals at comfortably hard effort, with short recovery between repeats. Designed for 10K and half-marathon runners who need to practice holding race pace while building aerobic capacity. The format teaches your body to clear lactate efficiently while maintaining consistent speed under fatigue."
+  },
+  "meal": {
+    "id": "ea2c2cb6-239c-48d0-a004-8b190a96130f",
+    "title": "Seared Trout and Farro Bowl with Roasted Cherry Tomatoes and Herb Yogurt",
+    "description": "Cook a big batch of farro at the start of the week and store it in the fridge. It reheats in 90 seconds and makes high-protein bowls like this a 15-minute weeknight dinner.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 433,
+    "protein_g": 41,
+    "carbs_g": 30,
+    "fat_g": 17,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [
+      "2 trout fillets (about 5 oz each), skin on",
+      "1 cup cooked farro",
+      "1 cup cherry tomatoes",
+      "1 cup baby spinach",
+      "1/2 cup plain Greek yogurt",
+      "1 tbsp fresh dill, chopped",
+      "1 tbsp fresh parsley, chopped",
+      "1 clove garlic, minced",
+      "Juice of half a lemon",
+      "1 tbsp olive oil",
+      "Salt and black pepper to taste",
+      "Pinch of smoked paprika"
+    ],
+    "instructions": "1. Preheat oven to 400F. Toss cherry tomatoes with a drizzle of olive oil, salt, and pepper on a small baking tray and roast for 12 to 15 minutes until blistered. 2. While tomatoes roast, mix Greek yogurt with dill, parsley, garlic, lemon juice, salt, and pepper to make the herb yogurt. Set aside. 3. Pat trout fillets dry and season with salt, pepper, and smoked paprika. Heat olive oil in a skillet over medium-high heat and sear trout skin-side down for 3 to 4 minutes until the skin is crispy, then flip and cook 1 to 2 minutes more. 4. Build bowls with farro as the base, add a handful of spinach, top with the trout fillet and roasted tomatoes, and finish with a generous spoonful of herb yogurt.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
