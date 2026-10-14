@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-14",
+  "dateLabel": "Wednesday, October 14, 2026",
+  "generatedAt": "2026-10-14T11:00:43.966Z",
+  "articles": [
+    {
+      "category": "TRAINING",
+      "topic": "Heavy lifting restores bone density",
+      "headline": "The Heaviest Weights Build the Strongest Bones",
+      "body": "A landmark study of postmenopausal women with low bone density challenged decades of cautious advice. Women who completed eight months of supervised high-intensity resistance and impact training increased lumbar spine bone density by nearly 3 percent, while the control group lost 1.2 percent. The difference matters: that's roughly four percentage points of protection against the 1-2 percent bone loss women typically experience each year after menopause. Heavy deadlifts, squats, and loaded jumps delivered measurable, durable results.",
+      "takeaway": "If you have low bone density, progressively loaded heavy lifting under supervision isn't dangerous—it's therapeutic. Start with proper coaching and increase intensity gradually.",
+      "source": "Research review via Screen My Bones, LIFTMOR trial",
+      "sourceUrl": "https://www.screenmybones.com/blog/resistance-training-for-bone-density",
+      "pexelsQuery": "woman weightlifting barbell squat strength",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Leon Mart",
+        "photographerUrl": "https://www.pexels.com/@leonmart",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-lifting-barbell-1552249/",
+        "avgColor": "#1B1817"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Exercise plus fasting beats either alone",
+      "headline": "Fasting Works Better When You Also Lift",
+      "body": "New meta-analysis compared intermittent fasting alone, exercise alone, and the two combined. The combination won. Exercise plus intermittent fasting reduced body mass, body fat percentage, waist circumference, and visceral fat more effectively than either intervention separately. It also improved cardiometabolic markers: lower cholesterol, triglycerides, and insulin resistance alongside modest VO2max gains. The synergy matters because fasting helps create a calorie deficit while lifting preserves muscle during that deficit.",
+      "takeaway": "If you're going to fast, also strength train. The combination protects muscle while fat melts off faster than fasting or lifting alone.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1772836/full",
+      "pexelsQuery": "person exercising gym dumbbell workout intensity",
+      "product": {
+        "id": "str-002",
+        "name": "Bowflex SelectTech 552 Dumbbells",
+        "brand": "Bowflex",
+        "asin": "B0FRNG2N5H",
+        "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$$$",
+        "keywords": [
+          "strength",
+          "weights",
+          "dumbbells",
+          "home gym",
+          "resistance training",
+          "muscle",
+          "lifting"
+        ],
+        "blurb": "Replace 15 sets of dumbbells. The best space-saving home gym investment."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/5327508/pexels-photo-5327508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5327508/pexels-photo-5327508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-lifting-dumbbells-5327508/",
+        "avgColor": "#343030"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "Consistent exercise preserves cellular age",
+      "headline": "Endurance Exercise Rewires Your Cellular Clock",
+      "body": "Meta-analysis of sixteen randomized controlled trials tracked telomere length—the cellular cap that shortens with age and predicts mortality. Exercise protocols lasting at least 16 weeks with 60+ minutes per week of activity preserved telomere length and increased telomerase activity. Continuous endurance training showed the strongest effect. The result: people exercising regularly had biological aging markers nearly nine years younger than sedentary controls. It wasn't about intensity as much as consistency.",
+      "takeaway": "Steady aerobic work compounds at the cellular level. Commit to at least 60 minutes weekly for four months to see measurable preservation of your biological age.",
+      "source": "Biomedicines, 2026",
+      "sourceUrl": "https://www.mdpi.com/2227-9059/14/6/1396",
+      "pexelsQuery": "runner jogging outdoor path exercise endurance",
+      "product": {
+        "id": "run-001",
+        "name": "Saucony Endorphin Speed 5",
+        "brand": "Saucony",
+        "asin": "B0DJWMR6YY",
+        "url": "https://www.amazon.com/dp/B0DJWMR6YY?tag=chrisolson04-20",
+        "category": "running",
+        "price_range": "$$$",
+        "keywords": [
+          "running",
+          "shoes",
+          "marathon",
+          "5k",
+          "10k",
+          "half marathon",
+          "race",
+          "speed",
+          "carbon"
+        ],
+        "blurb": "The shoe Chris trains and races in. Fast, light, built for people who take running seriously."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/12703954/pexels-photo-12703954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12703954/pexels-photo-12703954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "CESAR A RAMIREZ VALLEJO TRAPHITHO",
+        "photographerUrl": "https://www.pexels.com/@traphitho",
+        "photoPageUrl": "https://www.pexels.com/photo/back-view-of-woman-jogging-12703954/",
+        "avgColor": "#393534"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Magnesium form matters for sleep and brain",
+      "headline": "The Magnesium Your Brain Can Actually Use",
+      "body": "Most magnesium supplements never reach your brain—they're too large to cross the blood-brain barrier. A new form, magnesium L-threonate, is different. In a randomized double-blind trial published in Frontiers in Nutrition, participants taking this form reported improved sleep quality and daytime mental clarity. The mechanism works because this specific salt structure has superior bioavailability in brain tissue. Regular magnesium might help your muscles relax; this form actually changes your sleep architecture and cognitive performance.",
+      "takeaway": "If standard magnesium hasn't moved your sleep quality, try magnesium L-threonate. The form of the mineral matters as much as the dose.",
+      "source": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1729164/full",
+      "pexelsQuery": "supplement capsule pills bottle magnesium",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13111784/pexels-photo-13111784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13111784/pexels-photo-13111784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/medication-pills-on-black-surface-13111784/",
+        "avgColor": "#5C5B59"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Discipline is choosing what you want most over what you want now.",
+    "author": "James Clear",
+    "context": "Author of Atomic Habits and behavioral science expert on habit formation"
+  },
+  "workout": {
+    "id": "066102c3-541b-4479-b520-8402a2818866",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Goblet Squat Mastery: Depth & Control Foundation",
+    "difficulty": "Beginner",
+    "duration": "32 min",
+    "equipment": [
+      "dumbbell"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "functional",
+      "joint_friendly",
+      "lower_body",
+      "squat_dominant",
+      "under_60_min"
+    ],
+    "tip": "Keep the dumbbell close to your chest and elbows pointing down. This cue keeps your torso upright and prevents excessive forward lean—let your hips and knees do the work.",
+    "warmup": "4 min: 10 arm circles, 15 leg swings each leg, 10 bodyweight squats (slow and controlled), 5 glute bridges",
+    "exercises": [
+      {
+        "name": "Goblet Squat",
+        "sets": "4",
+        "reps": "10",
+        "notes": "Hold dumbbell at chest with both hands. Descend to full depth (hip crease below parallel), keep knees tracking over toes, pause 1 sec at bottom. Focus on controlled ascent without bouncing."
+      },
+      {
+        "name": "Glute Bridge Hold & Pulse",
+        "sets": "3",
+        "reps": "8 pulses + 5 sec hold",
+        "notes": "Lie on back, feet flat, drive through heels to lift hips. Pulse up 1 inch for 8 reps, then hold top position for 5 sec. Squeeze glutes hard—this teaches hip extension and posterior chain activation."
+      },
+      {
+        "name": "Supported Split Squat (Dumbbell in One Hand)",
+        "sets": "3",
+        "reps": "8 each leg",
+        "notes": "Stagger stance, hold dumbbell in right hand at shoulder. Step back, lower until rear knee nearly touches ground. Front knee stays stacked over ankle. This unilateral work exposes and corrects imbalances."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: quad stretch 40 sec each leg (standing or lunge position), hamstring stretch 40 sec, figure-4 hip stretch 40 sec each side",
+    "description": "A focused lower-body session building squat pattern fundamentals through goblet squats, glute bridges, and supported split squats. This workout teaches proper knee tracking, hip depth, and posterior chain engagement—essential for strength development and injury prevention in busy professionals."
+  },
+  "meal": {
+    "id": "df46416b-a6ac-4fc9-adf2-44c4026b7fd3",
+    "title": "Turkey Sandwich with Mustard & White Bread",
+    "description": "A simple, portable race-day fuel option for triathletes who prefer something savory. Easy to digest 2–3 hours before competition, with lean protein and quick carbs.",
+    "meal_type": "race_day",
+    "macro_profile": "performance",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 502,
+    "protein_g": 33,
+    "carbs_g": 70,
+    "fat_g": 10,
+    "fiber_g": 2,
+    "prep_minutes": 5,
+    "cook_minutes": 0,
+    "ingredients": [
+      "150g sliced deli turkey breast",
+      "3 slices white bread",
+      "2 tbsp yellow mustard",
+      "1 tbsp honey",
+      "pinch of sea salt"
+    ],
+    "instructions": "1. Spread mustard and honey evenly on two slices of bread.\n2. Layer turkey slices between the bread.\n3. Cut into triangles if desired for easier eating.\n4. Eat 2–3 hours before race start with water on the side.",
+    "tip": "Buy pre-sliced turkey from the deli counter (not packaged) for better quality and less sodium if GI sensitivity is a concern. Store in a cool bag for morning transport.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon"
+    ],
+    "image_url": ""
+  }
+}
