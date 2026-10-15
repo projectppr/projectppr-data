@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-15",
+  "dateLabel": "Thursday, October 15, 2026",
+  "generatedAt": "2026-10-15T11:00:41.571Z",
+  "articles": [
+    {
+      "category": "HEART HEALTH",
+      "topic": "How much exercise your heart really needs",
+      "headline": "Exercise Dose Just Got Adjusted. Here's What the Data Actually Says.",
+      "body": "You probably think 150 minutes of moderate exercise per week is enough to protect your heart. A major 2026 study has other plans. Researchers found that substantial cardiovascular protection kicked in around 560 to 610 minutes weekly—nearly 9 to 10 hours. That's about 3 to 4 times the standard recommendation. Before you panic: even the baseline 150 minutes delivered an 8 to 9 percent reduction in cardiovascular risk. But if you want real protection, the numbers suggest you'll need consistency and volume. The catch? People with lower fitness levels needed slightly more activity to see the same benefits as highly trained individuals.",
+      "takeaway": "Start where you are, but know that serious cardiovascular protection requires 9-10 hours weekly of brisk walking, running, or cycling, not the baseline 150 minutes.",
+      "source": "BMJ Group / Science Daily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
+      "pexelsQuery": "running athlete jogging outdoor trail",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/33096790/pexels-photo-33096790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33096790/pexels-photo-33096790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "CRISTIAN CAMILO  ESTRADA",
+        "photographerUrl": "https://www.pexels.com/@cristian-camilo-estrada-2152272341",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-jogging-on-rural-path-33096790/",
+        "avgColor": "#A6A384"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Why more protein might backfire for you",
+      "headline": "The Protein Craze Might Actually Be Aging You. Here's What 350 Studies Say.",
+      "body": "Everyone's chasing more protein these days, but a sweeping review of over 350 studies published in July 2026 suggests that blanket high-protein advice might accelerate aging in sedentary people. Here's the issue: Without exercise, extra amino acids don't build muscle—they accelerate cellular damage. One key driver is FGF21, a hormone that rises when you eat less protein. Higher FGF21 improves metabolism, reduces inflammation, and is linked to longer lifespans in animal models. This doesn't mean protein is bad. But active people and older adults building muscle still need adequate intake. For sedentary folks, moderate protein might support healthier aging better than the newly doubled guidelines.",
+      "takeaway": "If you're mostly sedentary, eating less protein could slow aging better than chasing high-protein trends. If you lift regularly, keep protein up.",
+      "source": "Cell Press / Neuroscience News",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm",
+      "pexelsQuery": "protein food meal preparation healthy eating",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/10432664/pexels-photo-10432664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10432664/pexels-photo-10432664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/female-hands-holding-frying-pan-and-putting-chunk-of-meat-in-hot-frying-oil-10432664/",
+        "avgColor": "#6F6B62"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Testosterone therapy helps menopausal women",
+      "headline": "Menopausal Women on Testosterone Report Big Wins. The FDA Noticed.",
+      "body": "In September 2026, the FDA held its first-ever public workshop on testosterone for menopausal women—and the timing wasn't random. Prescriptions for women have surged 146 percent since 2023, and a new analysis of 1,220 women on testosterone alone showed meaningful symptom improvements across 18 different areas. The biggest wins? Sexual desire, energy, strength, and stamina. Women reported feeling more vital overall. While testosterone remains off-label for menopause—there's no FDA-approved product specifically for women yet—the data is pushing the conversation forward. More research is needed, but for many women, testosterone is filling a gap that estrogen alone doesn't.",
+      "takeaway": "If you're struggling with energy, strength, or sexual desire in menopause, talk to your doctor about testosterone. The data shows real benefits, even if it's still mostly off-label.",
+      "source": "Hone Health / Healthline",
+      "sourceUrl": "https://www.hcnews.com/premium/stacker/stories/the-benefits-of-testosterone-for-women-according-to-1220-patients,141566",
+      "pexelsQuery": "woman over 40 healthy strong confident",
+      "product": {
+        "id": "body-001",
+        "name": "RENPHO Smart Body Scale",
+        "brand": "Renpho",
+        "asin": "B01N1UX8RW",
+        "url": "https://www.amazon.com/dp/B01N1UX8RW?tag=chrisolson04-20",
+        "category": "health",
+        "price_range": "$",
+        "keywords": [
+          "body composition",
+          "weight",
+          "muscle mass",
+          "body fat",
+          "health tracking",
+          "scale",
+          "BMI",
+          "training progress"
+        ],
+        "blurb": "Weight alone lies. Body composition tells the real story of your training progress."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6539800/pexels-photo-6539800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6539800/pexels-photo-6539800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/healthy-people-women-fitness-6539800/",
+        "avgColor": "#938172"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Which wearables actually measure sleep accurately",
+      "headline": "Your Wearable's Sleep Data Isn't Equal. Here's Which Ones Actually Match Lab Accuracy.",
+      "body": "You're wearing a tracker to bed, but how accurate is that sleep staging? 2026 testing against clinical-grade equipment reveals huge gaps. The Oura Ring matched lab accuracy at 82 percent for sleep stage classification—the clear winner. Garmin Venu 4 hit 78 percent but consistently overestimated deep sleep by 15 minutes. Fitbit Charge 6 and Samsung Galaxy Watch7 lagged at 65-68 percent, often mistaking wakefulness for light sleep. The reason? Most consumer devices rely on motion detection, which fails to distinguish lying still from actual sleep. Oura's finger placement captures richer vascular data, giving it a real edge. For sleep tracking specifically, the type of wearable matters more than the brand name.",
+      "takeaway": "If sleep tracking precision matters to you, Oura Ring dominates the market. Most wrist-based trackers will overestimate your deep sleep.",
+      "source": "Wearable Gear Reviews",
+      "sourceUrl": "https://wearablegearreviews.com/sleep-tracking/wearable-fitness-trackers-2026-tested-features/",
+      "pexelsQuery": "smartwatch sleep tracker wearable device",
+      "product": {
+        "id": "watch-003",
+        "name": "Garmin Forerunner 955 Solar",
+        "brand": "Garmin",
+        "asin": "B09WT9PF2N",
+        "url": "https://www.amazon.com/dp/B09WT9PF2N?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "solar",
+          "ironman",
+          "70.3",
+          "advanced",
+          "garmin"
+        ],
+        "blurb": "Built for long-course racing. Solar charging means you never run out of battery mid-race."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/18078945/pexels-photo-18078945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/18078945/pexels-photo-18078945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Anastasiya Badun",
+        "photographerUrl": "https://www.pexels.com/@badun",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-watch-18078945/",
+        "avgColor": "#6F634D"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Life is a sport. It comes at you fast. It's unpredictable.",
+    "author": "Dr. Peter Attia",
+    "context": "Longevity researcher and physician emphasizing why fitness must be maintained consistently across your lifespan"
+  },
+  "workout": {
+    "id": "a0d8e773-88f3-4798-9906-a7df426f18c0",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Pull Strong: Row, Hang and Brace in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar",
+      "resistance band",
+      "dumbbells"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "core",
+      "minimal_equipment",
+      "pull_dominant",
+      "under_30_min",
+      "upper_body"
+    ],
+    "tip": "If you don't have a pull-up bar, a sturdy door frame pull-up bar works fine. For the dead hang, focus on active shoulders, squeeze your shoulder blades down before you hang. That protects your joints and builds the right muscles.",
+    "warmup": "Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "30-45 seconds",
+        "notes": "Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets."
+      },
+      {
+        "name": "Dumbbell Bent-Over Row",
+        "sets": "3",
+        "reps": "10 each side",
+        "notes": "Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable."
+      },
+      {
+        "name": "Resistance Band Face Pull",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough."
+      },
+      {
+        "name": "Inverted Row (or Assisted Pull-Up with Band)",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count."
+      },
+      {
+        "name": "Plank to Alternating Shoulder Tap",
+        "sets": "3",
+        "reps": "20 total taps",
+        "notes": "Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling.",
+    "description": "Warmup: Spend 3 minutes loosening up your upper body: 10 arm circles each direction, 10 band pull-aparts or towel pull-aparts, and 30 seconds of hanging from the bar in a passive dead hang to open up the lats and shoulders. Dead Hang: 3 sets x 30-45 seconds — Grip the bar with both hands shoulder-width apart. Let your shoulders pack down and back, not shrug up to your ears. Build grip and shoulder stability. Rest 60 seconds between sets. Dumbbell Bent-Over Row: 3 sets x 10 each side — Hinge at the hips to about 45 degrees, keep your lower back flat. Drive the elbow straight back and squeeze at the top. Avoid rotating your torso. Go heavier than feels comfortable. Resistance Band Face Pull: 3 sets x 15 — Anchor the band at face height. Pull the band toward your nose, driving elbows out wide and up. Pause briefly at the end range. This is the most underrated shoulder health exercise you aren't doing enough. Inverted Row (or Assisted Pull-Up with Band): 3 sets x 8-10 — For inverted row: use a table edge or low bar, heels on the floor, body in a plank. Pull your chest to the bar. For band-assisted pull-up: loop band on bar, place one knee in band, pull chin over bar. Both count. Plank to Alternating Shoulder Tap: 3 sets x 20 total taps — Keep your hips square and still as you lift each hand off the floor to tap the opposite shoulder. Slow and controlled beats fast and sloppy every time. Great anti-rotation core work. Cooldown: Finish with 60 seconds of passive hanging from the bar to decompress the spine, followed by a 60-second doorway chest and shoulder stretch to rebalance after all the pulling."
+  },
+  "meal": {
+    "id": "d949f24a-4328-478c-8b7c-10b0946e5d95",
+    "title": "Chicken Fajitas with Flour Tortillas",
+    "description": "Sizzling chicken, peppers and onions in warm tortillas with salsa and a dollop of Greek yogurt.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 595,
+    "protein_g": 47,
+    "carbs_g": 61,
+    "fat_g": 19,
+    "fiber_g": 0,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "ingredients": [
+      "5 oz boneless skinless chicken breast, sliced",
+      "1 red bell pepper, sliced",
+      "½ onion, sliced",
+      "1½ tsp olive oil",
+      "1 tsp chili powder (or fajita seasoning)",
+      "2 medium flour tortillas (8\")",
+      "2 tbsp salsa",
+      "2 tbsp plain nonfat Greek yogurt",
+      "Lime wedge, salt"
+    ],
+    "instructions": "1. Toss the chicken, peppers and onion with the oil and chili powder. 2. Cook in a hot skillet 8–10 minutes until the chicken is cooked through and the vegetables are charred at the edges. 3. Warm the tortillas, fill, and top with salsa and Greek yogurt.",
+    "tip": "",
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
