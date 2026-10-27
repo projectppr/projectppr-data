@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-27",
+  "dateLabel": "Tuesday, October 27, 2026",
+  "generatedAt": "2026-10-27T11:01:48.811Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "deep sleep growth hormone muscle repair",
+      "headline": "Your Brain's Sleep Switch Just Got Mapped. Here's What It Means for Recovery.",
+      "body": "UC Berkeley researchers have finally cracked how your brain orchestrates deep sleep to release growth hormone, the chemical that builds muscle, burns fat, and sharpens cognition. The breakthrough reveals a two-way feedback loop: sleep triggers hormone release, and that same hormone signals your brain to wake up refreshed. The implications are massive. Poor sleep doesn't just feel bad—it systematically breaks this recovery circuit. For people fighting metabolic disorders, Parkinson's, or Alzheimer's, understanding this brain pathway opens new treatment doors.",
+      "takeaway": "Deep sleep and growth hormone form a feedback loop. Prioritize consistent deep sleep to protect muscle, metabolism, and brain function.",
+      "source": "University of California - Berkeley",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+      "pexelsQuery": "person sleeping peacefully bed night",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7445144/pexels-photo-7445144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7445144/pexels-photo-7445144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "KATRIN  BOLOVTSOVA",
+        "photographerUrl": "https://www.pexels.com/@ekaterina-bolovtsova",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-sleeping-on-the-bead-7445144/",
+        "avgColor": "#BAB8B6"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Mediterranean diet mitochondrial proteins heart",
+      "headline": "Mediterranean Diet Just Got Simpler to Understand. Tiny Proteins Hold the Secret.",
+      "body": "Why does the Mediterranean diet keep winning the longevity lottery? Researchers at USC found the answer hidden in your cells' powerhouses. People who followed the diet closely had higher levels of two rare mitochondrial proteins—humanin and SHMOOSE—that protect against heart disease, Alzheimer's, and age-related damage. This isn't just about olive oil and vegetables. It's about feeding your mitochondria what they evolved to process. The study connects centuries-old eating patterns to cutting-edge molecular biology, revealing that traditional diets are literally built for your ancient cellular machinery.",
+      "takeaway": "Following a Mediterranean diet boosts protective proteins inside your cells. Focus on whole foods over processed ones.",
+      "source": "University of Southern California",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
+      "pexelsQuery": "Mediterranean food olive oil vegetables plate",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4669261/pexels-photo-4669261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4669261/pexels-photo-4669261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Denys Gromov",
+        "photographerUrl": "https://www.pexels.com/@jdgromov",
+        "photoPageUrl": "https://www.pexels.com/photo/photo-of-person-pouring-dressing-on-food-4669261/",
+        "avgColor": "#A69C90"
+      }
+    },
+    {
+      "category": "RECOVERY",
+      "topic": "exercise DEAF1 gene muscle aging reversal",
+      "headline": "Exercise Just Became Your Cellular Reset Button. Scientists Found Why.",
+      "body": "Duke-NUS researchers have finally explained the molecular reason exercise reverses muscle aging: a gene called DEAF1 that goes haywire with age. When DEAF1 overactivates, your muscle cells stop clearing out damaged proteins and start deteriorating. But here's the good news—exercise hits a biological reset button by lowering DEAF1 levels and restoring your muscles' repair machinery. Both strength training and endurance work activate this protective pathway. The catch? If DEAF1 gets too overactive, exercise alone might not be enough. This research explains why some older adults see dramatic strength gains from training while others plateau.",
+      "takeaway": "Exercise reverses muscle aging by reactivating cellular cleanup. Two types work: lift weights and do cardio.",
+      "source": "Duke-NUS Medical School",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015003550.htm",
+      "pexelsQuery": "older adult strength training weight lifting",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/7322459/pexels-photo-7322459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7322459/pexels-photo-7322459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alena Darmel",
+        "photographerUrl": "https://www.pexels.com/@a-darmel",
+        "photoPageUrl": "https://www.pexels.com/photo/an-elderly-man-lifting-dumbbells-7322459/",
+        "avgColor": "#525659"
+      }
+    },
+    {
+      "category": "GENETICS",
+      "topic": "aspirin dementia risk platelet genes",
+      "headline": "Your Genes Might Dictate Whether Aspirin Protects Your Brain. Here's Why.",
+      "body": "Aspirin doesn't work for everyone's dementia risk. A reanalysis of the massive ASPREE trial reveals why: genetics. Researchers found that older adults with genetic markers linked to higher platelet counts saw a 70% lower dementia risk on low-dose aspirin. Everyone else? No benefit. But there's a real tradeoff: this same genetic group experienced major bleeding at double the rate of placebo. The finding opens the door to precision prevention—someday, a genetic test might tell you whether aspirin helps or hurts your brain. For now, it's a reminder that one-size-fits-all medicine is dead. Your genes matter.",
+      "takeaway": "Aspirin's brain benefits depend on genetics, not universal need. Talk to your doctor about genetic testing before starting daily aspirin.",
+      "source": "Monash University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+      "pexelsQuery": "DNA genetic test laboratory scientist",
+      "photo": {
+        "url": "https://images.pexels.com/photos/9243257/pexels-photo-9243257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9243257/pexels-photo-9243257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographerUrl": "https://www.pexels.com/@mikhail-nilov",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-holding-test-tubes-9243257/",
+        "avgColor": "#AFA1A0"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The only way to do great work is to love what you do. We're here to stay, to build, and to leave the world better than we found it.",
+    "author": "Steve Jobs",
+    "context": "Apple founder and visionary on purposeful work and long-term thinking."
+  },
+  "workout": {
+    "id": "55bc5032-8cbc-45b1-b92a-df2c91fbc8f3",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "easy",
+    "title": "Walk-Run Cadence Introduction: Building the 20-Minute Foundation",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "no_equipment",
+      "outdoor",
+      "under_30_min"
+    ],
+    "tip": "Count your steps as you run: aim for 160–170 steps per minute (roughly 80 per leg per minute). When breathing feels labored, drop back to walking immediately—no ego required.",
+    "warmup": "2 min easy walking, arm circles 10 each direction, leg swings 10 each direction, 5 bodyweight squats",
+    "exercises": [
+      {
+        "name": "Walk-Run Interval Block",
+        "sets": "5",
+        "reps": "2 min walk + 1 min run",
+        "notes": "Walk at natural pace, then run at conversational effort—you should be able to speak short sentences. Focus on breathing through your nose and mouth together. If you feel out of breath, walk longer next round; if easy, hold the run pace steady."
+      },
+      {
+        "name": "Final Walk-Down",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Slow, easy walk to bring heart rate down. This primes your nervous system for recovery."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "1 min standing quad stretch each leg, 1 min standing hamstring fold, 30 sec each calf stretch against a wall, 1 min deep breathing seated",
+    "description": "Your first structured run-walk session, introducing proper breathing and cadence cues to build continuous movement confidence. This workout alternates 2 minutes of easy walking with 1 minute of conversational-pace running, repeated 5 times, teaching your body rhythm without overwhelm. Perfect for beginners establishing aerobic base and fat-loss momentum with zero pressure."
+  },
+  "meal": {
+    "id": "ddfe4560-0f8e-4cd6-b592-57e590938556",
+    "title": "Whole Grain Toast with Whipped Ricotta, Figs & Pistachios",
+    "description": "A Mediterranean-inspired open-faced toast that pairs slow-digesting whole grains with creamy ricotta and natural carbs from figs—perfect pre-endurance fuel that won't spike and crash your blood sugar. The healthy fats from pistachios help with satiety and nutrient absorption during long efforts.",
+    "meal_type": "breakfast",
+    "macro_profile": "balanced",
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "calories": 768,
+    "protein_g": 27,
+    "carbs_g": 96,
+    "fat_g": 33,
+    "fiber_g": 8,
+    "prep_minutes": 8,
+    "cook_minutes": 3,
+    "ingredients": [
+      "2 slices whole grain or sourdough bread",
+      "150g whole milk ricotta",
+      "1 tbsp raw honey",
+      "3-4 fresh figs (or 4 dried figs, chopped)",
+      "25g shelled pistachios, chopped",
+      "1 tsp lemon zest",
+      "Pinch of sea salt",
+      "½ tsp olive oil (for toasting)"
+    ],
+    "instructions": "1. Toast bread to your preferred crispness—about 2–3 minutes.\n2. While bread toasts, stir ricotta with lemon zest and a pinch of salt until smooth and airy.\n3. Spread whipped ricotta generously on each toast.\n4. Top with fresh figs (halved) or chopped dried figs.\n5. Drizzle with honey and scatter pistachios over top.\n6. Serve immediately.",
+    "tip": "Make whipped ricotta the night before and store in an airtight container—spreads even easier and saves 3 minutes on weekday mornings. Dried figs work year-round and are more stable for meal prep.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
