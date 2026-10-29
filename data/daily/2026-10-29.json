@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-29",
+  "dateLabel": "Thursday, October 29, 2026",
+  "generatedAt": "2026-10-29T11:01:25.379Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "mTOR pathway aging mechanism target",
+      "headline": "Your Cells Have a Master Aging Switch. Scientists Just Found It.",
+      "body": "Researchers have identified mTOR—a cellular pathway—as a critical control point for aging and longevity. This mechanism coordinates how your body senses nutrients, adapts to stress, and manages energy. Understanding mTOR's role is shifting how scientists think about aging interventions. Rather than treating age like an inevitable decline, they're targeting the biological switches that actually control the aging process. This opens doors to smarter approaches that address root causes instead of just symptoms. The research suggests aging isn't a one-way street but a negotiable biological process.",
+      "takeaway": "mTOR regulation is emerging as a key target for aging research, suggesting that interventions targeting this pathway could help extend both lifespan and healthspan.",
+      "source": "Aging Journal (BUFFALO, NY)",
+      "sourceUrl": "https://www.aging-us.com/news-room/press-releases",
+      "pexelsQuery": "cells microscope biology",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "turek",
+        "photographerUrl": "https://www.pexels.com/@turek3024",
+        "photoPageUrl": "https://www.pexels.com/photo/microscopic-view-of-elements-8932609/",
+        "avgColor": "#867983"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "calcium vitamin D bone fracture prevention",
+      "headline": "The Calcium and Vitamin D Disappointment: What You Actually Need for Bones",
+      "body": "A sweeping review of 69 randomized trials involving over 153,000 adults just turned conventional bone health advice upside down. Calcium and vitamin D supplements—taken alone or together—do surprisingly little to prevent fractures or falls in most older people. This doesn't mean these nutrients don't matter, but routine supplementation for healthy adults may be wasting money and effort. Researchers now point to strategies with proven results: resistance training, balance work, and adequate whole-food nutrition. The takeaway is refreshingly simple: if you want strong bones, challenge them with movement.",
+      "takeaway": "For most healthy older adults, calcium and vitamin D supplements provide minimal fracture protection. Resistance and balance training are far more effective.",
+      "source": "BMJ Group / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260920030147.htm",
+      "pexelsQuery": "vitamins supplements pills bottle",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14631436/pexels-photo-14631436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14631436/pexels-photo-14631436.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Supplements On Demand",
+        "photographerUrl": "https://www.pexels.com/@supliful",
+        "photoPageUrl": "https://www.pexels.com/photo/fish-oil-orange-by-supliful-14631436/",
+        "avgColor": "#EDE6E0"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "resistance training functional capacity aging",
+      "headline": "One Strength Session Weekly Flips the Script on Aging Muscle",
+      "body": "New research confirms what strength coaches have long known: resistance training is one of the most powerful anti-aging tools available. Even one session per week can meaningfully preserve strength and functional capacity as you age. Sarcopenia—age-related muscle loss—starts creeping in around age 30, accelerating after 60. But resistance work directly counters this. Recent studies show that moderate-intensity lifting improves not just muscle but also respiratory function, bone density, and inflammatory markers. The beauty of this research is its accessibility. You don't need a gym membership or hours per week. Consistent, progressive resistance work is what rewires aging muscle.",
+      "takeaway": "One weekly resistance session produces measurable improvements in strength and functional capacity, making it one of the highest-ROI interventions for healthy aging.",
+      "source": "The Conversation / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261002020317.htm",
+      "pexelsQuery": "weight lifting strength training dumbbells",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13088864/pexels-photo-13088864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13088864/pexels-photo-13088864.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Engin Akyurt",
+        "photographerUrl": "https://www.pexels.com/@enginakyurt",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-shot-of-a-person-holding-a-dumbbell-13088864/",
+        "avgColor": "#78767B"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "cardiorespiratory fitness VO2 max longevity",
+      "headline": "Your VO2 Max Is Your Real Longevity Number—Not Your Age",
+      "body": "Research spanning decades and millions of observations reveals something that reshapes how we think about aging: cardiorespiratory fitness is one of the strongest predictors of how long you'll live. Each 1-MET increase in fitness (roughly equivalent to jogging 0.6 mph faster) corresponds with a 13% lower risk of all-cause mortality. A classic study tracking 5,000 middle-aged men over 46 years found that each unit increase in VO2 max added an estimated 45 days to lifespan. The most striking finding? There's no ceiling. Being extremely fit provides greater protection than merely above-average fitness. This isn't just theory—it means building your aerobic capacity through consistent exercise is one of the most direct levers you have for extending both lifespan and quality of life.",
+      "takeaway": "VO2 max independently predicts longevity as strongly as age does, with no upper limit of benefit. Aerobic training is one of the highest-leverage health investments available.",
+      "source": "Journal of the American College of Cardiology / Research Literature",
+      "sourceUrl": "https://www.jacc.org/doi/10.1016/j.jacc.2018.06.045",
+      "pexelsQuery": "runner cardiovascular fitness outdoor training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14140535/pexels-photo-14140535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14140535/pexels-photo-14140535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Matthew Edington",
+        "photographerUrl": "https://www.pexels.com/@matthew-edington-347722458",
+        "photoPageUrl": "https://www.pexels.com/photo/man-running-on-paved-road-14140535/",
+        "avgColor": "#837A53"
+      }
+    }
+  ],
+  "quote": {
+    "text": "I've missed more than 9,000 shots in my career. I've lost almost 300 games. I've failed over and over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan",
+    "context": "Basketball legend and one of history's greatest athletes, emphasizing that failures are the foundation of sustainable success."
+  },
+  "workout": {
+    "id": "ddb35beb-28c4-4436-90f1-b0233d6a29a5",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Hang, Row, and Brace: Back and Core in 30",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "pull-up bar or sturdy door frame",
+      "resistance band (optional)",
+      "floor space"
+    ],
+    "trainingZone": "mixed",
+    "tags": [
+      "beginner_friendly",
+      "core",
+      "minimal_equipment",
+      "pull_dominant",
+      "under_30_min",
+      "upper_body"
+    ],
+    "tip": "If you only have 20 minutes, cut rest periods to 45 seconds and drop one set per exercise. The dead hang alone is worth doing every single day.",
+    "warmup": "Spend 3 minutes doing arm circles, shoulder rolls, and slow cat-cow on the floor. Finish with 10 scapular shrugs while hanging from the bar, just packing your shoulder blades down without pulling with your arms.",
+    "exercises": [
+      {
+        "name": "Dead Hang",
+        "sets": "3",
+        "reps": "20-40 seconds",
+        "notes": "Use an overhand grip. Let your shoulders fully elevate at the start, then gently pull them down and back before you begin your hold. This decompresses the spine and builds grip strength. Bend knees if feet touch the floor."
+      },
+      {
+        "name": "Inverted Row (use a table edge, low bar, or rings)",
+        "sets": "3",
+        "reps": "10-12",
+        "notes": "Body straight as a plank, heels on the floor. Pull your chest to the bar and squeeze your shoulder blades together at the top. The more horizontal your body, the harder it gets. If it is too easy, elevate your feet on a chair."
+      },
+      {
+        "name": "Band Pull-Apart",
+        "sets": "3",
+        "reps": "15",
+        "notes": "Hold a resistance band at shoulder height with both hands, arms straight. Pull the band apart until it touches your chest, squeezing your rear delts. If you have no band, do prone Y raises lying face-down on the floor."
+      },
+      {
+        "name": "Scapular Pull-Up",
+        "sets": "3",
+        "reps": "8-10",
+        "notes": "Hang from the bar with straight arms. Without bending your elbows, depress your shoulder blades to lift your body 1 to 2 inches. Hold for one second, then lower fully. This is the foundation of a full pull-up and most people skip it entirely."
+      },
+      {
+        "name": "Hollow Body Hold",
+        "sets": "3",
+        "reps": "20-30 seconds",
+        "notes": "Lie on your back, press your lower back into the floor, arms extended overhead, and legs straight and raised a few inches. This is harder than it looks. If your lower back lifts off the floor, raise your legs higher or bend your knees slightly."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with a 90/90 hip stretch on each side and a doorway chest opener for 60 seconds per side. Shake out your hands and forearms after the dead hangs.",
+    "description": "Warmup: Spend 3 minutes doing arm circles, shoulder rolls, and slow cat-cow on the floor. Finish with 10 scapular shrugs while hanging from the bar, just packing your shoulder blades down without pulling with your arms. Dead Hang: 3 sets x 20-40 seconds — Use an overhand grip. Let your shoulders fully elevate at the start, then gently pull them down and back before you begin your hold. This decompresses the spine and builds grip strength. Bend knees if feet touch the floor. Inverted Row (use a table edge, low bar, or rings): 3 sets x 10-12 — Body straight as a plank, heels on the floor. Pull your chest to the bar and squeeze your shoulder blades together at the top. The more horizontal your body, the harder it gets. If it is too easy, elevate your feet on a chair. Band Pull-Apart: 3 sets x 15 — Hold a resistance band at shoulder height with both hands, arms straight. Pull the band apart until it touches your chest, squeezing your rear delts. If you have no band, do prone Y raises lying face-down on the floor. Scapular Pull-Up: 3 sets x 8-10 — Hang from the bar with straight arms. Without bending your elbows, depress your shoulder blades to lift your body 1 to 2 inches. Hold for one second, then lower fully. This is the foundation of a full pull-up and most people skip it entirely. Hollow Body Hold: 3 sets x 20-30 seconds — Lie on your back, press your lower back into the floor, arms extended overhead, and legs straight and raised a few inches. This is harder than it looks. If your lower back lifts off the floor, raise your legs higher or bend your knees slightly. Cooldown: Finish with a 90/90 hip stretch on each side and a doorway chest opener for 60 seconds per side. Shake out your hands and forearms after the dead hangs."
+  },
+  "meal": {
+    "id": "fa689132-888a-4a28-9e6b-d19027bf45e9",
+    "title": "Chicken Quesadilla with Salsa",
+    "description": "Crispy, cheesy and fast: chicken and peppers in a toasted tortilla with salsa for dipping.",
+    "meal_type": "lunch",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 528,
+    "protein_g": 42,
+    "carbs_g": 43,
+    "fat_g": 21,
+    "fiber_g": 0,
+    "prep_minutes": 5,
+    "cook_minutes": 8,
+    "ingredients": [
+      "1 large flour tortilla (10\")",
+      "3 oz cooked chicken breast, chopped",
+      "⅓ cup shredded Monterey Jack",
+      "¼ red bell pepper, diced",
+      "¼ cup salsa",
+      "Cooking spray"
+    ],
+    "instructions": "1. Scatter the cheese, chicken and peppers over half the tortilla and fold. 2. Cook in a sprayed skillet over medium heat 3–4 minutes per side until golden and melted. 3. Cut into wedges and serve with the salsa.",
+    "tip": "",
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
