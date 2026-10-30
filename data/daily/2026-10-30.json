@@ -1,145 +1,185 @@
 {
   "date": "2026-10-30",
   "dateLabel": "Friday, October 30, 2026",
-  "generatedAt": "2026-10-30T08:20:24.601Z",
+  "generatedAt": "2026-10-30T11:01:28.826Z",
   "articles": [
     {
       "category": "BRAIN HEALTH",
-      "topic": "Artificial sweeteners and cognitive decline",
-      "headline": "Six Popular Sugar Substitutes May Age Your Brain 1.6 Years Faster",
-      "body": "An eight-year study of nearly 13,000 adults reveals a striking link between high artificial sweetener consumption and accelerated cognitive decline. People who consumed the most sweeteners experienced a 62% faster drop in memory and thinking skills—equivalent to roughly 1.6 extra years of brain aging. The effect was strongest in adults under 60 and those with diabetes. Six specific sweeteners were flagged: aspartame, saccharin, acesulfame K, erythritol, sorbitol, and xylitol. Tagatose was the only one that showed no association. Researchers emphasize this is an observed link, not proof of direct causation, and further investigation is needed.",
-      "takeaway": "If you consume diet sodas or artificial sweeteners daily, consider cutting back—especially if you're under 60 or managing blood sugar.",
-      "source": "ScienceDaily / American Academy of Neurology",
+      "topic": "artificial sweeteners cognitive aging",
+      "headline": "Six Popular Sweeteners Linked to Brain Aging Equivalent to 1.6 Years",
+      "body": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62 percent faster decline in memory and thinking skills. The researchers tracked adults in Brazil over eight years, examining seven common sweeteners including aspartame, saccharin, and erythritol. Six of the seven were linked to faster cognitive decline, particularly memory loss. Adults under 60 and those with diabetes showed the strongest effects. The study was observational and couldn't prove causation, but the magnitude of decline mirrors aging an extra 1.6 years.",
+      "takeaway": "If you're reaching for diet sodas or sugar-free products daily, consider cutting back. The cognitive impact may not be worth the calorie savings.",
+      "source": "ScienceDaily / University of Southern California",
       "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
-      "pexelsQuery": "diet soda artificial sweetener beverage",
+      "pexelsQuery": "diet soda can artificial sweetener",
       "photo": {
-        "url": "https://images.pexels.com/photos/4109238/pexels-photo-4109238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/4109238/pexels-photo-4109238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Polina Tankilevitch",
-        "photographerUrl": "https://www.pexels.com/@polina-tankilevitch",
-        "photoPageUrl": "https://www.pexels.com/photo/person-pouring-soda-in-a-glass-4109238/",
-        "avgColor": "#ECD6D2"
-      }
-    },
-    {
-      "category": "LONGEVITY",
-      "topic": "Daylight exposure and dementia prevention",
-      "headline": "Skip 42 Minutes of Sunlight Today, Boost Your Dementia Risk",
-      "body": "A sweeping study of 87,577 adults shows that getting less than 42 minutes of bright daylight daily is a stronger predictor of dementia risk than six well-established factors like obesity and hearing loss. Researchers tracked wrist-worn light sensors over eight years and found that daytime exposure above 1,000 lux reduced dementia risk by 16%. Those getting the brightest light (5,000+ lux) saw even sharper risk reductions. The protective effect was strongest in people carrying the APOE-E4 gene and night owls. Nighttime light exposure made no difference. The finding doesn't prove sunlight prevents dementia, but it's a striking signal about light's role in brain health.",
-      "takeaway": "Aim for 42+ minutes of outdoor daylight daily. Your afternoon walk might be one of your most powerful preventive health moves.",
-      "source": "ScienceDaily / General Psychiatry",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
-      "pexelsQuery": "morning sunlight outdoor daylight",
-      "photo": {
-        "url": "https://images.pexels.com/photos/14849887/pexels-photo-14849887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/14849887/pexels-photo-14849887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Matteo Basile",
-        "photographerUrl": "https://www.pexels.com/@matteobasilephoto",
-        "photoPageUrl": "https://www.pexels.com/photo/sun-shining-onto-grass-through-tall-trees-14849887/",
-        "avgColor": "#625F50"
-      }
-    },
-    {
-      "category": "MENTAL PERFORMANCE",
-      "topic": "PTSD treatment breakthrough with brain mapping",
-      "headline": "New Brain Stimulation Treatment Clears PTSD Symptoms in 68% of Patients",
-      "body": "A newly FDA-cleared treatment using personalized brain mapping and magnetic stimulation has achieved remarkable results for PTSD sufferers. Clinical trials showed a 52% reduction in symptoms and 68% remission in patients who received the targeted therapy. Unlike medication-based approaches, this treatment uses brain imaging to identify abnormal activity patterns specific to each person, then delivers precise stimulation to reset those circuits. The breakthrough is significant because PTSD has historically resisted treatment in a substantial portion of patients. Researchers believe this precision approach could eventually transform treatment for other mental health conditions, offering hope for drug-free, long-term relief.",
-      "takeaway": "If standard PTSD treatments haven't worked, ask your provider about brain-targeted therapies—this technology just cleared FDA approval.",
-      "source": "ScienceDaily / Texas A&M University",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
-      "pexelsQuery": "brain health therapy wellness",
-      "photo": {
-        "url": "https://images.pexels.com/photos/7176050/pexels-photo-7176050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/7176050/pexels-photo-7176050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "SHVETS production",
-        "photographerUrl": "https://www.pexels.com/@shvets-production",
-        "photoPageUrl": "https://www.pexels.com/photo/a-therapist-talking-to-her-patient-7176050/",
-        "avgColor": "#878389"
+        "url": "https://images.pexels.com/photos/25402112/pexels-photo-25402112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/25402112/pexels-photo-25402112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Cuma  Ersöz",
+        "photographerUrl": "https://www.pexels.com/@cuma-ersoz-218033532",
+        "photoPageUrl": "https://www.pexels.com/photo/can-of-coca-cola-25402112/",
+        "avgColor": "#2B090A"
       }
     },
     {
       "category": "RECOVERY",
-      "topic": "Sauna heat mobilizes immune cells",
-      "headline": "30 Minutes in a Sauna Sends Your Immune Cells Into Active Patrol",
-      "body": "Finnish researchers discovered that a single 30-minute sauna session—including a brief cold shower halfway through—temporarily floods your bloodstream with circulating white blood cells. The surge resembles the immune mobilization that happens during intense exercise. Here's the catch: the body isn't making new immune cells; it's moving existing ones from tissues into circulation, where they can actively patrol for threats. The effect is temporary, and the study didn't measure long-term immunity benefits. But the finding offers a biological explanation for why regular sauna users report feeling better. Think of it as putting your immune system on higher alert mode, at least temporarily.",
-      "takeaway": "A regular sauna habit may give your immune system periodic wake-up calls, but it's not a substitute for sleep, nutrition, and exercise.",
+      "topic": "sauna heat white blood cells immunity",
+      "headline": "Thirty Minutes in a Sauna Floods Your Bloodstream With Immune Cells",
+      "body": "A Finnish study found that a single 30-minute sauna session, including a brief cold shower midway through, temporarily increases circulating white blood cells including lymphocytes and neutrophils. The immune cells surge into circulation from tissues where they normally reside, positioning them to patrol the body more effectively. Blood samples showed the increase was most pronounced immediately after the session, then normalized within 30 minutes. The response mirrors the immune activation seen during exercise. This isn't about creating new immune cells but mobilizing existing ones to higher alert status.",
+      "takeaway": "A regular sauna habit may give your immune surveillance a temporary boost. It's not a replacement for exercise, but it offers a passive way to activate your defenses weekly.",
       "source": "ScienceDaily / University of Eastern Finland",
       "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
-      "pexelsQuery": "sauna heat therapy wellness",
+      "pexelsQuery": "sauna steam hot wood room",
       "photo": {
-        "url": "https://images.pexels.com/photos/9144530/pexels-photo-9144530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "squareUrl": "https://images.pexels.com/photos/9144530/pexels-photo-9144530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "photographer": "Ron Lach",
-        "photographerUrl": "https://www.pexels.com/@ron-lach",
-        "photoPageUrl": "https://www.pexels.com/photo/a-side-view-of-a-shirtless-man-sweating-9144530/",
-        "avgColor": "#423127"
+        "url": "https://images.pexels.com/photos/8092430/pexels-photo-8092430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8092430/pexels-photo-8092430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Max Vakhtbovych",
+        "photographerUrl": "https://www.pexels.com/@artbovich",
+        "photoPageUrl": "https://www.pexels.com/photo/interior-of-sauna-8092430/",
+        "avgColor": "#BA7F53"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "peanuts brain insulin memory",
+      "headline": "Daily Peanuts Boost How Your Aging Brain Responds to Insulin",
+      "body": "Researchers at Maastricht University found that eating 60 grams of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in memory-related regions of the brain's right hemisphere. Thirty-one healthy adults aged 60 to 75 participated in a crossover study comparing peanut consumption against a control period of avoidance. The improvement showed up on brain imaging in clusters including the hippocampus. Peanuts contain L-arginine, unsaturated fats, and fiber that may support the effect. The study measured insulin sensitivity changes, not direct memory performance or dementia prevention.",
+      "takeaway": "Two servings of peanuts daily may help sustain brain function as you age. Pair them with other brain-healthy habits for a real edge.",
+      "source": "Medical Express / Food & Function",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-daily-peanut-consumption-beneficially-affects.html",
+      "pexelsQuery": "peanuts handful bowl nuts",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5847235/pexels-photo-5847235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5847235/pexels-photo-5847235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ROMAN ODINTSOV",
+        "photographerUrl": "https://www.pexels.com/@roman-odintsov",
+        "photoPageUrl": "https://www.pexels.com/photo/top-view-of-a-bowl-of-peanuts-5847235/",
+        "avgColor": "#A0866C"
+      }
+    },
+    {
+      "category": "LONGEVITY",
+      "topic": "bright daylight dementia risk 1000 lux",
+      "headline": "Less Than 42 Minutes of Bright Daylight Daily Tied to Higher Dementia Risk",
+      "body": "A large study of 87,577 adults wearing light sensors found that those exposed to more than 1,000 lux of daylight during the day had 16 percent lower dementia risk than those in dimmer conditions. Over 8.1 years of follow-up, 741 participants developed dementia. Participants with even brighter exposure of 5,000 lux or more saw additional risk reduction. Researchers accounted for sleep, exercise, obesity, and other known risk factors. Machine learning ranked bright daytime light as a stronger dementia predictor than alcohol use, hearing loss, or trauma. Vitamin D did not explain the relationship, suggesting other pathways are at play.",
+      "takeaway": "Make morning and midday daylight exposure a non-negotiable habit. Forty-two minutes is the floor. Get outside early, and take daylight breaks during your workday.",
+      "source": "ScienceDaily / General Psychiatry",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
+      "pexelsQuery": "person standing sunlight outdoor bright day",
+      "photo": {
+        "url": "https://images.pexels.com/photos/37614019/pexels-photo-37614019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/37614019/pexels-photo-37614019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "P.R MALLIK",
+        "photographerUrl": "https://www.pexels.com/@p-r-mallik-346902548",
+        "photoPageUrl": "https://www.pexels.com/photo/silhouette-of-young-man-at-sunset-outdoors-37614019/",
+        "avgColor": "#CEA13C"
       }
     }
   ],
   "quote": {
-    "text": "Habits are the compound interest of self-improvement.",
-    "author": "James Clear",
-    "context": "Author of Atomic Habits, bestselling book on behavior change and building lasting systems."
+    "text": "I think laughing keeps you healthy and happy.",
+    "author": "Mel Brooks",
+    "context": "The 99-year-old comedian shared his simple philosophy on longevity in a January 2026 interview with People magazine."
   },
   "workout": {
-    "id": "50ea45cf-7fe9-43ac-bef5-3461e4c95206",
+    "id": "e0e5a8e2-d2cf-46af-b002-7e2276e42d76",
     "todayType": "RUN",
     "type": "RUN",
     "sport": "run",
-    "workoutType": "intervals",
-    "title": "Short Stride Acceleration: 30/30 Intro to Speed",
-    "difficulty": "Beginner",
-    "duration": "28 min",
+    "workoutType": "long",
+    "title": "Threshold Tempo Ladder: Progressive Race-Pace Sustainability",
+    "difficulty": "Intermediate",
+    "duration": "75 min",
     "equipment": [],
-    "trainingZone": "z4",
+    "trainingZone": "mixed",
     "tags": [
-      "beginner_friendly",
       "cardio",
-      "no_equipment",
+      "marathon",
       "outdoor",
-      "under_30_min"
+      "race_prep",
+      "triathlon",
+      "under_60_min"
     ],
-    "tip": "Focus on smooth arm drive and controlled breathing during the 30-second push—don't sprint all-out. Your recovery jog should feel easy; if you can't talk, you're recovering too hard.",
-    "warmup": "5 min: easy jog at conversational pace, then 6 x 20m strides with 40m walk recovery between each (stride should feel controlled, not maximal—build into it)",
+    "tip": "Use perceived exertion to dial in pace rather than obsessing over GPS. During tempo blocks, you should be able to speak only short phrases (4–5 words max). If you can sing, you're too easy; if you can't speak at all, you're too hard.",
+    "warmup": "10 min easy Z2 jog, 5×20 sec buildout strides (accelerate each stride) with 90 sec recovery jog between each",
     "exercises": [
       {
-        "name": "30/30 Interval Block",
-        "sets": "8",
-        "reps": "30 sec hard / 30 sec easy jog",
-        "notes": "Run at a pace you could sustain for about 3-4 minutes (roughly 85–90% max effort). Keep your head still, shoulders relaxed, and cadence quick. Recovery jog should feel genuinely easy—this teaches your body pacing discipline."
+        "name": "Easy Aerobic Primer",
+        "sets": "1",
+        "reps": "10 minutes",
+        "notes": "Z2 conversational pace, HR 60–70% max. Establish smooth cadence (170–180 rpm), relax shoulders, feel your rhythm."
+      },
+      {
+        "name": "Tempo Ladder Block 1",
+        "sets": "1",
+        "reps": "7 minutes",
+        "notes": "Tempo/threshold pace (Z4, HR 85–88% max). This is your half-marathon goal pace or just below marathon goal pace. Stay controlled and smooth."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "3 minutes",
+        "notes": "Easy Z2. HR drops 10–15 bpm. Mental reset. Optional light fueling: 25–50 cal carbs if needed."
+      },
+      {
+        "name": "Tempo Ladder Block 2",
+        "sets": "1",
+        "reps": "9 minutes",
+        "notes": "Maintain Z4 tempo pace (85–88% HR max). The ladder lengthens effort duration—your mind must settle into the discomfort. Focus on relaxed arms and steady breathing."
+      },
+      {
+        "name": "Recovery Jog",
+        "sets": "1",
+        "reps": "3 minutes",
+        "notes": "Easy Z2. Let HR recover fully. Consume 50 cal carbs if available. Prepare mentally for the final, longest block."
+      },
+      {
+        "name": "Tempo Ladder Block 3 (Peak Effort)",
+        "sets": "1",
+        "reps": "11 minutes",
+        "notes": "Sustain Z4 tempo pace (85–88% HR max). This is the mental crescendo—the longest tempo block. Legs will feel heavy; this is the adaptation stimulus. Breathe deeply, hold form."
+      },
+      {
+        "name": "Cool-Down Easy Jog",
+        "sets": "1",
+        "reps": "6 minutes",
+        "notes": "Z2 easy pace. Gradually bring HR down. Celebrate pushing through sustained effort."
       }
     ],
     "exerciseText": "",
-    "cooldown": "3 min easy jog, then 2 min stationary walk. Standing quad stretch 20 sec each leg, standing hamstring reach 20 sec each leg, open hip stretch 15 sec each side.",
-    "description": "Your first exposure to running speed work using safe, short 30-second efforts followed by 30-second recovery jogs. This session teaches your nervous system to move faster without the injury risk of longer intervals, making it perfect for 5K and 10K beginners building speed foundations."
+    "cooldown": "5 min walking, then: standing quad stretch 40 sec each leg, hamstring fold 60 sec, glute figure-4 45 sec each side, calf stretch 30 sec each leg. Refuel with 20–30g protein + 40–60g carbs within 30 min of completion.",
+    "description": "A 75-minute structured long run using a ladder format to build lactate threshold and race-pace endurance without excessive fatigue. Athletes warm into three progressive tempo efforts (7, 9, and 11 minutes) at half-marathon or marathon goal pace with brief recovery jogs between, developing mental toughness and pacing consistency under fatigue. Perfect for intermediate marathon and Olympic-distance triathlon athletes building aerobic power and race-specific speed."
   },
   "meal": {
-    "id": "f204d73c-95f9-43f2-a570-26de8b448df0",
-    "title": "Peanut Butter Banana Toast with Milk",
-    "description": "Whole-wheat toast with peanut butter, banana and a drizzle of honey, plus a glass of milk. A classic pre-run breakfast.",
-    "meal_type": "breakfast",
-    "macro_profile": "high_carb",
-    "difficulty": "easy",
-    "cuisine": "",
-    "calories": 553,
-    "protein_g": 23,
-    "carbs_g": 77,
-    "fat_g": 20,
+    "id": "e142f99c-585a-459c-8a47-59372d20ed7d",
+    "title": "Teriyaki Salmon Onigiri (Japanese Rice Balls)",
+    "description": "Flaked teriyaki-glazed salmon folded into warm sushi rice and shaped into portable rice balls—an authentic, carb-rich pre-workout fuel with 30g protein that travels well and sits light in your stomach before a brick session or long run.",
+    "meal_type": "pre_workout",
+    "macro_profile": "performance",
+    "difficulty": "medium",
+    "cuisine": "japanese",
+    "calories": 502,
+    "protein_g": 31,
+    "carbs_g": 46,
+    "fat_g": 18,
     "fiber_g": 0,
-    "prep_minutes": 5,
-    "cook_minutes": 0,
+    "prep_minutes": 15,
+    "cook_minutes": 15,
     "ingredients": [
-      "2 slices whole-wheat bread, toasted",
-      "1½ tbsp peanut butter",
-      "1 medium banana, sliced",
-      "1 tsp honey",
-      "1 cup 2% milk"
+      "120g salmon fillet",
+      "2 tbsp soy sauce",
+      "1 tbsp mirin",
+      "¾ cup cooked sushi rice",
+      "½ tsp wasabi",
+      "1 tsp sesame seeds",
+      "pinch of salt"
     ],
-    "instructions": "1. Toast the bread. 2. Spread with peanut butter, top with banana and drizzle with honey. 3. Serve with the milk.",
-    "tip": "",
+    "instructions": "1. Pan-sear salmon over medium heat for 5–6 minutes per side until cooked through; flake into small pieces.\n2. In a small bowl, mix soy sauce and mirin; toss flaked salmon in the glaze.\n3. Divide warm sushi rice into two portions (makes 2 rice balls).\n4. Press one portion of rice into a wet hand, create a small indent, fill with 1 tbsp teriyaki salmon, top with another layer of rice, and gently shape into a ball.\n5. Repeat with second portion.\n6. Sprinkle with sesame seeds and a pinch of salt.",
+    "tip": "Make these the night before and store in plastic wrap at room temperature or cool—they stay fresh for 24 hours and are easy to grab before a long training block. The rice provides fast carbs while the salmon protein prevents stomach upset.",
     "goal_affinity": [
-      "general_fitness",
-      "endurance"
+      "triathlon",
+      "endurance",
+      "strength"
     ],
     "image_url": ""
   }
