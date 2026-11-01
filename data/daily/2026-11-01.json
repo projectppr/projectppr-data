@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-01",
+  "dateLabel": "Sunday, November 1, 2026",
+  "generatedAt": "2026-11-01T11:01:20.598Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "Cannabis and wearable-detected sleep quality",
+      "headline": "Your Wearable Knows Your Sleep Is Worse Than You Think",
+      "body": "Millions use cannabis to help them sleep. But a Northwestern Medicine study following people for 35 years found that both lifetime and recent cannabis use were tied to poorer objectively measured sleep—more fragmentation, lower sleep efficiency, longer wake periods after falling asleep. The catch? Cannabis users didn't report feeling like their sleep was worse. Wearable devices detected sleep disruptions that felt invisible to the people wearing them.",
+      "takeaway": "Don't rely on how your sleep feels. Track it with data and adjust habits accordingly, even when your perception says otherwise.",
+      "source": "JAMA Network Open",
+      "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855118",
+      "pexelsQuery": "smartwatch fitness tracker wrist sleep",
+      "photo": {
+        "url": "https://images.pexels.com/photos/374619/pexels-photo-374619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/374619/pexels-photo-374619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Burst",
+        "photographerUrl": "https://www.pexels.com/@burst",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-looking-her-watch-374619/",
+        "avgColor": "#62615F"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Type 2 diabetes remission with diet and exercise",
+      "headline": "54% Reversed Early-Onset Diabetes in Just Six Months",
+      "body": "More than half of younger adults with early-onset type 2 diabetes hit remission—blood sugar back to normal without meds—in just 24 weeks. The RESET for Remission trial combined a structured low-calorie diet (800-900 calories daily) with three weekly exercise sessions including both aerobic and resistance training. Even better: the program preserved muscle mass during rapid weight loss, something most diets fail at. Compare that to the control group: only 4% hit remission.",
+      "takeaway": "If you're under 45 with early type 2 diabetes, diet plus strength training can reverse it in six months—not manage it, reverse it.",
+      "source": "The Lancet Regional Health – Americas",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+      "pexelsQuery": "meal prep vegetables lean protein healthy eating",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5794779/pexels-photo-5794779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5794779/pexels-photo-5794779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nataliya Vaitkevich",
+        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
+        "photoPageUrl": "https://www.pexels.com/photo/nutritious-vegetables-in-plastic-containers-5794779/",
+        "avgColor": "#545036"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Cost of living and uncertainty driving American stress",
+      "headline": "77% Cite Cost of Living as Major Stress. Here's What That Does",
+      "body": "The American Psychological Association's 2026 Stress in America survey found that three-quarters of adults list the cost of living—rent, mortgage, groceries, childcare—as a significant stressor. Nearly 72% now accept stress as unavoidable. The damage? About half of adults reported pulling back from social engagement, hobbies, and community participation as a direct result of feeling overwhelmed. Stress is reshaping how people live, not just how they feel.",
+      "takeaway": "Stress isn't just mental. It's eroding your social bonds and shrinking your life. Fight back by protecting one non-negotiable social commitment each week.",
+      "source": "American Psychological Association",
+      "sourceUrl": "https://www.apa.org/pubs/reports/stress-in-america/2026",
+      "pexelsQuery": "person sitting worried stressed desk laptop",
+      "photo": {
+        "url": "https://images.pexels.com/photos/27177254/pexels-photo-27177254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/27177254/pexels-photo-27177254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Helena Lopes",
+        "photographerUrl": "https://www.pexels.com/@helenalopes",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-watching-laptop-during-breakfast-27177254/",
+        "avgColor": "#B3AD9F"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "Mild dehydration and cognitive performance gaps",
+      "headline": "Just 1% Dehydration Kills Your Decision-Making",
+      "body": "You don't feel thirsty yet. But even mild dehydration—1 to 2% of body weight loss—measurably degrades attention, working memory, mood, and reaction time. Studies show women at just 1.36% dehydration showed poor concentration, increased task difficulty perception, and more headaches. The kicker: your thirst mechanism lags behind the damage. By the time you're thirsty, you're already performing worse. Afternoon decision-making quality drops across busy professionals, many in cumulative hydration deficits they don't recognize.",
+      "takeaway": "Stop waiting for thirst. Drink water on a schedule, especially before 3pm. Better hydration equals better cognition—measurably, within 20-60 minutes.",
+      "source": "Multiple 2026 meta-analyses in European Journal of Nutrition",
+      "sourceUrl": "https://livenulife.com/mild-dehydration-brain-performance-2026/",
+      "pexelsQuery": "water bottle hydration drink glass",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/10482146/pexels-photo-10482146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10482146/pexels-photo-10482146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Alexey Demidov",
+        "photographerUrl": "https://www.pexels.com/@alexeydemidov",
+        "photoPageUrl": "https://www.pexels.com/photo/clear-shot-glass-with-liquid-10482146/",
+        "avgColor": "#7C7B67"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Discipline equals freedom.",
+    "author": "Jocko Willink",
+    "context": "Retired Navy SEAL, leadership author, and philosopher of discipline who built an entire framework around how self-discipline unlocks physical and mental freedom."
+  },
+  "workout": {
+    "id": "a005ec8a-07cc-4da7-8e93-ea41257bb9a9",
+    "todayType": "RECOVERY",
+    "type": "RECOVERY",
+    "sport": "recovery",
+    "workoutType": "mobility",
+    "title": "Thoracic Rotation & Shoulder Unlock: Quadruped Flow to Half-Kneeling Rotation",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "equipment": [],
+    "trainingZone": "z1",
+    "tags": [
+      "functional",
+      "indoor",
+      "joint_friendly",
+      "low_impact",
+      "mobility_focused",
+      "no_equipment",
+      "upper_body"
+    ],
+    "tip": "Initiate all thoracic rotations from the mid-back, not the lumbar spine. Lead with your gaze as you rotate—the head follows the spine naturally, preventing compensatory neck strain.",
+    "warmup": "2 min: 10 arm circles each direction, 5 slow push-ups with 1-second bottom pause, 10 alternating arm reaches (opposite hand to ceiling), 5 cat-cow stretches, 5 thread-the-needle stretches each side",
+    "exercises": [
+      {
+        "name": "Quadruped Thoracic Rotation (Thread the Needle)",
+        "sets": "2",
+        "reps": "12 each side",
+        "notes": "On hands and knees, thread right arm under left arm, rotating torso. Return and rotate right elbow toward ceiling. Controls shoulder internal rotation that locks up during swimming and cycling—Hyrox ski erg requires this mobility."
+      },
+      {
+        "name": "Child's Pose with Thoracic Reach (Lat & Shoulder Opener)",
+        "sets": "2",
+        "reps": "45 sec",
+        "notes": "From child's pose, reach both arms forward and to the right, holding the stretch. Switch sides. Tight lats restrict overhead pressing needed for wall balls and rope climbs in OCR."
+      },
+      {
+        "name": "Half-Kneeling Thoracic Rotation (Standing Carryover)",
+        "sets": "2",
+        "reps": "10 each side",
+        "notes": "Half-kneeling position, one hand behind head. Rotate torso toward the back knee, feeling rotation in mid-back. This mobility translates directly to running posture and triathlon open-water sighting mechanics."
+      },
+      {
+        "name": "Sleeper Stretch (Shoulder Internal Rotation Release)",
+        "sets": "2",
+        "reps": "75 sec each side",
+        "notes": "Lying on side, shoulder at 90 degrees, gently press forearm toward floor. Releases deep shoulder tightness from swimming and rope work. Hold without forcing—shoulder capsule needs time to lengthen."
+      },
+      {
+        "name": "Prone Shoulder I-Y-T Isometric Hold (Scapular Stability Prep)",
+        "sets": "2",
+        "reps": "15 sec I, 15 sec Y, 15 sec T each arm",
+        "notes": "Lie on stomach, arms in I position (overhead), then Y (45 degrees), then T (90 degrees). Hold thumbs up. Builds scapular endurance for Hyrox ski erg and OCR burden carries without mobility loss."
+      },
+      {
+        "name": "Doorway Chest Stretch (Pectoralis Reset)",
+        "sets": "2",
+        "reps": "60 sec each side",
+        "notes": "Stand in doorway, arm at 90 degrees on frame, step forward gently. Tight pecs drive forward shoulder posture and restrict thoracic extension needed for running efficiency and OCR climbing."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "3 min: dead hang (or resistance band-assisted hang) 30 sec, child's pose 90 sec, supine cross-body shoulder stretch 30 sec each arm",
+    "description": "A 35-minute shoulder and thoracic mobility sequence designed to reverse the rounded posture and internal shoulder rotation restrictions caused by cycling, swimming, rowing, and desk work. Essential for triathlon brick transitions, Hyrox ski erg and rope climb mechanics, and OCR monkey bar grip positioning."
+  },
+  "meal": {
+    "id": "e1b0b023-7f15-45ba-86ff-7dce66d9d430",
+    "title": "Thinly Sliced Beef, Pickled Radish & Wasabi Cream Cheese on Rice Crackers",
+    "description": "Umami-packed smoked beef paired with peppery pickled radish and a wasabi-spiked cream cheese spread on crispy rice crackers. This Japanese-inspired snack hits protein, carbs, and a bold flavor profile that keeps things interesting.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "japanese",
+    "calories": 330,
+    "protein_g": 26,
+    "carbs_g": 25,
+    "fat_g": 14,
+    "fiber_g": 1,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "ingredients": [
+      "70g smoked beef slices (or beef jerky, thinly sliced)",
+      "2 tbsp cream cheese, softened",
+      "1 tsp wasabi paste",
+      "8 rice crackers",
+      "40g pickled radish or daikon (store-bought or quick-pickled)",
+      "1 tsp sesame seeds"
+    ],
+    "instructions": "1. Mix softened cream cheese with wasabi paste until smooth.\n2. Spread a thin layer of wasabi cream cheese on each rice cracker.\n3. Top each cracker with a slice of smoked beef and a piece of pickled radish.\n4. Sprinkle with sesame seeds.\n5. Serve immediately or stack between parchment paper for transport.",
+    "tip": "Buy pre-sliced smoked beef or thinly slice beef jerky yourself—this takes the assembly time down to 5 minutes, and the acid in pickled radish keeps everything fresh-tasting all day.",
+    "goal_affinity": [
+      "general_fitness",
+      "strength"
+    ],
+    "image_url": ""
+  }
+}
