@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-06",
+  "dateLabel": "Friday, November 6, 2026",
+  "generatedAt": "2026-11-06T11:01:29.329Z",
+  "articles": [
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Smartwatches predict blood pressure crises days early",
+      "headline": "Your Wrist Can Warn You. Smartwatches Now Predict Hypertensive Crises Three Days Out.",
+      "body": "A year-long study of over 4,000 people with stage 2 high blood pressure shows that mass-market smartwatches can predict dangerous blood pressure spikes up to three days in advance. Researchers combined wrist-based wearable data with fitness trackers, measuring heart rate and heart rate variability against portable blood pressure monitors. The study, presented at the American Heart Association's 2026 Scientific Sessions, suggests smartwatches aren't just tracking your fitness—they're becoming early warning systems for your cardiovascular health. What your wrist knows, you should probably listen to.",
+      "takeaway": "If you wear a smartwatch and have high blood pressure, the patterns your device tracks could give you a three-day heads-up before a dangerous spike hits.",
+      "source": "American Heart Association, Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/wearables/the-wearable-on-your-wrist-can-predict-blood-pressure-crisis-events-days-in-advance/",
+      "pexelsQuery": "smartwatch wrist heart rate monitoring",
+      "product": {
+        "id": "watch-003",
+        "name": "Garmin Forerunner 955 Solar",
+        "brand": "Garmin",
+        "asin": "B09WT9PF2N",
+        "url": "https://www.amazon.com/dp/B09WT9PF2N?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "solar",
+          "ironman",
+          "70.3",
+          "advanced",
+          "garmin"
+        ],
+        "blurb": "Built for long-course racing. Solar charging means you never run out of battery mid-race."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/19961775/pexels-photo-19961775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19961775/pexels-photo-19961775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "ahmed akeri",
+        "photographerUrl": "https://www.pexels.com/@ahmed-akeri-801514718",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-person-looking-at-the-pulse-displayed-on-a-smartwatch-19961775/",
+        "avgColor": "#785C44"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "One intense workout burns fat without losing muscle",
+      "headline": "The Workout That Changes Everything. HIIT Strips Fat While Keeping Your Muscle.",
+      "body": "New research published in Maturitas shows that among three different exercise intensities tested in older adults, high-intensity interval training (HIIT) delivered the rare double win: fat loss without sacrificing muscle. The study combined HIIT with resistance training, a pairing that researchers say unlocks unique body composition changes most single-protocol workouts can't deliver. For busy people balancing strength and leanness, HIIT might be the most efficient tool in your training arsenal. Intensity matters more than duration when you're short on time.",
+      "takeaway": "HIIT combined with resistance training is one of the few approaches proven to simultaneously strip fat and preserve muscle in older adults.",
+      "source": "Maturitas, ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
+      "pexelsQuery": "intense workout training sprint",
+      "product": {
+        "id": "watch-001",
+        "name": "Garmin Forerunner 255",
+        "brand": "Garmin",
+        "asin": "B09WTYT878",
+        "url": "https://www.amazon.com/dp/B09WTYT878?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$$",
+        "keywords": [
+          "triathlon",
+          "running",
+          "cycling",
+          "swimming",
+          "gps",
+          "watch",
+          "heart rate",
+          "training load",
+          "garmin"
+        ],
+        "blurb": "The watch Chris trains with daily. Tracks every discipline without breaking the bank."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8691698/pexels-photo-8691698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8691698/pexels-photo-8691698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Yaroslav Shuraev",
+        "photographerUrl": "https://www.pexels.com/@yaroslav-shuraev",
+        "photoPageUrl": "https://www.pexels.com/photo/women-jogging-at-a-sports-ground-8691698/",
+        "avgColor": "#9C947F"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Brain circuits control your cortisol surge each morning",
+      "headline": "Scientists Found the Circuit. Your Brain Orchestrates Your Cortisol Rhythm Perfectly—Until Stress Breaks It.",
+      "body": "A groundbreaking Nature Communications study identified the exact neural pathway your brain uses to trigger your daily cortisol surge: a circuit running from your suprachiasmatic nucleus through two relay stations in your hypothalamus. This isn't just anatomical trivia. When this circuit works, your cortisol peaks in the morning, priming you for the day. When circadian rhythms break (from travel, shift work, or chronic stress), this system falters. Researchers found two parallel pathways controlling the surge, meaning your body has built-in redundancy—but both can be disrupted. Understanding this circuit explains why your stress response fails when your rhythm collapses.",
+      "takeaway": "Your brain's cortisol circuit is designed to peak before you wake up, not in response to stress at work—but circadian disruption hijacks this elegant system.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-71482-0",
+      "pexelsQuery": "brain neurons circadian rhythm light morning",
+      "product": {
+        "id": "sup-004",
+        "name": "Pure Encapsulations Magnesium Glycinate",
+        "brand": "Pure Encapsulations",
+        "asin": "B0058HWV9S",
+        "url": "https://www.amazon.com/dp/B0058HWV9S?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "sleep",
+          "magnesium",
+          "recovery",
+          "muscle cramps",
+          "relaxation",
+          "insomnia",
+          "stress",
+          "supplement"
+        ],
+        "blurb": "The most underused sleep and recovery tool. Most athletes are deficient."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9615247/pexels-photo-9615247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9615247/pexels-photo-9615247.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ron Lach",
+        "photographerUrl": "https://www.pexels.com/@ron-lach",
+        "photoPageUrl": "https://www.pexels.com/photo/man-in-gray-t-shirt-lying-on-bed-9615247/",
+        "avgColor": "#45403D"
+      }
+    },
+    {
+      "category": "MOBILITY",
+      "topic": "Seven minutes of mobility beats sporadic stretching",
+      "headline": "Skip the Stretching App. Seven Minutes of Real Mobility Daily Transforms Your Joints.",
+      "body": "Research on joint health in 2026 reveals what most people get wrong: sporadic, high-effort sessions don't fix your mobility. Frequent, low-dose exposure does. Scientists found that seven intentional minutes of joint-specific mobility work daily produces better long-term results than an occasional deep stretch session. The routine targets ankles (linked to knee pain and balance), the thoracic spine (tied to neck and shoulder issues), and hips—the places that tighten from sitting. The payoff: better movement quality, reduced injury risk, and a body that tolerates load. Consistency beats intensity in mobility.",
+      "takeaway": "Seven minutes of daily mobility work beats infrequent hour-long stretching sessions for maintaining usable joint range and preventing pain.",
+      "source": "American College of Sports Medicine, Nashville Physical Therapy",
+      "sourceUrl": "https://www.nashvillephysicaltherapy.com/post/the-2026-mobility-reset-the-7-minute-routine-your-joints-have-been-begging-for",
+      "pexelsQuery": "yoga stretching mobility flexibility training",
+      "product": {
+        "id": "rec-001",
+        "name": "TriggerPoint GRID Foam Roller",
+        "brand": "TriggerPoint",
+        "asin": "B0040EGNIU",
+        "url": "https://www.amazon.com/dp/B0040EGNIU?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$",
+        "keywords": [
+          "foam roller",
+          "recovery",
+          "muscle soreness",
+          "flexibility",
+          "mobility",
+          "IT band",
+          "running",
+          "triathlon"
+        ],
+        "blurb": "Five minutes of rolling saves hours of stiffness. Non-negotiable on hard training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11496108/pexels-photo-11496108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11496108/pexels-photo-11496108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Viktorya  Sergeeva 🫂",
+        "photographerUrl": "https://www.pexels.com/@johndetochka",
+        "photoPageUrl": "https://www.pexels.com/photo/a-flexible-woman-doing-yoga-11496108/",
+        "avgColor": "#ADB1A3"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The only true disability is a poor attitude. Disability is a different ability.",
+    "author": "Aimee Mullins",
+    "context": "Paralympic athlete and advocate for redefining human potential and performance beyond conventional limits"
+  },
+  "workout": {
+    "id": "503c4aab-903d-48f3-a1e9-b0ac188eec84",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "treadmill",
+    "title": "Walk-Run Pyramid: Building the Base",
+    "difficulty": "Beginner",
+    "duration": "28 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "indoor",
+      "low_impact",
+      "treadmill_ok",
+      "under_30_min"
+    ],
+    "tip": "Keep your shoulders relaxed and land with a midfoot strike. If you feel breathless during the running intervals, slow down by 0.5 mph—comfort over speed at this stage.",
+    "warmup": "2 min @ 2.5 mph / 0% incline (easy walk) + 1 min @ 3.0 mph / 0% incline (brisk walk)",
+    "exercises": [
+      {
+        "name": "Walk-Run Interval Pyramid",
+        "sets": "1",
+        "reps": "Full circuit",
+        "notes": "Execute the following sequence: 1 min walk @ 3.2 mph / 0% + 1 min run @ 5.0 mph / 0% → 1 min walk @ 3.2 mph / 0% + 2 min run @ 5.0 mph / 0% → 1 min walk @ 3.2 mph / 0% + 3 min run @ 5.0 mph / 0% → 1 min walk @ 3.2 mph / 0% + 2 min run @ 5.0 mph / 0% → 1 min walk @ 3.2 mph / 0% + 1 min run @ 5.0 mph / 0%. Focus on steady breathing and relaxed arm swing throughout all transitions."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "2 min @ 3.0 mph / 0% incline (easy walk). Post-run: hamstring stretch 30 sec each leg, quad stretch 30 sec each leg, calf stretch 20 sec each leg.",
+    "description": "A structured walk-run progression designed for complete beginners or runners returning from a long break. This session uses a pyramid format to build confidence and aerobic capacity without overload, perfect for establishing a sustainable treadmill routine before progressing to continuous running."
+  },
+  "meal": {
+    "id": "f99f8187-8ea6-4b53-b23c-8df2b477e0a6",
+    "title": "Honey-Cinnamon Rice Cakes with Almond Butter & Banana",
+    "description": "Two crispy rice cakes topped with creamy almond butter, banana slices, and a drizzle of honey—the ultimate grab-and-go pre-workout fuel that hits your carbs and fat sweet spot without sitting heavy before a swim or run.",
+    "meal_type": "pre_workout",
+    "macro_profile": "performance",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 435,
+    "protein_g": 10,
+    "carbs_g": 65,
+    "fat_g": 19,
+    "fiber_g": 3,
+    "prep_minutes": 3,
+    "cook_minutes": 0,
+    "ingredients": [
+      "2 rice cakes",
+      "2 tbsp almond butter",
+      "1 medium banana",
+      "1 tbsp honey",
+      "pinch of cinnamon"
+    ],
+    "instructions": "1. Spread almond butter evenly on both rice cakes.\n2. Slice banana and layer on top.\n3. Drizzle with honey and dust lightly with cinnamon.\n4. Eat immediately or wrap to go.",
+    "tip": "Prep this the night before and wrap in foil—the banana won't brown if kept cool, and you save 3 minutes on race morning. Eat 30–45 minutes before training.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
