@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-09",
+  "dateLabel": "Monday, November 9, 2026",
+  "generatedAt": "2026-11-09T11:01:37.756Z",
+  "articles": [
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Creatine builds lean muscle without exercise",
+      "headline": "Creatine Gains Muscle Even Without the Gym",
+      "body": "You don't need to hit the weights for creatine to work. In a 12-week study, middle-aged adults taking 10 grams daily gained about 2.4 pounds of lean tissue and saw strength improvements on leg and bench press, even without structured training. Those who combined creatine with exercise saw even bigger gains. The takeaway: creatine works by replenishing cellular energy, making it especially valuable as you age when muscle tends to disappear.",
+      "takeaway": "Add 10g daily creatine to your routine. It preserves muscle and strength with or without exercise—but pairs beautifully with training.",
+      "source": "Journal of the International Society of Sports Nutrition",
+      "sourceUrl": "https://medicalxpress.com/news/2026-09-creatine-benefits-gym.html",
+      "pexelsQuery": "creatine powder supplement scoop",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/33921585/pexels-photo-33921585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33921585/pexels-photo-33921585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Gupta Sahil",
+        "photographerUrl": "https://www.pexels.com/@gupta-sahil-140074270",
+        "photoPageUrl": "https://www.pexels.com/photo/creatine-monohydrate-supplement-in-kitchen-33921585/",
+        "avgColor": "#B49277"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Rapamycin improves brain blood flow before symptoms",
+      "headline": "Anti-Aging Drug Shows Brain Protection Years Before Alzheimer's",
+      "body": "A groundbreaking pilot study found that low-dose rapamycin significantly boosted cerebral blood flow in healthy middle-aged adults carrying the APOE4 gene—the strongest genetic risk factor for late-onset Alzheimer's. Women saw the greatest improvements. The catch: this is prevention work in people who show no symptoms yet. Declining blood flow can occur years before memory problems surface, making early intervention worth investigating.",
+      "takeaway": "If you carry APOE4 genetics or have family history of Alzheimer's, talk to your doctor about rapamycin as a preventive strategy. Early intervention matters.",
+      "source": "University of Missouri / Journal of Cerebral Blood Flow & Metabolism",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+      "pexelsQuery": "brain neural pathways illustration",
+      "photo": {
+        "url": "https://images.pexels.com/photos/14314636/pexels-photo-14314636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/14314636/pexels-photo-14314636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Merlin Lightpainting",
+        "photographerUrl": "https://www.pexels.com/@merlin",
+        "photoPageUrl": "https://www.pexels.com/photo/digital-art-in-close-up-shot-14314636/",
+        "avgColor": "#3D6179"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Nighttime light exposure harms your heart",
+      "headline": "Your Bedroom's Darkness Is a Heart Drug You're Ignoring",
+      "body": "Sleeping in even low light—as little as 3 lux (about three candles across the room)—is linked to thickened heart walls, reduced pumping efficiency, and measurable cardiac damage. In a study of 11,000 adults, those exposed to the most nighttime light had a 29% higher risk of heart failure, 24% higher risk of heart attack, and 33% higher risk of stroke. The mechanism: light disrupts circadian rhythm and suppresses melatonin, stressing your cardiovascular system all night long.",
+      "takeaway": "Blackout your bedroom completely. Treat darkness like medicine. This single habit may be one of the highest-leverage cardiovascular protections you're not taking.",
+      "source": "European Heart Journal",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
+      "pexelsQuery": "dark bedroom blackout curtains sleep",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8416437/pexels-photo-8416437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8416437/pexels-photo-8416437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "SHVETS production",
+        "photographerUrl": "https://www.pexels.com/@shvets-production",
+        "photoPageUrl": "https://www.pexels.com/photo/man-covered-in-a-brown-blanket-sleeping-8416437/",
+        "avgColor": "#251B12"
+      }
+    },
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Hearing aids boost cognitive improvement in aging",
+      "headline": "Hearing Aids Unlock Cognitive Gains in the Brain",
+      "body": "A large clinical trial (CHOICE) tested whether fixing hearing loss slows dementia in 703 older adults with both hearing loss and mild cognitive impairment. While hearing aids didn't prevent progression to dementia as the primary outcome, something unexpected happened: those who received hearing aids were 5.9 times more likely to show cognitive improvement than controls. The brain seems to benefit from better sensory input, even if full dementia prevention isn't yet proven.",
+      "takeaway": "If you have hearing loss and notice cognitive fog, get your hearing tested and fitted for aids. Restoring auditory input may sharpen your thinking.",
+      "source": "JAMA Neurology",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearing-aids-cognitive-improvement/",
+      "pexelsQuery": "hearing aid ear medical device",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4758720/pexels-photo-4758720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4758720/pexels-photo-4758720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ketut Subiyanto",
+        "photographerUrl": "https://www.pexels.com/@ketut-subiyanto",
+        "photoPageUrl": "https://www.pexels.com/photo/two-women-touching-4758720/",
+        "avgColor": "#5C4D46"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The quality, not the longevity, of one's life is what is important.",
+    "author": "Martin Luther King, Jr.",
+    "context": "Civil rights leader and advocate for living with purpose and integrity."
+  },
+  "workout": {
+    "id": "1ffa6da8-e6fd-4464-9ba4-818424f45d6a",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Overhead Press Hypertrophy Block: Vertical Strength & Shoulder Volume",
+    "difficulty": "Intermediate",
+    "duration": "55 min",
+    "equipment": [
+      "barbell",
+      "squat rack or press rack",
+      "weight plates",
+      "dumbbells",
+      "cable machine or resistance band",
+      "flat bench"
+    ],
+    "trainingZone": "z2",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "muscle_gain"
+    ],
+    "tip": "Before each overhead press set, take a big breath, brace your core like you're about to take a punch, and squeeze your glutes to prevent excessive lumbar extension. Think of pressing yourself away from the bar — not just pushing the bar up.",
+    "warmup": "8 min: 2 min light row or jump rope → 10 arm circles each direction → 10 band pull-aparts → 10 face pulls with band → 10 scapular wall slides → 2 × 5 empty barbell overhead press focusing on bar path and lockout → 1 × 5 overhead press at 40% working weight",
+    "exercises": [
+      {
+        "name": "Barbell Overhead Press (Standing)",
+        "sets": "4",
+        "reps": "8–10 @ 68–72% 1RM",
+        "notes": "Stand with feet hip-width, bar resting on the front deltoids in a clean-width grip. Brace and press straight up — the bar should travel in a vertical line, with your head moving back slightly to clear the bar, then forward again at lockout. Fully lock out at the top and shrug slightly at the end range to load the traps and serratus. Do not press in front of your body; keep the bar over mid-foot. Rest 90–120 seconds."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "4",
+        "reps": "12–15 @ RPE 7",
+        "notes": "Stand or sit, slight forward lean at the hips. Raise dumbbells out to the sides with elbows slightly bent and lead with the pinky side of the hand as if pouring water out of a pitcher. Stop at shoulder height — don't shrug or use momentum. Lower slowly over 3 seconds. This is volume work for the lateral delt; keep it strict. Rest 60 seconds."
+      },
+      {
+        "name": "Close-Grip Barbell or EZ-Bar Skull Crusher",
+        "sets": "3",
+        "reps": "10–12 @ RPE 7",
+        "notes": "Lie on a flat bench, lower the bar to your forehead or just behind by hinging only at the elbow — keep upper arms vertical and stationary throughout. Press back to full extension without flaring the elbows wide. Control the descent for 2–3 seconds. This isolates the tricep long head — the largest portion of the muscle. Rest 75 seconds."
+      },
+      {
+        "name": "Dumbbell Overhead Tricep Extension (Seated)",
+        "sets": "3",
+        "reps": "12 @ RPE 6",
+        "notes": "Hold one dumbbell with both hands overhead, elbows close to the ears. Lower behind your head slowly, feel the stretch in the tricep long head, then extend fully. Keep your core braced so you don't arch your lower back under the overhead load. This is an accessory finisher — prioritize form over load. Rest 60 seconds."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "7 min: 60-second doorway or band chest/shoulder stretch each side (arm at 90 degrees, gentle chest opener) → 60-second cross-body shoulder stretch each arm → 60-second overhead tricep stretch each arm (pull elbow behind head gently) → 60-second neck side-bend stretch each side (ear to shoulder, hold and breathe) → 30-second wrist flexor and extensor stretch for pressing joint health",
+    "description": "This second hypertrophy push session leads with the barbell overhead press as the primary strength driver, targeting the deltoids, upper chest, and triceps through a controlled 8–12 rep hypertrophy range. Dumbbell lateral raises add critical lateral delt volume that the press alone doesn't fully develop, while a tricep accessory move locks in lockout strength and upper-arm mass. This block is designed to build pressing capacity and shoulder size simultaneously."
+  },
+  "meal": {
+    "id": "fc0be9e0-ea5b-4722-9d81-198f551a0d4a",
+    "title": "Beef Jerky & Sharp Cheddar Snack Pack",
+    "description": "Portable, shelf-stable protein and fat combo designed to fuel strength athletes between workouts or as a quick desk snack. The combination of beef jerky's concentrated protein and aged cheddar's calcium supports muscle maintenance and bone density.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 180,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 9,
+    "fiber_g": 0,
+    "prep_minutes": 0,
+    "cook_minutes": 0,
+    "ingredients": [
+      "50g beef jerky (3-4 strips)",
+      "30g sharp aged cheddar (1 oz)"
+    ],
+    "instructions": "1. Open jerky package.\n2. Portion cheddar into a small container or wrap in parchment.\n3. Pack together for a grab-and-go snack.",
+    "tip": "Buy jerky in bulk from Costco or online to cut costs. Choose low-sugar varieties (under 4g per serving) to avoid unnecessary carbs between meals.",
+    "goal_affinity": [
+      "strength",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
