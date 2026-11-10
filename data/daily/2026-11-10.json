@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-10",
+  "dateLabel": "Tuesday, November 10, 2026",
+  "generatedAt": "2026-11-10T11:01:27.843Z",
+  "articles": [
+    {
+      "category": "NUTRITION",
+      "topic": "Natural molecule mimics Ozempic appetite suppression",
+      "headline": "Stanford Discovers Natural Molecule That Cuts Food Intake by Half",
+      "body": "Stanford researchers using AI have identified a naturally occurring molecule called BRP that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without some of semaglutide's troublesome side effects. Early animal experiments show BRP reduced food intake by up to 50% and targets a different brain pathway. The molecule works through a distinct mechanism that may avoid digestive issues and preserve muscle mass better than current GLP-1 drugs, raising hopes for a more precise obesity treatment if future human trials prove successful.",
+      "takeaway": "A natural compound showing Ozempic-like appetite control in animals could lead to better weight-loss options with fewer side effects if human trials succeed.",
+      "source": "Stanford Medicine",
+      "sourceUrl": "https://sciencedaily.com/releases/2026/11/261104004909.htm",
+      "pexelsQuery": "weight loss appetite suppression healthy food",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/11327901/pexels-photo-11327901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/11327901/pexels-photo-11327901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/apple-and-doughnuts-on-table-11327901/",
+        "avgColor": "#85C0C6"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Brain cells unexpectedly accelerate cognitive decline",
+      "headline": "Brain's Protective Cells May Actually Be Driving Memory Loss",
+      "body": "Scientists from the University of Edinburgh discovered that oligodendrocytes—brain cells designed to protect and support neurons—may actually contribute to cognitive decline and memory loss as we age. Using data from people tracked since childhood, researchers found that changes in these protective cells correlated with reduced cognitive performance. Animal studies confirmed that altering these cells reduced brain function improvements with age. The discovery flips conventional understanding: these cells that should support brain health might paradoxically accelerate aging. Researchers say targeting these cells could offer a promising therapeutic avenue for treating age-related cognitive decline.",
+      "takeaway": "Brain cells meant to protect your cognition may paradoxically drive decline—identifying a new target for anti-aging brain treatments.",
+      "source": "Nature Medicine / ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+      "pexelsQuery": "brain neurons cognitive health memory aging",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6010927/pexels-photo-6010927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6010927/pexels-photo-6010927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/brain-image-on-digital-tablet-6010927/",
+        "avgColor": "#434B4A"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Smart rings achieve FDA medical-device status",
+      "headline": "Smart Rings Cross Into Medical Territory With FDA Clearances",
+      "body": "Smart rings are breaking out as a serious health category in 2026, with devices like the Oura Ring Gen 4 receiving FDA clearance for sleep apnea detection. The shift represents wearables moving from fitness gadgets to clinical-grade monitoring tools. Key advances include rings offering 24/7 health tracking with clinical accuracy, seamless integration into electronic health records, and real-time disease detection. Smartwatches now feature FDA-cleared atrial fibrillation detection and ECG recording, while earbuds are evolving into legitimate health sensors. The line between wellness device and medical device is blurring fast, making continuous monitoring accessible for anyone willing to wear a ring or watch.",
+      "takeaway": "Wearables are no longer just fitness trackers—they're now FDA-cleared medical devices you can wear 24/7 for clinical-grade health monitoring.",
+      "source": "Multiple sources on 2026 wearable technology",
+      "sourceUrl": "https://www.risingtrends.co/blog/wearable-technology-trends-2026",
+      "pexelsQuery": "smart ring wearable technology health monitoring",
+      "photo": {
+        "url": "https://images.pexels.com/photos/1080751/pexels-photo-1080751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1080751/pexels-photo-1080751.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Brett Sayles",
+        "photographerUrl": "https://www.pexels.com/@brett-sayles",
+        "photoPageUrl": "https://www.pexels.com/photo/black-activity-tracker-watch-reading-12-00-1080751/",
+        "avgColor": "#605549"
+      }
+    },
+    {
+      "category": "HORMONES",
+      "topic": "Testosterone plus estrogen rebuilds postmenopausal bone",
+      "headline": "Testosterone With Estrogen Rebuilds Bone Density in Menopause",
+      "body": "Research presented at the 2026 Menopause Society annual meeting shows that combining testosterone with estrogen hormone therapy can actually rebuild bone mineral density in postmenopausal women, not just stabilize it. While estrogen alone helps maintain bone health, adding testosterone creates a synergistic effect that improves bone density, particularly in the spine. The finding challenges the traditional view that only estrogen matters for bone. This combination therapy builds on testosterone's role as a building block for estrogen. While more research continues on broader applications, the data suggests hormone combinations may offer postmenopausal women better options for preventing fractures and maintaining skeletal strength.",
+      "takeaway": "Adding testosterone to estrogen therapy doesn't just stabilize bones—it actually rebuilds them in postmenopausal women.",
+      "source": "Menopause Society 2026 annual meeting",
+      "sourceUrl": "https://www.vindy.com/life/lifestyles/2026/11/will-testosterone-strengthen-womens-bones/",
+      "pexelsQuery": "bone health osteoporosis woman strength",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8173550/pexels-photo-8173550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8173550/pexels-photo-8173550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RDNE Stock project",
+        "photographerUrl": "https://www.pexels.com/@rdne",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-holding-a-yoga-mat-8173550/",
+        "avgColor": "#6A5D4C"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "context": "Entrepreneur and motivational speaker focused on personal development and self-improvement."
+  },
+  "workout": {
+    "id": "b1c69610-9dd3-4066-9236-99e806192c61",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "intervals",
+    "title": "5K Pace Track Ladder: 400m Repeat Pyramid",
+    "difficulty": "Intermediate",
+    "duration": "40 min",
+    "equipment": [],
+    "trainingZone": "z4",
+    "tags": [
+      "cardio",
+      "lactate_work",
+      "no_equipment",
+      "outdoor",
+      "race_prep",
+      "under_60_min"
+    ],
+    "tip": "Aim for even splits on each 400m repeat—don't chase the first one. Your quads will feel the fatigue on repeats 4–6; use shorter, quicker strides to maintain cadence rather than grinding with long strides.",
+    "warmup": "8 min: 2 min easy jog, 6×100m stride-outs with 50m walk recovery between each",
+    "exercises": [
+      {
+        "name": "6×400m @ 5K Pace",
+        "sets": "6",
+        "reps": "1",
+        "notes": "Run each 400m at your 5K goal pace (e.g., if 5K goal is 20 min, that's ~6:25/km or 10:20/mile = ~90 sec per 400m). Focus on controlled acceleration in the first 100m, hold steady in the middle, kick slightly in the final 100m."
+      },
+      {
+        "name": "90-Second Recovery Jog",
+        "sets": "5",
+        "reps": "1",
+        "notes": "Between each 400m repeat, jog at conversational pace (about 65–70% max heart rate). This active recovery clears lactate and keeps your heart rate elevated for the next effort."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: easy jog at conversational pace, followed by 3 min of standing quad stretch (30 sec each leg), hamstring fold (60 sec), and calf stretch against a wall (30 sec each side)",
+    "description": "A classic pyramid structure that builds speed sustainability at 5K race pace. Athletes run 400m repeats at progressively harder efforts (6×400m with 90-second recovery jogs), teaching the body to maintain turnover under fatigue. Perfect for 5K and 10K runners who need to sharpen leg speed before race season."
+  },
+  "meal": {
+    "id": "f292227e-fba8-4d8c-b420-24e385e6f918",
+    "title": "Al Pastor Turkey Taco Skillet with Pineapple, Peppers & Black Beans",
+    "description": "Lean ground turkey seasoned with warm spices, caramelized pineapple, and charred bell peppers in one skillet. Served in corn tortillas with fresh cilantro and lime, this delivers 50+ grams of protein with minimal fat—perfect for athletes focused on lean muscle and general fitness.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "mexican",
+    "calories": 853,
+    "protein_g": 59,
+    "carbs_g": 77,
+    "fat_g": 37,
+    "fiber_g": 9,
+    "prep_minutes": 12,
+    "cook_minutes": 15,
+    "ingredients": [
+      "240g ground turkey (93/7 lean)",
+      "½ red bell pepper, sliced",
+      "½ yellow bell pepper, sliced",
+      "½ cup diced fresh pineapple (or frozen, thawed)",
+      "½ cup cooked black beans",
+      "1 tbsp olive oil",
+      "1 tsp achiote paste (or 1 tsp smoked paprika + ½ tsp cumin)",
+      "½ tsp dried oregano",
+      "½ tsp garlic powder",
+      "¼ tsp cayenne pepper",
+      "Salt and black pepper to taste",
+      "3 small corn tortillas (6-inch)",
+      "¼ cup fresh cilantro, chopped",
+      "1 lime, cut into wedges",
+      "¼ cup diced white onion"
+    ],
+    "instructions": "1. Heat olive oil in a large skillet over medium-high heat. Add bell pepper slices and cook 4 minutes until lightly charred and tender. Remove to a plate.\n2. Add ground turkey to the same skillet, breaking it apart as it cooks, until browned (about 5 minutes). Drain excess fat if needed.\n3. Return peppers to skillet. Stir in achiote paste (or paprika and cumin), oregano, garlic powder, cayenne, salt, and black pepper. Add diced pineapple and black beans, stir well, and cook 3 minutes to warm through and caramelize pineapple slightly.\n4. Warm tortillas directly over a gas flame or in a dry skillet for 30 seconds per side.\n5. Fill warm tortillas with turkey mixture, top with diced onion and cilantro, and serve with lime wedges.",
+    "tip": "This recipe scales easily for meal prep—make a double batch on Sunday and portion into containers. It stays fresh for 4 days and tastes even better as flavors meld.",
+    "goal_affinity": [
+      "general_fitness",
+      "fat_loss"
+    ],
+    "image_url": ""
+  }
+}
