@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-13",
+  "dateLabel": "Friday, November 13, 2026",
+  "generatedAt": "2026-11-13T11:01:26.452Z",
+  "articles": [
+    {
+      "category": "RECOVERY",
+      "topic": "Massage therapy improves muscle recovery",
+      "headline": "Massage Beats Ice Baths for Post-Workout Recovery",
+      "body": "Want to speed up recovery after a brutal workout? New research from a 2026 meta-analysis shows massage therapy is the most effective intervention for reducing soreness and improving muscle function. Unlike ice baths or compression garments, massage delivers measurable improvements in strength recovery and flexibility. The sweet spot is timing it 48 to 72 hours after your workout. Even better, it works synergistically with active recovery—light movement on sore days accelerates adaptation without compromising your training.",
+      "takeaway": "Schedule a massage 48-72 hours after intense workouts to maximize recovery speed and reduce soreness more effectively than ice or compression alone.",
+      "source": "NCBI/PubMed Central (2026)",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12358485/",
+      "pexelsQuery": "sports massage therapy recovery",
+      "product": {
+        "id": "rec-002",
+        "name": "Theragun Mini Massage Gun",
+        "brand": "Therabody",
+        "asin": "B0DV7JN7ZD",
+        "url": "https://www.amazon.com/dp/B0DV7JN7ZD?tag=chrisolson04-20",
+        "category": "recovery",
+        "price_range": "$$",
+        "keywords": [
+          "recovery",
+          "massage",
+          "muscle soreness",
+          "percussive therapy",
+          "portable",
+          "travel",
+          "triathlon"
+        ],
+        "blurb": "Pocket-sized recovery. Takes the edge off sore muscles anywhere."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/27730453/pexels-photo-27730453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/27730453/pexels-photo-27730453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Jonathan Borba",
+        "photographerUrl": "https://www.pexels.com/@jonathanborba",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-getting-a-massage-on-his-back-27730453/",
+        "avgColor": "#2F2B2C"
+      }
+    },
+    {
+      "category": "SLEEP",
+      "topic": "Sleep quality boosts cortisol stress recovery",
+      "headline": "Better Sleep = Faster Stress Recovery. Science Confirms It.",
+      "body": "Your sleep isn't just about feeling rested—it's your brain's stress recovery system. New research shows that objective sleep efficiency predicts how quickly your cortisol levels bounce back after psychological stress. People who sleep well recover faster from stress, period. The mechanism? Better sleep strengthens the connection between your prefrontal cortex and hippocampus, the brain regions that regulate your stress response. On days with good sleep and exercise, your cortisol slope flattens more dramatically, signaling better recovery. Sleep quality directly determines stress resilience.",
+      "takeaway": "Protect your sleep quality ruthlessly—it's your biological stress recovery system and directly determines how quickly you bounce back from stressful events.",
+      "source": "NCBI/PubMed Central (2024-2026)",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13161799/",
+      "pexelsQuery": "person sleeping dark bedroom bed",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/10024961/pexels-photo-10024961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10024961/pexels-photo-10024961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Eduard Sheryshev",
+        "photographerUrl": "https://www.pexels.com/@edmosckov",
+        "photoPageUrl": "https://www.pexels.com/photo/grayscale-photo-of-a-person-lying-down-on-bed-10024961/",
+        "avgColor": "#585858"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Regular tea consumption reduces heart disease",
+      "headline": "One Habit for Your Heart: Drink Tea Regularly",
+      "body": "<cite index=\"26-1\">A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases.</cite> Published in the Journal of Internal Medicine and released November 1, 2026, this research reveals something simple works: consistent tea drinking protects your cardiovascular system. Different tea varieties may have different effects, and the benefit compounds over time. No complex protocol needed. Just make tea a daily habit, and your arteries will thank you.",
+      "takeaway": "Make tea a daily habit—regular consumption is linked to an 11% lower risk of heart and blood vessel disease in nearly 500,000 adults.",
+      "source": "Journal of Internal Medicine (November 2026)",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
+      "pexelsQuery": "hot tea cup drink",
+      "photo": {
+        "url": "https://images.pexels.com/photos/35142316/pexels-photo-35142316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/35142316/pexels-photo-35142316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tina Okovit",
+        "photographerUrl": "https://www.pexels.com/@juisesho",
+        "photoPageUrl": "https://www.pexels.com/photo/elegant-tea-pouring-in-cozy-setting-35142316/",
+        "avgColor": "#54260F"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "Non-invasive glucose monitoring on wearables",
+      "headline": "Your Ring Just Became a Glucose Monitor. No Finger Pricks.",
+      "body": "The impossible is becoming real. <cite index=\"32-6\">Circular has announced a blood glucose trend analysis feature for the Ring 2, planned for late 2026, using PPG sensors and machine learning to analyze how light interacts with blood, providing glucose trend readings without finger pricks or continuous glucose monitors.</cite> This transforms metabolic monitoring from a specialized diabetes tool into something everyday users can wear 24/7. Samsung and Apple are pursuing the same technology. If validated at scale, this removes one of the biggest barriers to continuous metabolic health tracking.",
+      "takeaway": "Non-invasive glucose monitoring on consumer rings and watches is launching late 2026—continuous metabolic tracking is about to become mainstream.",
+      "source": "Sahha (November 2026)",
+      "sourceUrl": "https://sahha.ai/blog/state-of-wearable-health-data/",
+      "pexelsQuery": "smart ring wearable technology finger",
+      "photo": {
+        "url": "https://images.pexels.com/photos/6386/person-woman-hand-smartphone.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6386/person-woman-hand-smartphone.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Karolina Grabowska www.kaboompics.com",
+        "photographerUrl": "https://www.pexels.com/@karola-g2",
+        "photoPageUrl": "https://www.pexels.com/photo/closeup-portrait-of-young-lady-talking-on-mobile-phone-6386/",
+        "avgColor": "#8C7871"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Mental toughness is something you have deep inside you.",
+    "author": "Muhammad Ali",
+    "context": "Legendary boxer and mental resilience pioneer who defined modern athletic mindset."
+  },
+  "workout": {
+    "id": "55bc5032-8cbc-45b1-b92a-df2c91fbc8f3",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "easy",
+    "title": "Walk-Run Cadence Introduction: Building the 20-Minute Foundation",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "no_equipment",
+      "outdoor",
+      "under_30_min"
+    ],
+    "tip": "Count your steps as you run: aim for 160–170 steps per minute (roughly 80 per leg per minute). When breathing feels labored, drop back to walking immediately—no ego required.",
+    "warmup": "2 min easy walking, arm circles 10 each direction, leg swings 10 each direction, 5 bodyweight squats",
+    "exercises": [
+      {
+        "name": "Walk-Run Interval Block",
+        "sets": "5",
+        "reps": "2 min walk + 1 min run",
+        "notes": "Walk at natural pace, then run at conversational effort—you should be able to speak short sentences. Focus on breathing through your nose and mouth together. If you feel out of breath, walk longer next round; if easy, hold the run pace steady."
+      },
+      {
+        "name": "Final Walk-Down",
+        "sets": "1",
+        "reps": "2 min",
+        "notes": "Slow, easy walk to bring heart rate down. This primes your nervous system for recovery."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "1 min standing quad stretch each leg, 1 min standing hamstring fold, 30 sec each calf stretch against a wall, 1 min deep breathing seated",
+    "description": "Your first structured run-walk session, introducing proper breathing and cadence cues to build continuous movement confidence. This workout alternates 2 minutes of easy walking with 1 minute of conversational-pace running, repeated 5 times, teaching your body rhythm without overwhelm. Perfect for beginners establishing aerobic base and fat-loss momentum with zero pressure."
+  },
+  "meal": {
+    "id": "eab4d4fd-d1c1-4adb-9327-cde89cbbf4e3",
+    "title": "Risotto ai Funghi with Roasted Chicken Thigh & Garlic Greens",
+    "description": "Creamy arborio rice with sautéed mushrooms paired with juicy roasted chicken thigh—a sophisticated endurance dinner that delivers quick-absorbing carbs from risotto, lean protein, and B vitamins for sustained energy and recovery.",
+    "meal_type": "dinner",
+    "macro_profile": "high_carb",
+    "difficulty": "hard",
+    "cuisine": "italian",
+    "calories": 664,
+    "protein_g": 28,
+    "carbs_g": 66,
+    "fat_g": 29,
+    "fiber_g": 4,
+    "prep_minutes": 15,
+    "cook_minutes": 35,
+    "ingredients": [
+      "150g chicken thigh, skin-on",
+      "0.75 cup arborio rice",
+      "4 oz mixed mushrooms, sliced",
+      "2 cups low-sodium chicken stock, warmed",
+      "0.5 small onion, finely diced",
+      "2 cloves garlic, minced",
+      "2 oz fresh spinach",
+      "1 tbsp olive oil",
+      "1 tbsp butter",
+      "0.25 cup dry white wine",
+      "1 oz Parmigiano-Reggiano, grated",
+      "Salt and pepper to taste",
+      "Fresh thyme for garnish"
+    ],
+    "instructions": "1. Preheat oven to 425°F. Season chicken thigh with salt, pepper, and thyme. Place skin-side up on a sheet pan and roast for 25–30 minutes until skin is crispy and internal temp reaches 165°F. Rest 5 minutes.\n2. While chicken roasts, heat 1 tbsp olive oil in a large, heavy-bottomed pan over medium-high heat. Sauté mushrooms until golden, about 5 minutes. Remove and set aside.\n3. In the same pan, add butter and remaining oil. Sauté diced onion until translucent, about 3 minutes. Add garlic and cook 1 minute.\n4. Add arborio rice and stir constantly for 2 minutes—you'll hear it click against the pan. This is essential.\n5. Deglaze with white wine, stirring until absorbed, about 1 minute.\n6. Add warm stock one ladle (about 0.75 cup) at a time, stirring frequently. Wait until liquid is mostly absorbed before adding the next ladle. This takes about 18–20 minutes total. Rice should be creamy and tender but still have a slight firmness in the center.\n7. Fold in mushrooms, spinach, and Parmigiano-Reggiano. Cook 1 minute until spinach wilts. Taste and adjust salt/pepper.\n8. Serve risotto with chicken thigh on top, drizzle of any pan juices, and fresh thyme.",
+    "tip": "Keep your stock warm in a separate pot—cold stock stops the cooking process and breaks the creamy emulsion. If risotto seems dry at the end, add a splash of warm water or stock, not cold liquid. Chicken thigh is superior to breast for athletes: it's more forgiving and delivers more iron and B vitamins.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "recovery",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
