@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-14",
+  "dateLabel": "Saturday, November 14, 2026",
+  "generatedAt": "2026-11-14T11:01:27.678Z",
+  "articles": [
+    {
+      "category": "COLD THERAPY",
+      "topic": "Cold water immersion and post-exercise recovery",
+      "headline": "Skip the Hot Bath. Cold Water Works Better for Muscle Soreness",
+      "body": "A 2026 meta-analysis of 30 randomized trials confirms what athletes have suspected: cold water immersion cuts perceived muscle soreness and reduces post-exercise damage markers compared to sitting around. The effect is robust even after accounting for publication bias. But timing matters. The window for best results is tight, and whole-body immersion works differently than partial. If you're sore tomorrow, 10 minutes in cold water today actually helps.",
+      "takeaway": "Cold immersion reduces post-exercise soreness more effectively than passive rest, but the benefits depend on depth and timing of the cold exposure.",
+      "source": "Frontiers in Sports and Active Living",
+      "sourceUrl": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1738075/full",
+      "pexelsQuery": "ice bath cold water therapy athletic recovery",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8926131/pexels-photo-8926131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8926131/pexels-photo-8926131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "https://kaboompics.com/",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/a-person-opening-a-faucet-by-a-bath-tub-8926131/",
+        "avgColor": "#B8B3AD"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Gut microbiota predicts disease risk better than age",
+      "headline": "Your Gut Bacteria Know Your Health Better Than Your Birthday",
+      "body": "A new Nature Communications study of thousands of adults found something surprising: the composition of your gut bacteria predicts inflammation and future disease risk far better than your actual age. Certain microbiota profiles show up in blood work as much as 9 years before hospital diagnoses. Researchers identified specific bacterial patterns linked to disease. This shifts how we think about aging. You're not old because you're 50. You're aging the way your microbiota is aging.",
+      "takeaway": "Gut microbiota composition is a stronger predictor of disease risk and systemic inflammation than chronological age, with detectable signals years before diagnosis.",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.news-medical.net/news/20260909/Gut-microbiome-may-reveal-inflammation-and-future-disease-risk-better-than-age.aspx",
+      "pexelsQuery": "gut health bacteria digestion microbiome",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5841842/pexels-photo-5841842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5841842/pexels-photo-5841842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Monstera Production",
+        "photographerUrl": "https://www.pexels.com/@gabby-k",
+        "photoPageUrl": "https://www.pexels.com/photo/decorative-cardboard-appliques-of-stop-sign-on-assorted-microbes-5841842/",
+        "avgColor": "#D4E182"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Resilience and cortisol stress response patterns",
+      "headline": "Resilient People React Harder to Stress. Here's Why That Matters.",
+      "body": "A 2026 study flipped what many assumed about stress and toughness. Researchers tested resilient versus non-resilient individuals under acute stress and found something counterintuitive: resilient people actually showed stronger cortisol responses to stress challenges. Non-resilient individuals had blunted cortisol reactions. It suggests that your stress-responsive system staying sharp and reactive might be a marker of adaptability, not weakness. Your body's ability to mobilize matters more than feeling calm.",
+      "takeaway": "Resilience correlates with a stronger acute cortisol response to stress, suggesting a more reactive and adaptive stress system supports recovery and adaptation.",
+      "source": "Journal of Neural Transmission",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s00702-026-03218-9",
+      "pexelsQuery": "stress management resilience mental toughness",
+      "product": {
+        "id": "book-005",
+        "name": "How Bad Do You Want It - Matt Fitzgerald Audiobook",
+        "brand": "Matt Fitzgerald",
+        "asin": "B01B6KWGFE",
+        "url": "https://www.amazon.com/dp/B01B6KWGFE?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "endurance",
+          "running",
+          "triathlon",
+          "mindset",
+          "book",
+          "audiobook",
+          "performance"
+        ],
+        "blurb": "The psychology of champions. Why mental fitness is the real limiter."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6837645/pexels-photo-6837645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6837645/pexels-photo-6837645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Nataliya Vaitkevich",
+        "photographerUrl": "https://www.pexels.com/@n-voitkevich",
+        "photoPageUrl": "https://www.pexels.com/photo/overworked-employee-having-a-breakdown-6837645/",
+        "avgColor": "#D3CDCA"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Exercise timing and glucose control in diabetes",
+      "headline": "The Best Time to Work Out Is Afternoon. New Data Confirms It.",
+      "body": "A 2026 analysis in Trends in Endocrinology & Metabolism compares exercise timing against glucose control and finds afternoon or evening training beats morning sessions for people with type 2 diabetes. Morning workouts fail to improve glycemic control and sometimes worsen blood glucose. The reason: insulin sensitivity is naturally lower in the morning. Your body's ability to use the glucose your exercise releases drops when you train at dawn. The same 30-minute session works harder in the afternoon.",
+      "takeaway": "Afternoon and evening exercise provides significantly better glucose control and insulin sensitivity in type 2 diabetes compared to morning training.",
+      "source": "Trends in Endocrinology & Metabolism",
+      "sourceUrl": "https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(26)00030-5",
+      "pexelsQuery": "exercise timing afternoon workout training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/7675409/pexels-photo-7675409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/7675409/pexels-photo-7675409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "cottonbro studio",
+        "photographerUrl": "https://www.pexels.com/@cottonbro",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-practicing-plyometrics-7675409/",
+        "avgColor": "#36302F"
+      }
+    }
+  ],
+  "quote": {
+    "text": "It's not whether you get knocked down, it's whether you get up.",
+    "author": "Vince Lombardi",
+    "context": "Legendary football coach whose philosophy redefined resilience in American sports and performance culture."
+  },
+  "workout": {
+    "id": "57c91358-2b4e-484e-86c8-c4a23ffc1a66",
+    "todayType": "FULL_BODY",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Bench Press Volume Anchor: 5×5 Strength-Hypertrophy Build",
+    "difficulty": "Intermediate",
+    "duration": "50 min",
+    "equipment": [
+      "barbell",
+      "dumbbells",
+      "bench",
+      "cable_machine"
+    ],
+    "trainingZone": "z4",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "muscle_gain",
+      "push_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Lower the bar to your mid-chest in 2 seconds, pause briefly, and drive through your feet and leg drive as much as your upper chest. Bench strength is a full-body lift—brace your core and stay tight on the bench.",
+    "warmup": "5 min: 10 arm circles each direction, 10 band pull-aparts, 10 scapular push-ups, 8 empty-bar bench reps, then 3 reps @ 50% working weight",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "sets": "5",
+        "reps": "5",
+        "notes": "Work up to 80–85% 1RM. Rest 3 min between sets. Full grip width, shoulder blades retracted, legs on floor. Drive with intent."
+      },
+      {
+        "name": "Dumbbell Incline Press",
+        "sets": "3",
+        "reps": "8",
+        "notes": "30-degree incline, controlled 2-second descent. Focus on upper-chest activation and shoulder stability. Rest 90 sec."
+      },
+      {
+        "name": "Cable Fly (Machine or Dual-Handle)",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Squeeze at the top, light weight, 1-second pause. Hypertrophy-focused stretch and contraction. Rest 60 sec."
+      },
+      {
+        "name": "Dumbbell Tricep Overhead Extension",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Single dumbbell held with both hands. Full range of motion—elbows track back, not flaring out. Control the negative. Rest 60 sec."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "5 min: chest doorway stretch 45 sec each side, shoulder cross-body stretch 30 sec each, tricep overhead stretch 30 sec each arm, child's pose 60 sec",
+    "description": "A foundational bench press session targeting intermediate strength athletes who need consistent upper-chest and tricep development. Five sets of five reps at a controlled tempo builds dense muscle tissue while maintaining mechanical tension—the cornerstone of powerlifting prep. Follow with dumbbell and cable accessories to drive hypertrophy and address shoulder stability."
+  },
+  "meal": {
+    "id": "fa01102c-d1f0-41d6-8692-f1f132f10b79",
+    "title": "Seared Cod and Roasted Red Pepper Quinoa Bowl",
+    "description": "Jarred roasted red peppers are the shortcut that makes this weeknight-friendly. They add sweetness and depth with zero extra prep — just drain and slice.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 526,
+    "protein_g": 42,
+    "carbs_g": 46,
+    "fat_g": 19,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [
+      "2 cod fillets (6 oz each)",
+      "3/4 cup quinoa, rinsed",
+      "1 cup roasted red peppers, sliced (jarred is fine)",
+      "1 cup baby spinach",
+      "1/4 cup cucumber, diced",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "1 tsp smoked paprika",
+      "1/2 tsp garlic powder",
+      "Salt and black pepper to taste",
+      "2 tbsp plain Greek yogurt (for serving)"
+    ],
+    "instructions": "Cook quinoa per package instructions, about 15 minutes. While it cooks, pat cod dry and season with smoked paprika, garlic powder, salt, and pepper. Heat olive oil in a non-stick pan over medium-high and sear the cod for 3-4 minutes per side until golden and flaky. Toss cooked quinoa with roasted peppers, spinach, cucumber, lemon juice, and a drizzle of olive oil. Serve cod on top of the quinoa base with a small spoonful of Greek yogurt on the side.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
