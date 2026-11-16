@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-16",
+  "dateLabel": "Monday, November 16, 2026",
+  "generatedAt": "2026-11-16T11:01:51.597Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "Aging attitudes predict cognitive physical improvement",
+      "headline": "Your Mindset About Getting Old Is Actually Predictive. Here's What It Predicts.",
+      "body": "A three-year Yale study of nearly 4,000 adults across ages 19 to 94 found something obvious in hindsight but shocking in practice: 45% of people over 65 improved in at least one major area—cognitive or physical—rather than declining. The catch? It wasn't random. People who held more positive attitudes about their own aging were significantly more likely to show these gains. This wasn't motivation hype. It was measurable cognitive and physical improvement. Your beliefs about what getting older means appear to wire your outcomes.",
+      "takeaway": "Stop thinking of 45+ as a downhill slide. Your mindset about aging isn't just psychology—it predicts whether you'll actually improve.",
+      "source": "Yale School of Public Health / Geriatrics",
+      "sourceUrl": "https://www.success.com/longevity-research-2026-new-findings",
+      "pexelsQuery": "older adults exercising smiling confident",
+      "product": {
+        "id": "book-009",
+        "name": "Lifespan - David Sinclair Audiobook",
+        "brand": "David Sinclair",
+        "asin": "B07QGH1Q43",
+        "url": "https://www.amazon.com/dp/B07QGH1Q43?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "longevity",
+          "aging",
+          "genetics",
+          "book",
+          "audiobook",
+          "science",
+          "health"
+        ],
+        "blurb": "The science of why we age and what we can actually do about it."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/40082862/pexels-photo-40082862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/40082862/pexels-photo-40082862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Centre for Ageing Better",
+        "photographerUrl": "https://www.pexels.com/@centre-for-ageing-better-55954677",
+        "photoPageUrl": "https://www.pexels.com/photo/40082862/",
+        "avgColor": "#3F4045"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "Brain activity predicts Alzheimer's years early",
+      "headline": "Your Brain Is Talking Before You Forget Anything. Stanford Figured Out How to Listen.",
+      "body": "Stanford Medicine researchers just identified a hidden pattern: subtle shifts in brain activity can predict Alzheimer's risk years before memory problems show up or proteins start accumulating. They scanned older adults with opposite cognitive trajectories and found those with Alzheimer's-like brain activity had faster declines on memory, attention, and executive function tests. The breakthrough isn't the scan itself—it's that brain communication patterns reveal future risk better than standard memory testing. This opens a window for intervention while cognitive function is still intact.",
+      "takeaway": "Brain imaging may soon shift from diagnosing dementia to predicting who's at risk while there's still time to act.",
+      "source": "Stanford Medicine / Science Advances",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+      "pexelsQuery": "brain scan MRI medical imaging technology",
+      "photo": {
+        "url": "https://images.pexels.com/photos/39192362/pexels-photo-39192362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/39192362/pexels-photo-39192362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Vitaly Gariev",
+        "photographerUrl": "https://www.pexels.com/@silverkblack",
+        "photoPageUrl": "https://www.pexels.com/photo/doctor-discusses-brain-scans-with-senior-patient-39192362/",
+        "avgColor": "#737F7F"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Modern hormone therapy cardiovascular safety women",
+      "headline": "The Hormone Fear That Doctors Kept Spreading Isn't Holding Up.",
+      "body": "A massive Israeli study tracking over 52,000 women ages 45 to 59 just published the kind of news that doesn't make headlines but should. Contemporary hormone replacement therapy wasn't linked to heart attack, stroke, blood clots, or death. Compare this to the decades of fear that followed older studies from different eras and dosing patterns. Today's bioidentical HRT given to women near menopause—the right age, the right timing—shows neutral or favorable cardiovascular profiles. This matters because menopause symptoms genuinely wreck quality of life, and many women avoid effective treatment based on outdated anxiety.",
+      "takeaway": "If you've been avoiding HRT due to heart concerns, talk to your doctor. Modern evidence suggests the risks you're worried about aren't real.",
+      "source": "American Heart Association Scientific Sessions 2026",
+      "sourceUrl": "https://newsroom.heart.org/news/long-term-study-finds-modern-hormone-replacement-therapy-not-linked-to-heart-disease-risk",
+      "pexelsQuery": "mature woman doctor consultation health",
+      "photo": {
+        "url": "https://images.pexels.com/photos/5407217/pexels-photo-5407217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/5407217/pexels-photo-5407217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-writing-on-the-notebook-5407217/",
+        "avgColor": "#A49B90"
+      }
+    },
+    {
+      "category": "GENETICS",
+      "topic": "Epigenetic inheritance breaks Mendelian genetics laws",
+      "headline": "Your DNA Marks Don't Follow the Rules Your Biology Teacher Taught.",
+      "body": "Scientists studying mice just found something that rewrites the textbook: some traits skip the rules of genetics entirely. Researchers tracked DNA methylation—chemical marks that turn genes on or off—across three generations. In one stunning case, two mice with zero methylation on a specific gene had offspring where both copies suddenly carried the mark. The methylation appeared from nowhere. Multiply this across hundreds of examples and you've got evidence that inheritance is way more complex than dominant and recessive alleles. This isn't just curiosity. Understanding non-Mendelian inheritance could reshape how we think about disease risk and why siblings with identical genetics age so differently.",
+      "takeaway": "Your genes aren't your destiny. The chemical marks on them—which change based on your life—matter even more than the DNA sequence itself.",
+      "source": "Nature Genetics / University researchers",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260530053420.htm",
+      "pexelsQuery": "DNA helix genetics research science",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/39705141/pexels-photo-39705141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/39705141/pexels-photo-39705141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Rafael Minguet Delgado",
+        "photographerUrl": "https://www.pexels.com/@thales13",
+        "photoPageUrl": "https://www.pexels.com/photo/colorful-abstract-liquid-forms-with-dynamic-curves-39705141/",
+        "avgColor": "#AFA8D2"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Either you're getting better, or you're getting worse. You're not staying the same.",
+    "author": "David Goggins",
+    "context": "Navy SEAL, ultramarathon runner, and author of Can't Hurt Me—built his philosophy on the principle that stagnation is decline."
+  },
+  "workout": {
+    "id": "f4702d09-7de1-4079-9464-0f56d07bf896",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Press & Burn: Dumbbell Push Circuit",
+    "difficulty": "Intermediate",
+    "duration": "30 min",
+    "equipment": [
+      "dumbbells",
+      "mat"
+    ],
+    "trainingZone": "mixed",
+    "tags": [],
+    "tip": "",
+    "warmup": "Start with 90 seconds of arm circles, forward and back. Follow with 10 slow shoulder rolls, 10 scapular push-ups, and a 30-second chest opener in a doorframe. Get your joints warm before you load them.",
+    "exercises": [
+      {
+        "name": "Dumbbell Floor Press",
+        "sets": "4",
+        "reps": "10",
+        "notes": "Lie flat, lower slowly to a 2-count, press strong. Keep ribs down and core tight throughout. Modify: use lighter dumbbells or reduce to 3 sets."
+      },
+      {
+        "name": "Standing Dumbbell Overhead Press",
+        "sets": "3",
+        "reps": "10",
+        "notes": "Press straight up, don't arch your lower back. Lock out fully at the top, control the descent. Squeeze glutes to keep your core braced."
+      },
+      {
+        "name": "Push-Up Negative (3-Second Lower)",
+        "sets": "3",
+        "reps": "8",
+        "notes": "Lower yourself in 3 slow seconds, then push back up at normal speed. This is where the real strength is built. Drop to knees if needed to keep form clean."
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Lead with your elbows, not your wrists. Stop at shoulder height. Use lighter weight than you think you need. No swinging."
+      },
+      {
+        "name": "Tricep Dumbbell Kickback",
+        "sets": "3",
+        "reps": "12 each arm",
+        "notes": "Hinge forward at the hip, elbow locked at your side, extend fully. Squeeze at the top for one second. The lockout is the money rep."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "Finish with a 60-second chest stretch in a doorframe each side, then a 60-second overhead tricep stretch per arm. Shake out your hands and roll your shoulders back a few times.",
+    "description": "Warmup: Start with 90 seconds of arm circles, forward and back. Follow with 10 slow shoulder rolls, 10 scapular push-ups, and a 30-second chest opener in a doorframe. Get your joints warm before you load them. Dumbbell Floor Press: 4 sets x 10 — Lie flat, lower slowly to a 2-count, press strong. Keep ribs down and core tight throughout. Modify: use lighter dumbbells or reduce to 3 sets. Standing Dumbbell Overhead Press: 3 sets x 10 — Press straight up, don't arch your lower back. Lock out fully at the top, control the descent. Squeeze glutes to keep your core braced. Push-Up Negative (3-Second Lower): 3 sets x 8 — Lower yourself in 3 slow seconds, then push back up at normal speed. This is where the real strength is built. Drop to knees if needed to keep form clean. Dumbbell Lateral Raise: 3 sets x 12 — Lead with your elbows, not your wrists. Stop at shoulder height. Use lighter weight than you think you need. No swinging. Tricep Dumbbell Kickback: 3 sets x 12 each arm — Hinge forward at the hip, elbow locked at your side, extend fully. Squeeze at the top for one second. The lockout is the money rep. Cooldown: Finish with a 60-second chest stretch in a doorframe each side, then a 60-second overhead tricep stretch per arm. Shake out your hands and roll your shoulders back a few times."
+  },
+  "meal": {
+    "id": "e723a522-57e1-4b92-b665-eb2893997c41",
+    "title": "Seared Duck Breast and Lentil-Free Warm Grain Bowl with Ginger Sesame Glaze",
+    "description": "Starting duck in a cold pan and slowly rendering the fat gives you crispy skin every time without burning. No special skills required.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 530,
+    "protein_g": 38,
+    "carbs_g": 42,
+    "fat_g": 18,
+    "fiber_g": 0,
+    "prep_minutes": 25,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 duck breasts (skin-on)\n1 cup cooked farro or barley\n1 cup baby spinach\n1/2 cup shredded purple cabbage\n1/2 cup edamame (shelled)\n1 tbsp low-sodium soy sauce\n1 tsp fresh grated ginger\n1 tsp sesame oil\n1 tbsp rice vinegar\n1 tsp honey\n1 tsp sesame seeds\nSalt and black pepper\n\nInstructions:\n1. Score the duck skin in a crosshatch pattern, season with salt and pepper. Place skin-side down in a cold pan, then turn heat to medium. Cook for 8-10 minutes until the skin is golden and crisp, then flip and cook 4-5 more minutes. Rest for 5 minutes, then slice thin. 2. Whisk together soy sauce, ginger, sesame oil, rice vinegar, and honey to make the glaze. 3. Build bowls with farro, spinach, cabbage, and edamame. Lay sliced duck on top, drizzle glaze over everything. 4. Finish with sesame seeds.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
