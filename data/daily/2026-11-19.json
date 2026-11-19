@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-19",
+  "dateLabel": "Thursday, November 19, 2026",
+  "generatedAt": "2026-11-19T11:01:30.854Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Brain training improves cognition in adults",
+      "headline": "12 Weeks of Brain Training Shifts Your Brain Age 1.5 Years Younger",
+      "body": "<cite index=\"37-1\">Lumosity, the brain training program, improved overall cognition in healthy adults in a large randomized clinical trial.</cite> <cite index=\"44-3\">The findings involved 801 adults aged 25 to 80</cite>, who trained for just 15 to 25 minutes at home. <cite index=\"37-4,37-5\">Among participants aged 60 to 80, the brain-predicted age changed about 1.5 years more favorably with Lumosity than with the comparison program, with less enlargement of the ventricles and greater cortical thickness in regions tied to attention and cognitive control.</cite> <cite index=\"43-5\">It's not uncommon for lifestyle modifications to boost cognition without visible MRI changes, but the trial revealed structural brain variations in older participants within just 12 weeks.</cite>",
+      "takeaway": "Brief daily cognitive training isn't just about game skills—it can produce measurable brain structure improvements and strengthen attention networks.",
+      "source": "News-Medical, citing BRIGHT-Mind Study",
+      "sourceUrl": "https://www.news-medical.net/news/20261116/Brain-training-program-Lumosity-improves-overall-cognition-in-clinical-trial.aspx",
+      "pexelsQuery": "person using computer tablet cognitive training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/12326656/pexels-photo-12326656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12326656/pexels-photo-12326656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://www.pexels.com/@towfiqu-barbhuiya-3440682",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-of-a-person-using-a-tablet-12326656/",
+        "avgColor": "#254369"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Vitamin C blocks stomach cancer chemicals",
+      "headline": "Vitamin C Might Block the Stomach Chemistry That Raises Cancer Risk",
+      "body": "<cite index=\"48-1\">A new study suggests vitamin C taken after meals could help block potentially cancer-causing chemical reactions in the stomach.</cite> <cite index=\"49-4\">When vitamin C is present during digestion, it reacts with nitrites in food to create harmless nitric oxide instead of harmful nitrosamines, which are linked to higher cancer risk.</cite> <cite index=\"50-9,50-10\">Leafy vegetables like spinach naturally contain both vitamin C and nitrate, and the model indicated this combination could lower cancer risk, while taking a vitamin C supplement after each meal could moderately reduce the formation of nitrosation products from dietary nitrates and nitrites.</cite>",
+      "takeaway": "Pairing meals with vitamin C-rich foods like citrus or peppers is a simple way to potentially reduce harmful chemical reactions during digestion.",
+      "source": "University of Waterloo / Journal of Theoretical Biology",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+      "pexelsQuery": "fresh oranges bell peppers citrus fruit vegetables",
+      "photo": {
+        "url": "https://images.pexels.com/photos/38139728/pexels-photo-38139728.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/38139728/pexels-photo-38139728.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Sean P. Twomey",
+        "photographerUrl": "https://www.pexels.com/@2mephoto",
+        "photoPageUrl": "https://www.pexels.com/photo/vibrant-market-display-of-fresh-produce-38139728/",
+        "avgColor": "#644D2E"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Resistance training sweet spot longevity",
+      "headline": "90 to 120 Minutes of Lifting Per Week Cuts Death Risk 13%",
+      "body": "<cite index=\"56-1,56-3\">A 30-year study suggests that 90 to 120 minutes of strength training each week may be the ideal range for reducing the risk of death.</cite> <cite index=\"59-3\">During 30 years of follow-up, 90 to 119 minutes per week of resistance training was associated with a lower risk for all-cause mortality, cardiovascular mortality, and neurological disease mortality.</cite> <cite index=\"58-1\">More than 120 minutes of resistance training per week did not appear to add extra benefit to overall death risk.</cite> <cite index=\"56-5\">The lowest mortality risk was seen among people who combined high levels of aerobic exercise with strength training.</cite>",
+      "takeaway": "You don't need endless hours in the gym. Two solid sessions of strength training per week can meaningfully extend your life.",
+      "source": "British Journal of Sports Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
+      "pexelsQuery": "dumbbells weights strength training gym",
+      "photo": {
+        "url": "https://images.pexels.com/photos/33879987/pexels-photo-33879987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/33879987/pexels-photo-33879987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ollie Craig",
+        "photographerUrl": "https://www.pexels.com/@olliecraig1",
+        "photoPageUrl": "https://www.pexels.com/photo/men-exercising-with-dumbbells-in-gym-33879987/",
+        "avgColor": "#595B56"
+      }
+    },
+    {
+      "category": "GUT HEALTH",
+      "topic": "Centenarian gut bacteria improve aging metabolism",
+      "headline": "What Centenarians' Gut Bugs Know That Yours Don't",
+      "body": "<cite index=\"75-1,75-5\">UC San Diego researchers found a metabolic signature in centenarians and used engineered gut bacteria to amplify the same activity, with the study published in Cell Metabolism suggesting some gut microbiome changes with aging may be protective adaptations rather than signs of decline.</cite> <cite index=\"83-5,83-6\">Centenarians showed greater abundance of a gene associated with bile salt hydrolase activity, an enzyme gut bacteria produce to modify bile acids.</cite> <cite index=\"75-3\">When researchers amplified this activity using engineered gut bacteria in aged mice, it improved insulin sensitivity and produced other favorable metabolic changes.</cite>",
+      "takeaway": "Your gut bacteria might be trying to keep you healthy. The microbiome shifts with age may actually be your body's way of preserving metabolic function.",
+      "source": "UC San Diego / Cell Metabolism",
+      "sourceUrl": "https://today.ucsd.edu/story/gut-microbiome-activity-linked-to-exceptional-longevity-may-support-healthier-aging",
+      "pexelsQuery": "gut health bacteria microbiome digestion illustration",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8539941/pexels-photo-8539941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8539941/pexels-photo-8539941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "https://kaboompics.com/",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/chemical-sample-in-a-petri-dish-8539941/",
+        "avgColor": "#A1AAA9"
+      }
+    }
+  ],
+  "quote": {
+    "text": "The best way to improve mental performance is to improve physical performance.",
+    "author": "Tim Ferriss",
+    "context": "Author and performance optimization expert"
+  },
+  "workout": {
+    "id": "109178f8-63d2-491f-9c55-59fa0b96e9b1",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Weighted Pull-Up Hypertrophy Block: Lat Width & Rear Delt Density",
+    "difficulty": "Intermediate",
+    "duration": "55 min",
+    "equipment": [
+      "pull-up bar",
+      "dip belt or weighted vest",
+      "weight plates",
+      "dumbbells",
+      "cable machine or resistance band",
+      "flat bench"
+    ],
+    "trainingZone": "z2",
+    "tags": [
+      "gym_required",
+      "muscle_gain"
+    ],
+    "tip": "For weighted pull-ups, initiate every rep by depressing your scapulae (pull your shoulder blades down and back) before you bend your elbows. This ensures the lats do the work — not the traps and biceps stealing the load.",
+    "warmup": "8 min: 2 min easy bike → 10 scapular pull-ups (hang and retract/depress without bending elbows) → 10 band pull-aparts → 10 face pulls with band → 10 dead hangs for 10 seconds each → 1 × 5 bodyweight pull-ups focusing on full range and controlled descent → shoulder CARs (controlled articular rotations) 5 each direction",
+    "exercises": [
+      {
+        "name": "Weighted Pull-Up",
+        "sets": "4",
+        "reps": "6–8 @ 70% of weighted max (add load via dip belt or vest; reduce to bodyweight if needed to stay in rep range)",
+        "notes": "Full range of motion is non-negotiable — start from a dead hang and pull until chin is clearly over the bar. Use a shoulder-width supinated or neutral grip for best lat recruitment. Descend over 3 seconds on every rep. If your form degrades before rep 6, strip weight — partial reps don't count. If bodyweight puts you over 10 clean reps, add load. Rest 2 minutes between sets."
+      },
+      {
+        "name": "Single-Arm Dumbbell Row",
+        "sets": "4",
+        "reps": "10 each arm @ RPE 7",
+        "notes": "Use a bench for support — one knee and same-side hand on the bench, opposite foot on the floor for stability. Row the dumbbell to your hip, not your armpit, to prioritize the lat over the upper trap. At the top, hold 1 second and squeeze the lat. Lower fully to a dead hang position. Keep your torso level — don't rotate to heave the weight up. Rest 60–75 seconds between arms."
+      },
+      {
+        "name": "Cable or Band Face Pull",
+        "sets": "3",
+        "reps": "15 @ RPE 6",
+        "notes": "Set the cable or band at face height, use a rope attachment or doubled band. Pull toward your face with elbows high and wide, finishing with external rotation — hands end beside your ears, thumbs pointing back. This hits the rear delt and external rotators. Move with full control; this is shoulder health work as much as hypertrophy. Rest 60 seconds."
+      },
+      {
+        "name": "Dumbbell Rear Delt Fly (Bent-Over or on Incline Bench)",
+        "sets": "3",
+        "reps": "12–15 @ RPE 6–7",
+        "notes": "Hinge forward to about 45 degrees (or lie chest-down on an incline bench). Raise dumbbells out to the sides with elbows soft, leading with the elbows, squeezing the rear delts at the top. Do not shrug or use your traps. Lower slowly for 2–3 seconds. Light load, strict form — this muscle is easy to hijack with other movers. Rest 60 seconds."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "7 min: 60-second hanging lat stretch (hang from bar with slight side-bend, hold and breathe into stretch each side) → 60-second cross-body rear delt stretch each arm → 60-second chest-up doorway stretch or band overhead lat stretch → 60-second child's pose with arms extended forward → 30-second wrist and forearm flexor stretch (palms flat on floor or wall)",
+    "description": "This second hypertrophy pull session is anchored by weighted pull-ups to build lat width, scapular strength, and upper-back thickness through progressive loading in the 6–10 rep range. Single-arm dumbbell rows follow as the primary horizontal pulling volume, targeting the mid-back and building unilateral balance. Rear delt accessories complete the session, reinforcing shoulder health and posterior deltoid mass essential for balanced pressing performance."
+  },
+  "meal": {
+    "id": "fa34a51b-02c7-496c-912f-d7db0ff7cbb0",
+    "title": "Cotija & Black Bean Crispy Tortilla Stack",
+    "description": "Crispy baked tortilla chips layered with seasoned black beans and crumbly cotija cheese—a handheld Mexican-inspired snack with serious plant-based protein and fiber. No greasy frying, all satisfying crunch.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "mexican",
+    "calories": 280,
+    "protein_g": 10,
+    "carbs_g": 33,
+    "fat_g": 13,
+    "fiber_g": 5,
+    "prep_minutes": 5,
+    "cook_minutes": 12,
+    "ingredients": [
+      "4 small corn tortillas",
+      "1 tbsp olive oil",
+      "100g canned black beans, drained",
+      "0.5 tsp cumin",
+      "0.25 tsp chili powder",
+      "pinch of salt",
+      "30g crumbled cotija cheese"
+    ],
+    "instructions": "1. Slice tortillas into quarters and toss with olive oil, salt, and a pinch of cumin.\n2. Spread on a baking sheet and bake at 375°F for 10–12 minutes until golden and crispy.\n3. Warm black beans in a small pan with chili powder and remaining cumin (2 minutes).\n4. Layer cooled tortilla chips with warm beans and top with cotija cheese.\n5. Eat immediately while chips are crispy.",
+    "tip": "Bake the tortilla chips in bulk on meal-prep day—they keep crisp for 3 days in an airtight container, and you can assemble the snack 5 minutes before eating.",
+    "goal_affinity": [
+      "general_fitness",
+      "recovery"
+    ],
+    "image_url": ""
+  }
+}
