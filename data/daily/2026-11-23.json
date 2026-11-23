@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-23",
+  "dateLabel": "Monday, November 23, 2026",
+  "generatedAt": "2026-11-23T11:01:29.222Z",
+  "articles": [
+    {
+      "category": "LONGEVITY",
+      "topic": "Gut microbiome activity exceptional longevity",
+      "headline": "Your Gut's Aging Secret: What Centenarians Know",
+      "body": "UC San Diego researchers identified specific changes in gut bacteria linked to exceptional longevity. They found that certain microbial metabolites—particularly those involved in bile acid processing—may protect metabolic health as we age. When researchers amplified these same bacterial functions in aged mice, they saw improved metabolic markers. The study published in Cell Metabolism suggests these age-related microbiome shifts might be protective adaptations we can potentially harness, not signs of decline.",
+      "takeaway": "Your microbiome evolves with age in ways that may support longevity. Unlike many aspects of aging, this is something you might actually be able to influence.",
+      "source": "Cell Metabolism, UC San Diego",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-gut-microbiome-linked-exceptional-longevity.html",
+      "pexelsQuery": "gut bacteria microscope",
+      "photo": {
+        "url": "https://images.pexels.com/photos/10448365/pexels-photo-10448365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/10448365/pexels-photo-10448365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "turek",
+        "photographerUrl": "https://www.pexels.com/@turek3024",
+        "photoPageUrl": "https://www.pexels.com/photo/microorganisms-under-a-microscope-10448365/",
+        "avgColor": "#6B7278"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "Explosive movements bone density strength",
+      "headline": "Skip the Steady Jog. Your Bones Need Violent Moves.",
+      "body": "New research shows that walking, jogging, and traditional weight training may actually be less effective at building bone strength than high-intensity sports involving explosive movements and sudden direction changes. The study examined bone density across different exercise types and found that dynamic, powerful movements—think jumping, sprinting, cutting—trigger stronger bone remodeling responses. If you're worried about bone health or osteoporosis prevention, steady cardio alone isn't cutting it. Your skeleton responds better to intensity and impact.",
+      "takeaway": "Add explosive power work to your routine 2-3 times weekly. Jump, sprint, change direction quickly. Your bones will thank you.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261121122534.htm",
+      "pexelsQuery": "athlete jumping power training",
+      "photo": {
+        "url": "https://images.pexels.com/photos/12698214/pexels-photo-12698214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/12698214/pexels-photo-12698214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "RUN 4 FFWPU",
+        "photographerUrl": "https://www.pexels.com/@runffwpu",
+        "photoPageUrl": "https://www.pexels.com/photo/athlete-in-uniform-running-on-stadium-12698214/",
+        "avgColor": "#905239"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Tea consumption cardiovascular disease prevention",
+      "headline": "Tea Might Save Your Heart. Temperature Matters.",
+      "body": "A massive study of nearly 500,000 adults found that people who regularly drank tea had an 11% lower risk of heart and blood vessel disease. The lowest risk appeared at around six to eight cups daily, with black tea showing more consistent benefits than green tea. Here's the catch: drinking tea at very high temperatures was linked to increased risk. The researchers emphasize this isn't just correlation—the type of tea, strength, and temperature all played measurable roles in cardiovascular outcomes.",
+      "takeaway": "Make tea a habit. Black tea, regular consumption, but let it cool before drinking.",
+      "source": "Wiley/Journal of Internal Medicine",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261101122203.htm",
+      "pexelsQuery": "hot tea cup ceramic",
+      "product": {
+        "id": "book-001",
+        "name": "Can't Hurt Me - David Goggins Audiobook",
+        "brand": "David Goggins",
+        "asin": "B07KKP62FW",
+        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "mental toughness",
+          "mindset",
+          "motivation",
+          "endurance",
+          "running",
+          "ultramarathon",
+          "book",
+          "audiobook"
+        ],
+        "blurb": "The mental framework for doing hard things. No book prepares you better for suffering."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/416583/pexels-photo-416583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/416583/pexels-photo-416583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Pixabay",
+        "photographerUrl": "https://www.pexels.com/@pixabay",
+        "photoPageUrl": "https://www.pexels.com/photo/person-pouring-water-on-cup-416583/",
+        "avgColor": "#948E76"
+      }
+    },
+    {
+      "category": "WEIGHT MANAGEMENT",
+      "topic": "Compound burns fat preserves muscle",
+      "headline": "Finally: Burn Fat Without Losing Your Gains",
+      "body": "UCSF researchers discovered an experimental compound that boosts metabolism and burns fat without the muscle loss that plagues most weight-loss treatments. In mice, the compound increased energy expenditure by up to 18%, improved blood sugar control, and reduced liver fat—all while preserving lean mass. Even better: it enhanced the effects of popular GLP-1 drugs like Ozempic when combined. The compound works by modifying how your body partitions energy, forcing it to burn more calories while keeping muscle intact.",
+      "takeaway": "This isn't available yet, but it signals a new approach to weight loss: preserve what works, burn what doesn't.",
+      "source": "UCSF/ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+      "pexelsQuery": "fit body muscle definition",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17852467/pexels-photo-17852467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17852467/pexels-photo-17852467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Andras Stefuca",
+        "photographerUrl": "https://www.pexels.com/@shtefutsa",
+        "photoPageUrl": "https://www.pexels.com/photo/topless-man-in-bodybuilding-competition-17852467/",
+        "avgColor": "#2A393E"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Aging is an extraordinary process where you become the person you always should have been.",
+    "author": "David Bowie",
+    "context": "British musician and cultural icon, speaking on personal transformation and growth across decades of creative reinvention."
+  },
+  "workout": {
+    "id": "7353f15e-777d-47f2-9800-a81851840eb6",
+    "todayType": "PUSH",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "push",
+    "title": "Bench Press Peak: 2RM Attempt & Tricep Lockout Accessory",
+    "difficulty": "Intermediate",
+    "duration": "50 min",
+    "equipment": [
+      "barbell",
+      "bench press rack",
+      "weight plates",
+      "lifting belt"
+    ],
+    "trainingZone": "z5",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "upper_body"
+    ],
+    "tip": "Set your scapulae hard into the bench before you unrack — pull them down and together like you're cracking a walnut between your shoulder blades. This arch and shoulder position is your foundation; if it shifts mid-set, the lift is compromised. Re-set it on every single rep.",
+    "warmup": "10 min: 5 min light row or bike → 10 band pull-aparts → 10 scapular push-ups → 10 empty bar reps (controlled descent, 2-sec pause at chest) → 5 reps at 45% 1RM → 3 reps at 60% 1RM → 2 reps at 72% 1RM → 1 rep at 82% 1RM → 1 rep at 88% 1RM (rest 90 sec between each warm-up ramp set)",
+    "exercises": [
+      {
+        "name": "Bench Press — Peak Ramp to 2RM or 1RM",
+        "sets": "3",
+        "reps": "1 @ 92% → 1 @ 95–97% → max attempt 1–2 reps (RPE 9.5–10)",
+        "notes": "After your final warm-up at 88%, rest 4 full minutes before your 92% single. If bar speed on your 92% single is crisp and you have a clear lockout, proceed to 95–97% for your true max attempt. Attempt the second rep only if rep 1 moved with intent and control. Spot must be hands-off unless the bar stops moving. Rest 5 min before max attempt."
+      },
+      {
+        "name": "Bench Press — Back-Off Triples",
+        "sets": "3",
+        "reps": "3 @ 85% 1RM",
+        "notes": "Use 85% of your true 1RM (not today's max). These should be crisp, with no grinding — moderate bar speed and full lock at the top every rep. If any rep looks like a near-miss, stop the set. Focus on the same arch, leg drive, and touch point used in the peak attempt. Rest 3 min between sets."
+      },
+      {
+        "name": "Close-Grip Bench Press (Tricep Lockout)",
+        "sets": "3",
+        "reps": "4 @ ~75% 1RM close-grip (RPE 8)",
+        "notes": "Hands shoulder-width or slightly narrower. Lower to just below the chest — this is a tricep-dominant movement, not a full pec stretch. Drive hard through the top half of the movement. This accessory addresses the lockout weak point that often fails first on max bench attempts. Rest 2 min between sets."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "7 min: 60-sec doorway chest stretch each side → 45-sec cross-body shoulder stretch each side → 60-sec overhead tricep stretch each side (hand behind head, elbow pointed up) → 30-sec neck side-tilt each side → 30-sec slow diaphragmatic breathing seated upright",
+    "description": "A power/peak phase horizontal pressing session designed to find your 2RM or 1RM on the bench press with maximum neural output. After the peak attempt, three back-off triples at 85% reinforce strength endurance and bar path consistency under heavy load. A single tricep lockout accessory finalizes the session without compromising recovery."
+  },
+  "meal": {
+    "id": "d93bece6-0a8e-49c9-a0d4-1a7ee4259f92",
+    "title": "Cornbread Crumble Hash with Bacon, Bell Peppers & Fried Eggs",
+    "description": "A protein-forward endurance breakfast combining crispy bacon and sweet cornbread crumbles with sautéed peppers and runny-yolked eggs—an American comfort-food twist that delivers fast carbs from the cornbread, salty umami from the bacon, and filling protein from the eggs.",
+    "meal_type": "breakfast",
+    "macro_profile": "high_carb",
+    "difficulty": "medium",
+    "cuisine": "american",
+    "calories": 771,
+    "protein_g": 34,
+    "carbs_g": 63,
+    "fat_g": 42,
+    "fiber_g": 3,
+    "prep_minutes": 15,
+    "cook_minutes": 20,
+    "ingredients": [
+      "3 slices thick-cut bacon",
+      "1.5 cups leftover cornbread, cut into 0.75-inch cubes",
+      "0.5 red bell pepper, diced",
+      "0.5 yellow bell pepper, diced",
+      "0.25 small onion, finely diced",
+      "2 large eggs",
+      "1 tbsp unsalted butter",
+      "0.5 tsp smoked paprika",
+      "salt and black pepper to taste",
+      "0.25 cup fresh cilantro or parsley, chopped"
+    ],
+    "instructions": "1. Cook bacon in a large skillet over medium-high heat until crispy, about 8 minutes. Transfer to a paper towel and chop into bite-sized pieces.\n2. Reserve 1 tbsp bacon fat in the pan; add cornbread cubes and toast, stirring occasionally, for 4–5 minutes until golden and crunchy. Transfer to a plate.\n3. Add butter to the pan, then sauté diced peppers and onion until softened, about 5 minutes. Season with paprika, salt, and pepper.\n4. Return cornbread and bacon to the pan and toss to combine. Push mixture to the sides, creating two wells in the center.\n5. Crack eggs directly into the wells and cook over medium heat for 3–4 minutes until whites are set but yolks remain runny.\n6. Top with fresh cilantro and serve directly from the skillet.",
+    "tip": "Use store-bought cornbread or leftover from dinner Sunday to cut prep time—frozen cornbread thaws in about 10 minutes. This dish is also a great way to use up cornbread or slightly stale bread; the frying process revives it perfectly for texture and rapid carb availability.",
+    "goal_affinity": [
+      "endurance",
+      "marathon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
