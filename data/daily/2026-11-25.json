@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-25",
+  "dateLabel": "Wednesday, November 25, 2026",
+  "generatedAt": "2026-11-25T11:01:30.913Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "sleep disorders brain structural changes",
+      "headline": "Sleep Problems Rewire Your Brain. Here's What Gets Damaged",
+      "body": "Sleep disorders don't just make you tired. <cite index=\"17-1,17-5\">New research shows they're linked to physical changes in brain regions responsible for attention, motivation, and decision-making.</cite> An estimated 50 to 70 million Americans deal with sleep disorders—far more than most realize. <cite index=\"17-6\">Disrupted sleep may create important differences in brain structure</cite> that ripple through your day. The takeaway: if you're struggling with sleep, it's time to take it seriously. Your brain is literally reorganizing itself.",
+      "takeaway": "Sleep disorders cause structural changes in brain regions controlling focus and decision-making. Prioritize sleep like you prioritize workouts—your cognition depends on it.",
+      "source": "Florida International University / Scientific Reports",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
+      "pexelsQuery": "person sleeping bed dark bedroom",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/1497855/pexels-photo-1497855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1497855/pexels-photo-1497855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Craig Adderley",
+        "photographerUrl": "https://www.pexels.com/@thatguycraig000",
+        "photoPageUrl": "https://www.pexels.com/photo/woman-sleeping-1497855/",
+        "avgColor": "#353C3C"
+      }
+    },
+    {
+      "category": "TRAINING",
+      "topic": "high-intensity exercise bone metabolism biomarkers",
+      "headline": "Walking Won't Cut It. Your Bones Need the Hard Stuff",
+      "body": "<cite index=\"38-3,38-7\">Low-intensity endurance exercise like walking or jogging showed no meaningful long-term effect on bone metabolism, while research suggests low-intensity exercise alone is not sufficient to stimulate bone formation.</cite> <cite index=\"38-8\">High-intensity exercise may trigger early beneficial changes in bone formation, potentially helping to slow bone loss and support healthy aging.</cite> This meta-analysis of bone turnover markers reveals a hard truth: comfort doesn't build durability. Your bones adapt to demands. If you're not pushing intensity, you're passively accepting decline.",
+      "takeaway": "Low-intensity steady cardio doesn't build bone density. High-intensity training activates bone formation markers. Mix intensity into your routine.",
+      "source": "Semmelweis University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
+      "pexelsQuery": "athlete intense training weights resistance",
+      "product": {
+        "id": "str-001",
+        "name": "Gymnastic Rings - Double Circle Wood",
+        "brand": "Double Circle",
+        "asin": "B076X32LFY",
+        "url": "https://www.amazon.com/dp/B076X32LFY?tag=chrisolson04-20",
+        "category": "strength",
+        "price_range": "$",
+        "keywords": [
+          "gymnastics",
+          "rings",
+          "strength",
+          "bodyweight",
+          "upper body",
+          "pull-ups",
+          "dips",
+          "core",
+          "home gym"
+        ],
+        "blurb": "Chris trains on rings 2x per week. The most effective upper body tool that fits in a bag."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/16996375/pexels-photo-16996375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/16996375/pexels-photo-16996375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Doğu Tuncer",
+        "photographerUrl": "https://www.pexels.com/@dogu-tuncer-339534179",
+        "photoPageUrl": "https://www.pexels.com/photo/man-exercising-with-bar-at-gym-16996375/",
+        "avgColor": "#4C4240"
+      }
+    },
+    {
+      "category": "HYDRATION",
+      "topic": "electrolyte drinks performance rehydration science",
+      "headline": "Plain Water Loses. Electrolytes Win Every Time",
+      "body": "<cite index=\"48-3\">Beverages that were more effective in maintaining euhydration and improving performance during prolonged exercise sessions were electrolyte-based and natural coconut water compared to plain water.</cite> <cite index=\"48-2\">Plain water always resulted in larger loss of sweat, slower rate of heart-rate recuperation and symptoms.</cite> When you sweat, you lose sodium and minerals—water alone doesn't replace them. The body needs electrolytes to retain fluid and restore balance. Skip the plain water on hard training days.",
+      "takeaway": "Electrolyte drinks outperform plain water for maintaining hydration and performance during exercise. Add electrolytes to your long workouts.",
+      "source": "Journal of Medical and Therapeutic Research",
+      "sourceUrl": "https://reference-global.com/article/10.4038/jmtr.v11i1.428",
+      "pexelsQuery": "sports drink electrolyte bottle athlete hydration",
+      "product": {
+        "id": "nut-001",
+        "name": "Skratch Labs Hydration Mix",
+        "brand": "Skratch Labs",
+        "asin": "B075NDRY1C",
+        "url": "https://www.amazon.com/dp/B075NDRY1C?tag=chrisolson04-20",
+        "category": "nutrition",
+        "price_range": "$$",
+        "keywords": [
+          "hydration",
+          "electrolytes",
+          "running",
+          "cycling",
+          "triathlon",
+          "endurance",
+          "sports drink",
+          "fueling"
+        ],
+        "blurb": "Clean hydration without artificial junk. What Chris uses on long training days."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/6847312/pexels-photo-6847312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/6847312/pexels-photo-6847312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Tima Miroshnichenko",
+        "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoPageUrl": "https://www.pexels.com/photo/a-man-drinking-water-6847312/",
+        "avgColor": "#482018"
+      }
+    },
+    {
+      "category": "BRAIN HEALTH",
+      "topic": "multi-component supplement cognitive performance women",
+      "headline": "One Supplement Combo Sharpened Memory in Just Six Weeks",
+      "body": "<cite index=\"67-1,67-2\">A multi-component dietary supplement containing pyrroloquinoline quinone (PQQ), gamma-aminobutyric acid (GABA), caffeine, and B vitamins was evaluated for effects on cognitive function in healthy postmenopausal women.</cite> <cite index=\"67-4\">Six weeks of supplementation was associated with improved global cognitive performance and selected memory- and executive-related cognitive domains.</cite> This isn't a silver bullet, but it's real data. The combination worked better than any single ingredient alone.",
+      "takeaway": "A six-week trial of combined PQQ, GABA, caffeine, and B vitamins improved memory and executive function. Sometimes stacking ingredients matters more than individual dosing.",
+      "source": "BMC Nutrition",
+      "sourceUrl": "https://link.springer.com/article/10.1186/s40795-026-01535-6",
+      "pexelsQuery": "supplement pills bottle capsules nutrition",
+      "photo": {
+        "url": "https://images.pexels.com/photos/4047111/pexels-photo-4047111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4047111/pexels-photo-4047111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "kaboompics",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/capsules-in-yellow-surface-4047111/",
+        "avgColor": "#E9C444"
+      }
+    }
+  ],
+  "quote": {
+    "text": "I really think a champion is defined not by their wins but by how they can recover when they fall.",
+    "author": "Serena Williams",
+    "context": "Tennis legend and one of history's greatest athletes, speaking on resilience and longevity."
+  },
+  "workout": {
+    "id": "435129ab-73f1-4b2b-87ca-b410a25b8d1e",
+    "todayType": "LOWER",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "lower",
+    "title": "Deadlift Power Ladder: Hinge Strength for Hill & Sled Dominance",
+    "difficulty": "Intermediate",
+    "duration": "48 min",
+    "equipment": [
+      "barbell",
+      "dumbbell",
+      "power_rack"
+    ],
+    "trainingZone": "z4",
+    "tags": [
+      "barbell_required",
+      "gym_required",
+      "hinge_dominant",
+      "lower_body",
+      "muscle_gain",
+      "under_60_min"
+    ],
+    "tip": "Deadlift sets fatigue the CNS fast—prioritize the heavy doubles and triples when you're freshest. Maintain a neutral spine throughout; the posterior chain (glutes, hamstrings, lower back) should feel the primary load. For runners, stronger hip extension translates to powerful hill climbing and Hyrox sled pushes.",
+    "warmup": "6 min: 15 cat-cows, 10 glute bridges, 10 hip circles per side, 5 inchworms, 8 deadlift reps bodyweight or empty bar",
+    "exercises": [
+      {
+        "name": "Conventional Deadlift",
+        "sets": "5",
+        "reps": "5-3-3-2-2",
+        "notes": "Descending rep ladder: 5 @ RPE 7, 3 @ RPE 8, 3 @ RPE 8, 2 @ RPE 8, 2 @ RPE 9. Full hip extension, neutral spine, explosive drive through legs. Rest 3 min between heavy sets. Build raw posterior chain power."
+      },
+      {
+        "name": "Single-Leg Romanian Deadlift (Dumbbell)",
+        "sets": "3",
+        "reps": "10 per leg",
+        "notes": "Hinge on standing leg, lower dumbbell toward floor, feel hamstring stretch and activation. Unilateral balance and glute activation. Perfect for runners—builds single-leg stability on hills. Rest 75 sec."
+      },
+      {
+        "name": "Farmer Carry (Heavy)",
+        "sets": "3",
+        "reps": "40 meters",
+        "notes": "Heavy dumbbells or kettlebells. Walk with posture upright, core tight. Direct Hyrox farmer carry simulation. Grip endurance and core stability. Rest 60 sec between carries."
+      },
+      {
+        "name": "Sled Push + Light Dumbbell Lunge Superset",
+        "sets": "2",
+        "reps": "12 sled + 8 lunges per leg",
+        "notes": "Sled push 12 reps immediately into dumbbell walking lunges 8 per leg. Minimal rest (45 sec) between superset, 90 sec before round 2. Metabolic finisher that cements Hyrox sled and lunge mechanics under fatigue."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "6 min: hamstring fold 45 sec, hip flexor lunge 30 sec each side, child's pose 30 sec, glute stretch 30 sec each side",
+    "description": "A deadlift-centered lower-body power session that builds posterior chain explosiveness for marathon hills and Hyrox sled mechanics. Descending rep scheme with ascending intensity trains the nervous system while metabolic finisher conditioning bridges strength and endurance."
+  },
+  "meal": {
+    "id": "f99f8187-8ea6-4b53-b23c-8df2b477e0a6",
+    "title": "Honey-Cinnamon Rice Cakes with Almond Butter & Banana",
+    "description": "Two crispy rice cakes topped with creamy almond butter, banana slices, and a drizzle of honey—the ultimate grab-and-go pre-workout fuel that hits your carbs and fat sweet spot without sitting heavy before a swim or run.",
+    "meal_type": "pre_workout",
+    "macro_profile": "performance",
+    "difficulty": "easy",
+    "cuisine": "american",
+    "calories": 435,
+    "protein_g": 10,
+    "carbs_g": 65,
+    "fat_g": 19,
+    "fiber_g": 3,
+    "prep_minutes": 3,
+    "cook_minutes": 0,
+    "ingredients": [
+      "2 rice cakes",
+      "2 tbsp almond butter",
+      "1 medium banana",
+      "1 tbsp honey",
+      "pinch of cinnamon"
+    ],
+    "instructions": "1. Spread almond butter evenly on both rice cakes.\n2. Slice banana and layer on top.\n3. Drizzle with honey and dust lightly with cinnamon.\n4. Eat immediately or wrap to go.",
+    "tip": "Prep this the night before and wrap in foil—the banana won't brown if kept cool, and you save 3 minutes on race morning. Eat 30–45 minutes before training.",
+    "goal_affinity": [
+      "endurance",
+      "triathlon",
+      "general_fitness"
+    ],
+    "image_url": ""
+  }
+}
