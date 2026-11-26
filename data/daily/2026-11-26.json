@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-26",
+  "dateLabel": "Thursday, November 26, 2026",
+  "generatedAt": "2026-11-26T11:01:34.841Z",
+  "articles": [
+    {
+      "category": "MENTAL PERFORMANCE",
+      "topic": "Brain health improves at any age",
+      "headline": "Your Brain's Best Years Aren't Behind You",
+      "body": "New research challenges the belief that mental sharpness inevitably declines. A major study of 4,000 adults from ages 19 to 94 found that cognitive abilities can improve significantly through targeted brain-healthy practices. Regular exercise, Mediterranean-style diet, learning new skills, meaningful relationships, and minimizing multitasking all support measurable gains in mental clarity, social connectedness, and emotional resilience. The findings suggest there's no ceiling for brain health improvement through proactive engagement and self-agency.",
+      "takeaway": "Brain health isn't fixed. Engage in evidence-based practices like exercise and learning new skills and you'll see measurable improvements in mental performance, regardless of age.",
+      "source": "Nature Scientific Reports / Center for BrainHealth at UT Dallas",
+      "sourceUrl": "https://centerforbrainhealth.org/article/nature-scientific-reports-study-challenges-inevitability-of-cognitive-decline",
+      "pexelsQuery": "brain anatomy neuron neural network",
+      "product": {
+        "id": "book-002",
+        "name": "Endure - Alex Hutchinson Audiobook",
+        "brand": "Alex Hutchinson",
+        "asin": "B078PMQPH7",
+        "url": "https://www.amazon.com/dp/B078PMQPH7?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "endurance",
+          "running",
+          "performance",
+          "mind",
+          "limits",
+          "book",
+          "audiobook",
+          "triathlon",
+          "marathon"
+        ],
+        "blurb": "The science of pushing past your limits. Changed how I think about hard workouts."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Google DeepMind",
+        "photographerUrl": "https://www.pexels.com/@googledeepmind",
+        "photoPageUrl": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-machine-learning-is-inspired-by-neuroscience-and-the-human-brain-it-was-created-by-novoto-studio-as-par-17483867/",
+        "avgColor": "#D3D6DD"
+      }
+    },
+    {
+      "category": "NUTRITION",
+      "topic": "Food order and blood sugar control",
+      "headline": "Eat Your Veggies First. Your Blood Sugar Will Thank You.",
+      "body": "A simple swap in your eating order could blunt dangerous blood sugar spikes. New research published in Diabetes shows that eating vegetables or protein before carbohydrates significantly reduces the early rise in blood glucose after meals. When mice received fat before sugar, their stomachs emptied more slowly, triggering coordinated hormone responses that naturally controlled glucose absorption. The effect held even in mice with type 2 diabetes. Expert note: meal sequencing doesn't require fancy preparation—just eat your salad before your pasta.",
+      "takeaway": "Start meals with vegetables or protein, then tackle starches. This simple reordering engages your body's natural hormonal responses and delivers measurably lower blood sugar spikes.",
+      "source": "Diabetes Journal / Fox News Health",
+      "sourceUrl": "https://www.foxnews.com/food-drink/blood-sugar-spikes-could-hinge-order-you-eat-your-food-study-suggests",
+      "pexelsQuery": "vegetables salad plate food meal",
+      "photo": {
+        "url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Ella Olsson",
+        "photographerUrl": "https://www.pexels.com/@ella-olsson-572949",
+        "photoPageUrl": "https://www.pexels.com/photo/fruit-salads-in-plate-1640774/",
+        "avgColor": "#BFBDB0"
+      }
+    },
+    {
+      "category": "SUPPLEMENTS",
+      "topic": "Creatine builds muscle without structured exercise",
+      "headline": "Creatine Works Even When You're Not in the Gym",
+      "body": "Middle-aged adults don't need to be athletes for creatine to deliver results. A 12-week study published in the Journal of the International Society of Sports Nutrition found that adults ages 45 to 65 who took 10 grams of creatine daily gained lean tissue and increased strength—even without following a structured exercise program. When combined with resistance training, the gains were even more pronounced: nearly three pounds of lean muscle gained while losing fat. Creatine appears to work by increasing intramuscular energy production, making it a practical tool for preserving muscle with age.",
+      "takeaway": "If you're 45 or older and concerned about muscle loss, creatine supplementation supports lean tissue gains and strength—with or without formal workouts. Results show up in 12 weeks.",
+      "source": "Journal of the International Society of Sports Nutrition / Texas A&M University",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
+      "pexelsQuery": "creatine supplement powder scoop nutrition",
+      "product": {
+        "id": "sup-001",
+        "name": "Thorne Creatine Monohydrate",
+        "brand": "Thorne",
+        "asin": "B0013OQGO6",
+        "url": "https://www.amazon.com/dp/B0013OQGO6?tag=chrisolson04-20",
+        "category": "supplements",
+        "price_range": "$$",
+        "keywords": [
+          "creatine",
+          "strength",
+          "muscle",
+          "performance",
+          "supplement",
+          "brain",
+          "cognitive",
+          "aging",
+          "endurance"
+        ],
+        "blurb": "The most researched supplement in history. Works for strength, brain health, and endurance."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/13013750/pexels-photo-13013750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/13013750/pexels-photo-13013750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Guto Macedo",
+        "photographerUrl": "https://www.pexels.com/@ogutomacedo",
+        "photoPageUrl": "https://www.pexels.com/photo/man-taking-supplements-13013750/",
+        "avgColor": "#56443A"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Aerobic exercise lowers cortisol stress hormone",
+      "headline": "150 Minutes a Week to Rewire Your Stress Response",
+      "body": "Hit the American Heart Association's recommended 150 minutes of aerobic exercise per week and you'll physically lower your stress hormone. A year-long clinical trial published in the Journal of Sport and Health Science showed that adults who met this exercise threshold significantly reduced cortisol—the hormone that drives anxiety, depression, and heart disease. The improvement was measurable and durable. Researchers tracked cardiorespiratory fitness improvements alongside stress biomarkers, confirming that moderate-to-vigorous aerobic activity is a legitimate medical intervention for chronic stress.",
+      "takeaway": "Consistent aerobic exercise isn't just good for your heart. Meeting the 150-minute weekly goal physically rewires your stress biology by reducing cortisol levels.",
+      "source": "Journal of Sport and Health Science / AdventHealth Research Institute",
+      "sourceUrl": "https://www.eurekalert.org/news-releases/1124638",
+      "pexelsQuery": "runner running exercise aerobic fitness",
+      "product": {
+        "id": "book-004",
+        "name": "80/20 Running - Matt Fitzgerald Audiobook",
+        "brand": "Matt Fitzgerald",
+        "asin": "B071D4481W",
+        "url": "https://www.amazon.com/dp/B071D4481W?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "running",
+          "training",
+          "zone 2",
+          "easy running",
+          "book",
+          "audiobook",
+          "marathon",
+          "performance"
+        ],
+        "blurb": "Why 80% of your running should be easy. The science behind training smarter."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/8567597/pexels-photo-8567597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8567597/pexels-photo-8567597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Hanna Auramenka",
+        "photographerUrl": "https://www.pexels.com/@hannaauramenka",
+        "photoPageUrl": "https://www.pexels.com/photo/a-woman-jogging-8567597/",
+        "avgColor": "#9C9897"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Motivation is what gets you started. Habit is what keeps you going.",
+    "author": "Jim Ryun",
+    "context": "American mile runner who was the first high schooler to break the four-minute mile."
+  },
+  "workout": {
+    "id": "379e0f21-7ab5-4281-bfbf-829cc2994aaa",
+    "todayType": "PULL",
+    "type": "STRENGTH",
+    "sport": "strength",
+    "workoutType": "pull",
+    "title": "Dumbbell Row & Posterior Chain Flow: Unilateral Strength & Stability",
+    "difficulty": "Beginner",
+    "duration": "32 min",
+    "equipment": [
+      "dumbbells"
+    ],
+    "trainingZone": "z3",
+    "tags": [
+      "beginner_friendly",
+      "hinge_dominant",
+      "hotel_friendly",
+      "lower_body",
+      "minimal_equipment",
+      "muscle_gain",
+      "pull_dominant",
+      "under_60_min",
+      "upper_body"
+    ],
+    "tip": "Reset between each row rep. Place dumbbell on ground, stand up fully, reset your posture, and begin the next rep fresh. This eliminates momentum, ensures true strength work, and teaches proper hip hinge mechanics under load.",
+    "warmup": "4 min: 8 hip circles each direction, 10 cat-cow flows, 10 glute bridges (bodyweight), 5 inchworms, 8 reverse flys (light dumbbells)",
+    "exercises": [
+      {
+        "name": "Dumbbell Single-Arm Row (Heavy Tempo)",
+        "sets": "4",
+        "reps": "8 each side",
+        "notes": "3-second eccentric (lower), explosive concentric, row to hip pocket, squeeze at top. Heavy load, low reps = pure strength. Stagger feet for stability; mirror grip-side leg forward."
+      },
+      {
+        "name": "Glute Bridge Hold & Press",
+        "sets": "3",
+        "reps": "10 with 2-second top hold",
+        "notes": "Hold light dumbbell on hips, drive heels, squeeze glutes at top. Posterior chain activation synergizes with row patterns and reinforces hip extension strength."
+      },
+      {
+        "name": "Dumbbell Reverse Fly (Bent-Over)",
+        "sets": "3",
+        "reps": "12",
+        "notes": "Hinge at hips, slight knee bend, light dumbbells, raise arms out to shoulder height. Targets rear delts and rhomboids—essential for pulling posture and shoulder stability."
+      },
+      {
+        "name": "Dumbbell Farmer Carry (Alternating)",
+        "sets": "2",
+        "reps": "40 meters (20m each side leading)",
+        "notes": "Heavy dumbbell in one hand, walk with upright posture. Unilateral carry forces anti-rotation stability and grip strength. Switch sides halfway."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "4 min: child's pose 20 sec, seated forward fold 20 sec, figure-4 stretch (glute) 15 sec each side, upper back stretch (clasped hands, round spine) 15 sec",
+    "description": "A single-equipment, minimal-setup session focusing on heavy dumbbell rows to build back strength and unilateral stability. Paired with posterior chain activation (glute bridges, reverse flys), this workout reinforces pulling mechanics while improving posture and hip-hinge patterns. Ideal for home-based athletes with limited equipment."
+  },
+  "meal": {
+    "id": "f04e1f63-f9b6-49c0-af46-50b5c3bac920",
+    "title": "Pan-Seared Duck Breast with White Bean Puree and Wilted Spinach",
+    "description": "Starting duck skin-side down in a cold pan instead of a hot one is the key to getting that crackling-crispy skin without burning it. Patience pays off here.",
+    "meal_type": "dinner",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "",
+    "calories": 480,
+    "protein_g": 42,
+    "carbs_g": 28,
+    "fat_g": 20,
+    "fiber_g": 0,
+    "prep_minutes": 20,
+    "cook_minutes": 0,
+    "ingredients": [],
+    "instructions": "Ingredients:\n2 duck breasts (about 5 oz each), skin scored in crosshatch\n1 can (15 oz) cannellini beans, drained and rinsed\n3 cups fresh spinach\n3 garlic cloves, minced\n1 tablespoon olive oil\nJuice of half a lemon\n1 teaspoon fresh thyme or dried thyme\nSalt and black pepper to taste\nPinch of red pepper flakes (optional)\n\nInstructions:\n1. Score the duck skin, season both sides with salt, pepper, and thyme. Place skin-side down in a cold pan over medium heat. Let the fat render for 8 to 10 minutes until skin is golden and crispy. Flip and cook 3 to 4 more minutes for medium. Rest 5 minutes before slicing. 2. While duck rests, drain most of the rendered fat from the pan (save a teaspoon). Add garlic and cook 30 seconds. Add cannellini beans with a splash of water, lemon juice, and a pinch of salt. Mash roughly with a fork or blend smooth, then keep warm. 3. In the same pan, add spinach and red pepper flakes and wilt for 1 to 2 minutes. 4. Plate the bean puree, top with sliced duck breast and wilted spinach.",
+    "tip": "",
+    "goal_affinity": [],
+    "image_url": ""
+  }
+}
