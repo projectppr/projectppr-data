@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-27",
+  "dateLabel": "Friday, November 27, 2026",
+  "generatedAt": "2026-11-27T11:01:42.681Z",
+  "articles": [
+    {
+      "category": "SLEEP",
+      "topic": "Brain connectivity patterns shift during sleep stages",
+      "headline": "Your Brain's Sleep Conversation Isn't Constant. Here's Why It Matters",
+      "body": "New research on 1,200+ hours of EEG data reveals that your brain's electrical connectivity changes dramatically across sleep stages and circadian phases. During NREM sleep, your brain lights up with global connectivity, especially in delta and sigma bands. But when REM sleep hits, connectivity drops significantly. These patterns aren't random—they're finely tuned by both how long you've been awake and your internal body clock. Understanding this dual control helps explain why timing matters for sleep quality, not just duration.",
+      "takeaway": "Sleep isn't one-speed recovery. Your brain's repair mechanisms shift based on sleep stage, so consistent sleep schedules optimize the specific phase your body needs most.",
+      "source": "NeuroImage (Lazar et al., November 2026)",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896690/",
+      "pexelsQuery": "person sleeping brain wave monitor",
+      "product": {
+        "id": "slp-002",
+        "name": "Manta Sleep Mask",
+        "brand": "Manta",
+        "asin": "B07PRG2CQY",
+        "url": "https://www.amazon.com/dp/B07PRG2CQY?tag=chrisolson04-20",
+        "category": "sleep",
+        "price_range": "$",
+        "keywords": [
+          "sleep",
+          "light blocking",
+          "blackout",
+          "travel",
+          "sleep quality",
+          "melatonin",
+          "recovery"
+        ],
+        "blurb": "Total darkness is one of the highest-leverage sleep improvements you can make."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/19034027/pexels-photo-19034027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/19034027/pexels-photo-19034027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "KOS Chiropractic Integrative Health",
+        "photographerUrl": "https://www.pexels.com/@kos-chiropractic-integrative-health-716706805",
+        "photoPageUrl": "https://www.pexels.com/photo/man-during-examination-with-use-of-brainscope-19034027/",
+        "avgColor": "#AEAAAB"
+      }
+    },
+    {
+      "category": "HEART HEALTH",
+      "topic": "Heart aging hotspots in valve regions",
+      "headline": "Your Heart Doesn't Age All at Once. We Just Found the Weak Spots",
+      "body": "Scientists mapping heart aging found something surprising: the damage isn't evenly distributed. Aging inflammation and cellular scarring concentrate heavily around the aortic valves and aortic root—the junction where your heart connects to the body's largest artery. These immune and connective tissue cells change in predictable ways with age. The research challenges the idea that aging affects the entire heart uniformly, suggesting instead that targeting these vulnerable hubs could preserve cardiovascular function longer. This localized approach could reshape how we monitor and prevent heart disease.",
+      "takeaway": "Cardiovascular aging is location-specific, not whole-heart decline. Focus protection efforts on high-risk zones—the valve regions—where inflammation clusters.",
+      "source": "Jackson Laboratory (Aging Cell, November 2026)",
+      "sourceUrl": "https://www.jax.org/news-and-insights/2026/november/heart-inflammaging-single-cell-atlas",
+      "pexelsQuery": "anatomical heart valve aortic diagram",
+      "photo": {
+        "url": "https://images.pexels.com/photos/8472000/pexels-photo-8472000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/8472000/pexels-photo-8472000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "MART  PRODUCTION",
+        "photographerUrl": "https://www.pexels.com/@mart-production",
+        "photoPageUrl": "https://www.pexels.com/photo/white-skeleton-model-hanging-on-a-white-wall-8472000/",
+        "avgColor": "#C1C3C2"
+      }
+    },
+    {
+      "category": "STRESS",
+      "topic": "Mindfulness stress reduction lowers cortisol measurably",
+      "headline": "Your Stress Hormone Actually Drops. Here's How Fast",
+      "body": "A large meta-analysis of mindfulness-based stress reduction (MBSR) programs found that cortisol—the stress hormone—drops significantly and measurably. In randomized controlled trials, MBSR reduced cortisol by 0.37 standard deviations compared to control groups. That's not tiny. The effect held across different cortisol measurement methods (blood, saliva, hair). Importantly, the gains stuck around after training stopped. This isn't spiritual hand-waving; your nervous system actually recalibrates when you practice mindfulness consistently.",
+      "takeaway": "MBSR works on cortisol, not just on how you feel. If you're managing stress biochemically, structured mindfulness beats passive relaxation.",
+      "source": "Psychological Medicine (meta-analysis of 53 studies, 2026)",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42691284/",
+      "pexelsQuery": "meditation mindfulness person sitting calm",
+      "product": {
+        "id": "book-002",
+        "name": "Endure - Alex Hutchinson Audiobook",
+        "brand": "Alex Hutchinson",
+        "asin": "B078PMQPH7",
+        "url": "https://www.amazon.com/dp/B078PMQPH7?tag=chrisolson04-20",
+        "category": "books",
+        "price_range": "$$",
+        "keywords": [
+          "endurance",
+          "running",
+          "performance",
+          "mind",
+          "limits",
+          "book",
+          "audiobook",
+          "triathlon",
+          "marathon"
+        ],
+        "blurb": "The science of pushing past your limits. Changed how I think about hard workouts."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/9032094/pexels-photo-9032094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/9032094/pexels-photo-9032094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Kevin  Malik",
+        "photographerUrl": "https://www.pexels.com/@kevin-malik",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-photo-of-a-person-meditating-9032094/",
+        "avgColor": "#9D8A84"
+      }
+    },
+    {
+      "category": "WEARABLES & TECH",
+      "topic": "AI wearables shift from fitness tracking to clinical health monitoring",
+      "headline": "Your Smartwatch Just Got Clinical-Grade Serious",
+      "body": "Wearables crossed a threshold in 2026. AI-driven devices now deliver clinical-grade health data, not just step counts. Smartwatches track continuous heart rhythm, sleep architecture, and stress markers. Smart rings monitor reproductive cycles and autonomic nervous system shifts. The jump matters because regulators are treating them as medical devices, and manufacturers are building them to match clinical accuracy. For busy professionals, this means your daily wearable is evolving into a preventive screening tool—catching abnormalities early enough to matter.",
+      "takeaway": "Modern wearables aren't toys anymore. They surface real health signals, but only if you actually review the data and act on what it tells you.",
+      "source": "CTA Wearables Report (November 2026)",
+      "sourceUrl": "https://www.cta.tech/media/1mmjk2ku/cta-wearables-whitepaper_1111.pdf",
+      "pexelsQuery": "smartwatch wearable health tracking device",
+      "product": {
+        "id": "watch-002",
+        "name": "Garmin Forerunner 165",
+        "brand": "Garmin",
+        "asin": "B0CWB662HK",
+        "url": "https://www.amazon.com/dp/B0CWB662HK?tag=chrisolson04-20",
+        "category": "wearables",
+        "price_range": "$$",
+        "keywords": [
+          "running",
+          "gps",
+          "watch",
+          "heart rate",
+          "beginner",
+          "triathlon",
+          "fitness tracker",
+          "garmin"
+        ],
+        "blurb": "The best entry-level Garmin. Everything you need to start training with data."
+      },
+      "photo": {
+        "url": "https://images.pexels.com/photos/4379294/pexels-photo-4379294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "squareUrl": "https://images.pexels.com/photos/4379294/pexels-photo-4379294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "kaboompics",
+        "photographerUrl": "https://www.pexels.com/@karola-g",
+        "photoPageUrl": "https://www.pexels.com/photo/close-up-photo-of-a-person-wearing-an-apple-watch-4379294/",
+        "avgColor": "#696A55"
+      }
+    }
+  ],
+  "quote": {
+    "text": "Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come.",
+    "author": "Dwayne \"The Rock\" Johnson",
+    "context": "Actor, producer, and fitness advocate known for disciplined training and longevity focus."
+  },
+  "workout": {
+    "id": "503c4aab-903d-48f3-a1e9-b0ac188eec84",
+    "todayType": "RUN",
+    "type": "RUN",
+    "sport": "run",
+    "workoutType": "treadmill",
+    "title": "Walk-Run Pyramid: Building the Base",
+    "difficulty": "Beginner",
+    "duration": "28 min",
+    "equipment": [],
+    "trainingZone": "z2",
+    "tags": [
+      "beginner_friendly",
+      "cardio",
+      "indoor",
+      "low_impact",
+      "treadmill_ok",
+      "under_30_min"
+    ],
+    "tip": "Keep your shoulders relaxed and land with a midfoot strike. If you feel breathless during the running intervals, slow down by 0.5 mph—comfort over speed at this stage.",
+    "warmup": "2 min @ 2.5 mph / 0% incline (easy walk) + 1 min @ 3.0 mph / 0% incline (brisk walk)",
+    "exercises": [
+      {
+        "name": "Walk-Run Interval Pyramid",
+        "sets": "1",
+        "reps": "Full circuit",
+        "notes": "Execute the following sequence: 1 min walk @ 3.2 mph / 0% + 1 min run @ 5.0 mph / 0% → 1 min walk @ 3.2 mph / 0% + 2 min run @ 5.0 mph / 0% → 1 min walk @ 3.2 mph / 0% + 3 min run @ 5.0 mph / 0% → 1 min walk @ 3.2 mph / 0% + 2 min run @ 5.0 mph / 0% → 1 min walk @ 3.2 mph / 0% + 1 min run @ 5.0 mph / 0%. Focus on steady breathing and relaxed arm swing throughout all transitions."
+      }
+    ],
+    "exerciseText": "",
+    "cooldown": "2 min @ 3.0 mph / 0% incline (easy walk). Post-run: hamstring stretch 30 sec each leg, quad stretch 30 sec each leg, calf stretch 20 sec each leg.",
+    "description": "A structured walk-run progression designed for complete beginners or runners returning from a long break. This session uses a pyramid format to build confidence and aerobic capacity without overload, perfect for establishing a sustainable treadmill routine before progressing to continuous running."
+  },
+  "meal": {
+    "id": "fa34a51b-02c7-496c-912f-d7db0ff7cbb0",
+    "title": "Cotija & Black Bean Crispy Tortilla Stack",
+    "description": "Crispy baked tortilla chips layered with seasoned black beans and crumbly cotija cheese—a handheld Mexican-inspired snack with serious plant-based protein and fiber. No greasy frying, all satisfying crunch.",
+    "meal_type": "snack",
+    "macro_profile": "high_protein",
+    "difficulty": "easy",
+    "cuisine": "mexican",
+    "calories": 280,
+    "protein_g": 10,
+    "carbs_g": 33,
+    "fat_g": 13,
+    "fiber_g": 5,
+    "prep_minutes": 5,
+    "cook_minutes": 12,
+    "ingredients": [
+      "4 small corn tortillas",
+      "1 tbsp olive oil",
+      "100g canned black beans, drained",
+      "0.5 tsp cumin",
+      "0.25 tsp chili powder",
+      "pinch of salt",
+      "30g crumbled cotija cheese"
+    ],
+    "instructions": "1. Slice tortillas into quarters and toss with olive oil, salt, and a pinch of cumin.\n2. Spread on a baking sheet and bake at 375°F for 10–12 minutes until golden and crispy.\n3. Warm black beans in a small pan with chili powder and remaining cumin (2 minutes).\n4. Layer cooled tortilla chips with warm beans and top with cotija cheese.\n5. Eat immediately while chips are crispy.",
+    "tip": "Bake the tortilla chips in bulk on meal-prep day—they keep crisp for 3 days in an airtight container, and you can assemble the snack 5 minutes before eating.",
+    "goal_affinity": [
+      "general_fitness",
+      "recovery"
+    ],
+    "image_url": ""
+  }
+}
